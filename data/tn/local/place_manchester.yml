@@ -1,0 +1,141 @@
+- name: Joey Hobbs
+  other_names: []
+  phones:
+  - (931) 728-4652 ext. 1100
+  emails:
+  - mayor@cityofmanchestertn.com
+  urls:
+  - https://www.cityofmanchestertn.com/Directory.aspx
+  start_date: 2024-08
+  end_date: 2028-08
+  office:
+    name: Mayor
+    division_ocdid: ocd-division/country:us/state:tn/place:manchester
+  image: https://www.cityofmanchestertn.com/ImageRepository/Document?documentID=4679
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:tn/place:manchester/government
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/54b30bc8-c3f9-47e5-b92f-f2f2f1e1393c/data_source/tn/local/place_manchester/images/ec8a26de67b2.png
+  source_urls:
+  - https://www.cityofmanchestertn.com/59/Board-of-Mayor-Aldermen
+  updated_at: '2026-05-23T13:39:21+00:00'
+  id: 21d66c38-cb96-4a33-94d8-0d32de1ec3b3
+- name: Mark Messick
+  other_names: []
+  phones:
+  - (931) 607-7653
+  emails:
+  - mmessick@cityofmanchestertn.com
+  urls:
+  - https://www.cityofmanchestertn.com/Directory.aspx
+  start_date: 2022-08
+  end_date: '2026'
+  office:
+    name: Vice Mayor
+    division_ocdid: ocd-division/country:us/state:tn/place:manchester
+  image: https://www.cityofmanchestertn.com/ImageRepository/Document?documentID=2433
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:tn/place:manchester/government
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/54b30bc8-c3f9-47e5-b92f-f2f2f1e1393c/data_source/tn/local/place_manchester/images/d9bc5d160cfe.png
+  source_urls:
+  - https://www.cityofmanchestertn.com/59/Board-of-Mayor-Aldermen
+  updated_at: '2026-05-23T13:39:21+00:00'
+  id: c8aebdf2-9c32-42c9-8f09-0beda7dce238
+- name: Julie Anderson
+  other_names: []
+  phones:
+  - (931) 954-8866
+  emails:
+  - janderson@cityofmanchestertn.com
+  urls:
+  - https://www.cityofmanchestertn.com/Directory.aspx
+  start_date: 2024-08
+  end_date: '2028'
+  office:
+    name: Alderperson
+    division_ocdid: ocd-division/country:us/state:tn/place:manchester
+  image: https://www.cityofmanchestertn.com/ImageRepository/Document?documentID=2433
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:tn/place:manchester/government
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/54b30bc8-c3f9-47e5-b92f-f2f2f1e1393c/data_source/tn/local/place_manchester/images/d9bc5d160cfe.png
+  source_urls:
+  - https://www.cityofmanchestertn.com/59/Board-of-Mayor-Aldermen
+  updated_at: '2026-05-23T13:39:21+00:00'
+  id: d9b42ecd-2ad7-4f1b-87d2-a4de3613d9fb
+- name: Ryan P. French
+  other_names:
+  - Ryan French
+  phones:
+  - (931) 273-6639
+  emails:
+  - rfrench@cityofmanchestertn.com
+  urls:
+  - https://www.cityofmanchestertn.com/Directory.aspx
+  start_date: 2024-08
+  end_date: '2028'
+  office:
+    name: Alderperson
+    division_ocdid: ocd-division/country:us/state:tn/place:manchester
+  image: https://www.cityofmanchestertn.com/ImageRepository/Document?documentID=2433
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:tn/place:manchester/government
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/54b30bc8-c3f9-47e5-b92f-f2f2f1e1393c/data_source/tn/local/place_manchester/images/d9bc5d160cfe.png
+  source_urls:
+  - https://www.cityofmanchestertn.com/59/Board-of-Mayor-Aldermen
+  updated_at: '2026-05-23T13:39:21+00:00'
+  id: 97783db6-3cff-4f88-86b2-83885d531881
+- name: Donny Parsley
+  other_names: []
+  phones:
+  - (931) 954-8824
+  emails:
+  - dparsley@cityofmanchestertn.com
+  urls:
+  - https://www.cityofmanchestertn.com/Directory.aspx
+  start_date: 2022-08
+  end_date: '2026'
+  office:
+    name: Alderperson
+    division_ocdid: ocd-division/country:us/state:tn/place:manchester
+  image: https://www.cityofmanchestertn.com/ImageRepository/Document?documentID=2433
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:tn/place:manchester/government
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/54b30bc8-c3f9-47e5-b92f-f2f2f1e1393c/data_source/tn/local/place_manchester/images/d9bc5d160cfe.png
+  source_urls:
+  - https://www.cityofmanchestertn.com/59/Board-of-Mayor-Aldermen
+  updated_at: '2026-05-23T13:39:21+00:00'
+  id: 8a9ccf7a-c8a4-486c-8c05-b7ee4029a778
+- name: James Threet
+  other_names: []
+  phones:
+  - (931) 841-0005
+  emails:
+  - jthreet@cityofmanchestertn.com
+  urls:
+  - https://www.cityofmanchestertn.com/Directory.aspx
+  start_date: 2024-08
+  end_date: '2028'
+  office:
+    name: Alderperson
+    division_ocdid: ocd-division/country:us/state:tn/place:manchester
+  image: https://www.cityofmanchestertn.com/ImageRepository/Document?documentID=2433
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:tn/place:manchester/government
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/54b30bc8-c3f9-47e5-b92f-f2f2f1e1393c/data_source/tn/local/place_manchester/images/d9bc5d160cfe.png
+  source_urls:
+  - https://www.cityofmanchestertn.com/59/Board-of-Mayor-Aldermen
+  updated_at: '2026-05-23T13:39:21+00:00'
+  id: 82919317-9d82-4975-93b9-1633ad75c476
+- name: Thomas Crosslin
+  other_names: []
+  phones:
+  - (931) 728-4652 ext. 1100
+  emails:
+  - tcrosslin@cityofmanchestertn.com
+  urls:
+  - https://www.cityofmanchestertn.com/Directory.aspx
+  start_date: 2024-10
+  end_date: '2026'
+  office:
+    name: Alderperson
+    division_ocdid: ocd-division/country:us/state:tn/place:manchester
+  image: https://www.cityofmanchestertn.com/ImageRepository/Document?documentID=2433
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:tn/place:manchester/government
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/54b30bc8-c3f9-47e5-b92f-f2f2f1e1393c/data_source/tn/local/place_manchester/images/d9bc5d160cfe.png
+  source_urls:
+  - https://www.cityofmanchestertn.com/59/Board-of-Mayor-Aldermen
+  updated_at: '2026-05-23T13:39:21+00:00'
+  id: ac37f714-0e23-438c-889a-fbd1ed8af748
