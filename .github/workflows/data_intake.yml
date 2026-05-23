@@ -1,6 +1,7 @@
 name: "[auto] Data Intake"
 permissions:
   contents: read
+  pull-requests: write
 env:
   PYTHONPATH: ${{ github.workspace }}
 
