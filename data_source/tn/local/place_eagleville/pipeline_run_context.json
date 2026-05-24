@@ -1,0 +1,1340 @@
+{
+    "data": {
+        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:eagleville/government",
+        "config": {
+            "url": "http://eaglevilletn.com",
+            "name": "Eagleville city",
+            "source_urls": null
+        },
+        "frontier": {
+            "links": {
+                "https://eaglevilletn.com": {
+                    "url": "http://eaglevilletn.com",
+                    "status": "processed_irrelevant",
+                    "folder_name": "eaglevilletn_com",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 1
+                },
+                "https://eaglevilletn.com/city_council.html": {
+                    "url": "https://eaglevilletn.com/city_council.html",
+                    "status": "done",
+                    "folder_name": "eaglevilletn_com_city_council_html",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 2
+                },
+                "https://eaglevilletn.com/staff_directory.html": {
+                    "url": "https://eaglevilletn.com/staff_directory.html",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://eaglevilletn.com/mayors_message.html": {
+                    "url": "https://eaglevilletn.com/mayors_message.html",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://eaglevilletn.com/city_council_agendas_minutes.html": {
+                    "url": "https://eaglevilletn.com/city_council_agendas_minutes.html",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://eaglevilletn.com/meeting_calendar.html": {
+                    "url": "https://eaglevilletn.com/meeting_calendar.html",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://eaglevilletn.com/staff_directory.html#administration": {
+                    "url": "https://eaglevilletn.com/staff_directory.html#administration",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://eaglevilletn.com/beer_board.html": {
+                    "url": "https://eaglevilletn.com/beer_board.html",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://eaglevilletn.com/design_review_committee.html": {
+                    "url": "https://eaglevilletn.com/design_review_committee.html",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://eaglevilletn.com/parks_rec_board.html": {
+                    "url": "https://eaglevilletn.com/parks_rec_board.html",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://eaglevilletn.com/planning_commission.html": {
+                    "url": "https://eaglevilletn.com/planning_commission.html",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://eaglevilletn.com/public_safety_committee.html": {
+                    "url": "https://eaglevilletn.com/public_safety_committee.html",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://eaglevilletn.com/zoning.html": {
+                    "url": "https://eaglevilletn.com/zoning.html",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://eaglevilletn.com/finance_department.html": {
+                    "url": "https://eaglevilletn.com/finance_department.html",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://eaglevilletn.com/fire.html": {
+                    "url": "https://eaglevilletn.com/fire.html",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://eaglevilletn.com/police.html": {
+                    "url": "https://eaglevilletn.com/police.html",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://eaglevilletn.com/planning_department.html": {
+                    "url": "https://eaglevilletn.com/planning_department.html",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://eaglevilletn.com/budget.html": {
+                    "url": "https://eaglevilletn.com/budget.html",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://eaglevilletn.com/ordinances.html": {
+                    "url": "https://eaglevilletn.com/ordinances.html",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://eaglevilletn.com/resolutions.html": {
+                    "url": "https://eaglevilletn.com/resolutions.html",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                }
+            },
+            "queue": [
+                "https://eaglevilletn.com/city_council_agendas_minutes.html",
+                "https://eaglevilletn.com/beer_board.html",
+                "https://eaglevilletn.com/parks_rec_board.html",
+                "https://eaglevilletn.com/planning_commission.html",
+                "https://eaglevilletn.com/staff_directory.html",
+                "https://eaglevilletn.com/mayors_message.html",
+                "https://eaglevilletn.com/meeting_calendar.html",
+                "https://eaglevilletn.com/staff_directory.html#administration",
+                "https://eaglevilletn.com/design_review_committee.html",
+                "https://eaglevilletn.com/public_safety_committee.html",
+                "https://eaglevilletn.com/zoning.html",
+                "https://eaglevilletn.com/finance_department.html",
+                "https://eaglevilletn.com/fire.html",
+                "https://eaglevilletn.com/police.html",
+                "https://eaglevilletn.com/planning_department.html",
+                "https://eaglevilletn.com/budget.html",
+                "https://eaglevilletn.com/ordinances.html",
+                "https://eaglevilletn.com/resolutions.html"
+            ]
+        },
+        "research_municipality_step": {
+            "expected_count": 7,
+            "target_designations": [],
+            "known_roles": [
+                "Mayor",
+                "Vice Mayor",
+                "Councilmember"
+            ],
+            "identities": {
+                "Chad Leeman": [],
+                "William Tollett": [],
+                "Jason Blair": [],
+                "Craig Campbell": [],
+                "Ryan Edwards": [],
+                "Brandon Emamalie": [],
+                "Chris Hendrix": []
+            },
+            "source_urls": [],
+            "notes": null,
+            "origin_source": "google_gemini"
+        },
+        "preprocess_page_content_step": {
+            "elapsed_times": [
+                1,
+                0
+            ],
+            "total_elapsed_time_seconds": 1,
+            "average_elapsed_time_seconds": 0
+        },
+        "process_page_content_step": {
+            "raw_records_by_llm": {
+                "open_router": {
+                    "Chad Leeman": [
+                        {
+                            "name": "Chad Leeman",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "(615) 274-2922",
+                            "email": "mayorleeman@eaglevilletn.gov",
+                            "url": "https://mailto:mayorleeman@eaglevilletn.gov?subject=Email%20Received%20From%20the%20Eagleville,%20TN%20Website",
+                            "start_date": null,
+                            "end_date": "2026-11",
+                            "image": "local://91a8c25336f7.png",
+                            "source_url": "https://eaglevilletn.com/city_council.html"
+                        },
+                        {
+                            "name": "Chad Leeman",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "mayorleeman@eaglevilletn.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2026-11",
+                            "image": "local://91a8c25336f7.png",
+                            "source_url": "https://eaglevilletn.com/city_council.html"
+                        }
+                    ],
+                    "William Tollett": [
+                        {
+                            "name": "William Tollett",
+                            "roles": [
+                                "Vice Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "(615) 274-2922",
+                            "email": "wtollett@eaglevilletn.gov",
+                            "url": "https://mailto:wtollett@eaglevilletn.gov?subject=Email%20Received%20From%20the%20Eagleville,%20TN%20Website",
+                            "start_date": null,
+                            "end_date": "2026-11",
+                            "image": "local://daf03b2b2f48.png",
+                            "source_url": "https://eaglevilletn.com/city_council.html"
+                        },
+                        {
+                            "name": "William Tollett",
+                            "roles": [
+                                "Vice Mayor"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "wtollett@eaglevilletn.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2026-11",
+                            "image": "local://daf03b2b2f48.png",
+                            "source_url": "https://eaglevilletn.com/city_council.html"
+                        }
+                    ],
+                    "Jason Blair": [
+                        {
+                            "name": "Jason Blair",
+                            "roles": [
+                                "Councilman"
+                            ],
+                            "designations": [],
+                            "phone": "(615) 274-2922",
+                            "email": "jblair@eaglevilletn.gov",
+                            "url": "https://mailto:jblair@eaglevilletn.gov?subject=Email%20Received%20From%20the%20Eagleville,%20TN%20Website",
+                            "start_date": null,
+                            "end_date": "2028-11",
+                            "image": "local://99a02487be57.png",
+                            "source_url": "https://eaglevilletn.com/city_council.html"
+                        },
+                        {
+                            "name": "Jason Blair",
+                            "roles": [
+                                "Councilman"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "jblair@eaglevilletn.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2028-11",
+                            "image": "local://99a02487be57.png",
+                            "source_url": "https://eaglevilletn.com/city_council.html"
+                        }
+                    ],
+                    "Ryan Edwards": [
+                        {
+                            "name": "Ryan Edwards",
+                            "roles": [
+                                "Councilman"
+                            ],
+                            "designations": [],
+                            "phone": "(615) 274-2922",
+                            "email": "redwards@eaglevilletn.gov",
+                            "url": "https://mailto:redwards@eaglevilletn.gov?subject=Email%20Received%20From%20the%20Eagleville,%20TN%20Website",
+                            "start_date": null,
+                            "end_date": "2028-11",
+                            "image": "local://9760463e556d.png",
+                            "source_url": "https://eaglevilletn.com/city_council.html"
+                        },
+                        {
+                            "name": "Ryan Edwards",
+                            "roles": [
+                                "Councilman"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "redwards@eaglevilletn.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2028-11",
+                            "image": "local://9760463e556d.png",
+                            "source_url": "https://eaglevilletn.com/city_council.html"
+                        }
+                    ],
+                    "Brandon Emamalie": [
+                        {
+                            "name": "Brandon Emamalie",
+                            "roles": [
+                                "Councilman"
+                            ],
+                            "designations": [],
+                            "phone": "(615) 274-2922",
+                            "email": "bemamalie@eaglevilletn.gov",
+                            "url": "https://mailto:bemamalie@eaglevilletn.gov?subject=Email%20Received%20From%20the%20Eagleville,%20TN%20Website",
+                            "start_date": null,
+                            "end_date": "2026-11",
+                            "image": "local://5ab7e575e2e4.png",
+                            "source_url": "https://eaglevilletn.com/city_council.html"
+                        },
+                        {
+                            "name": "Brandon Emamalie",
+                            "roles": [
+                                "Councilman"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "bemamalie@eaglevilletn.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2026-11",
+                            "image": "local://5ab7e575e2e4.png",
+                            "source_url": "https://eaglevilletn.com/city_council.html"
+                        }
+                    ],
+                    "Craig Campbell": [
+                        {
+                            "name": "Craig Campbell",
+                            "roles": [
+                                "Councilman"
+                            ],
+                            "designations": [],
+                            "phone": "(615) 274-2922",
+                            "email": "ccampbell@eaglevilletn.gov",
+                            "url": "https://mailto:ccampbell@eaglevilletn.gov?subject=Email%20Received%20From%20the%20Eagleville,%20TN%20Website",
+                            "start_date": null,
+                            "end_date": "2026-11",
+                            "image": "local://2d7e794aa10d.png",
+                            "source_url": "https://eaglevilletn.com/city_council.html"
+                        },
+                        {
+                            "name": "Craig Campbell",
+                            "roles": [
+                                "Councilman"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "ccampbell@eaglevilletn.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2026-11",
+                            "image": "local://2d7e794aa10d.png",
+                            "source_url": "https://eaglevilletn.com/city_council.html"
+                        }
+                    ],
+                    "Chris Hendrix": [
+                        {
+                            "name": "Chris Hendrix",
+                            "roles": [
+                                "Councilman"
+                            ],
+                            "designations": [],
+                            "phone": "(615) 274-2922",
+                            "email": "chendrix@eaglevilletn.gov",
+                            "url": "https://mailto:chendrix@eaglevilletn.gov?subject=Email%20Received%20From%20the%20Eagleville,%20TN%20Website",
+                            "start_date": null,
+                            "end_date": "2028-11",
+                            "image": "local://2aa2806dc053.png",
+                            "source_url": "https://eaglevilletn.com/city_council.html"
+                        },
+                        {
+                            "name": "Chris Hendrix",
+                            "roles": [
+                                "Councilman"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "chendrix@eaglevilletn.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2028-11",
+                            "image": "local://2aa2806dc053.png",
+                            "source_url": "https://eaglevilletn.com/city_council.html"
+                        }
+                    ]
+                }
+            },
+            "records_by_llm": {
+                "open_router": {
+                    "Chad Leeman": [
+                        {
+                            "name": "Chad Leeman",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "(615) 274-2922",
+                            "email": "mayorleeman@eaglevilletn.gov",
+                            "url": "https://mailto:mayorleeman@eaglevilletn.gov?subject=Email%20Received%20From%20the%20Eagleville,%20TN%20Website",
+                            "start_date": null,
+                            "end_date": "2026-11",
+                            "image": "local://91a8c25336f7.png",
+                            "source_url": "https://eaglevilletn.com/city_council.html"
+                        },
+                        {
+                            "name": "Chad Leeman",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "mayorleeman@eaglevilletn.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2026-11",
+                            "image": "local://91a8c25336f7.png",
+                            "source_url": "https://eaglevilletn.com/city_council.html"
+                        }
+                    ],
+                    "William Tollett": [
+                        {
+                            "name": "William Tollett",
+                            "roles": [
+                                "Vice Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "(615) 274-2922",
+                            "email": "wtollett@eaglevilletn.gov",
+                            "url": "https://mailto:wtollett@eaglevilletn.gov?subject=Email%20Received%20From%20the%20Eagleville,%20TN%20Website",
+                            "start_date": null,
+                            "end_date": "2026-11",
+                            "image": "local://daf03b2b2f48.png",
+                            "source_url": "https://eaglevilletn.com/city_council.html"
+                        },
+                        {
+                            "name": "William Tollett",
+                            "roles": [
+                                "Vice Mayor"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "wtollett@eaglevilletn.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2026-11",
+                            "image": "local://daf03b2b2f48.png",
+                            "source_url": "https://eaglevilletn.com/city_council.html"
+                        }
+                    ],
+                    "Jason Blair": [
+                        {
+                            "name": "Jason Blair",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": "(615) 274-2922",
+                            "email": "jblair@eaglevilletn.gov",
+                            "url": "https://mailto:jblair@eaglevilletn.gov?subject=Email%20Received%20From%20the%20Eagleville,%20TN%20Website",
+                            "start_date": null,
+                            "end_date": "2028-11",
+                            "image": "local://99a02487be57.png",
+                            "source_url": "https://eaglevilletn.com/city_council.html"
+                        },
+                        {
+                            "name": "Jason Blair",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "jblair@eaglevilletn.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2028-11",
+                            "image": "local://99a02487be57.png",
+                            "source_url": "https://eaglevilletn.com/city_council.html"
+                        }
+                    ],
+                    "Ryan Edwards": [
+                        {
+                            "name": "Ryan Edwards",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": "(615) 274-2922",
+                            "email": "redwards@eaglevilletn.gov",
+                            "url": "https://mailto:redwards@eaglevilletn.gov?subject=Email%20Received%20From%20the%20Eagleville,%20TN%20Website",
+                            "start_date": null,
+                            "end_date": "2028-11",
+                            "image": "local://9760463e556d.png",
+                            "source_url": "https://eaglevilletn.com/city_council.html"
+                        },
+                        {
+                            "name": "Ryan Edwards",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "redwards@eaglevilletn.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2028-11",
+                            "image": "local://9760463e556d.png",
+                            "source_url": "https://eaglevilletn.com/city_council.html"
+                        }
+                    ],
+                    "Brandon Emamalie": [
+                        {
+                            "name": "Brandon Emamalie",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": "(615) 274-2922",
+                            "email": "bemamalie@eaglevilletn.gov",
+                            "url": "https://mailto:bemamalie@eaglevilletn.gov?subject=Email%20Received%20From%20the%20Eagleville,%20TN%20Website",
+                            "start_date": null,
+                            "end_date": "2026-11",
+                            "image": "local://5ab7e575e2e4.png",
+                            "source_url": "https://eaglevilletn.com/city_council.html"
+                        },
+                        {
+                            "name": "Brandon Emamalie",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "bemamalie@eaglevilletn.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2026-11",
+                            "image": "local://5ab7e575e2e4.png",
+                            "source_url": "https://eaglevilletn.com/city_council.html"
+                        }
+                    ],
+                    "Craig Campbell": [
+                        {
+                            "name": "Craig Campbell",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": "(615) 274-2922",
+                            "email": "ccampbell@eaglevilletn.gov",
+                            "url": "https://mailto:ccampbell@eaglevilletn.gov?subject=Email%20Received%20From%20the%20Eagleville,%20TN%20Website",
+                            "start_date": null,
+                            "end_date": "2026-11",
+                            "image": "local://2d7e794aa10d.png",
+                            "source_url": "https://eaglevilletn.com/city_council.html"
+                        },
+                        {
+                            "name": "Craig Campbell",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "ccampbell@eaglevilletn.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2026-11",
+                            "image": "local://2d7e794aa10d.png",
+                            "source_url": "https://eaglevilletn.com/city_council.html"
+                        }
+                    ],
+                    "Chris Hendrix": [
+                        {
+                            "name": "Chris Hendrix",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": "(615) 274-2922",
+                            "email": "chendrix@eaglevilletn.gov",
+                            "url": "https://mailto:chendrix@eaglevilletn.gov?subject=Email%20Received%20From%20the%20Eagleville,%20TN%20Website",
+                            "start_date": null,
+                            "end_date": "2028-11",
+                            "image": "local://2aa2806dc053.png",
+                            "source_url": "https://eaglevilletn.com/city_council.html"
+                        },
+                        {
+                            "name": "Chris Hendrix",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "chendrix@eaglevilletn.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2028-11",
+                            "image": "local://2aa2806dc053.png",
+                            "source_url": "https://eaglevilletn.com/city_council.html"
+                        }
+                    ]
+                }
+            },
+            "progress": {
+                "required_data": 7,
+                "current_data": 7,
+                "has_target_role": true,
+                "has_target_designations": true
+            }
+        },
+        "merge_records_within_llm_step": {
+            "people_by_llm": {
+                "open_router": [
+                    {
+                        "name": "Chad Leeman",
+                        "other_names": [],
+                        "roles": [
+                            "Mayor"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(615) 274-2922"
+                        ],
+                        "emails": [
+                            "mayorleeman@eaglevilletn.gov"
+                        ],
+                        "urls": [
+                            "https://mailto:mayorleeman@eaglevilletn.gov?subject=Email%20Received%20From%20the%20Eagleville,%20TN%20Website"
+                        ],
+                        "start_date": "",
+                        "end_date": "2026-11",
+                        "image": "local://91a8c25336f7.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:eagleville/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://eaglevilletn.com/city_council.html"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "William Tollett",
+                        "other_names": [],
+                        "roles": [
+                            "Vice Mayor"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(615) 274-2922"
+                        ],
+                        "emails": [
+                            "wtollett@eaglevilletn.gov"
+                        ],
+                        "urls": [
+                            "https://mailto:wtollett@eaglevilletn.gov?subject=Email%20Received%20From%20the%20Eagleville,%20TN%20Website"
+                        ],
+                        "start_date": "",
+                        "end_date": "2026-11",
+                        "image": "local://daf03b2b2f48.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:eagleville/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://eaglevilletn.com/city_council.html"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Jason Blair",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(615) 274-2922"
+                        ],
+                        "emails": [
+                            "jblair@eaglevilletn.gov"
+                        ],
+                        "urls": [
+                            "https://mailto:jblair@eaglevilletn.gov?subject=Email%20Received%20From%20the%20Eagleville,%20TN%20Website"
+                        ],
+                        "start_date": "",
+                        "end_date": "2028-11",
+                        "image": "local://99a02487be57.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:eagleville/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://eaglevilletn.com/city_council.html"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Ryan Edwards",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(615) 274-2922"
+                        ],
+                        "emails": [
+                            "redwards@eaglevilletn.gov"
+                        ],
+                        "urls": [
+                            "https://mailto:redwards@eaglevilletn.gov?subject=Email%20Received%20From%20the%20Eagleville,%20TN%20Website"
+                        ],
+                        "start_date": "",
+                        "end_date": "2028-11",
+                        "image": "local://9760463e556d.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:eagleville/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://eaglevilletn.com/city_council.html"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Brandon Emamalie",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(615) 274-2922"
+                        ],
+                        "emails": [
+                            "bemamalie@eaglevilletn.gov"
+                        ],
+                        "urls": [
+                            "https://mailto:bemamalie@eaglevilletn.gov?subject=Email%20Received%20From%20the%20Eagleville,%20TN%20Website"
+                        ],
+                        "start_date": "",
+                        "end_date": "2026-11",
+                        "image": "local://5ab7e575e2e4.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:eagleville/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://eaglevilletn.com/city_council.html"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Craig Campbell",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(615) 274-2922"
+                        ],
+                        "emails": [
+                            "ccampbell@eaglevilletn.gov"
+                        ],
+                        "urls": [
+                            "https://mailto:ccampbell@eaglevilletn.gov?subject=Email%20Received%20From%20the%20Eagleville,%20TN%20Website"
+                        ],
+                        "start_date": "",
+                        "end_date": "2026-11",
+                        "image": "local://2d7e794aa10d.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:eagleville/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://eaglevilletn.com/city_council.html"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Chris Hendrix",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(615) 274-2922"
+                        ],
+                        "emails": [
+                            "chendrix@eaglevilletn.gov"
+                        ],
+                        "urls": [
+                            "https://mailto:chendrix@eaglevilletn.gov?subject=Email%20Received%20From%20the%20Eagleville,%20TN%20Website"
+                        ],
+                        "start_date": "",
+                        "end_date": "2028-11",
+                        "image": "local://2aa2806dc053.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:eagleville/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://eaglevilletn.com/city_council.html"
+                        ],
+                        "updated_at": ""
+                    }
+                ]
+            },
+            "unrecognized_roles": [],
+            "excluded_people": []
+        },
+        "merge_records_across_llms_step": {
+            "people": [
+                {
+                    "name": "Chad Leeman",
+                    "other_names": [],
+                    "roles": [
+                        "mayor"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(615) 274-2922"
+                    ],
+                    "emails": [
+                        "mayorleeman@eaglevilletn.gov"
+                    ],
+                    "urls": [
+                        "https://mailto:mayorleeman@eaglevilletn.gov?subject=Email%20Received%20From%20the%20Eagleville,%20TN%20Website"
+                    ],
+                    "start_date": "",
+                    "end_date": "2026-11",
+                    "image": "local://91a8c25336f7.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:eagleville/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://eaglevilletn.com/city_council.html"
+                    ],
+                    "updated_at": "2026-05-24T14:39:05+00:00"
+                },
+                {
+                    "name": "William Tollett",
+                    "other_names": [],
+                    "roles": [
+                        "vice mayor"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(615) 274-2922"
+                    ],
+                    "emails": [
+                        "wtollett@eaglevilletn.gov"
+                    ],
+                    "urls": [
+                        "https://mailto:wtollett@eaglevilletn.gov?subject=Email%20Received%20From%20the%20Eagleville,%20TN%20Website"
+                    ],
+                    "start_date": "",
+                    "end_date": "2026-11",
+                    "image": "local://daf03b2b2f48.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:eagleville/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://eaglevilletn.com/city_council.html"
+                    ],
+                    "updated_at": "2026-05-24T14:39:05+00:00"
+                },
+                {
+                    "name": "Jason Blair",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(615) 274-2922"
+                    ],
+                    "emails": [
+                        "jblair@eaglevilletn.gov"
+                    ],
+                    "urls": [
+                        "https://mailto:jblair@eaglevilletn.gov?subject=Email%20Received%20From%20the%20Eagleville,%20TN%20Website"
+                    ],
+                    "start_date": "",
+                    "end_date": "2028-11",
+                    "image": "local://99a02487be57.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:eagleville/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://eaglevilletn.com/city_council.html"
+                    ],
+                    "updated_at": "2026-05-24T14:39:05+00:00"
+                },
+                {
+                    "name": "Ryan Edwards",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(615) 274-2922"
+                    ],
+                    "emails": [
+                        "redwards@eaglevilletn.gov"
+                    ],
+                    "urls": [
+                        "https://mailto:redwards@eaglevilletn.gov?subject=Email%20Received%20From%20the%20Eagleville,%20TN%20Website"
+                    ],
+                    "start_date": "",
+                    "end_date": "2028-11",
+                    "image": "local://9760463e556d.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:eagleville/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://eaglevilletn.com/city_council.html"
+                    ],
+                    "updated_at": "2026-05-24T14:39:05+00:00"
+                },
+                {
+                    "name": "Brandon Emamalie",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(615) 274-2922"
+                    ],
+                    "emails": [
+                        "bemamalie@eaglevilletn.gov"
+                    ],
+                    "urls": [
+                        "https://mailto:bemamalie@eaglevilletn.gov?subject=Email%20Received%20From%20the%20Eagleville,%20TN%20Website"
+                    ],
+                    "start_date": "",
+                    "end_date": "2026-11",
+                    "image": "local://5ab7e575e2e4.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:eagleville/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://eaglevilletn.com/city_council.html"
+                    ],
+                    "updated_at": "2026-05-24T14:39:05+00:00"
+                },
+                {
+                    "name": "Craig Campbell",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(615) 274-2922"
+                    ],
+                    "emails": [
+                        "ccampbell@eaglevilletn.gov"
+                    ],
+                    "urls": [
+                        "https://mailto:ccampbell@eaglevilletn.gov?subject=Email%20Received%20From%20the%20Eagleville,%20TN%20Website"
+                    ],
+                    "start_date": "",
+                    "end_date": "2026-11",
+                    "image": "local://2d7e794aa10d.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:eagleville/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://eaglevilletn.com/city_council.html"
+                    ],
+                    "updated_at": "2026-05-24T14:39:05+00:00"
+                },
+                {
+                    "name": "Chris Hendrix",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(615) 274-2922"
+                    ],
+                    "emails": [
+                        "chendrix@eaglevilletn.gov"
+                    ],
+                    "urls": [
+                        "https://mailto:chendrix@eaglevilletn.gov?subject=Email%20Received%20From%20the%20Eagleville,%20TN%20Website"
+                    ],
+                    "start_date": "",
+                    "end_date": "2028-11",
+                    "image": "local://2aa2806dc053.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:eagleville/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://eaglevilletn.com/city_council.html"
+                    ],
+                    "updated_at": "2026-05-24T14:39:05+00:00"
+                }
+            ]
+        },
+        "format_output_step": {
+            "officials": [
+                {
+                    "name": "Chad Leeman",
+                    "other_names": [],
+                    "phones": [
+                        "(615) 274-2922"
+                    ],
+                    "emails": [
+                        "mayorleeman@eaglevilletn.gov"
+                    ],
+                    "urls": [
+                        "https://mailto:mayorleeman@eaglevilletn.gov?subject=Email%20Received%20From%20the%20Eagleville,%20TN%20Website"
+                    ],
+                    "start_date": null,
+                    "end_date": "2026-11",
+                    "office": {
+                        "name": "Mayor",
+                        "division_ocdid": "ocd-division/country:us/state:tn/place:eagleville"
+                    },
+                    "image": "https://eaglevilletn.com/assets/img/chad_leeman.jpg",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:eagleville/government",
+                    "cdn_image": "local://91a8c25336f7.png",
+                    "source_urls": [
+                        "https://eaglevilletn.com/city_council.html"
+                    ],
+                    "updated_at": "2026-05-24T14:39:05+00:00",
+                    "id": "32f25f1a-3bfb-49e0-8e28-bbd7cb070929"
+                },
+                {
+                    "name": "William Tollett",
+                    "other_names": [],
+                    "phones": [
+                        "(615) 274-2922"
+                    ],
+                    "emails": [
+                        "wtollett@eaglevilletn.gov"
+                    ],
+                    "urls": [
+                        "https://mailto:wtollett@eaglevilletn.gov?subject=Email%20Received%20From%20the%20Eagleville,%20TN%20Website"
+                    ],
+                    "start_date": null,
+                    "end_date": "2026-11",
+                    "office": {
+                        "name": "Vice Mayor",
+                        "division_ocdid": "ocd-division/country:us/state:tn/place:eagleville"
+                    },
+                    "image": "https://eaglevilletn.com/assets/img/william_tollett.jpg",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:eagleville/government",
+                    "cdn_image": "local://daf03b2b2f48.png",
+                    "source_urls": [
+                        "https://eaglevilletn.com/city_council.html"
+                    ],
+                    "updated_at": "2026-05-24T14:39:05+00:00",
+                    "id": "d6fe691e-74fe-4284-bf4b-281bb4a72886"
+                },
+                {
+                    "name": "Jason Blair",
+                    "other_names": [],
+                    "phones": [
+                        "(615) 274-2922"
+                    ],
+                    "emails": [
+                        "jblair@eaglevilletn.gov"
+                    ],
+                    "urls": [
+                        "https://mailto:jblair@eaglevilletn.gov?subject=Email%20Received%20From%20the%20Eagleville,%20TN%20Website"
+                    ],
+                    "start_date": null,
+                    "end_date": "2028-11",
+                    "office": {
+                        "name": "Council Member",
+                        "division_ocdid": "ocd-division/country:us/state:tn/place:eagleville"
+                    },
+                    "image": "https://eaglevilletn.com/assets/img/jason_blair.jpg",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:eagleville/government",
+                    "cdn_image": "local://99a02487be57.png",
+                    "source_urls": [
+                        "https://eaglevilletn.com/city_council.html"
+                    ],
+                    "updated_at": "2026-05-24T14:39:05+00:00",
+                    "id": "1f14f596-a3f6-4374-8e95-d8c0c1ee7fc0"
+                },
+                {
+                    "name": "Ryan Edwards",
+                    "other_names": [],
+                    "phones": [
+                        "(615) 274-2922"
+                    ],
+                    "emails": [
+                        "redwards@eaglevilletn.gov"
+                    ],
+                    "urls": [
+                        "https://mailto:redwards@eaglevilletn.gov?subject=Email%20Received%20From%20the%20Eagleville,%20TN%20Website"
+                    ],
+                    "start_date": null,
+                    "end_date": "2028-11",
+                    "office": {
+                        "name": "Council Member",
+                        "division_ocdid": "ocd-division/country:us/state:tn/place:eagleville"
+                    },
+                    "image": "https://eaglevilletn.com/assets/img/ryan_edwards.jpg",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:eagleville/government",
+                    "cdn_image": "local://9760463e556d.png",
+                    "source_urls": [
+                        "https://eaglevilletn.com/city_council.html"
+                    ],
+                    "updated_at": "2026-05-24T14:39:05+00:00",
+                    "id": "31bfebb2-2b94-4daf-951c-7b3ed3c3b549"
+                },
+                {
+                    "name": "Brandon Emamalie",
+                    "other_names": [],
+                    "phones": [
+                        "(615) 274-2922"
+                    ],
+                    "emails": [
+                        "bemamalie@eaglevilletn.gov"
+                    ],
+                    "urls": [
+                        "https://mailto:bemamalie@eaglevilletn.gov?subject=Email%20Received%20From%20the%20Eagleville,%20TN%20Website"
+                    ],
+                    "start_date": null,
+                    "end_date": "2026-11",
+                    "office": {
+                        "name": "Council Member",
+                        "division_ocdid": "ocd-division/country:us/state:tn/place:eagleville"
+                    },
+                    "image": "https://eaglevilletn.com/assets/img/brandon_emamalie.jpg",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:eagleville/government",
+                    "cdn_image": "local://5ab7e575e2e4.png",
+                    "source_urls": [
+                        "https://eaglevilletn.com/city_council.html"
+                    ],
+                    "updated_at": "2026-05-24T14:39:05+00:00",
+                    "id": "5b00bcef-88ad-49df-8b02-c0439b4e06c9"
+                },
+                {
+                    "name": "Craig Campbell",
+                    "other_names": [],
+                    "phones": [
+                        "(615) 274-2922"
+                    ],
+                    "emails": [
+                        "ccampbell@eaglevilletn.gov"
+                    ],
+                    "urls": [
+                        "https://mailto:ccampbell@eaglevilletn.gov?subject=Email%20Received%20From%20the%20Eagleville,%20TN%20Website"
+                    ],
+                    "start_date": null,
+                    "end_date": "2026-11",
+                    "office": {
+                        "name": "Council Member",
+                        "division_ocdid": "ocd-division/country:us/state:tn/place:eagleville"
+                    },
+                    "image": "https://eaglevilletn.com/assets/img/craig_campbell.jpg",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:eagleville/government",
+                    "cdn_image": "local://2d7e794aa10d.png",
+                    "source_urls": [
+                        "https://eaglevilletn.com/city_council.html"
+                    ],
+                    "updated_at": "2026-05-24T14:39:05+00:00",
+                    "id": "7acd9930-ba0b-4fa2-8751-384849a547c9"
+                },
+                {
+                    "name": "Chris Hendrix",
+                    "other_names": [],
+                    "phones": [
+                        "(615) 274-2922"
+                    ],
+                    "emails": [
+                        "chendrix@eaglevilletn.gov"
+                    ],
+                    "urls": [
+                        "https://mailto:chendrix@eaglevilletn.gov?subject=Email%20Received%20From%20the%20Eagleville,%20TN%20Website"
+                    ],
+                    "start_date": null,
+                    "end_date": "2028-11",
+                    "office": {
+                        "name": "Council Member",
+                        "division_ocdid": "ocd-division/country:us/state:tn/place:eagleville"
+                    },
+                    "image": "https://eaglevilletn.com/assets/img/chris_hendrix.jpg",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:eagleville/government",
+                    "cdn_image": "local://2aa2806dc053.png",
+                    "source_urls": [
+                        "https://eaglevilletn.com/city_council.html"
+                    ],
+                    "updated_at": "2026-05-24T14:39:05+00:00",
+                    "id": "6a36d225-db99-4d76-953d-3d1aaaa539fe"
+                }
+            ]
+        },
+        "review_output_step": {
+            "issues": [],
+            "people_by_source": [
+                {
+                    "name": "Brandon Emamalie",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Chad Leeman",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Chris Hendrix",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Craig Campbell",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Jason Blair",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Ryan Edwards",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "William Tollett",
+                    "in_research": true,
+                    "in_data": true
+                }
+            ],
+            "origin_source": "google_gemini"
+        },
+        "find_jurisdiction_url_step": null,
+        "send_success_step": null,
+        "send_error_step": null,
+        "issues": [],
+        "error_step": null,
+        "error_detail": null
+    },
+    "current_state": "SEND_SUCCESS",
+    "request_id": "fef19c11-d946-46cc-883e-10b314e3ef5a",
+    "created_at": 1779633476.1553445,
+    "updated_at": 1779633545.035109,
+    "progress": 97
+}
