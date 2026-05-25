@@ -1,0 +1,1060 @@
+{
+    "data": {
+        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:jackson/government",
+        "config": {
+            "url": "http://www.jacksontn.gov/",
+            "name": "Jackson city",
+            "source_urls": null
+        },
+        "frontier": {
+            "links": {
+                "https://jacksontn.gov": {
+                    "url": "http://www.jacksontn.gov/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_jacksontn_gov_",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 1
+                },
+                "https://jacksontn.gov/government/citycouncil": {
+                    "url": "https://www.jacksontn.gov/government/citycouncil",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_jacksontn_gov_government_citycouncil",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 2
+                },
+                "https://jacksontn.gov/government/citycouncil/meetthecouncil": {
+                    "url": "https://www.jacksontn.gov/government/citycouncil/meetthecouncil",
+                    "status": "done",
+                    "folder_name": "www_jacksontn_gov_government_citycouncil_meetthecouncil",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 4
+                },
+                "https://jacksontn.gov/government/mayorsoffice": {
+                    "url": "https://www.jacksontn.gov/government/mayorsoffice",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_jacksontn_gov_government_mayorsoffice",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 3
+                },
+                "https://jacksontn.gov/government/mayorsoffice/aboutmayorconger": {
+                    "url": "https://www.jacksontn.gov/government/mayorsoffice/aboutmayorconger",
+                    "status": "done",
+                    "folder_name": "www_jacksontn_gov_government_mayorsoffice_aboutmayorconger",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 5
+                },
+                "https://jacksontn.gov/government/mayorsoffice/staffdirectory": {
+                    "url": "https://www.jacksontn.gov/government/mayorsoffice/staffdirectory",
+                    "status": "done",
+                    "folder_name": "www_jacksontn_gov_government_mayorsoffice_staffdirectory",
+                    "num_references": 5,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 6
+                },
+                "https://jacksontn.gov/government/departments": {
+                    "url": "https://www.jacksontn.gov/government/departments",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_jacksontn_gov_government_departments",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 8
+                },
+                "https://jacksontn.gov/government/boardscommissions": {
+                    "url": "https://www.jacksontn.gov/government/boardscommissions",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_jacksontn_gov_government_boardscommissions",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 9
+                },
+                "https://jacksontn.gov/government/communications": {
+                    "url": "https://www.jacksontn.gov/government/communications",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_jacksontn_gov_government_communications",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 10
+                },
+                "https://jacksontn.gov/government/codes_ordinances": {
+                    "url": "https://www.jacksontn.gov/government/codes_ordinances",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_jacksontn_gov_government_codes_ordinances",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 11
+                },
+                "https://jacksontn.gov/government/311_report_issue": {
+                    "url": "https://www.jacksontn.gov/government/311_Report_Issue",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_jacksontn_gov_government_311_report_issue",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 19
+                },
+                "https://jacksontn.gov/government/bids_rfps": {
+                    "url": "https://www.jacksontn.gov/government/bids_rfps",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_jacksontn_gov_government_bids_rfps",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 20
+                },
+                "https://jacksontn.gov/government/governmentcalendar": {
+                    "url": "https://www.jacksontn.gov/government/GovernmentCalendar",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_jacksontn_gov_government_governmentcalendar",
+                    "num_references": 5,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 15
+                },
+                "https://jacksontn.gov/government/planninggrowthanddevelopment": {
+                    "url": "https://www.jacksontn.gov/government/planninggrowthanddevelopment",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_jacksontn_gov_government_planninggrowthanddevelopment",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 12
+                },
+                "https://jacksontn.gov/government/publicsafety": {
+                    "url": "https://www.jacksontn.gov/government/publicsafety",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_jacksontn_gov_government_publicsafety",
+                    "num_references": 5,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 13
+                },
+                "https://jacksontn.gov/government/publicworks": {
+                    "url": "https://www.jacksontn.gov/government/publicworks",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_jacksontn_gov_government_publicworks",
+                    "num_references": 6,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 14
+                },
+                "https://jacksontn.gov/government/metropolitan_planning_organization": {
+                    "url": "https://www.jacksontn.gov/government/metropolitan_planning_organization",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_jacksontn_gov_government_metropolitan_planning_organization",
+                    "num_references": 6,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 16
+                },
+                "https://jacksontn.gov/government/propertysearchmap": {
+                    "url": "https://www.jacksontn.gov/government/propertysearchmap",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_jacksontn_gov_government_propertysearchmap",
+                    "num_references": 5,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 17
+                },
+                "https://jacksontn.gov/government/surplus_property": {
+                    "url": "https://www.jacksontn.gov/government/surplus_property",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_jacksontn_gov_government_surplus_property",
+                    "num_references": 5,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 18
+                },
+                "https://jacksontn.gov/government/citycouncil/agendaandminutes": {
+                    "url": "https://www.jacksontn.gov/government/citycouncil/agendaandminutes",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_jacksontn_gov_government_citycouncil_agendaandminutes",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 21
+                },
+                "https://jacksontn.gov/government/citycouncil/meetingdates": {
+                    "url": "https://www.jacksontn.gov/government/citycouncil/meetingdates",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_jacksontn_gov_government_citycouncil_meetingdates",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 22
+                },
+                "https://jacksontn.gov/government": {
+                    "url": "https://www.jacksontn.gov/government/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_jacksontn_gov_government_",
+                    "num_references": 5,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 7
+                },
+                "https://jacksontn.gov/government/citycouncil/citycouncilarchives": {
+                    "url": "https://www.jacksontn.gov/government/citycouncil/citycouncilarchives",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://jacksontn.gov/government/citycouncil/meetthecouncil/district3_busby": {
+                    "url": "https://www.jacksontn.gov/government/citycouncil/meetthecouncil/district3_busby",
+                    "status": "done",
+                    "folder_name": "www_jacksontn_gov_government_citycouncil_meetthecouncil_district3_busby",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 25
+                },
+                "https://jacksontn.gov/government/citycouncil/meetthecouncil/district2_dodd": {
+                    "url": "https://www.jacksontn.gov/government/citycouncil/meetthecouncil/district2_dodd",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://jacksontn.gov/government/citycouncil/meetthecouncil/district4_donnell": {
+                    "url": "https://www.jacksontn.gov/government/citycouncil/meetthecouncil/District4_Donnell",
+                    "status": "done",
+                    "folder_name": "www_jacksontn_gov_government_citycouncil_meetthecouncil_district4_donnell",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 23
+                },
+                "https://jacksontn.gov/government/citycouncil/meetthecouncil/district9_holt": {
+                    "url": "https://www.jacksontn.gov/government/citycouncil/meetthecouncil/district9_holt",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://jacksontn.gov/government/citycouncil/meetthecouncil/district6_lowrance": {
+                    "url": "https://www.jacksontn.gov/government/citycouncil/meetthecouncil/district6_lowrance",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://jacksontn.gov/government/citycouncil/meetthecouncil/district8_mckelvey": {
+                    "url": "https://www.jacksontn.gov/government/citycouncil/meetthecouncil/district8_mckelvey",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://jacksontn.gov/government/citycouncil/meetthecouncil/district5_mcmeen": {
+                    "url": "https://www.jacksontn.gov/government/citycouncil/meetthecouncil/district5_mcmeen",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://jacksontn.gov/government/citycouncil/meetthecouncil/district1_stovall": {
+                    "url": "https://www.jacksontn.gov/government/citycouncil/meetthecouncil/District1_Stovall",
+                    "status": "done",
+                    "folder_name": "www_jacksontn_gov_government_citycouncil_meetthecouncil_district1_stovall",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 24
+                },
+                "https://jacksontn.gov/government/citycouncil/meetthecouncil/district7_wallace": {
+                    "url": "https://www.jacksontn.gov/government/citycouncil/meetthecouncil/district7_wallace",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://jacksontn.gov/government/planninggrowthanddevelopment/planning": {
+                    "url": "https://jacksontn.gov/government/planninggrowthanddevelopment/planning/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                }
+            },
+            "queue": [
+                "https://jacksontn.gov/government/citycouncil/meetthecouncil/district2_dodd",
+                "https://jacksontn.gov/government/citycouncil/meetthecouncil/district9_holt",
+                "https://jacksontn.gov/government/citycouncil/meetthecouncil/district6_lowrance",
+                "https://jacksontn.gov/government/citycouncil/meetthecouncil/district8_mckelvey",
+                "https://jacksontn.gov/government/citycouncil/meetthecouncil/district5_mcmeen",
+                "https://jacksontn.gov/government/citycouncil/meetthecouncil/district7_wallace",
+                "https://jacksontn.gov/government/citycouncil/citycouncilarchives",
+                "https://jacksontn.gov/government/planninggrowthanddevelopment/planning"
+            ]
+        },
+        "research_municipality_step": {
+            "expected_count": 10,
+            "target_designations": [],
+            "known_roles": [
+                "Mayor",
+                "Council Member"
+            ],
+            "identities": {
+                "Scott Conger": [],
+                "Candice Busby": [],
+                "Johnny Lee Dodd": [],
+                "Richard Donnell": [],
+                "Julie Faulder Holt": [],
+                "Larry Lowrance": [],
+                "Russ McKelvey": [],
+                "Frank McMeen": [],
+                "J.P. Stovall": [],
+                "Marda Wallace": []
+            },
+            "source_urls": [],
+            "notes": null,
+            "origin_source": "google_gemini"
+        },
+        "preprocess_page_content_step": {
+            "elapsed_times": [
+                3,
+                2,
+                2,
+                2,
+                2,
+                0,
+                39,
+                20,
+                20,
+                20,
+                20,
+                20,
+                21,
+                21,
+                21,
+                21,
+                21,
+                20,
+                21,
+                20,
+                22,
+                22,
+                0,
+                20,
+                20,
+                20,
+                20,
+                20,
+                23,
+                22,
+                20
+            ],
+            "total_elapsed_time_seconds": 514,
+            "average_elapsed_time_seconds": 16
+        },
+        "process_page_content_step": {
+            "raw_records_by_llm": {
+                "open_router": {
+                    "Scott Conger": [
+                        {
+                            "name": "Scott Conger",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "7314258240",
+                            "email": null,
+                            "url": "https://www.jacksontn.gov/government/mayorsoffice/aboutmayorconger/",
+                            "start_date": "2019-07-01",
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.jacksontn.gov/government/mayorsoffice/aboutmayorconger"
+                        },
+                        {
+                            "name": "Scott Conger",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "731-425-8240",
+                            "email": "sconger@jacksontn.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.jacksontn.gov/government/mayorsoffice/staffdirectory"
+                        }
+                    ],
+                    "Richard Donnell": [
+                        {
+                            "name": "Richard Donnell",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "District 4"
+                            ],
+                            "phone": "731-571-5649",
+                            "email": "richarddonnell@jacksontn.gov",
+                            "url": "https://www.jacksontn.gov/government/citycouncil/meetthecouncil/District4_Donnell/",
+                            "start_date": "2023-05",
+                            "end_date": null,
+                            "image": "local://34d0dfa47115.png",
+                            "source_url": "https://www.jacksontn.gov/government/citycouncil/meetthecouncil/District4_Donnell"
+                        }
+                    ],
+                    "J. P. Stovall": [
+                        {
+                            "name": "J. P. Stovall",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "District 1"
+                            ],
+                            "phone": "731-425-8253",
+                            "email": "jpstovall@jacksontn.gov",
+                            "url": "https://www.jacksontn.gov/government/citycouncil/meetthecouncil/District1_Stovall/",
+                            "start_date": "2023-05",
+                            "end_date": null,
+                            "image": "local://637aafd3eea7.png",
+                            "source_url": "https://www.jacksontn.gov/government/citycouncil/meetthecouncil/District1_Stovall"
+                        }
+                    ],
+                    "Candice Busby": [
+                        {
+                            "name": "Candice Busby",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "District 3"
+                            ],
+                            "phone": "731-343-3906",
+                            "email": "candicebusby@jacksontn.gov",
+                            "url": "https://www.jacksontn.gov/government/citycouncil/meetthecouncil/district3_busby/",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://ee6d85042b6d.png",
+                            "source_url": "https://www.jacksontn.gov/government/citycouncil/meetthecouncil/district3_busby"
+                        }
+                    ]
+                }
+            },
+            "records_by_llm": {
+                "open_router": {
+                    "Scott Conger": [
+                        {
+                            "name": "Scott Conger",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "(731) 425-8240",
+                            "email": null,
+                            "url": "https://www.jacksontn.gov/government/mayorsoffice/aboutmayorconger/",
+                            "start_date": "2019-07-01",
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.jacksontn.gov/government/mayorsoffice/aboutmayorconger"
+                        },
+                        {
+                            "name": "Scott Conger",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "(731) 425-8240",
+                            "email": "sconger@jacksontn.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.jacksontn.gov/government/mayorsoffice/staffdirectory"
+                        }
+                    ],
+                    "Richard Donnell": [
+                        {
+                            "name": "Richard Donnell",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "District 4"
+                            ],
+                            "phone": "(731) 571-5649",
+                            "email": "richarddonnell@jacksontn.gov",
+                            "url": "https://www.jacksontn.gov/government/citycouncil/meetthecouncil/District4_Donnell/",
+                            "start_date": "2023-05",
+                            "end_date": null,
+                            "image": "local://34d0dfa47115.png",
+                            "source_url": "https://www.jacksontn.gov/government/citycouncil/meetthecouncil/District4_Donnell"
+                        }
+                    ],
+                    "J. P. Stovall": [
+                        {
+                            "name": "J. P. Stovall",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "District 1"
+                            ],
+                            "phone": "(731) 425-8253",
+                            "email": "jpstovall@jacksontn.gov",
+                            "url": "https://www.jacksontn.gov/government/citycouncil/meetthecouncil/District1_Stovall/",
+                            "start_date": "2023-05",
+                            "end_date": null,
+                            "image": "local://637aafd3eea7.png",
+                            "source_url": "https://www.jacksontn.gov/government/citycouncil/meetthecouncil/District1_Stovall"
+                        }
+                    ],
+                    "Candice Busby": [
+                        {
+                            "name": "Candice Busby",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "District 3"
+                            ],
+                            "phone": "(731) 343-3906",
+                            "email": "candicebusby@jacksontn.gov",
+                            "url": "https://www.jacksontn.gov/government/citycouncil/meetthecouncil/district3_busby/",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://ee6d85042b6d.png",
+                            "source_url": "https://www.jacksontn.gov/government/citycouncil/meetthecouncil/district3_busby"
+                        }
+                    ]
+                }
+            },
+            "progress": {
+                "required_data": 10,
+                "current_data": 4,
+                "has_target_role": true,
+                "has_target_designations": true
+            }
+        },
+        "merge_records_within_llm_step": {
+            "people_by_llm": {
+                "open_router": [
+                    {
+                        "name": "Scott Conger",
+                        "other_names": [],
+                        "roles": [
+                            "Mayor"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(731) 425-8240"
+                        ],
+                        "emails": [
+                            "sconger@jacksontn.gov"
+                        ],
+                        "urls": [
+                            "https://www.jacksontn.gov/government/mayorsoffice/aboutmayorconger/"
+                        ],
+                        "start_date": "2019-07-01",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:jackson/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.jacksontn.gov/government/mayorsoffice/aboutmayorconger",
+                            "https://www.jacksontn.gov/government/mayorsoffice/staffdirectory"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Richard Donnell",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "District 4"
+                        ],
+                        "phones": [
+                            "(731) 571-5649"
+                        ],
+                        "emails": [
+                            "richarddonnell@jacksontn.gov"
+                        ],
+                        "urls": [
+                            "https://www.jacksontn.gov/government/citycouncil/meetthecouncil/District4_Donnell/"
+                        ],
+                        "start_date": "2023-05",
+                        "end_date": "",
+                        "image": "local://34d0dfa47115.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:jackson/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.jacksontn.gov/government/citycouncil/meetthecouncil/District4_Donnell"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "J. P. Stovall",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "District 1"
+                        ],
+                        "phones": [
+                            "(731) 425-8253"
+                        ],
+                        "emails": [
+                            "jpstovall@jacksontn.gov"
+                        ],
+                        "urls": [
+                            "https://www.jacksontn.gov/government/citycouncil/meetthecouncil/District1_Stovall/"
+                        ],
+                        "start_date": "2023-05",
+                        "end_date": "",
+                        "image": "local://637aafd3eea7.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:jackson/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.jacksontn.gov/government/citycouncil/meetthecouncil/District1_Stovall"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Candice Busby",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "District 3"
+                        ],
+                        "phones": [
+                            "(731) 343-3906"
+                        ],
+                        "emails": [
+                            "candicebusby@jacksontn.gov"
+                        ],
+                        "urls": [
+                            "https://www.jacksontn.gov/government/citycouncil/meetthecouncil/district3_busby/"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "local://ee6d85042b6d.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:jackson/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.jacksontn.gov/government/citycouncil/meetthecouncil/district3_busby"
+                        ],
+                        "updated_at": ""
+                    }
+                ]
+            },
+            "unrecognized_roles": [],
+            "excluded_people": []
+        },
+        "merge_records_across_llms_step": {
+            "people": [
+                {
+                    "name": "Scott Conger",
+                    "other_names": [],
+                    "roles": [
+                        "mayor"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(731) 425-8240"
+                    ],
+                    "emails": [
+                        "sconger@jacksontn.gov"
+                    ],
+                    "urls": [
+                        "https://www.jacksontn.gov/government/mayorsoffice/aboutmayorconger/"
+                    ],
+                    "start_date": "2019-07-01",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:jackson/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.jacksontn.gov/government/mayorsoffice/aboutmayorconger",
+                        "https://www.jacksontn.gov/government/mayorsoffice/staffdirectory"
+                    ],
+                    "updated_at": "2026-05-25T17:10:37+00:00"
+                },
+                {
+                    "name": "J. P. Stovall",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "district 1"
+                    ],
+                    "phones": [
+                        "(731) 425-8253"
+                    ],
+                    "emails": [
+                        "jpstovall@jacksontn.gov"
+                    ],
+                    "urls": [
+                        "https://www.jacksontn.gov/government/citycouncil/meetthecouncil/District1_Stovall/"
+                    ],
+                    "start_date": "2023-05",
+                    "end_date": "",
+                    "image": "local://637aafd3eea7.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:jackson/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.jacksontn.gov/government/citycouncil/meetthecouncil/District1_Stovall"
+                    ],
+                    "updated_at": "2026-05-25T17:10:37+00:00"
+                },
+                {
+                    "name": "Candice Busby",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "district 3"
+                    ],
+                    "phones": [
+                        "(731) 343-3906"
+                    ],
+                    "emails": [
+                        "candicebusby@jacksontn.gov"
+                    ],
+                    "urls": [
+                        "https://www.jacksontn.gov/government/citycouncil/meetthecouncil/district3_busby/"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "local://ee6d85042b6d.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:jackson/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.jacksontn.gov/government/citycouncil/meetthecouncil/district3_busby"
+                    ],
+                    "updated_at": "2026-05-25T17:10:37+00:00"
+                },
+                {
+                    "name": "Richard Donnell",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "district 4"
+                    ],
+                    "phones": [
+                        "(731) 571-5649"
+                    ],
+                    "emails": [
+                        "richarddonnell@jacksontn.gov"
+                    ],
+                    "urls": [
+                        "https://www.jacksontn.gov/government/citycouncil/meetthecouncil/District4_Donnell/"
+                    ],
+                    "start_date": "2023-05",
+                    "end_date": "",
+                    "image": "local://34d0dfa47115.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:jackson/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.jacksontn.gov/government/citycouncil/meetthecouncil/District4_Donnell"
+                    ],
+                    "updated_at": "2026-05-25T17:10:37+00:00"
+                }
+            ]
+        },
+        "format_output_step": {
+            "officials": [
+                {
+                    "name": "Scott Conger",
+                    "other_names": [],
+                    "phones": [
+                        "(731) 425-8240"
+                    ],
+                    "emails": [
+                        "sconger@jacksontn.gov"
+                    ],
+                    "urls": [
+                        "https://www.jacksontn.gov/government/mayorsoffice/aboutmayorconger/"
+                    ],
+                    "start_date": "2019-07-01",
+                    "end_date": null,
+                    "office": {
+                        "name": "Mayor",
+                        "division_ocdid": "ocd-division/country:us/state:tn/place:jackson"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:jackson/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.jacksontn.gov/government/mayorsoffice/aboutmayorconger",
+                        "https://www.jacksontn.gov/government/mayorsoffice/staffdirectory"
+                    ],
+                    "updated_at": "2026-05-25T17:10:37+00:00",
+                    "id": "1d54d063-d724-43b8-9e92-3f197ef9fcdc"
+                },
+                {
+                    "name": "J. P. Stovall",
+                    "other_names": [],
+                    "phones": [
+                        "(731) 425-8253"
+                    ],
+                    "emails": [
+                        "jpstovall@jacksontn.gov"
+                    ],
+                    "urls": [
+                        "https://www.jacksontn.gov/government/citycouncil/meetthecouncil/District1_Stovall/"
+                    ],
+                    "start_date": "2023-05",
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member",
+                        "division_ocdid": "ocd-division/country:us/state:tn/place:jackson/council_district:1"
+                    },
+                    "image": "https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_16361603/Image/Departments/City%20Council/Council%20Member%20Photos/JPStovall.jpg",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:jackson/government",
+                    "cdn_image": "local://637aafd3eea7.png",
+                    "source_urls": [
+                        "https://www.jacksontn.gov/government/citycouncil/meetthecouncil/District1_Stovall"
+                    ],
+                    "updated_at": "2026-05-25T17:10:37+00:00",
+                    "id": "fd4a0b8f-2780-4335-b957-8af84637a98d"
+                },
+                {
+                    "name": "Candice Busby",
+                    "other_names": [],
+                    "phones": [
+                        "(731) 343-3906"
+                    ],
+                    "emails": [
+                        "candicebusby@jacksontn.gov"
+                    ],
+                    "urls": [
+                        "https://www.jacksontn.gov/government/citycouncil/meetthecouncil/district3_busby/"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member",
+                        "division_ocdid": "ocd-division/country:us/state:tn/place:jackson/council_district:3"
+                    },
+                    "image": "https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_16361603/Image/Departments/City%20Council/Council%20Member%20Photos/Candace%20Busby.jpg",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:jackson/government",
+                    "cdn_image": "local://ee6d85042b6d.png",
+                    "source_urls": [
+                        "https://www.jacksontn.gov/government/citycouncil/meetthecouncil/district3_busby"
+                    ],
+                    "updated_at": "2026-05-25T17:10:37+00:00",
+                    "id": "a53983f3-9f1a-4f1b-9654-0b03cc8e1d97"
+                },
+                {
+                    "name": "Richard Donnell",
+                    "other_names": [],
+                    "phones": [
+                        "(731) 571-5649"
+                    ],
+                    "emails": [
+                        "richarddonnell@jacksontn.gov"
+                    ],
+                    "urls": [
+                        "https://www.jacksontn.gov/government/citycouncil/meetthecouncil/District4_Donnell/"
+                    ],
+                    "start_date": "2023-05",
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member",
+                        "division_ocdid": "ocd-division/country:us/state:tn/place:jackson/council_district:4"
+                    },
+                    "image": "https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_16361603/Image/Departments/City%20Council/Council%20Member%20Photos/Richard%20Donnell.jpg",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:jackson/government",
+                    "cdn_image": "local://34d0dfa47115.png",
+                    "source_urls": [
+                        "https://www.jacksontn.gov/government/citycouncil/meetthecouncil/District4_Donnell"
+                    ],
+                    "updated_at": "2026-05-25T17:10:37+00:00",
+                    "id": "8829647b-7b62-437e-9486-366e9052c2d1"
+                }
+            ]
+        },
+        "review_output_step": {
+            "issues": [
+                "Extra official: J. P. Stovall",
+                "Missing official: Frank McMeen",
+                "Missing official: J.P. Stovall",
+                "Missing official: Johnny Lee Dodd",
+                "Missing official: Julie Faulder Holt",
+                "Missing official: Larry Lowrance",
+                "Missing official: Marda Wallace",
+                "Missing official: Russ McKelvey",
+                "Missing official with council district 2"
+            ],
+            "people_by_source": [
+                {
+                    "name": "Candice Busby",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Frank McMeen",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "J. P. Stovall",
+                    "in_research": false,
+                    "in_data": true
+                },
+                {
+                    "name": "J.P. Stovall",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Johnny Lee Dodd",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Julie Faulder Holt",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Larry Lowrance",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Marda Wallace",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Richard Donnell",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Russ McKelvey",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Scott Conger",
+                    "in_research": true,
+                    "in_data": true
+                }
+            ],
+            "origin_source": "google_gemini"
+        },
+        "find_jurisdiction_url_step": null,
+        "send_success_step": null,
+        "send_error_step": null,
+        "issues": [],
+        "error_step": null,
+        "error_detail": null
+    },
+    "current_state": "SEND_SUCCESS",
+    "request_id": "6acd07cd-a0dc-4c02-abb4-c2adc59ec4d5",
+    "created_at": 1779727878.1358163,
+    "updated_at": 1779729037.951352,
+    "progress": 55
+}
