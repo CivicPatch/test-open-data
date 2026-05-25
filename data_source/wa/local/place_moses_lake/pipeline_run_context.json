@@ -1,0 +1,1703 @@
+{
+    "data": {
+        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:moses_lake/government",
+        "config": {
+            "url": "https://www.cityofml.com/",
+            "name": "Moses Lake city",
+            "source_urls": null
+        },
+        "frontier": {
+            "links": {
+                "https://cityofml.com": {
+                    "url": "https://www.cityofml.com/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofml_com_",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 1
+                },
+                "https://cityofml.com/126/city-council": {
+                    "url": "https://www.cityofml.com/126/City-Council",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/27/government": {
+                    "url": "https://www.cityofml.com/27/Government",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofml_com_27_government",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 3
+                },
+                "https://cityofml.com/directory.aspx": {
+                    "url": "https://www.cityofml.com/directory.aspx",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofml_com_directory_aspx",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 2
+                },
+                "https://cityofml.com/8/departments": {
+                    "url": "https://www.cityofml.com/8/Departments",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/31/services": {
+                    "url": "https://www.cityofml.com/31/Services",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/35/business": {
+                    "url": "https://www.cityofml.com/35/Business",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/96/city-news": {
+                    "url": "https://www.cityofml.com/96/City-News",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/1376/financial-sustainability-plan": {
+                    "url": "https://www.cityofml.com/1376/Financial-Sustainability-Plan",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/9/visitors": {
+                    "url": "https://www.cityofml.com/9/Visitors",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/566": {
+                    "url": "https://www.cityofml.com/566",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/permit": {
+                    "url": "https://www.cityofml.com/permit",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/43/planning": {
+                    "url": "https://www.cityofml.com/43/Planning",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/68/parks-recreation": {
+                    "url": "https://www.cityofml.com/68/Parks-Recreation",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/69": {
+                    "url": "https://www.cityofml.com/69",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/1372/18063/service-requests": {
+                    "url": "https://www.cityofml.com/1372/18063/Service-Requests",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/484/museum-art-center": {
+                    "url": "https://www.cityofml.com/484/Museum-Art-Center",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/1051/language-translation-options": {
+                    "url": "https://www.cityofml.com/1051/Language-Translation-Options",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/lakecrossing": {
+                    "url": "https://www.cityofml.com/lakecrossing",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/directory.aspx?did=24": {
+                    "url": "https://www.cityofml.com/Directory.aspx?did=24",
+                    "status": "done",
+                    "folder_name": "www_cityofml_com_directory_aspx?did=24",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 4
+                },
+                "https://cityofml.com/directory.aspx?did=34": {
+                    "url": "https://www.cityofml.com/Directory.aspx?did=34",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/directory.aspx?did=4": {
+                    "url": "https://www.cityofml.com/Directory.aspx?did=4",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/directory.aspx?did=32": {
+                    "url": "https://www.cityofml.com/Directory.aspx?did=32",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/directory.aspx?did=6": {
+                    "url": "https://www.cityofml.com/Directory.aspx?did=6",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/directory.aspx?did=5": {
+                    "url": "https://www.cityofml.com/Directory.aspx?did=5",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/directory.aspx?did=8": {
+                    "url": "https://www.cityofml.com/Directory.aspx?did=8",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/directory.aspx?did=11": {
+                    "url": "https://www.cityofml.com/Directory.aspx?did=11",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/directory.aspx?did=54": {
+                    "url": "https://www.cityofml.com/Directory.aspx?did=54",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/directory.aspx?did=37": {
+                    "url": "https://www.cityofml.com/Directory.aspx?did=37",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/directory.aspx?did=12": {
+                    "url": "https://www.cityofml.com/Directory.aspx?did=12",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/directory.aspx?did=38": {
+                    "url": "https://www.cityofml.com/Directory.aspx?did=38",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/directory.aspx?did=13": {
+                    "url": "https://www.cityofml.com/Directory.aspx?did=13",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/directory.aspx?did=22": {
+                    "url": "https://www.cityofml.com/Directory.aspx?did=22",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/directory.aspx?did=53": {
+                    "url": "https://www.cityofml.com/Directory.aspx?did=53",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/directory.aspx?did=14": {
+                    "url": "https://www.cityofml.com/Directory.aspx?did=14",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/directory.aspx?did=15": {
+                    "url": "https://www.cityofml.com/Directory.aspx?did=15",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/directory.aspx?did=7": {
+                    "url": "https://www.cityofml.com/Directory.aspx?did=7",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/directory.aspx?did=40": {
+                    "url": "https://www.cityofml.com/Directory.aspx?did=40",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/agendacenter": {
+                    "url": "https://www.cityofml.com/AgendaCenter",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/124/boards-commissions": {
+                    "url": "https://www.cityofml.com/124/Boards-Commissions",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/agendacenter/agenda-center-1": {
+                    "url": "https://www.cityofml.com/AgendaCenter/Agenda-Center-1",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/1356/notices-of-potential-quorum": {
+                    "url": "https://www.cityofml.com/1356/Notices-of-Potential-Quorum",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/648/civil-service-commission": {
+                    "url": "https://www.cityofml.com/648/Civil-Service-Commission",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/946/leoff1-disability-board": {
+                    "url": "https://www.cityofml.com/946/LEOFF1-Disability-Board",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/965/leoff1-disability-board": {
+                    "url": "https://www.cityofml.com/965/LEOFF1-Disability-Board",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/647/lodging-tax-advisory-committee": {
+                    "url": "https://www.cityofml.com/647/Lodging-Tax-Advisory-Committee",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/1054/municipal-airport-commission": {
+                    "url": "https://www.cityofml.com/1054/Municipal-Airport-Commission",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/131/planning-commission": {
+                    "url": "https://www.cityofml.com/131/Planning-Commission",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/989/hearing-examiner": {
+                    "url": "https://www.cityofml.com/989/Hearing-Examiner",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/132/parks-recreation-cultural-services-advis": {
+                    "url": "https://www.cityofml.com/132/Parks-Recreation-Cultural-Services-Advis",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/891/transportation-benefit-district": {
+                    "url": "https://www.cityofml.com/891/Transportation-Benefit-District",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/6/agendas-minutes---2016-prior": {
+                    "url": "https://www.cityofml.com/6/Agendas-Minutes---2016-Prior",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/1023/municipal-code-link-and-other-council-re": {
+                    "url": "https://www.cityofml.com/1023/Municipal-Code-Link-and-Other-Council-Re",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/faq.aspx": {
+                    "url": "https://www.cityofml.com/faq.aspx",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/566/job-opportunities": {
+                    "url": "https://www.cityofml.com/566/Job-Opportunities",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/159/gis-mapping": {
+                    "url": "https://www.cityofml.com/159/GIS-Mapping",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/facilities": {
+                    "url": "https://www.cityofml.com/facilities",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/746/phone-numbers": {
+                    "url": "https://www.cityofml.com/746/Phone-Numbers",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/gallery.aspx": {
+                    "url": "https://www.cityofml.com/gallery.aspx",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/394/surf-n-slide-water-park": {
+                    "url": "https://www.cityofml.com/394/Surf-n-Slide-Water-Park",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/892/watv-ordinance": {
+                    "url": "https://www.cityofml.com/892/WATV-Ordinance",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/accessibility": {
+                    "url": "https://www.cityofml.com/accessibility",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/sitemap": {
+                    "url": "https://www.cityofml.com/sitemap",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/site/copyright": {
+                    "url": "https://www.cityofml.com/site/copyright",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofml.com/990/disclaimer": {
+                    "url": "https://www.cityofml.com/990/Disclaimer",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                }
+            },
+            "queue": [
+                "https://cityofml.com/126/city-council",
+                "https://cityofml.com/1023/municipal-code-link-and-other-council-re",
+                "https://cityofml.com/96/city-news",
+                "https://cityofml.com/648/civil-service-commission",
+                "https://cityofml.com/946/leoff1-disability-board",
+                "https://cityofml.com/965/leoff1-disability-board",
+                "https://cityofml.com/1054/municipal-airport-commission",
+                "https://cityofml.com/131/planning-commission",
+                "https://cityofml.com/directory.aspx?did=34",
+                "https://cityofml.com/directory.aspx?did=4",
+                "https://cityofml.com/directory.aspx?did=32",
+                "https://cityofml.com/directory.aspx?did=6",
+                "https://cityofml.com/directory.aspx?did=5",
+                "https://cityofml.com/directory.aspx?did=8",
+                "https://cityofml.com/directory.aspx?did=11",
+                "https://cityofml.com/directory.aspx?did=54",
+                "https://cityofml.com/directory.aspx?did=37",
+                "https://cityofml.com/directory.aspx?did=12",
+                "https://cityofml.com/directory.aspx?did=38",
+                "https://cityofml.com/directory.aspx?did=13",
+                "https://cityofml.com/directory.aspx?did=22",
+                "https://cityofml.com/directory.aspx?did=53",
+                "https://cityofml.com/directory.aspx?did=14",
+                "https://cityofml.com/directory.aspx?did=15",
+                "https://cityofml.com/directory.aspx?did=7",
+                "https://cityofml.com/directory.aspx?did=40",
+                "https://cityofml.com/8/departments",
+                "https://cityofml.com/124/boards-commissions",
+                "https://cityofml.com/566",
+                "https://cityofml.com/permit",
+                "https://cityofml.com/69",
+                "https://cityofml.com/agendacenter",
+                "https://cityofml.com/43/planning",
+                "https://cityofml.com/68/parks-recreation",
+                "https://cityofml.com/1051/language-translation-options",
+                "https://cityofml.com/1372/18063/service-requests",
+                "https://cityofml.com/647/lodging-tax-advisory-committee",
+                "https://cityofml.com/lakecrossing",
+                "https://cityofml.com/faq.aspx",
+                "https://cityofml.com/facilities",
+                "https://cityofml.com/gallery.aspx",
+                "https://cityofml.com/accessibility",
+                "https://cityofml.com/sitemap",
+                "https://cityofml.com/31/services",
+                "https://cityofml.com/35/business",
+                "https://cityofml.com/1376/financial-sustainability-plan",
+                "https://cityofml.com/9/visitors",
+                "https://cityofml.com/484/museum-art-center",
+                "https://cityofml.com/agendacenter/agenda-center-1",
+                "https://cityofml.com/1356/notices-of-potential-quorum",
+                "https://cityofml.com/989/hearing-examiner",
+                "https://cityofml.com/132/parks-recreation-cultural-services-advis",
+                "https://cityofml.com/891/transportation-benefit-district",
+                "https://cityofml.com/6/agendas-minutes---2016-prior",
+                "https://cityofml.com/566/job-opportunities",
+                "https://cityofml.com/159/gis-mapping",
+                "https://cityofml.com/746/phone-numbers",
+                "https://cityofml.com/394/surf-n-slide-water-park",
+                "https://cityofml.com/892/watv-ordinance",
+                "https://cityofml.com/site/copyright",
+                "https://cityofml.com/990/disclaimer"
+            ]
+        },
+        "research_municipality_step": {
+            "expected_count": 7,
+            "target_designations": [],
+            "known_roles": [
+                "Mayor",
+                "Council Member",
+                "Deputy Mayor"
+            ],
+            "identities": {
+                "Dustin Swartz": [],
+                "Deanna Martinez": [],
+                "Don Myers": [],
+                "Mark Fancher": [],
+                "Judy Madewell": [],
+                "Victor Lombardi": [],
+                "David Skaug": []
+            },
+            "source_urls": [
+                "https://www.cityofml.com/126/City-Council"
+            ],
+            "notes": null,
+            "origin_source": "existing"
+        },
+        "preprocess_page_content_step": {
+            "elapsed_times": [
+                3,
+                2,
+                2,
+                1,
+                1,
+                1
+            ],
+            "total_elapsed_time_seconds": 5,
+            "average_elapsed_time_seconds": 0
+        },
+        "process_page_content_step": {
+            "raw_records_by_llm": {
+                "open_router": {
+                    "Davis, Jeremy": [
+                        {
+                            "name": "Davis, Jeremy",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": "509-764-3767",
+                            "email": "jdavis@cityofml.com",
+                            "url": "https://www.cityofml.com/directory.aspx?EID=281",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofml.com/Directory.aspx?did=24"
+                        }
+                    ],
+                    "Graves, Joel": [
+                        {
+                            "name": "Graves, Joel",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": "509-764-3763",
+                            "email": "jgraves@cityofml.com",
+                            "url": "https://www.cityofml.com/directory.aspx?EID=280",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofml.com/Directory.aspx?did=24"
+                        }
+                    ],
+                    "Fancher, Mark": [
+                        {
+                            "name": "Fancher, Mark",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": "509-764-3765",
+                            "email": "mfancher@cityofml.com",
+                            "url": "https://www.cityofml.com/directory.aspx?EID=222",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofml.com/Directory.aspx?did=24"
+                        }
+                    ],
+                    "Myers, Don": [
+                        {
+                            "name": "Myers, Don",
+                            "roles": [
+                                "Deputy Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "509-764-3766",
+                            "email": "dmyers@cityofml.com",
+                            "url": "https://www.cityofml.com/directory.aspx?EID=113",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofml.com/Directory.aspx?did=24"
+                        }
+                    ],
+                    "Skaug, David": [
+                        {
+                            "name": "Skaug, David",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": "509-764-3768",
+                            "email": "dskaug@cityofml.com",
+                            "url": "https://www.cityofml.com/directory.aspx?EID=228",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofml.com/Directory.aspx?did=24"
+                        }
+                    ],
+                    "Lombardi, Victor": [
+                        {
+                            "name": "Lombardi, Victor",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": "509-764-3764",
+                            "email": "vlombardi@cityofml.com",
+                            "url": "https://www.cityofml.com/directory.aspx?EID=196",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofml.com/Directory.aspx?did=24"
+                        }
+                    ],
+                    "Swartz, Dustin": [
+                        {
+                            "name": "Swartz, Dustin",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "509-764-3762",
+                            "email": "dswartz@cityofml.com",
+                            "url": "https://www.cityofml.com/directory.aspx?EID=221",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofml.com/Directory.aspx?did=24"
+                        }
+                    ]
+                }
+            },
+            "records_by_llm": {
+                "open_router": {
+                    "Davis, Jeremy": [
+                        {
+                            "name": "Jeremy Davis",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": "(509) 764-3767",
+                            "email": "jdavis@cityofml.com",
+                            "url": "https://www.cityofml.com/directory.aspx?EID=281",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofml.com/Directory.aspx?did=24"
+                        }
+                    ],
+                    "Graves, Joel": [
+                        {
+                            "name": "Joel Graves",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": "(509) 764-3763",
+                            "email": "jgraves@cityofml.com",
+                            "url": "https://www.cityofml.com/directory.aspx?EID=280",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofml.com/Directory.aspx?did=24"
+                        }
+                    ],
+                    "Fancher, Mark": [
+                        {
+                            "name": "Mark Fancher",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": "(509) 764-3765",
+                            "email": "mfancher@cityofml.com",
+                            "url": "https://www.cityofml.com/directory.aspx?EID=222",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofml.com/Directory.aspx?did=24"
+                        }
+                    ],
+                    "Myers, Don": [
+                        {
+                            "name": "Don Myers",
+                            "roles": [
+                                "Deputy Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "(509) 764-3766",
+                            "email": "dmyers@cityofml.com",
+                            "url": "https://www.cityofml.com/directory.aspx?EID=113",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofml.com/Directory.aspx?did=24"
+                        }
+                    ],
+                    "Skaug, David": [
+                        {
+                            "name": "David Skaug",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": "(509) 764-3768",
+                            "email": "dskaug@cityofml.com",
+                            "url": "https://www.cityofml.com/directory.aspx?EID=228",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofml.com/Directory.aspx?did=24"
+                        }
+                    ],
+                    "Lombardi, Victor": [
+                        {
+                            "name": "Victor Lombardi",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": "(509) 764-3764",
+                            "email": "vlombardi@cityofml.com",
+                            "url": "https://www.cityofml.com/directory.aspx?EID=196",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofml.com/Directory.aspx?did=24"
+                        }
+                    ],
+                    "Swartz, Dustin": [
+                        {
+                            "name": "Dustin Swartz",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "(509) 764-3762",
+                            "email": "dswartz@cityofml.com",
+                            "url": "https://www.cityofml.com/directory.aspx?EID=221",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofml.com/Directory.aspx?did=24"
+                        }
+                    ]
+                }
+            },
+            "progress": {
+                "required_data": 7,
+                "current_data": 7,
+                "has_target_role": true,
+                "has_target_designations": true
+            }
+        },
+        "merge_records_within_llm_step": {
+            "people_by_llm": {
+                "open_router": [
+                    {
+                        "name": "Jeremy Davis",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(509) 764-3767"
+                        ],
+                        "emails": [
+                            "jdavis@cityofml.com"
+                        ],
+                        "urls": [
+                            "https://www.cityofml.com/directory.aspx?EID=281"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:moses_lake/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.cityofml.com/Directory.aspx?did=24"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Joel Graves",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(509) 764-3763"
+                        ],
+                        "emails": [
+                            "jgraves@cityofml.com"
+                        ],
+                        "urls": [
+                            "https://www.cityofml.com/directory.aspx?EID=280"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:moses_lake/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.cityofml.com/Directory.aspx?did=24"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Mark Fancher",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(509) 764-3765"
+                        ],
+                        "emails": [
+                            "mfancher@cityofml.com"
+                        ],
+                        "urls": [
+                            "https://www.cityofml.com/directory.aspx?EID=222"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:moses_lake/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.cityofml.com/Directory.aspx?did=24"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Don Myers",
+                        "other_names": [],
+                        "roles": [
+                            "Deputy Mayor"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(509) 764-3766"
+                        ],
+                        "emails": [
+                            "dmyers@cityofml.com"
+                        ],
+                        "urls": [
+                            "https://www.cityofml.com/directory.aspx?EID=113"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:moses_lake/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.cityofml.com/Directory.aspx?did=24"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "David Skaug",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(509) 764-3768"
+                        ],
+                        "emails": [
+                            "dskaug@cityofml.com"
+                        ],
+                        "urls": [
+                            "https://www.cityofml.com/directory.aspx?EID=228"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:moses_lake/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.cityofml.com/Directory.aspx?did=24"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Victor Lombardi",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(509) 764-3764"
+                        ],
+                        "emails": [
+                            "vlombardi@cityofml.com"
+                        ],
+                        "urls": [
+                            "https://www.cityofml.com/directory.aspx?EID=196"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:moses_lake/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.cityofml.com/Directory.aspx?did=24"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Dustin Swartz",
+                        "other_names": [],
+                        "roles": [
+                            "Mayor"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(509) 764-3762"
+                        ],
+                        "emails": [
+                            "dswartz@cityofml.com"
+                        ],
+                        "urls": [
+                            "https://www.cityofml.com/directory.aspx?EID=221"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:moses_lake/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.cityofml.com/Directory.aspx?did=24"
+                        ],
+                        "updated_at": ""
+                    }
+                ]
+            },
+            "unrecognized_roles": [],
+            "excluded_people": []
+        },
+        "merge_records_across_llms_step": {
+            "people": [
+                {
+                    "name": "Dustin Swartz",
+                    "other_names": [],
+                    "roles": [
+                        "mayor"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(509) 764-3762"
+                    ],
+                    "emails": [
+                        "dswartz@cityofml.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofml.com/directory.aspx?EID=221"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:moses_lake/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.cityofml.com/Directory.aspx?did=24"
+                    ],
+                    "updated_at": "2026-05-25T16:18:18+00:00"
+                },
+                {
+                    "name": "Don Myers",
+                    "other_names": [],
+                    "roles": [
+                        "deputy mayor"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(509) 764-3766"
+                    ],
+                    "emails": [
+                        "dmyers@cityofml.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofml.com/directory.aspx?EID=113"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:moses_lake/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.cityofml.com/Directory.aspx?did=24"
+                    ],
+                    "updated_at": "2026-05-25T16:18:18+00:00"
+                },
+                {
+                    "name": "Jeremy Davis",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(509) 764-3767"
+                    ],
+                    "emails": [
+                        "jdavis@cityofml.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofml.com/directory.aspx?EID=281"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:moses_lake/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.cityofml.com/Directory.aspx?did=24"
+                    ],
+                    "updated_at": "2026-05-25T16:18:18+00:00"
+                },
+                {
+                    "name": "Joel Graves",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(509) 764-3763"
+                    ],
+                    "emails": [
+                        "jgraves@cityofml.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofml.com/directory.aspx?EID=280"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:moses_lake/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.cityofml.com/Directory.aspx?did=24"
+                    ],
+                    "updated_at": "2026-05-25T16:18:18+00:00"
+                },
+                {
+                    "name": "Mark Fancher",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(509) 764-3765"
+                    ],
+                    "emails": [
+                        "mfancher@cityofml.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofml.com/directory.aspx?EID=222"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:moses_lake/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.cityofml.com/Directory.aspx?did=24"
+                    ],
+                    "updated_at": "2026-05-25T16:18:18+00:00"
+                },
+                {
+                    "name": "David Skaug",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(509) 764-3768"
+                    ],
+                    "emails": [
+                        "dskaug@cityofml.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofml.com/directory.aspx?EID=228"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:moses_lake/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.cityofml.com/Directory.aspx?did=24"
+                    ],
+                    "updated_at": "2026-05-25T16:18:18+00:00"
+                },
+                {
+                    "name": "Victor Lombardi",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(509) 764-3764"
+                    ],
+                    "emails": [
+                        "vlombardi@cityofml.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofml.com/directory.aspx?EID=196"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:moses_lake/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.cityofml.com/Directory.aspx?did=24"
+                    ],
+                    "updated_at": "2026-05-25T16:18:18+00:00"
+                }
+            ]
+        },
+        "format_output_step": {
+            "officials": [
+                {
+                    "name": "Dustin Swartz",
+                    "other_names": [],
+                    "phones": [
+                        "(509) 764-3762"
+                    ],
+                    "emails": [
+                        "dswartz@cityofml.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofml.com/directory.aspx?EID=221"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Mayor",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:moses_lake"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:moses_lake/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.cityofml.com/Directory.aspx?did=24"
+                    ],
+                    "updated_at": "2026-05-25T16:18:18+00:00",
+                    "id": "da831119-97c0-4bab-8b3c-f1e4d090c07f"
+                },
+                {
+                    "name": "Don Myers",
+                    "other_names": [],
+                    "phones": [
+                        "(509) 764-3766"
+                    ],
+                    "emails": [
+                        "dmyers@cityofml.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofml.com/directory.aspx?EID=113"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Deputy Mayor",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:moses_lake"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:moses_lake/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.cityofml.com/Directory.aspx?did=24"
+                    ],
+                    "updated_at": "2026-05-25T16:18:18+00:00",
+                    "id": "9c0cfbda-8ed9-41ec-bc95-ef3f86d878d3"
+                },
+                {
+                    "name": "Jeremy Davis",
+                    "other_names": [],
+                    "phones": [
+                        "(509) 764-3767"
+                    ],
+                    "emails": [
+                        "jdavis@cityofml.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofml.com/directory.aspx?EID=281"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:moses_lake"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:moses_lake/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.cityofml.com/Directory.aspx?did=24"
+                    ],
+                    "updated_at": "2026-05-25T16:18:18+00:00",
+                    "id": "4097e006-a8c0-46c5-b1d8-4051598abe2b"
+                },
+                {
+                    "name": "Joel Graves",
+                    "other_names": [],
+                    "phones": [
+                        "(509) 764-3763"
+                    ],
+                    "emails": [
+                        "jgraves@cityofml.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofml.com/directory.aspx?EID=280"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:moses_lake"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:moses_lake/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.cityofml.com/Directory.aspx?did=24"
+                    ],
+                    "updated_at": "2026-05-25T16:18:18+00:00",
+                    "id": "8d7eb204-34dc-4038-800f-626c4e5a6366"
+                },
+                {
+                    "name": "Mark Fancher",
+                    "other_names": [],
+                    "phones": [
+                        "(509) 764-3765"
+                    ],
+                    "emails": [
+                        "mfancher@cityofml.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofml.com/directory.aspx?EID=222"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:moses_lake"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:moses_lake/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.cityofml.com/Directory.aspx?did=24"
+                    ],
+                    "updated_at": "2026-05-25T16:18:18+00:00",
+                    "id": "38605209-cd4d-4e3d-af30-969ad72c8e3f"
+                },
+                {
+                    "name": "David Skaug",
+                    "other_names": [],
+                    "phones": [
+                        "(509) 764-3768"
+                    ],
+                    "emails": [
+                        "dskaug@cityofml.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofml.com/directory.aspx?EID=228"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:moses_lake"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:moses_lake/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.cityofml.com/Directory.aspx?did=24"
+                    ],
+                    "updated_at": "2026-05-25T16:18:18+00:00",
+                    "id": "0e142bc1-1786-4b1f-80cd-45080f2c9841"
+                },
+                {
+                    "name": "Victor Lombardi",
+                    "other_names": [],
+                    "phones": [
+                        "(509) 764-3764"
+                    ],
+                    "emails": [
+                        "vlombardi@cityofml.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofml.com/directory.aspx?EID=196"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:moses_lake"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:moses_lake/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.cityofml.com/Directory.aspx?did=24"
+                    ],
+                    "updated_at": "2026-05-25T16:18:18+00:00",
+                    "id": "292cd4e0-861d-4719-bab8-22f71a4968ea"
+                }
+            ]
+        },
+        "review_output_step": {
+            "issues": [
+                "Extra official: Jeremy Davis",
+                "Extra official: Joel Graves",
+                "Missing official: Deanna Martinez",
+                "Missing official: Judy Madewell"
+            ],
+            "people_by_source": [
+                {
+                    "name": "David Skaug",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Deanna Martinez",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Don Myers",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Dustin Swartz",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Jeremy Davis",
+                    "in_research": false,
+                    "in_data": true
+                },
+                {
+                    "name": "Joel Graves",
+                    "in_research": false,
+                    "in_data": true
+                },
+                {
+                    "name": "Judy Madewell",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Mark Fancher",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Victor Lombardi",
+                    "in_research": true,
+                    "in_data": true
+                }
+            ],
+            "origin_source": "existing"
+        },
+        "find_jurisdiction_url_step": null,
+        "send_success_step": null,
+        "send_error_step": null,
+        "issues": [],
+        "error_step": null,
+        "error_detail": null
+    },
+    "current_state": "SEND_SUCCESS",
+    "request_id": "9a83217b-0538-457c-95ac-113026bfb0b0",
+    "created_at": 1779725787.0581732,
+    "updated_at": 1779725898.0633156,
+    "progress": 97
+}
