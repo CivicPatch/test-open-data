@@ -1,0 +1,91 @@
+- name: Nicholas Sevald
+  other_names: []
+  phones:
+  - (360) 218-9956
+  emails: []
+  urls:
+  - https://www.townofcathlamet.com/elected-officials-1
+  start_date: '2026-01-01'
+  end_date: '2029-12-31'
+  office:
+    name: Council Member - Mayor - Position 1
+    division_ocdid: ocd-division/country:us/state:wa/place:cathlamet
+  image: ''
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:cathlamet/government
+  cdn_image: ''
+  source_urls:
+  - https://www.townofcathlamet.com/elected-officials-1
+  updated_at: '2026-05-25T19:27:53+00:00'
+  id: ef28b556-9ba7-4918-8c92-4c182c5d11c1
+- name: Crystal Baker
+  other_names: []
+  phones: []
+  emails: []
+  urls:
+  - https://www.townofcathlamet.com/elected-officials-1
+  start_date: '2024-01-01'
+  end_date: '2027-12-31'
+  office:
+    name: Council Member - Position 2
+    division_ocdid: ocd-division/country:us/state:wa/place:cathlamet
+  image: ''
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:cathlamet/government
+  cdn_image: ''
+  source_urls:
+  - https://www.townofcathlamet.com/elected-officials-1
+  updated_at: '2026-05-25T19:27:53+00:00'
+  id: 830ac22a-8b96-407f-868a-4abf771b8632
+- name: Joe Baker
+  other_names: []
+  phones: []
+  emails: []
+  urls:
+  - https://www.townofcathlamet.com/elected-officials-1
+  start_date: '2024-01-01'
+  end_date: '2027-12-31'
+  office:
+    name: Council Member - Position 3
+    division_ocdid: ocd-division/country:us/state:wa/place:cathlamet
+  image: ''
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:cathlamet/government
+  cdn_image: ''
+  source_urls:
+  - https://www.townofcathlamet.com/elected-officials-1
+  updated_at: '2026-05-25T19:27:53+00:00'
+  id: ce3d96d5-d7fb-4e11-91d7-57f28e2bd85a
+- name: Tyson Clark
+  other_names: []
+  phones: []
+  emails: []
+  urls:
+  - https://www.townofcathlamet.com/elected-officials-1
+  start_date: '2026-01-01'
+  end_date: '2029-12-31'
+  office:
+    name: Council Member - Position 4
+    division_ocdid: ocd-division/country:us/state:wa/place:cathlamet
+  image: ''
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:cathlamet/government
+  cdn_image: ''
+  source_urls:
+  - https://www.townofcathlamet.com/elected-officials-1
+  updated_at: '2026-05-25T19:27:53+00:00'
+  id: fb0d42d2-7aee-44b0-83be-67363f952399
+- name: Andrew Weiler
+  other_names: []
+  phones: []
+  emails: []
+  urls:
+  - https://www.townofcathlamet.com/elected-officials-1
+  start_date: '2026-01-01'
+  end_date: '2029-12-31'
+  office:
+    name: Council Member - Position 5
+    division_ocdid: ocd-division/country:us/state:wa/place:cathlamet
+  image: ''
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:cathlamet/government
+  cdn_image: ''
+  source_urls:
+  - https://www.townofcathlamet.com/elected-officials-1
+  updated_at: '2026-05-25T19:27:53+00:00'
+  id: 68b93745-313c-45da-beea-d042b108e5be
