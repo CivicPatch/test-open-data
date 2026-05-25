@@ -1,0 +1,2087 @@
+{
+    "data": {
+        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:walla_walla/government",
+        "config": {
+            "url": "https://www.wallawallawa.gov/",
+            "name": "Walla Walla city",
+            "source_urls": null
+        },
+        "frontier": {
+            "links": {
+                "https://wallawallawa.gov": {
+                    "url": "https://www.wallawallawa.gov/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_wallawallawa_gov_",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 1
+                },
+                "https://wallawallawa.gov/government/city-council": {
+                    "url": "https://www.wallawallawa.gov/government/city-council",
+                    "status": "done",
+                    "folder_name": "www_wallawallawa_gov_government_city-council",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 2
+                },
+                "https://wallawallawa.gov/government/city-directory": {
+                    "url": "https://www.wallawallawa.gov/government/city-directory",
+                    "status": "done",
+                    "folder_name": "www_wallawallawa_gov_government_city-directory",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 3
+                },
+                "https://wallawallawa.gov/government/city-manager": {
+                    "url": "https://www.wallawallawa.gov/government/city-manager",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_wallawallawa_gov_government_city-manager",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 4
+                },
+                "https://wallawallawa.gov/government/city-council/contact-the-city-council": {
+                    "url": "https://www.wallawallawa.gov/government/city-council/contact-the-city-council",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_wallawallawa_gov_government_city-council_contact-the-city-council",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 5
+                },
+                "https://wallawallawa.gov/government/boards-commissions-committees": {
+                    "url": "https://www.wallawallawa.gov/government/boards-commissions-committees",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_wallawallawa_gov_government_boards-commissions-committees",
+                    "num_references": 5,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 6
+                },
+                "https://wallawallawa.gov/government/support-services/city-clerk": {
+                    "url": "https://www.wallawallawa.gov/government/support-services/city-clerk",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_wallawallawa_gov_government_support-services_city-clerk",
+                    "num_references": 7,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 9
+                },
+                "https://wallawallawa.gov/government/human-resources": {
+                    "url": "https://www.wallawallawa.gov/government/human-resources",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_wallawallawa_gov_government_human-resources",
+                    "num_references": 6,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 7
+                },
+                "https://wallawallawa.gov/government/strategic-plan": {
+                    "url": "https://www.wallawallawa.gov/government/strategic-plan",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_wallawallawa_gov_government_strategic-plan",
+                    "num_references": 6,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 8
+                },
+                "https://wallawallawa.gov/government/statement-of-vision-mission-values": {
+                    "url": "https://www.wallawallawa.gov/government/statement-of-vision-mission-values",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_wallawallawa_gov_government_statement-of-vision-mission-values",
+                    "num_references": 6,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 10
+                },
+                "https://wallawallawa.gov/government/municipal-code": {
+                    "url": "https://www.wallawallawa.gov/government/municipal-code",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_wallawallawa_gov_government_municipal-code",
+                    "num_references": 6,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 12
+                },
+                "https://wallawallawa.gov/government/volunteer": {
+                    "url": "https://www.wallawallawa.gov/government/volunteer",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_wallawallawa_gov_government_volunteer",
+                    "num_references": 6,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 13
+                },
+                "https://wallawallawa.gov/our-city/wards": {
+                    "url": "https://www.wallawallawa.gov/our-city/wards",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_wallawallawa_gov_our-city_wards",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 22
+                },
+                "https://wallawallawa.gov/our-city/council-chambers-artwork": {
+                    "url": "https://www.wallawallawa.gov/our-city/council-chambers-artwork",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wallawallawa.gov/services/council-meeting-agendas-minutes": {
+                    "url": "https://www.wallawallawa.gov/services/council-meeting-agendas-minutes",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_wallawallawa_gov_services_council-meeting-agendas-minutes",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 21
+                },
+                "https://wallawallawa.gov/government/city-council/agendas-minutes": {
+                    "url": "https://www.wallawallawa.gov/government/city-council/agendas-minutes",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_wallawallawa_gov_government_city-council_agendas-minutes",
+                    "num_references": 5,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 15
+                },
+                "https://wallawallawa.gov/government/city-council/proclamation-requests": {
+                    "url": "https://www.wallawallawa.gov/government/city-council/proclamation-requests",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_wallawallawa_gov_government_city-council_proclamation-requests",
+                    "num_references": 5,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 16
+                },
+                "https://wallawallawa.gov/government/city-council/ward-boundary-map": {
+                    "url": "https://www.wallawallawa.gov/government/city-council/ward-boundary-map",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_wallawallawa_gov_government_city-council_ward-boundary-map",
+                    "num_references": 6,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 17
+                },
+                "https://wallawallawa.gov/i-want-to/see-agendas-minutes": {
+                    "url": "https://www.wallawallawa.gov/i-want-to/see-agendas-minutes",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wallawallawa.gov/i-want-to/see-the-budget": {
+                    "url": "https://www.wallawallawa.gov/i-want-to/see-the-budget",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wallawallawa.gov/i-want-to/find-municipal-codes": {
+                    "url": "https://www.wallawallawa.gov/i-want-to/find-municipal-codes",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wallawallawa.gov/services": {
+                    "url": "https://www.wallawallawa.gov/services",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wallawallawa.gov/our-city": {
+                    "url": "https://www.wallawallawa.gov/our-city",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wallawallawa.gov/i-want-to-": {
+                    "url": "https://www.wallawallawa.gov/i-want-to-",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wallawallawa.gov/i-want-to/contact-the-city": {
+                    "url": "https://www.wallawallawa.gov/i-want-to/contact-the-city",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wallawallawa.gov/services/advanced-components/misc-pages/site-map": {
+                    "url": "https://www.wallawallawa.gov/services/advanced-components/misc-pages/site-map",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wallawallawa.gov/home/components/staffdirectory/staffdirectory/1066/3873": {
+                    "url": "https://www.wallawallawa.gov/Home/Components/StaffDirectory/StaffDirectory/1066/3873",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wallawallawa.gov/home/components/staffdirectory/staffdirectory/932/3873": {
+                    "url": "https://www.wallawallawa.gov/Home/Components/StaffDirectory/StaffDirectory/932/3873",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wallawallawa.gov/home/components/staffdirectory/staffdirectory/937/3873": {
+                    "url": "https://www.wallawallawa.gov/Home/Components/StaffDirectory/StaffDirectory/937/3873",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wallawallawa.gov/home/components/staffdirectory/staffdirectory/936/3873": {
+                    "url": "https://www.wallawallawa.gov/Home/Components/StaffDirectory/StaffDirectory/936/3873",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wallawallawa.gov/home/components/staffdirectory/staffdirectory/938/3873": {
+                    "url": "https://www.wallawallawa.gov/Home/Components/StaffDirectory/StaffDirectory/938/3873",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wallawallawa.gov/home/components/staffdirectory/staffdirectory/935/3873": {
+                    "url": "https://www.wallawallawa.gov/Home/Components/StaffDirectory/StaffDirectory/935/3873",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wallawallawa.gov/home/components/staffdirectory/staffdirectory/934/3873": {
+                    "url": "https://www.wallawallawa.gov/Home/Components/StaffDirectory/StaffDirectory/934/3873",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wallawallawa.gov/government/support-services/city-clerk/boards-commissions-committees": {
+                    "url": "https://www.wallawallawa.gov/government/support-services/city-clerk/boards-commissions-committees",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_wallawallawa_gov_government_support-services_city-clerk_boards-commissions-committees",
+                    "num_references": 7,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 14
+                },
+                "https://wallawallawa.gov/government/support-services/city-clerk/city-council-meeting-agendas-minutes": {
+                    "url": "https://www.wallawallawa.gov/government/support-services/city-clerk/city-council-meeting-agendas-minutes",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_wallawallawa_gov_government_support-services_city-clerk_city-council-meeting-agendas-minutes",
+                    "num_references": 6,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 11
+                },
+                "https://wallawallawa.gov/government/support-services/city-clerk/public-records": {
+                    "url": "https://www.wallawallawa.gov/government/support-services/city-clerk/public-records",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_wallawallawa_gov_government_support-services_city-clerk_public-records",
+                    "num_references": 6,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 18
+                },
+                "https://wallawallawa.gov/government/finance": {
+                    "url": "https://www.wallawallawa.gov/government/finance",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wallawallawa.gov/government/public-works": {
+                    "url": "https://www.wallawallawa.gov/government/public-works",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wallawallawa.gov/government/development-services": {
+                    "url": "https://www.wallawallawa.gov/government/development-services",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wallawallawa.gov/government/support-services/communications": {
+                    "url": "https://www.wallawallawa.gov/government/support-services/communications",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wallawallawa.gov/services/municipal-code": {
+                    "url": "https://www.wallawallawa.gov/services/municipal-code",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wallawallawa.gov/services/news": {
+                    "url": "https://www.wallawallawa.gov/services/news",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wallawallawa.gov/services/calendar": {
+                    "url": "https://www.wallawallawa.gov/services/calendar",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wallawallawa.gov/services/frequently-asked-questions": {
+                    "url": "https://www.wallawallawa.gov/services/frequently-asked-questions",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wallawallawa.gov/services/jobs": {
+                    "url": "https://www.wallawallawa.gov/services/jobs",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wallawallawa.gov/services/rfps-bids": {
+                    "url": "https://www.wallawallawa.gov/services/rfps-bids",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wallawallawa.gov/services/forms-permits": {
+                    "url": "https://www.wallawallawa.gov/services/forms-permits",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wallawallawa.gov/services/maps": {
+                    "url": "https://www.wallawallawa.gov/services/maps",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wallawallawa.gov/government/support-services/city-clerk/municipal-code": {
+                    "url": "https://www.wallawallawa.gov/government/support-services/city-clerk/municipal-code",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_wallawallawa_gov_government_support-services_city-clerk_municipal-code",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 19
+                },
+                "https://wallawallawa.gov/government/human-resources/job-descriptions": {
+                    "url": "https://www.wallawallawa.gov/government/human-resources/job-descriptions",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wallawallawa.gov/government/human-resources/personnel-policies-civil-service-rules": {
+                    "url": "https://www.wallawallawa.gov/government/human-resources/personnel-policies-civil-service-rules",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wallawallawa.gov/services/agendas-minutes": {
+                    "url": "https://www.wallawallawa.gov/services/agendas-minutes",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wallawallawa.gov/government/support-services/city-clerk/general-online-boards-application": {
+                    "url": "https://www.wallawallawa.gov/government/support-services/city-clerk/general-online-boards-application",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_wallawallawa_gov_government_support-services_city-clerk_general-online-boards-application",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 20
+                },
+                "https://wallawallawa.gov/government/support-services/city-clerk/paid-covered-parking-permit-application": {
+                    "url": "https://www.wallawallawa.gov/government/support-services/city-clerk/paid-covered-parking-permit-application",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wallawallawa.gov/government/support-services/community-development-block-grant": {
+                    "url": "https://www.wallawallawa.gov/government/support-services/community-development-block-grant",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wallawallawa.gov/government/support-services/fleet-services": {
+                    "url": "https://www.wallawallawa.gov/government/support-services/fleet-services",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wallawallawa.gov/government/support-services/risk-management": {
+                    "url": "https://www.wallawallawa.gov/government/support-services/risk-management",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wallawallawa.gov/government/support-services/ada-title-vi-notices": {
+                    "url": "https://www.wallawallawa.gov/government/support-services/ada-title-vi-notices",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wallawallawa.gov/government/parks-and-recreation/parks-recreation-and-urban-forestry-advisory-board-35255": {
+                    "url": "https://www.wallawallawa.gov/government/parks-and-recreation/parks-recreation-and-urban-forestry-advisory-board-35255",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wallawallawa.gov/government/lodging-tax-advisory-committee": {
+                    "url": "https://www.wallawallawa.gov/government/lodging-tax-advisory-committee",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wallawallawa.gov/government/boards-commissions-committees/historic-preservation-commission": {
+                    "url": "https://www.wallawallawa.gov/government/boards-commissions-committees/historic-preservation-commission",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wallawallawa.gov/government/boards-commissions-committees/planning-commission": {
+                    "url": "https://www.wallawallawa.gov/government/boards-commissions-committees/planning-commission",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wallawallawa.gov/government/boards-commissions-committees/solid-waste-advisory-committee": {
+                    "url": "https://www.wallawallawa.gov/government/boards-commissions-committees/solid-waste-advisory-committee",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wallawallawa.gov/government/boards-commissions-committees/salary-commission": {
+                    "url": "https://www.wallawallawa.gov/government/boards-commissions-committees/salary-commission",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wallawallawa.gov/government/boards-commissions-committees/deaccessioning-public-art": {
+                    "url": "https://www.wallawallawa.gov/government/boards-commissions-committees/deaccessioning-public-art",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wallawallawa.gov/government/sustainability": {
+                    "url": "https://www.wallawallawa.gov/government/sustainability",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                }
+            },
+            "queue": [
+                "https://wallawallawa.gov/i-want-to/contact-the-city",
+                "https://wallawallawa.gov/government/support-services/communications",
+                "https://wallawallawa.gov/home/components/staffdirectory/staffdirectory/1066/3873",
+                "https://wallawallawa.gov/home/components/staffdirectory/staffdirectory/932/3873",
+                "https://wallawallawa.gov/home/components/staffdirectory/staffdirectory/937/3873",
+                "https://wallawallawa.gov/home/components/staffdirectory/staffdirectory/936/3873",
+                "https://wallawallawa.gov/home/components/staffdirectory/staffdirectory/938/3873",
+                "https://wallawallawa.gov/home/components/staffdirectory/staffdirectory/935/3873",
+                "https://wallawallawa.gov/home/components/staffdirectory/staffdirectory/934/3873",
+                "https://wallawallawa.gov/our-city/council-chambers-artwork",
+                "https://wallawallawa.gov/our-city",
+                "https://wallawallawa.gov/government/finance",
+                "https://wallawallawa.gov/government/public-works",
+                "https://wallawallawa.gov/government/development-services",
+                "https://wallawallawa.gov/government/lodging-tax-advisory-committee",
+                "https://wallawallawa.gov/government/sustainability",
+                "https://wallawallawa.gov/government/human-resources/job-descriptions",
+                "https://wallawallawa.gov/government/human-resources/personnel-policies-civil-service-rules",
+                "https://wallawallawa.gov/government/support-services/community-development-block-grant",
+                "https://wallawallawa.gov/government/support-services/fleet-services",
+                "https://wallawallawa.gov/government/support-services/risk-management",
+                "https://wallawallawa.gov/government/support-services/ada-title-vi-notices",
+                "https://wallawallawa.gov/government/parks-and-recreation/parks-recreation-and-urban-forestry-advisory-board-35255",
+                "https://wallawallawa.gov/government/boards-commissions-committees/historic-preservation-commission",
+                "https://wallawallawa.gov/government/boards-commissions-committees/planning-commission",
+                "https://wallawallawa.gov/government/boards-commissions-committees/solid-waste-advisory-committee",
+                "https://wallawallawa.gov/government/boards-commissions-committees/salary-commission",
+                "https://wallawallawa.gov/government/boards-commissions-committees/deaccessioning-public-art",
+                "https://wallawallawa.gov/government/support-services/city-clerk/paid-covered-parking-permit-application",
+                "https://wallawallawa.gov/services/municipal-code",
+                "https://wallawallawa.gov/services/news",
+                "https://wallawallawa.gov/services/calendar",
+                "https://wallawallawa.gov/services",
+                "https://wallawallawa.gov/i-want-to-",
+                "https://wallawallawa.gov/i-want-to/see-agendas-minutes",
+                "https://wallawallawa.gov/i-want-to/see-the-budget",
+                "https://wallawallawa.gov/i-want-to/find-municipal-codes",
+                "https://wallawallawa.gov/services/frequently-asked-questions",
+                "https://wallawallawa.gov/services/jobs",
+                "https://wallawallawa.gov/services/rfps-bids",
+                "https://wallawallawa.gov/services/forms-permits",
+                "https://wallawallawa.gov/services/maps",
+                "https://wallawallawa.gov/services/agendas-minutes",
+                "https://wallawallawa.gov/services/advanced-components/misc-pages/site-map"
+            ]
+        },
+        "research_municipality_step": {
+            "expected_count": 7,
+            "target_designations": [],
+            "known_roles": [
+                "Mayor",
+                "Mayor Pro Tempore",
+                "Council Member"
+            ],
+            "identities": {
+                "Tom Scribner": [],
+                "Steven Moss": [],
+                "Gustavo Reyna": [],
+                "Rick Eskil": [],
+                "Brian Casey": [],
+                "Monte A. Willis": [],
+                "Jeffrey Robinson": []
+            },
+            "source_urls": [
+                "https://www.wallawallawa.gov/government/city-council"
+            ],
+            "notes": null,
+            "origin_source": "existing"
+        },
+        "preprocess_page_content_step": {
+            "elapsed_times": [
+                2,
+                2,
+                2,
+                1,
+                2,
+                3,
+                1,
+                2,
+                1,
+                2,
+                0,
+                1,
+                2,
+                2,
+                0,
+                2,
+                2,
+                1,
+                1,
+                2,
+                0,
+                2
+            ],
+            "total_elapsed_time_seconds": 33,
+            "average_elapsed_time_seconds": 1
+        },
+        "process_page_content_step": {
+            "raw_records_by_llm": {
+                "open_router": {
+                    "Gustavo Reyna": [
+                        {
+                            "name": "Gustavo Reyna",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [
+                                "At Large",
+                                "Position 3"
+                            ],
+                            "phone": null,
+                            "email": "greyna@wallawallawa.gov",
+                            "url": null,
+                            "start_date": "2021-11",
+                            "end_date": "2029-12-31",
+                            "image": "local://c6867d157600.png",
+                            "source_url": "https://www.wallawallawa.gov/government/city-council"
+                        }
+                    ],
+                    "Steve Moss": [
+                        {
+                            "name": "Steve Moss",
+                            "roles": [
+                                "Mayor Pro Tempore"
+                            ],
+                            "designations": [
+                                "At Large",
+                                "Position 7"
+                            ],
+                            "phone": null,
+                            "email": "smoss@wallawallawa.gov",
+                            "url": null,
+                            "start_date": "2015-11",
+                            "end_date": "2027-12-31",
+                            "image": "local://97b257441875.png",
+                            "source_url": "https://www.wallawallawa.gov/government/city-council"
+                        }
+                    ],
+                    "Rodney Outlaw": [
+                        {
+                            "name": "Rodney Outlaw",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Ward Central",
+                                "Position 2"
+                            ],
+                            "phone": null,
+                            "email": "routlaw@wallawallawa.gov",
+                            "url": null,
+                            "start_date": "2025-11",
+                            "end_date": "2029-12-31",
+                            "image": "local://0ab4a6a66c6b.png",
+                            "source_url": "https://www.wallawallawa.gov/government/city-council"
+                        }
+                    ],
+                    "Rick Eskil": [
+                        {
+                            "name": "Rick Eskil",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Ward South",
+                                "Position 1"
+                            ],
+                            "phone": null,
+                            "email": "reskil@wallawallawa.gov",
+                            "url": null,
+                            "start_date": "2021-11",
+                            "end_date": "2029-12-31",
+                            "image": "local://c42f56989804.png",
+                            "source_url": "https://www.wallawallawa.gov/government/city-council"
+                        }
+                    ],
+                    "Monte A. Willis": [
+                        {
+                            "name": "Monte A. Willis",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Ward East",
+                                "Position 4"
+                            ],
+                            "phone": null,
+                            "email": "mwillis@wallawallawa.gov",
+                            "url": null,
+                            "start_date": "2023-11",
+                            "end_date": "2027-12-31",
+                            "image": "local://5f2f09421096.png",
+                            "source_url": "https://www.wallawallawa.gov/government/city-council"
+                        }
+                    ],
+                    "Jeffrey Robinson": [
+                        {
+                            "name": "Jeffrey Robinson",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Ward West",
+                                "Position 5"
+                            ],
+                            "phone": null,
+                            "email": "jrobinson@wallawallawa.gov",
+                            "url": null,
+                            "start_date": "2023-11",
+                            "end_date": "2027-12-31",
+                            "image": "local://44496dfdf517.png",
+                            "source_url": "https://www.wallawallawa.gov/government/city-council"
+                        }
+                    ],
+                    "Emily Brown": [
+                        {
+                            "name": "Emily Brown",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "At Large",
+                                "Position 6"
+                            ],
+                            "phone": null,
+                            "email": "ebrown@wallawallawa.gov",
+                            "url": null,
+                            "start_date": "2026-02-25",
+                            "end_date": "2027-12-31",
+                            "image": "local://9115379141e3.png",
+                            "source_url": "https://www.wallawallawa.gov/government/city-council"
+                        }
+                    ],
+                    "BROWN, EMILY": [
+                        {
+                            "name": "BROWN, EMILY",
+                            "roles": [
+                                "CITY COUNCILMEMBER"
+                            ],
+                            "designations": [],
+                            "phone": "509.527.4522",
+                            "email": null,
+                            "url": "https://www.wallawallawa.gov/Home/Components/StaffDirectory/StaffDirectory/1066/3873",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.wallawallawa.gov/government/city-directory"
+                        }
+                    ],
+                    "ESKIL, RICK": [
+                        {
+                            "name": "ESKIL, RICK",
+                            "roles": [
+                                "CITY COUNCILMEMBER"
+                            ],
+                            "designations": [],
+                            "phone": "509.527.4522",
+                            "email": null,
+                            "url": "https://www.wallawallawa.gov/Home/Components/StaffDirectory/StaffDirectory/932/3873",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.wallawallawa.gov/government/city-directory"
+                        }
+                    ],
+                    "MOSS, STEVE": [
+                        {
+                            "name": "MOSS, STEVE",
+                            "roles": [
+                                "MAYOR PRO TEMPORE"
+                            ],
+                            "designations": [],
+                            "phone": "509.527.4522",
+                            "email": null,
+                            "url": "https://www.wallawallawa.gov/Home/Components/StaffDirectory/StaffDirectory/937/3873",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.wallawallawa.gov/government/city-directory"
+                        }
+                    ],
+                    "OUTLAW, RODNEY": [
+                        {
+                            "name": "OUTLAW, RODNEY",
+                            "roles": [
+                                "CITY COUNCILMEMBER"
+                            ],
+                            "designations": [],
+                            "phone": "509.527.4522",
+                            "email": null,
+                            "url": "https://www.wallawallawa.gov/Home/Components/StaffDirectory/StaffDirectory/936/3873",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.wallawallawa.gov/government/city-directory"
+                        }
+                    ],
+                    "REYNA, GUSTAVO": [
+                        {
+                            "name": "REYNA, GUSTAVO",
+                            "roles": [
+                                "MAYOR"
+                            ],
+                            "designations": [],
+                            "phone": "509.527.4522",
+                            "email": null,
+                            "url": "https://www.wallawallawa.gov/Home/Components/StaffDirectory/StaffDirectory/938/3873",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.wallawallawa.gov/government/city-directory"
+                        }
+                    ],
+                    "ROBINSON, JEFFREY": [
+                        {
+                            "name": "ROBINSON, JEFFREY",
+                            "roles": [
+                                "CITY COUNCILMEMBER"
+                            ],
+                            "designations": [],
+                            "phone": "509.527.4522",
+                            "email": null,
+                            "url": "https://www.wallawallawa.gov/Home/Components/StaffDirectory/StaffDirectory/935/3873",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.wallawallawa.gov/government/city-directory"
+                        }
+                    ],
+                    "WILLIS, MONTE": [
+                        {
+                            "name": "WILLIS, MONTE",
+                            "roles": [
+                                "CITY COUNCILMEMBER"
+                            ],
+                            "designations": [],
+                            "phone": "509.527.4522",
+                            "email": null,
+                            "url": "https://www.wallawallawa.gov/Home/Components/StaffDirectory/StaffDirectory/934/3873",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.wallawallawa.gov/government/city-directory"
+                        }
+                    ]
+                }
+            },
+            "records_by_llm": {
+                "open_router": {
+                    "Gustavo Reyna": [
+                        {
+                            "name": "Gustavo Reyna",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [
+                                "Position 3",
+                                "At-Large"
+                            ],
+                            "phone": null,
+                            "email": "greyna@wallawallawa.gov",
+                            "url": null,
+                            "start_date": "2021-11",
+                            "end_date": "2029-12-31",
+                            "image": "local://c6867d157600.png",
+                            "source_url": "https://www.wallawallawa.gov/government/city-council"
+                        }
+                    ],
+                    "Steve Moss": [
+                        {
+                            "name": "Steve Moss",
+                            "roles": [
+                                "Mayor Pro Tempore"
+                            ],
+                            "designations": [
+                                "Position 7",
+                                "At-Large"
+                            ],
+                            "phone": null,
+                            "email": "smoss@wallawallawa.gov",
+                            "url": null,
+                            "start_date": "2015-11",
+                            "end_date": "2027-12-31",
+                            "image": "local://97b257441875.png",
+                            "source_url": "https://www.wallawallawa.gov/government/city-council"
+                        }
+                    ],
+                    "Rodney Outlaw": [
+                        {
+                            "name": "Rodney Outlaw",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Ward Central",
+                                "Position 2"
+                            ],
+                            "phone": null,
+                            "email": "routlaw@wallawallawa.gov",
+                            "url": null,
+                            "start_date": "2025-11",
+                            "end_date": "2029-12-31",
+                            "image": "local://0ab4a6a66c6b.png",
+                            "source_url": "https://www.wallawallawa.gov/government/city-council"
+                        }
+                    ],
+                    "Rick Eskil": [
+                        {
+                            "name": "Rick Eskil",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Ward South",
+                                "Position 1"
+                            ],
+                            "phone": null,
+                            "email": "reskil@wallawallawa.gov",
+                            "url": null,
+                            "start_date": "2021-11",
+                            "end_date": "2029-12-31",
+                            "image": "local://c42f56989804.png",
+                            "source_url": "https://www.wallawallawa.gov/government/city-council"
+                        }
+                    ],
+                    "Monte A. Willis": [
+                        {
+                            "name": "Monte A. Willis",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Ward East",
+                                "Position 4"
+                            ],
+                            "phone": null,
+                            "email": "mwillis@wallawallawa.gov",
+                            "url": null,
+                            "start_date": "2023-11",
+                            "end_date": "2027-12-31",
+                            "image": "local://5f2f09421096.png",
+                            "source_url": "https://www.wallawallawa.gov/government/city-council"
+                        }
+                    ],
+                    "Jeffrey Robinson": [
+                        {
+                            "name": "Jeffrey Robinson",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Ward West",
+                                "Position 5"
+                            ],
+                            "phone": null,
+                            "email": "jrobinson@wallawallawa.gov",
+                            "url": null,
+                            "start_date": "2023-11",
+                            "end_date": "2027-12-31",
+                            "image": "local://44496dfdf517.png",
+                            "source_url": "https://www.wallawallawa.gov/government/city-council"
+                        }
+                    ],
+                    "Emily Brown": [
+                        {
+                            "name": "Emily Brown",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 6",
+                                "At-Large"
+                            ],
+                            "phone": null,
+                            "email": "ebrown@wallawallawa.gov",
+                            "url": null,
+                            "start_date": "2026-02-25",
+                            "end_date": "2027-12-31",
+                            "image": "local://9115379141e3.png",
+                            "source_url": "https://www.wallawallawa.gov/government/city-council"
+                        }
+                    ],
+                    "BROWN, EMILY": [
+                        {
+                            "name": "EMILY BROWN",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": "(509) 527-4522",
+                            "email": null,
+                            "url": "https://www.wallawallawa.gov/Home/Components/StaffDirectory/StaffDirectory/1066/3873",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.wallawallawa.gov/government/city-directory"
+                        }
+                    ],
+                    "ESKIL, RICK": [
+                        {
+                            "name": "RICK ESKIL",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": "(509) 527-4522",
+                            "email": null,
+                            "url": "https://www.wallawallawa.gov/Home/Components/StaffDirectory/StaffDirectory/932/3873",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.wallawallawa.gov/government/city-directory"
+                        }
+                    ],
+                    "MOSS, STEVE": [
+                        {
+                            "name": "STEVE MOSS",
+                            "roles": [
+                                "Mayor Pro Tempore"
+                            ],
+                            "designations": [],
+                            "phone": "(509) 527-4522",
+                            "email": null,
+                            "url": "https://www.wallawallawa.gov/Home/Components/StaffDirectory/StaffDirectory/937/3873",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.wallawallawa.gov/government/city-directory"
+                        }
+                    ],
+                    "OUTLAW, RODNEY": [
+                        {
+                            "name": "RODNEY OUTLAW",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": "(509) 527-4522",
+                            "email": null,
+                            "url": "https://www.wallawallawa.gov/Home/Components/StaffDirectory/StaffDirectory/936/3873",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.wallawallawa.gov/government/city-directory"
+                        }
+                    ],
+                    "REYNA, GUSTAVO": [
+                        {
+                            "name": "GUSTAVO REYNA",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "(509) 527-4522",
+                            "email": null,
+                            "url": "https://www.wallawallawa.gov/Home/Components/StaffDirectory/StaffDirectory/938/3873",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.wallawallawa.gov/government/city-directory"
+                        }
+                    ],
+                    "ROBINSON, JEFFREY": [
+                        {
+                            "name": "JEFFREY ROBINSON",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": "(509) 527-4522",
+                            "email": null,
+                            "url": "https://www.wallawallawa.gov/Home/Components/StaffDirectory/StaffDirectory/935/3873",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.wallawallawa.gov/government/city-directory"
+                        }
+                    ],
+                    "WILLIS, MONTE": [
+                        {
+                            "name": "MONTE WILLIS",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": "(509) 527-4522",
+                            "email": null,
+                            "url": "https://www.wallawallawa.gov/Home/Components/StaffDirectory/StaffDirectory/934/3873",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.wallawallawa.gov/government/city-directory"
+                        }
+                    ]
+                }
+            },
+            "progress": {
+                "required_data": 7,
+                "current_data": 0,
+                "has_target_role": true,
+                "has_target_designations": true
+            }
+        },
+        "merge_records_within_llm_step": {
+            "people_by_llm": {
+                "open_router": [
+                    {
+                        "name": "Gustavo Reyna",
+                        "other_names": [
+                            "GUSTAVO REYNA"
+                        ],
+                        "roles": [
+                            "Mayor"
+                        ],
+                        "designations": [
+                            "At-Large",
+                            "Position 3"
+                        ],
+                        "phones": [
+                            "(509) 527-4522"
+                        ],
+                        "emails": [
+                            "greyna@wallawallawa.gov"
+                        ],
+                        "urls": [
+                            "https://www.wallawallawa.gov/Home/Components/StaffDirectory/StaffDirectory/938/3873"
+                        ],
+                        "start_date": "2021-11",
+                        "end_date": "2029-12-31",
+                        "image": "local://c6867d157600.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:walla_walla/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.wallawallawa.gov/government/city-council",
+                            "https://www.wallawallawa.gov/government/city-directory"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Steven Moss",
+                        "other_names": [
+                            "STEVE MOSS",
+                            "Steve Moss"
+                        ],
+                        "roles": [
+                            "Mayor Pro Tempore"
+                        ],
+                        "designations": [
+                            "At-Large",
+                            "Position 7"
+                        ],
+                        "phones": [
+                            "(509) 527-4522"
+                        ],
+                        "emails": [
+                            "smoss@wallawallawa.gov"
+                        ],
+                        "urls": [
+                            "https://www.wallawallawa.gov/Home/Components/StaffDirectory/StaffDirectory/937/3873"
+                        ],
+                        "start_date": "2015-11",
+                        "end_date": "2027-12-31",
+                        "image": "local://97b257441875.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:walla_walla/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.wallawallawa.gov/government/city-council",
+                            "https://www.wallawallawa.gov/government/city-directory"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Rodney Outlaw",
+                        "other_names": [
+                            "RODNEY OUTLAW"
+                        ],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 2",
+                            "Ward Central"
+                        ],
+                        "phones": [
+                            "(509) 527-4522"
+                        ],
+                        "emails": [
+                            "routlaw@wallawallawa.gov"
+                        ],
+                        "urls": [
+                            "https://www.wallawallawa.gov/Home/Components/StaffDirectory/StaffDirectory/936/3873"
+                        ],
+                        "start_date": "2025-11",
+                        "end_date": "2029-12-31",
+                        "image": "local://0ab4a6a66c6b.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:walla_walla/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.wallawallawa.gov/government/city-council",
+                            "https://www.wallawallawa.gov/government/city-directory"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Rick Eskil",
+                        "other_names": [
+                            "RICK ESKIL"
+                        ],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 1",
+                            "Ward South"
+                        ],
+                        "phones": [
+                            "(509) 527-4522"
+                        ],
+                        "emails": [
+                            "reskil@wallawallawa.gov"
+                        ],
+                        "urls": [
+                            "https://www.wallawallawa.gov/Home/Components/StaffDirectory/StaffDirectory/932/3873"
+                        ],
+                        "start_date": "2021-11",
+                        "end_date": "2029-12-31",
+                        "image": "local://c42f56989804.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:walla_walla/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.wallawallawa.gov/government/city-council",
+                            "https://www.wallawallawa.gov/government/city-directory"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Monte A. Willis",
+                        "other_names": [
+                            "MONTE WILLIS"
+                        ],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Ward East",
+                            "Position 4"
+                        ],
+                        "phones": [
+                            "(509) 527-4522"
+                        ],
+                        "emails": [
+                            "mwillis@wallawallawa.gov"
+                        ],
+                        "urls": [
+                            "https://www.wallawallawa.gov/Home/Components/StaffDirectory/StaffDirectory/934/3873"
+                        ],
+                        "start_date": "2023-11",
+                        "end_date": "2027-12-31",
+                        "image": "local://5f2f09421096.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:walla_walla/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.wallawallawa.gov/government/city-council",
+                            "https://www.wallawallawa.gov/government/city-directory"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Jeffrey Robinson",
+                        "other_names": [
+                            "JEFFREY ROBINSON"
+                        ],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Ward West",
+                            "Position 5"
+                        ],
+                        "phones": [
+                            "(509) 527-4522"
+                        ],
+                        "emails": [
+                            "jrobinson@wallawallawa.gov"
+                        ],
+                        "urls": [
+                            "https://www.wallawallawa.gov/Home/Components/StaffDirectory/StaffDirectory/935/3873"
+                        ],
+                        "start_date": "2023-11",
+                        "end_date": "2027-12-31",
+                        "image": "local://44496dfdf517.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:walla_walla/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.wallawallawa.gov/government/city-council",
+                            "https://www.wallawallawa.gov/government/city-directory"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Emily Brown",
+                        "other_names": [
+                            "EMILY BROWN"
+                        ],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 6",
+                            "At-Large"
+                        ],
+                        "phones": [
+                            "(509) 527-4522"
+                        ],
+                        "emails": [
+                            "ebrown@wallawallawa.gov"
+                        ],
+                        "urls": [
+                            "https://www.wallawallawa.gov/Home/Components/StaffDirectory/StaffDirectory/1066/3873"
+                        ],
+                        "start_date": "2026-02-25",
+                        "end_date": "2027-12-31",
+                        "image": "local://9115379141e3.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:walla_walla/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.wallawallawa.gov/government/city-council",
+                            "https://www.wallawallawa.gov/government/city-directory"
+                        ],
+                        "updated_at": ""
+                    }
+                ]
+            },
+            "unrecognized_roles": [],
+            "excluded_people": []
+        },
+        "merge_records_across_llms_step": {
+            "people": [
+                {
+                    "name": "Gustavo Reyna",
+                    "other_names": [
+                        "GUSTAVO REYNA"
+                    ],
+                    "roles": [
+                        "mayor"
+                    ],
+                    "designations": [
+                        "position 3",
+                        "at-large"
+                    ],
+                    "phones": [
+                        "(509) 527-4522"
+                    ],
+                    "emails": [
+                        "greyna@wallawallawa.gov"
+                    ],
+                    "urls": [
+                        "https://www.wallawallawa.gov/Home/Components/StaffDirectory/StaffDirectory/938/3873"
+                    ],
+                    "start_date": "2021-11",
+                    "end_date": "2029-12-31",
+                    "image": "local://c6867d157600.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:walla_walla/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.wallawallawa.gov/government/city-council",
+                        "https://www.wallawallawa.gov/government/city-directory"
+                    ],
+                    "updated_at": "2026-05-25T22:46:56+00:00"
+                },
+                {
+                    "name": "Steven Moss",
+                    "other_names": [
+                        "STEVE MOSS",
+                        "Steve Moss"
+                    ],
+                    "roles": [
+                        "mayor pro tempore"
+                    ],
+                    "designations": [
+                        "position 7",
+                        "at-large"
+                    ],
+                    "phones": [
+                        "(509) 527-4522"
+                    ],
+                    "emails": [
+                        "smoss@wallawallawa.gov"
+                    ],
+                    "urls": [
+                        "https://www.wallawallawa.gov/Home/Components/StaffDirectory/StaffDirectory/937/3873"
+                    ],
+                    "start_date": "2015-11",
+                    "end_date": "2027-12-31",
+                    "image": "local://97b257441875.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:walla_walla/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.wallawallawa.gov/government/city-council",
+                        "https://www.wallawallawa.gov/government/city-directory"
+                    ],
+                    "updated_at": "2026-05-25T22:46:56+00:00"
+                },
+                {
+                    "name": "Rick Eskil",
+                    "other_names": [
+                        "RICK ESKIL"
+                    ],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 1",
+                        "ward south"
+                    ],
+                    "phones": [
+                        "(509) 527-4522"
+                    ],
+                    "emails": [
+                        "reskil@wallawallawa.gov"
+                    ],
+                    "urls": [
+                        "https://www.wallawallawa.gov/Home/Components/StaffDirectory/StaffDirectory/932/3873"
+                    ],
+                    "start_date": "2021-11",
+                    "end_date": "2029-12-31",
+                    "image": "local://c42f56989804.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:walla_walla/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.wallawallawa.gov/government/city-council",
+                        "https://www.wallawallawa.gov/government/city-directory"
+                    ],
+                    "updated_at": "2026-05-25T22:46:56+00:00"
+                },
+                {
+                    "name": "Rodney Outlaw",
+                    "other_names": [
+                        "RODNEY OUTLAW"
+                    ],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "ward central",
+                        "position 2"
+                    ],
+                    "phones": [
+                        "(509) 527-4522"
+                    ],
+                    "emails": [
+                        "routlaw@wallawallawa.gov"
+                    ],
+                    "urls": [
+                        "https://www.wallawallawa.gov/Home/Components/StaffDirectory/StaffDirectory/936/3873"
+                    ],
+                    "start_date": "2025-11",
+                    "end_date": "2029-12-31",
+                    "image": "local://0ab4a6a66c6b.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:walla_walla/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.wallawallawa.gov/government/city-council",
+                        "https://www.wallawallawa.gov/government/city-directory"
+                    ],
+                    "updated_at": "2026-05-25T22:46:56+00:00"
+                },
+                {
+                    "name": "Monte A. Willis",
+                    "other_names": [
+                        "MONTE WILLIS"
+                    ],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "ward east",
+                        "position 4"
+                    ],
+                    "phones": [
+                        "(509) 527-4522"
+                    ],
+                    "emails": [
+                        "mwillis@wallawallawa.gov"
+                    ],
+                    "urls": [
+                        "https://www.wallawallawa.gov/Home/Components/StaffDirectory/StaffDirectory/934/3873"
+                    ],
+                    "start_date": "2023-11",
+                    "end_date": "2027-12-31",
+                    "image": "local://5f2f09421096.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:walla_walla/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.wallawallawa.gov/government/city-council",
+                        "https://www.wallawallawa.gov/government/city-directory"
+                    ],
+                    "updated_at": "2026-05-25T22:46:56+00:00"
+                },
+                {
+                    "name": "Jeffrey Robinson",
+                    "other_names": [
+                        "JEFFREY ROBINSON"
+                    ],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "ward west",
+                        "position 5"
+                    ],
+                    "phones": [
+                        "(509) 527-4522"
+                    ],
+                    "emails": [
+                        "jrobinson@wallawallawa.gov"
+                    ],
+                    "urls": [
+                        "https://www.wallawallawa.gov/Home/Components/StaffDirectory/StaffDirectory/935/3873"
+                    ],
+                    "start_date": "2023-11",
+                    "end_date": "2027-12-31",
+                    "image": "local://44496dfdf517.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:walla_walla/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.wallawallawa.gov/government/city-council",
+                        "https://www.wallawallawa.gov/government/city-directory"
+                    ],
+                    "updated_at": "2026-05-25T22:46:56+00:00"
+                },
+                {
+                    "name": "Emily Brown",
+                    "other_names": [
+                        "EMILY BROWN"
+                    ],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 6",
+                        "at-large"
+                    ],
+                    "phones": [
+                        "(509) 527-4522"
+                    ],
+                    "emails": [
+                        "ebrown@wallawallawa.gov"
+                    ],
+                    "urls": [
+                        "https://www.wallawallawa.gov/Home/Components/StaffDirectory/StaffDirectory/1066/3873"
+                    ],
+                    "start_date": "2026-02-25",
+                    "end_date": "2027-12-31",
+                    "image": "local://9115379141e3.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:walla_walla/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.wallawallawa.gov/government/city-council",
+                        "https://www.wallawallawa.gov/government/city-directory"
+                    ],
+                    "updated_at": "2026-05-25T22:46:56+00:00"
+                }
+            ]
+        },
+        "format_output_step": {
+            "officials": [
+                {
+                    "name": "Gustavo Reyna",
+                    "other_names": [
+                        "GUSTAVO REYNA"
+                    ],
+                    "phones": [
+                        "(509) 527-4522"
+                    ],
+                    "emails": [
+                        "greyna@wallawallawa.gov"
+                    ],
+                    "urls": [
+                        "https://www.wallawallawa.gov/Home/Components/StaffDirectory/StaffDirectory/938/3873"
+                    ],
+                    "start_date": "2021-11",
+                    "end_date": "2029-12-31",
+                    "office": {
+                        "name": "Mayor - Position 3 - At-Large",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:walla_walla"
+                    },
+                    "image": "https://www.wallawallawa.gov/home/showpublishedimage/13226/639040679677270000",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:walla_walla/government",
+                    "cdn_image": "local://c6867d157600.png",
+                    "source_urls": [
+                        "https://www.wallawallawa.gov/government/city-council",
+                        "https://www.wallawallawa.gov/government/city-directory"
+                    ],
+                    "updated_at": "2026-05-25T22:46:56+00:00",
+                    "id": "e1008b15-5063-4691-a3b1-20008abf1609"
+                },
+                {
+                    "name": "Steven Moss",
+                    "other_names": [
+                        "STEVE MOSS",
+                        "Steve Moss"
+                    ],
+                    "phones": [
+                        "(509) 527-4522"
+                    ],
+                    "emails": [
+                        "smoss@wallawallawa.gov"
+                    ],
+                    "urls": [
+                        "https://www.wallawallawa.gov/Home/Components/StaffDirectory/StaffDirectory/937/3873"
+                    ],
+                    "start_date": "2015-11",
+                    "end_date": "2027-12-31",
+                    "office": {
+                        "name": "Mayor Pro Tempore - Position 7 - At-Large",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:walla_walla"
+                    },
+                    "image": "https://www.wallawallawa.gov/home/showpublishedimage/13222/639040679660870000",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:walla_walla/government",
+                    "cdn_image": "local://97b257441875.png",
+                    "source_urls": [
+                        "https://www.wallawallawa.gov/government/city-council",
+                        "https://www.wallawallawa.gov/government/city-directory"
+                    ],
+                    "updated_at": "2026-05-25T22:46:56+00:00",
+                    "id": "db809b7a-38c3-4aba-8a8d-b120d73a7634"
+                },
+                {
+                    "name": "Rick Eskil",
+                    "other_names": [
+                        "RICK ESKIL"
+                    ],
+                    "phones": [
+                        "(509) 527-4522"
+                    ],
+                    "emails": [
+                        "reskil@wallawallawa.gov"
+                    ],
+                    "urls": [
+                        "https://www.wallawallawa.gov/Home/Components/StaffDirectory/StaffDirectory/932/3873"
+                    ],
+                    "start_date": "2021-11",
+                    "end_date": "2029-12-31",
+                    "office": {
+                        "name": "Council Member - Position 1",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:walla_walla/ward:south"
+                    },
+                    "image": "https://www.wallawallawa.gov/home/showpublishedimage/13360/639087568741700000",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:walla_walla/government",
+                    "cdn_image": "local://c42f56989804.png",
+                    "source_urls": [
+                        "https://www.wallawallawa.gov/government/city-council",
+                        "https://www.wallawallawa.gov/government/city-directory"
+                    ],
+                    "updated_at": "2026-05-25T22:46:56+00:00",
+                    "id": "b7c6c3ad-ce6d-46b8-907d-d92109c398bc"
+                },
+                {
+                    "name": "Rodney Outlaw",
+                    "other_names": [
+                        "RODNEY OUTLAW"
+                    ],
+                    "phones": [
+                        "(509) 527-4522"
+                    ],
+                    "emails": [
+                        "routlaw@wallawallawa.gov"
+                    ],
+                    "urls": [
+                        "https://www.wallawallawa.gov/Home/Components/StaffDirectory/StaffDirectory/936/3873"
+                    ],
+                    "start_date": "2025-11",
+                    "end_date": "2029-12-31",
+                    "office": {
+                        "name": "Council Member - Position 2",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:walla_walla/ward:central"
+                    },
+                    "image": "https://www.wallawallawa.gov/home/showpublishedimage/13224/639040679669170000",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:walla_walla/government",
+                    "cdn_image": "local://0ab4a6a66c6b.png",
+                    "source_urls": [
+                        "https://www.wallawallawa.gov/government/city-council",
+                        "https://www.wallawallawa.gov/government/city-directory"
+                    ],
+                    "updated_at": "2026-05-25T22:46:56+00:00",
+                    "id": "33b3aa7b-9045-412c-b7eb-4b5301362c9e"
+                },
+                {
+                    "name": "Monte A. Willis",
+                    "other_names": [
+                        "MONTE WILLIS"
+                    ],
+                    "phones": [
+                        "(509) 527-4522"
+                    ],
+                    "emails": [
+                        "mwillis@wallawallawa.gov"
+                    ],
+                    "urls": [
+                        "https://www.wallawallawa.gov/Home/Components/StaffDirectory/StaffDirectory/934/3873"
+                    ],
+                    "start_date": "2023-11",
+                    "end_date": "2027-12-31",
+                    "office": {
+                        "name": "Council Member - Position 4",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:walla_walla/ward:east"
+                    },
+                    "image": "https://www.wallawallawa.gov/home/showpublishedimage/13228/639040679686470000",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:walla_walla/government",
+                    "cdn_image": "local://5f2f09421096.png",
+                    "source_urls": [
+                        "https://www.wallawallawa.gov/government/city-council",
+                        "https://www.wallawallawa.gov/government/city-directory"
+                    ],
+                    "updated_at": "2026-05-25T22:46:56+00:00",
+                    "id": "89cccae3-af57-4d42-9a72-355aa38cdee4"
+                },
+                {
+                    "name": "Jeffrey Robinson",
+                    "other_names": [
+                        "JEFFREY ROBINSON"
+                    ],
+                    "phones": [
+                        "(509) 527-4522"
+                    ],
+                    "emails": [
+                        "jrobinson@wallawallawa.gov"
+                    ],
+                    "urls": [
+                        "https://www.wallawallawa.gov/Home/Components/StaffDirectory/StaffDirectory/935/3873"
+                    ],
+                    "start_date": "2023-11",
+                    "end_date": "2027-12-31",
+                    "office": {
+                        "name": "Council Member - Position 5",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:walla_walla/ward:west"
+                    },
+                    "image": "https://www.wallawallawa.gov/home/showpublishedimage/13362/639087568747630000",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:walla_walla/government",
+                    "cdn_image": "local://44496dfdf517.png",
+                    "source_urls": [
+                        "https://www.wallawallawa.gov/government/city-council",
+                        "https://www.wallawallawa.gov/government/city-directory"
+                    ],
+                    "updated_at": "2026-05-25T22:46:56+00:00",
+                    "id": "0bc118cd-9306-4c4e-8ca4-809a8a6d79ba"
+                },
+                {
+                    "name": "Emily Brown",
+                    "other_names": [
+                        "EMILY BROWN"
+                    ],
+                    "phones": [
+                        "(509) 527-4522"
+                    ],
+                    "emails": [
+                        "ebrown@wallawallawa.gov"
+                    ],
+                    "urls": [
+                        "https://www.wallawallawa.gov/Home/Components/StaffDirectory/StaffDirectory/1066/3873"
+                    ],
+                    "start_date": "2026-02-25",
+                    "end_date": "2027-12-31",
+                    "office": {
+                        "name": "Council Member - Position 6 - At-Large",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:walla_walla"
+                    },
+                    "image": "https://www.wallawallawa.gov/home/showpublishedimage/13358/639087568732570000",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:walla_walla/government",
+                    "cdn_image": "local://9115379141e3.png",
+                    "source_urls": [
+                        "https://www.wallawallawa.gov/government/city-council",
+                        "https://www.wallawallawa.gov/government/city-directory"
+                    ],
+                    "updated_at": "2026-05-25T22:46:56+00:00",
+                    "id": "49613469-8479-4f73-bd23-e81801c2a951"
+                }
+            ]
+        },
+        "review_output_step": {
+            "issues": [
+                "Extra official: Emily Brown",
+                "Extra official: Rodney Outlaw",
+                "Missing official: Brian Casey",
+                "Missing official: Tom Scribner"
+            ],
+            "people_by_source": [
+                {
+                    "name": "Brian Casey",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Emily Brown",
+                    "in_research": false,
+                    "in_data": true
+                },
+                {
+                    "name": "Gustavo Reyna",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Jeffrey Robinson",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Monte A. Willis",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Rick Eskil",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Rodney Outlaw",
+                    "in_research": false,
+                    "in_data": true
+                },
+                {
+                    "name": "Steven Moss",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Tom Scribner",
+                    "in_research": true,
+                    "in_data": false
+                }
+            ],
+            "origin_source": "existing"
+        },
+        "find_jurisdiction_url_step": null,
+        "send_success_step": null,
+        "send_error_step": null,
+        "issues": [],
+        "error_step": null,
+        "error_detail": null
+    },
+    "current_state": "SEND_SUCCESS",
+    "request_id": "d0da148d-b39d-4aec-81f1-1a5117926385",
+    "created_at": 1779748812.82581,
+    "updated_at": 1779749216.8474417,
+    "progress": 27
+}
