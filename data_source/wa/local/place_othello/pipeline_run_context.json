@@ -1,0 +1,1641 @@
+{
+    "data": {
+        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:othello/government",
+        "config": {
+            "url": "https://www.othellowa.gov/",
+            "name": "Othello city",
+            "source_urls": null
+        },
+        "frontier": {
+            "links": {
+                "https://othellowa.gov": {
+                    "url": "https://www.othellowa.gov/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_othellowa_gov_",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 1
+                },
+                "https://othellowa.gov/electedcityofficials": {
+                    "url": "https://www.othellowa.gov/ELECTEDCITYOFFICIALS",
+                    "status": "done",
+                    "folder_name": "www_othellowa_gov_electedcityofficials",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 2
+                },
+                "https://othellowa.gov/city-council": {
+                    "url": "https://www.othellowa.gov/city-council",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://othellowa.gov/city-council-meeting-schedule": {
+                    "url": "https://www.othellowa.gov/city-council-meeting-schedule",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_othellowa_gov_city-council-meeting-schedule",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 3
+                },
+                "https://othellowa.gov/council-meeting-calendar": {
+                    "url": "https://www.othellowa.gov/council-meeting-calendar",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_othellowa_gov_council-meeting-calendar",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 4
+                },
+                "https://othellowa.gov/archive": {
+                    "url": "https://www.othellowa.gov/archive",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 5,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://othellowa.gov/events/90422": {
+                    "url": "https://www.othellowa.gov/events/90422/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://othellowa.gov/events/99852": {
+                    "url": "https://www.othellowa.gov/events/99852/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://othellowa.gov/events/96676": {
+                    "url": "https://www.othellowa.gov/events/96676/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://othellowa.gov/events/96675": {
+                    "url": "https://www.othellowa.gov/events/96675/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://othellowa.gov/events/96677": {
+                    "url": "https://www.othellowa.gov/events/96677/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://othellowa.gov/meetingdashboard": {
+                    "url": "https://www.othellowa.gov/meetingdashboard",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_othellowa_gov_meetingdashboard",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 23
+                },
+                "https://othellowa.gov/meetings": {
+                    "url": "https://www.othellowa.gov/meetings",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_othellowa_gov_meetings",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 24
+                },
+                "https://othellowa.gov/calendar": {
+                    "url": "https://www.othellowa.gov/calendar",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://othellowa.gov/departments/administration": {
+                    "url": "https://www.othellowa.gov/departments/Administration",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_othellowa_gov_departments_administration",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 5
+                },
+                "https://othellowa.gov/departments/cityclerk": {
+                    "url": "https://www.othellowa.gov/departments/CityClerk",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_othellowa_gov_departments_cityclerk",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 6
+                },
+                "https://othellowa.gov/departments/cityengineering": {
+                    "url": "https://www.othellowa.gov/departments/CityEngineering",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_othellowa_gov_departments_cityengineering",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 11
+                },
+                "https://othellowa.gov/departments/buildingplanning": {
+                    "url": "https://www.othellowa.gov/departments/BuildingPlanning",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_othellowa_gov_departments_buildingplanning",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 12
+                },
+                "https://othellowa.gov/departments/finance": {
+                    "url": "https://www.othellowa.gov/departments/Finance",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_othellowa_gov_departments_finance",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 13
+                },
+                "https://othellowa.gov/departments/firedepartment": {
+                    "url": "https://www.othellowa.gov/departments/FireDepartment",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_othellowa_gov_departments_firedepartment",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 14
+                },
+                "https://othellowa.gov/departments/humanresources": {
+                    "url": "https://www.othellowa.gov/departments/HumanResources",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_othellowa_gov_departments_humanresources",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 15
+                },
+                "https://othellowa.gov/departments/informationtechnology": {
+                    "url": "https://www.othellowa.gov/departments/InformationTechnology",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_othellowa_gov_departments_informationtechnology",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 16
+                },
+                "https://othellowa.gov/departments/libraryservices": {
+                    "url": "https://www.othellowa.gov/departments/LibraryServices",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_othellowa_gov_departments_libraryservices",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 17
+                },
+                "https://othellowa.gov/departments/othellomunicipalcourt": {
+                    "url": "https://www.othellowa.gov/departments/OthelloMunicipalCourt",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_othellowa_gov_departments_othellomunicipalcourt",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 18
+                },
+                "https://othellowa.gov/departments/policedepartment": {
+                    "url": "https://www.othellowa.gov/departments/PoliceDepartment",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_othellowa_gov_departments_policedepartment",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 19
+                },
+                "https://othellowa.gov/departments/publicworks": {
+                    "url": "https://www.othellowa.gov/departments/PublicWorks",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_othellowa_gov_departments_publicworks",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 20
+                },
+                "https://othellowa.gov/civil-service-commission": {
+                    "url": "https://www.othellowa.gov/civil-service-commission",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_othellowa_gov_civil-service-commission",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 8
+                },
+                "https://othellowa.gov/lodging-tax-advisory-committee": {
+                    "url": "https://www.othellowa.gov/lodging-tax-advisory-committee",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://othellowa.gov/planning-commission": {
+                    "url": "https://www.othellowa.gov/planning-commission",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_othellowa_gov_planning-commission",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 9
+                },
+                "https://othellowa.gov/planning-commission-minutes": {
+                    "url": "https://www.othellowa.gov/planning-commission-minutes",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_othellowa_gov_planning-commission-minutes",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 22
+                },
+                "https://othellowa.gov/city-contracts": {
+                    "url": "https://www.othellowa.gov/city-contracts",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_othellowa_gov_city-contracts",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 10
+                },
+                "https://othellowa.gov/city-council-agendas": {
+                    "url": "https://www.othellowa.gov/city-council-agendas",
+                    "status": "error",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 7
+                },
+                "https://othellowa.gov/contact-us": {
+                    "url": "https://www.othellowa.gov/contact-us",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://othellowa.gov/calendar/189": {
+                    "url": "https://www.othellowa.gov/calendar/189/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://othellowa.gov/calendar/835": {
+                    "url": "https://www.othellowa.gov/calendar/835/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://othellowa.gov/events/96674": {
+                    "url": "https://www.othellowa.gov/events/96674/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://othellowa.gov/departments/staff_directory/administration": {
+                    "url": "https://www.othellowa.gov/departments/staff_directory/Administration/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://othellowa.gov/departments/staff_directory/cityclerk": {
+                    "url": "https://www.othellowa.gov/departments/staff_directory/CityClerk/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://othellowa.gov/departments/staff_directory/cityengineering": {
+                    "url": "https://www.othellowa.gov/departments/staff_directory/CityEngineering/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://othellowa.gov/departments/staff_directory/buildingplanning": {
+                    "url": "https://www.othellowa.gov/departments/staff_directory/BuildingPlanning/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://othellowa.gov/departments": {
+                    "url": "https://www.othellowa.gov/departments/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_othellowa_gov_departments_",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 21
+                },
+                "https://othellowa.gov/departments/staff_directory/finance": {
+                    "url": "https://www.othellowa.gov/departments/staff_directory/Finance/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://othellowa.gov/departments/staff_directory/humanresources": {
+                    "url": "https://www.othellowa.gov/departments/staff_directory/HumanResources/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://othellowa.gov/departments/staff_directory/informationtechnology": {
+                    "url": "https://www.othellowa.gov/departments/staff_directory/InformationTechnology/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://othellowa.gov/departments/staff_directory/libraryservices": {
+                    "url": "https://www.othellowa.gov/departments/staff_directory/LibraryServices/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://othellowa.gov/departments/staff_directory/othellomunicipalcourt": {
+                    "url": "https://www.othellowa.gov/departments/staff_directory/OthelloMunicipalCourt/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://othellowa.gov/departments/staff_directory/policedepartment": {
+                    "url": "https://www.othellowa.gov/departments/staff_directory/PoliceDepartment/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://othellowa.gov/departments/staff_directory/publicworks": {
+                    "url": "https://www.othellowa.gov/departments/staff_directory/PublicWorks/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://othellowa.gov/departments/citygovernment": {
+                    "url": "https://www.othellowa.gov/departments/CityGovernment",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                }
+            },
+            "queue": [
+                "https://othellowa.gov/departments/citygovernment",
+                "https://othellowa.gov/departments/staff_directory/administration",
+                "https://othellowa.gov/departments/staff_directory/cityclerk",
+                "https://othellowa.gov/departments/staff_directory/cityengineering",
+                "https://othellowa.gov/departments/staff_directory/buildingplanning",
+                "https://othellowa.gov/departments/staff_directory/finance",
+                "https://othellowa.gov/departments/staff_directory/humanresources",
+                "https://othellowa.gov/departments/staff_directory/informationtechnology",
+                "https://othellowa.gov/departments/staff_directory/libraryservices",
+                "https://othellowa.gov/departments/staff_directory/othellomunicipalcourt",
+                "https://othellowa.gov/departments/staff_directory/policedepartment",
+                "https://othellowa.gov/departments/staff_directory/publicworks",
+                "https://othellowa.gov/city-council",
+                "https://othellowa.gov/archive",
+                "https://othellowa.gov/contact-us",
+                "https://othellowa.gov/calendar",
+                "https://othellowa.gov/events/90422",
+                "https://othellowa.gov/events/99852",
+                "https://othellowa.gov/events/96676",
+                "https://othellowa.gov/lodging-tax-advisory-committee",
+                "https://othellowa.gov/events/96675",
+                "https://othellowa.gov/events/96677",
+                "https://othellowa.gov/calendar/189",
+                "https://othellowa.gov/calendar/835",
+                "https://othellowa.gov/events/96674"
+            ]
+        },
+        "research_municipality_step": {
+            "expected_count": 8,
+            "target_designations": [],
+            "known_roles": [
+                "Mayor",
+                "Council Member"
+            ],
+            "identities": {
+                "Shawn Logan": [],
+                "Angel Garza": [],
+                "Corey Everett": [],
+                "Danae Valdez": [],
+                "Darryl Barnes": [],
+                "Genna Dorow": [],
+                "John Lallas": [],
+                "Mark Snyder": []
+            },
+            "source_urls": [
+                "https://www.othellowa.gov/ELECTEDCITYOFFICIALS",
+                "https://www.othellowa.gov/city-council"
+            ],
+            "notes": null,
+            "origin_source": "existing"
+        },
+        "preprocess_page_content_step": {
+            "elapsed_times": [
+                3,
+                2,
+                2,
+                2,
+                2,
+                0,
+                39,
+                1,
+                4,
+                0,
+                1,
+                6,
+                1,
+                24,
+                18,
+                18,
+                20,
+                20,
+                20,
+                18,
+                18,
+                18,
+                18,
+                19,
+                19,
+                18,
+                19,
+                21,
+                18,
+                20,
+                18,
+                18,
+                19,
+                17,
+                18,
+                19
+            ],
+            "total_elapsed_time_seconds": 435,
+            "average_elapsed_time_seconds": 12
+        },
+        "process_page_content_step": {
+            "raw_records_by_llm": {
+                "open_router": {
+                    "Ken Johnson": [
+                        {
+                            "name": "Ken Johnson",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "kjohnson@othellowa.gov",
+                            "url": null,
+                            "start_date": "2026-01",
+                            "end_date": "2029-12",
+                            "image": "local://a2f4ac5c4708.png",
+                            "source_url": "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                        }
+                    ],
+                    "Kelli Camp": [
+                        {
+                            "name": "Kelli Camp",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 1"
+                            ],
+                            "phone": null,
+                            "email": "kcamp@othellowa.gov",
+                            "url": null,
+                            "start_date": "2026-01",
+                            "end_date": "2029-12",
+                            "image": "local://56f6d15e6b08.png",
+                            "source_url": "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                        }
+                    ],
+                    "Marc Spohr": [
+                        {
+                            "name": "Marc Spohr",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 2"
+                            ],
+                            "phone": null,
+                            "email": "mspohr@othellowa.gov",
+                            "url": null,
+                            "start_date": "2026-01",
+                            "end_date": "2029-12",
+                            "image": "local://d349f9d2ecd6.png",
+                            "source_url": "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                        }
+                    ],
+                    "Alma Carmona": [
+                        {
+                            "name": "Alma Carmona",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 3"
+                            ],
+                            "phone": null,
+                            "email": "acarmona@othellowa.gov",
+                            "url": null,
+                            "start_date": "2026-01",
+                            "end_date": "2029-12",
+                            "image": "local://b1c822b02522.png",
+                            "source_url": "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                        }
+                    ],
+                    "Darryl Barnes": [
+                        {
+                            "name": "Darryl Barnes",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 4"
+                            ],
+                            "phone": null,
+                            "email": "dbarnes@othellowa.gov",
+                            "url": null,
+                            "start_date": "2023-01",
+                            "end_date": "2027-12",
+                            "image": "local://efa19d9314c0.png",
+                            "source_url": "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                        }
+                    ],
+                    "Chris Dorow": [
+                        {
+                            "name": "Chris Dorow",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 5"
+                            ],
+                            "phone": null,
+                            "email": "cdorow@othellwa.gov",
+                            "url": null,
+                            "start_date": "2024-01",
+                            "end_date": "2027-12",
+                            "image": "local://454d5f39dce2.png",
+                            "source_url": "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                        }
+                    ],
+                    "Mark T. Snyder": [
+                        {
+                            "name": "Mark T. Snyder",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 6"
+                            ],
+                            "phone": null,
+                            "email": "msnyder@othellowa.gov",
+                            "url": null,
+                            "start_date": "2023-01",
+                            "end_date": "2027-12",
+                            "image": "local://4fe4919878ac.png",
+                            "source_url": "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                        }
+                    ],
+                    "Angel Garza": [
+                        {
+                            "name": "Angel Garza",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 7"
+                            ],
+                            "phone": null,
+                            "email": "angelgarza@othellowa.gov",
+                            "url": null,
+                            "start_date": "2023-01",
+                            "end_date": "2027-12",
+                            "image": "local://c08dda3fc2e0.png",
+                            "source_url": "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                        }
+                    ]
+                }
+            },
+            "records_by_llm": {
+                "open_router": {
+                    "Ken Johnson": [
+                        {
+                            "name": "Ken Johnson",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "kjohnson@othellowa.gov",
+                            "url": null,
+                            "start_date": "2026-01",
+                            "end_date": "2029-12",
+                            "image": "local://a2f4ac5c4708.png",
+                            "source_url": "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                        }
+                    ],
+                    "Kelli Camp": [
+                        {
+                            "name": "Kelli Camp",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 1"
+                            ],
+                            "phone": null,
+                            "email": "kcamp@othellowa.gov",
+                            "url": null,
+                            "start_date": "2026-01",
+                            "end_date": "2029-12",
+                            "image": "local://56f6d15e6b08.png",
+                            "source_url": "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                        }
+                    ],
+                    "Marc Spohr": [
+                        {
+                            "name": "Marc Spohr",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 2"
+                            ],
+                            "phone": null,
+                            "email": "mspohr@othellowa.gov",
+                            "url": null,
+                            "start_date": "2026-01",
+                            "end_date": "2029-12",
+                            "image": "local://d349f9d2ecd6.png",
+                            "source_url": "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                        }
+                    ],
+                    "Alma Carmona": [
+                        {
+                            "name": "Alma Carmona",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 3"
+                            ],
+                            "phone": null,
+                            "email": "acarmona@othellowa.gov",
+                            "url": null,
+                            "start_date": "2026-01",
+                            "end_date": "2029-12",
+                            "image": "local://b1c822b02522.png",
+                            "source_url": "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                        }
+                    ],
+                    "Darryl Barnes": [
+                        {
+                            "name": "Darryl Barnes",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 4"
+                            ],
+                            "phone": null,
+                            "email": "dbarnes@othellowa.gov",
+                            "url": null,
+                            "start_date": "2023-01",
+                            "end_date": "2027-12",
+                            "image": "local://efa19d9314c0.png",
+                            "source_url": "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                        }
+                    ],
+                    "Chris Dorow": [
+                        {
+                            "name": "Chris Dorow",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 5"
+                            ],
+                            "phone": null,
+                            "email": "cdorow@othellwa.gov",
+                            "url": null,
+                            "start_date": "2024-01",
+                            "end_date": "2027-12",
+                            "image": "local://454d5f39dce2.png",
+                            "source_url": "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                        }
+                    ],
+                    "Mark T. Snyder": [
+                        {
+                            "name": "Mark T. Snyder",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 6"
+                            ],
+                            "phone": null,
+                            "email": "msnyder@othellowa.gov",
+                            "url": null,
+                            "start_date": "2023-01",
+                            "end_date": "2027-12",
+                            "image": "local://4fe4919878ac.png",
+                            "source_url": "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                        }
+                    ],
+                    "Angel Garza": [
+                        {
+                            "name": "Angel Garza",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 7"
+                            ],
+                            "phone": null,
+                            "email": "angelgarza@othellowa.gov",
+                            "url": null,
+                            "start_date": "2023-01",
+                            "end_date": "2027-12",
+                            "image": "local://c08dda3fc2e0.png",
+                            "source_url": "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                        }
+                    ]
+                }
+            },
+            "progress": {
+                "required_data": 8,
+                "current_data": 0,
+                "has_target_role": true,
+                "has_target_designations": true
+            }
+        },
+        "merge_records_within_llm_step": {
+            "people_by_llm": {
+                "open_router": [
+                    {
+                        "name": "Ken Johnson",
+                        "other_names": [],
+                        "roles": [
+                            "Mayor"
+                        ],
+                        "designations": [],
+                        "phones": [],
+                        "emails": [
+                            "kjohnson@othellowa.gov"
+                        ],
+                        "urls": [],
+                        "start_date": "2026-01",
+                        "end_date": "2029-12",
+                        "image": "local://a2f4ac5c4708.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:othello/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Kelli Camp",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 1"
+                        ],
+                        "phones": [],
+                        "emails": [
+                            "kcamp@othellowa.gov"
+                        ],
+                        "urls": [],
+                        "start_date": "2026-01",
+                        "end_date": "2029-12",
+                        "image": "local://56f6d15e6b08.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:othello/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Marc Spohr",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 2"
+                        ],
+                        "phones": [],
+                        "emails": [
+                            "mspohr@othellowa.gov"
+                        ],
+                        "urls": [],
+                        "start_date": "2026-01",
+                        "end_date": "2029-12",
+                        "image": "local://d349f9d2ecd6.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:othello/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Alma Carmona",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 3"
+                        ],
+                        "phones": [],
+                        "emails": [
+                            "acarmona@othellowa.gov"
+                        ],
+                        "urls": [],
+                        "start_date": "2026-01",
+                        "end_date": "2029-12",
+                        "image": "local://b1c822b02522.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:othello/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Darryl Barnes",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 4"
+                        ],
+                        "phones": [],
+                        "emails": [
+                            "dbarnes@othellowa.gov"
+                        ],
+                        "urls": [],
+                        "start_date": "2023-01",
+                        "end_date": "2027-12",
+                        "image": "local://efa19d9314c0.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:othello/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Chris Dorow",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 5"
+                        ],
+                        "phones": [],
+                        "emails": [
+                            "cdorow@othellwa.gov"
+                        ],
+                        "urls": [],
+                        "start_date": "2024-01",
+                        "end_date": "2027-12",
+                        "image": "local://454d5f39dce2.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:othello/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Mark Snyder",
+                        "other_names": [
+                            "Mark T. Snyder"
+                        ],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 6"
+                        ],
+                        "phones": [],
+                        "emails": [
+                            "msnyder@othellowa.gov"
+                        ],
+                        "urls": [],
+                        "start_date": "2023-01",
+                        "end_date": "2027-12",
+                        "image": "local://4fe4919878ac.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:othello/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Angel Garza",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 7"
+                        ],
+                        "phones": [],
+                        "emails": [
+                            "angelgarza@othellowa.gov"
+                        ],
+                        "urls": [],
+                        "start_date": "2023-01",
+                        "end_date": "2027-12",
+                        "image": "local://c08dda3fc2e0.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:othello/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                        ],
+                        "updated_at": ""
+                    }
+                ]
+            },
+            "unrecognized_roles": [],
+            "excluded_people": []
+        },
+        "merge_records_across_llms_step": {
+            "people": [
+                {
+                    "name": "Ken Johnson",
+                    "other_names": [],
+                    "roles": [
+                        "mayor"
+                    ],
+                    "designations": [],
+                    "phones": [],
+                    "emails": [
+                        "kjohnson@othellowa.gov"
+                    ],
+                    "urls": [],
+                    "start_date": "2026-01",
+                    "end_date": "2029-12",
+                    "image": "local://a2f4ac5c4708.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:othello/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                    ],
+                    "updated_at": "2026-05-25T19:34:56+00:00"
+                },
+                {
+                    "name": "Kelli Camp",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 1"
+                    ],
+                    "phones": [],
+                    "emails": [
+                        "kcamp@othellowa.gov"
+                    ],
+                    "urls": [],
+                    "start_date": "2026-01",
+                    "end_date": "2029-12",
+                    "image": "local://56f6d15e6b08.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:othello/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                    ],
+                    "updated_at": "2026-05-25T19:34:56+00:00"
+                },
+                {
+                    "name": "Marc Spohr",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 2"
+                    ],
+                    "phones": [],
+                    "emails": [
+                        "mspohr@othellowa.gov"
+                    ],
+                    "urls": [],
+                    "start_date": "2026-01",
+                    "end_date": "2029-12",
+                    "image": "local://d349f9d2ecd6.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:othello/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                    ],
+                    "updated_at": "2026-05-25T19:34:56+00:00"
+                },
+                {
+                    "name": "Alma Carmona",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 3"
+                    ],
+                    "phones": [],
+                    "emails": [
+                        "acarmona@othellowa.gov"
+                    ],
+                    "urls": [],
+                    "start_date": "2026-01",
+                    "end_date": "2029-12",
+                    "image": "local://b1c822b02522.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:othello/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                    ],
+                    "updated_at": "2026-05-25T19:34:56+00:00"
+                },
+                {
+                    "name": "Darryl Barnes",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 4"
+                    ],
+                    "phones": [],
+                    "emails": [
+                        "dbarnes@othellowa.gov"
+                    ],
+                    "urls": [],
+                    "start_date": "2023-01",
+                    "end_date": "2027-12",
+                    "image": "local://efa19d9314c0.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:othello/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                    ],
+                    "updated_at": "2026-05-25T19:34:56+00:00"
+                },
+                {
+                    "name": "Chris Dorow",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 5"
+                    ],
+                    "phones": [],
+                    "emails": [
+                        "cdorow@othellwa.gov"
+                    ],
+                    "urls": [],
+                    "start_date": "2024-01",
+                    "end_date": "2027-12",
+                    "image": "local://454d5f39dce2.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:othello/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                    ],
+                    "updated_at": "2026-05-25T19:34:56+00:00"
+                },
+                {
+                    "name": "Mark Snyder",
+                    "other_names": [
+                        "Mark T. Snyder"
+                    ],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 6"
+                    ],
+                    "phones": [],
+                    "emails": [
+                        "msnyder@othellowa.gov"
+                    ],
+                    "urls": [],
+                    "start_date": "2023-01",
+                    "end_date": "2027-12",
+                    "image": "local://4fe4919878ac.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:othello/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                    ],
+                    "updated_at": "2026-05-25T19:34:56+00:00"
+                },
+                {
+                    "name": "Angel Garza",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 7"
+                    ],
+                    "phones": [],
+                    "emails": [
+                        "angelgarza@othellowa.gov"
+                    ],
+                    "urls": [],
+                    "start_date": "2023-01",
+                    "end_date": "2027-12",
+                    "image": "local://c08dda3fc2e0.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:othello/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                    ],
+                    "updated_at": "2026-05-25T19:34:56+00:00"
+                }
+            ]
+        },
+        "format_output_step": {
+            "officials": [
+                {
+                    "name": "Ken Johnson",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [
+                        "kjohnson@othellowa.gov"
+                    ],
+                    "urls": [
+                        "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                    ],
+                    "start_date": "2026-01",
+                    "end_date": "2029-12",
+                    "office": {
+                        "name": "Mayor",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:othello"
+                    },
+                    "image": "https://www.othellowa.gov/media/City Council/Council_KenJ26.jpg?width=640",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:othello/government",
+                    "cdn_image": "local://a2f4ac5c4708.png",
+                    "source_urls": [
+                        "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                    ],
+                    "updated_at": "2026-05-25T19:34:56+00:00",
+                    "id": "7c9485ba-81bc-4526-8206-478775af9c56"
+                },
+                {
+                    "name": "Kelli Camp",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [
+                        "kcamp@othellowa.gov"
+                    ],
+                    "urls": [
+                        "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                    ],
+                    "start_date": "2026-01",
+                    "end_date": "2029-12",
+                    "office": {
+                        "name": "Council Member - Position 1",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:othello"
+                    },
+                    "image": "https://www.othellowa.gov/media/City Council/Council_KelliC26.jpg?width=640",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:othello/government",
+                    "cdn_image": "local://56f6d15e6b08.png",
+                    "source_urls": [
+                        "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                    ],
+                    "updated_at": "2026-05-25T19:34:56+00:00",
+                    "id": "d10c8973-88e4-4c02-af0b-250bda8ad131"
+                },
+                {
+                    "name": "Marc Spohr",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [
+                        "mspohr@othellowa.gov"
+                    ],
+                    "urls": [
+                        "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                    ],
+                    "start_date": "2026-01",
+                    "end_date": "2029-12",
+                    "office": {
+                        "name": "Council Member - Position 2",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:othello"
+                    },
+                    "image": "https://www.othellowa.gov/media/City Council/Council-MarcS26(1).jpg",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:othello/government",
+                    "cdn_image": "local://d349f9d2ecd6.png",
+                    "source_urls": [
+                        "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                    ],
+                    "updated_at": "2026-05-25T19:34:56+00:00",
+                    "id": "e33087f5-65d2-484b-8b19-d7085a6094d9"
+                },
+                {
+                    "name": "Alma Carmona",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [
+                        "acarmona@othellowa.gov"
+                    ],
+                    "urls": [
+                        "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                    ],
+                    "start_date": "2026-01",
+                    "end_date": "2029-12",
+                    "office": {
+                        "name": "Council Member - Position 3",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:othello"
+                    },
+                    "image": "https://www.othellowa.gov/media/City Council/Council_AlmaC26.jpg",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:othello/government",
+                    "cdn_image": "local://b1c822b02522.png",
+                    "source_urls": [
+                        "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                    ],
+                    "updated_at": "2026-05-25T19:34:56+00:00",
+                    "id": "c581ca0d-33a7-4202-91a8-c3848ab98e6b"
+                },
+                {
+                    "name": "Darryl Barnes",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [
+                        "dbarnes@othellowa.gov"
+                    ],
+                    "urls": [
+                        "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                    ],
+                    "start_date": "2023-01",
+                    "end_date": "2027-12",
+                    "office": {
+                        "name": "Council Member - Position 4",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:othello"
+                    },
+                    "image": "https://www.othellowa.gov/media/City Council/Council.DarrelB24_Web.jpg?width=100%",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:othello/government",
+                    "cdn_image": "local://efa19d9314c0.png",
+                    "source_urls": [
+                        "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                    ],
+                    "updated_at": "2026-05-25T19:34:56+00:00",
+                    "id": "04ba7319-3e5c-4c14-b626-c4cef9442d0f"
+                },
+                {
+                    "name": "Chris Dorow",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [
+                        "cdorow@othellwa.gov"
+                    ],
+                    "urls": [
+                        "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                    ],
+                    "start_date": "2024-01",
+                    "end_date": "2027-12",
+                    "office": {
+                        "name": "Council Member - Position 5",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:othello"
+                    },
+                    "image": "https://www.othellowa.gov/media/City Council/Council_ChrisD26.jpg",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:othello/government",
+                    "cdn_image": "local://454d5f39dce2.png",
+                    "source_urls": [
+                        "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                    ],
+                    "updated_at": "2026-05-25T19:34:56+00:00",
+                    "id": "1a480133-877b-4428-a1ee-701528033313"
+                },
+                {
+                    "name": "Mark Snyder",
+                    "other_names": [
+                        "Mark T. Snyder"
+                    ],
+                    "phones": [],
+                    "emails": [
+                        "msnyder@othellowa.gov"
+                    ],
+                    "urls": [
+                        "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                    ],
+                    "start_date": "2023-01",
+                    "end_date": "2027-12",
+                    "office": {
+                        "name": "Council Member - Position 6",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:othello"
+                    },
+                    "image": "https://www.othellowa.gov/media/City Council/Council.MarkS_Web.jpg?width=100%",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:othello/government",
+                    "cdn_image": "local://4fe4919878ac.png",
+                    "source_urls": [
+                        "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                    ],
+                    "updated_at": "2026-05-25T19:34:56+00:00",
+                    "id": "99555ce2-40a9-47e7-a8c9-e002bfcde9f9"
+                },
+                {
+                    "name": "Angel Garza",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [
+                        "angelgarza@othellowa.gov"
+                    ],
+                    "urls": [
+                        "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                    ],
+                    "start_date": "2023-01",
+                    "end_date": "2027-12",
+                    "office": {
+                        "name": "Council Member - Position 7",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:othello"
+                    },
+                    "image": "https://www.othellowa.gov/media/City Council/CouncilAngelG20_Web.jpg",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:othello/government",
+                    "cdn_image": "local://c08dda3fc2e0.png",
+                    "source_urls": [
+                        "https://www.othellowa.gov/ELECTEDCITYOFFICIALS"
+                    ],
+                    "updated_at": "2026-05-25T19:34:56+00:00",
+                    "id": "dc1f1c5c-042a-49fe-a67a-c2cc7b7c403f"
+                }
+            ]
+        },
+        "review_output_step": {
+            "issues": [
+                "Extra official: Alma Carmona",
+                "Extra official: Chris Dorow",
+                "Extra official: Kelli Camp",
+                "Extra official: Ken Johnson",
+                "Extra official: Marc Spohr",
+                "Missing official: Corey Everett",
+                "Missing official: Danae Valdez",
+                "Missing official: Genna Dorow",
+                "Missing official: John Lallas",
+                "Missing official: Shawn Logan"
+            ],
+            "people_by_source": [
+                {
+                    "name": "Alma Carmona",
+                    "in_research": false,
+                    "in_data": true
+                },
+                {
+                    "name": "Angel Garza",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Chris Dorow",
+                    "in_research": false,
+                    "in_data": true
+                },
+                {
+                    "name": "Corey Everett",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Danae Valdez",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Darryl Barnes",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Genna Dorow",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "John Lallas",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Kelli Camp",
+                    "in_research": false,
+                    "in_data": true
+                },
+                {
+                    "name": "Ken Johnson",
+                    "in_research": false,
+                    "in_data": true
+                },
+                {
+                    "name": "Marc Spohr",
+                    "in_research": false,
+                    "in_data": true
+                },
+                {
+                    "name": "Mark Snyder",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Shawn Logan",
+                    "in_research": true,
+                    "in_data": false
+                }
+            ],
+            "origin_source": "existing"
+        },
+        "find_jurisdiction_url_step": null,
+        "send_success_step": null,
+        "send_error_step": null,
+        "issues": [],
+        "error_step": null,
+        "error_detail": null
+    },
+    "current_state": "SEND_SUCCESS",
+    "request_id": "d5807f9f-e97b-4cf5-a4c4-c64041cd3c1d",
+    "created_at": 1779736878.625159,
+    "updated_at": 1779737697.0069082,
+    "progress": 27
+}
