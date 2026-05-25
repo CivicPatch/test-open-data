@@ -1,51 +1,45 @@
-- name: Mo Malakoutian edit
+- name: Mo Malakoutian
   other_names: []
-  roles: []
-  designations: []
   phones:
   - (425) 452-7810
   emails:
   - counciloffice@bellevuewa.gov
   urls:
   - https://bellevuewa.gov/city-government/city-council/councilmembers/mo-malakoutian
-  start_date: '2026-01-06'
+  start_date: '2024-01-01'
   end_date: '2027-12-31'
+  office:
+    name: Mayor - Council Member - Position 3
+    division_ocdid: ocd-division/country:us/state:wa/place:bellevue
   image: ''
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bellevue/government
   cdn_image: ''
   source_urls:
   - https://bellevuewa.gov/city-government/city-council/councilmembers
-  updated_at: '2026-05-25T22:43:14+00:00'
+  updated_at: '2026-05-25T23:54:48+00:00'
   id: 6428026e-c70d-4819-abb0-d91361d797bd
-  office:
-    name: Mayor - Position 3
-    division_ocdid: ocd-division/country:us/state:wa/place:bellevue
 - name: Dave Hamilton
   other_names: []
-  roles: []
-  designations: []
   phones:
   - (425) 452-7810
   emails:
   - counciloffice@bellevuewa.gov
   urls:
   - https://bellevuewa.gov/city-government/city-council/councilmembers/deputy-mayor-dave-hamilton
-  start_date: '2026-01-06'
+  start_date: '2024-01-01'
   end_date: '2027-12-31'
+  office:
+    name: Deputy Mayor - Council Member - Position 7
+    division_ocdid: ocd-division/country:us/state:wa/place:bellevue
   image: ''
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bellevue/government
   cdn_image: ''
   source_urls:
   - https://bellevuewa.gov/city-government/city-council/councilmembers
-  updated_at: '2026-05-25T22:43:14+00:00'
+  updated_at: '2026-05-25T23:54:48+00:00'
   id: 43cd6af0-503c-4685-b0b7-262f1fe4bdc7
-  office:
-    name: Deputy Mayor - Position 7
-    division_ocdid: ocd-division/country:us/state:wa/place:bellevue
 - name: Vishal Bhargava
   other_names: []
-  roles: []
-  designations: []
   phones:
   - (425) 452-7810
   emails:
@@ -54,20 +48,18 @@
   - https://bellevuewa.gov/city-government/city-council/councilmembers/vishal-bhargava
   start_date: '2025-05-06'
   end_date: '2027-12-31'
+  office:
+    name: Council Member - Position 1
+    division_ocdid: ocd-division/country:us/state:wa/place:bellevue
   image: ''
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bellevue/government
   cdn_image: ''
   source_urls:
   - https://bellevuewa.gov/city-government/city-council/councilmembers
-  updated_at: '2026-05-25T22:43:14+00:00'
+  updated_at: '2026-05-25T23:54:48+00:00'
   id: 192d95e6-8cd2-4371-80d5-0c12859a106a
-  office:
-    name: Council Member - Position 1
-    division_ocdid: ocd-division/country:us/state:wa/place:bellevue
 - name: Naren Briar
   other_names: []
-  roles: []
-  designations: []
   phones:
   - (425) 452-7810
   emails:
@@ -76,20 +68,18 @@
   - https://bellevuewa.gov/city-government/city-council/councilmembers/naren-briar
   start_date: '2026-01-01'
   end_date: '2029-12-31'
+  office:
+    name: Council Member - Position 2
+    division_ocdid: ocd-division/country:us/state:wa/place:bellevue
   image: ''
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bellevue/government
   cdn_image: ''
   source_urls:
   - https://bellevuewa.gov/city-government/city-council/councilmembers
-  updated_at: '2026-05-25T22:43:14+00:00'
+  updated_at: '2026-05-25T23:54:48+00:00'
   id: e6ba0f1b-1553-497e-bb0f-8bb9694562b5
-  office:
-    name: Council Member - Position 2
-    division_ocdid: ocd-division/country:us/state:wa/place:bellevue
 - name: Jared Nieuwenhuis
   other_names: []
-  roles: []
-  designations: []
   phones:
   - (425) 452-7810
   emails:
@@ -98,20 +88,18 @@
   - https://bellevuewa.gov/city-government/city-council/councilmembers/jared-nieuwenhuis
   start_date: '2018-01-01'
   end_date: '2029-12-31'
+  office:
+    name: Council Member - Position 4
+    division_ocdid: ocd-division/country:us/state:wa/place:bellevue
   image: ''
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bellevue/government
   cdn_image: ''
   source_urls:
   - https://bellevuewa.gov/city-government/city-council/councilmembers
-  updated_at: '2026-05-25T22:43:14+00:00'
+  updated_at: '2026-05-25T23:54:48+00:00'
   id: 12699d9d-73f5-42e7-a317-b8342abbb50c
-  office:
-    name: Council Member - Position 4
-    division_ocdid: ocd-division/country:us/state:wa/place:bellevue
 - name: Claire Sumadiwirya
   other_names: []
-  roles: []
-  designations: []
   phones:
   - (425) 452-7810
   emails:
@@ -120,20 +108,18 @@
   - https://bellevuewa.gov/city-government/city-council/councilmembers/claire-sumadiwirya
   start_date: '2025-04-01'
   end_date: '2027-12-31'
+  office:
+    name: Council Member - Position 5
+    division_ocdid: ocd-division/country:us/state:wa/place:bellevue
   image: ''
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bellevue/government
   cdn_image: ''
   source_urls:
   - https://bellevuewa.gov/city-government/city-council/councilmembers
-  updated_at: '2026-05-25T22:43:14+00:00'
+  updated_at: '2026-05-25T23:54:48+00:00'
   id: 774beb8d-8703-4fe5-aff7-d9b5c25b487a
-  office:
-    name: Council Member - Position 5
-    division_ocdid: ocd-division/country:us/state:wa/place:bellevue
 - name: Lynne Robinson
   other_names: []
-  roles: []
-  designations: []
   phones:
   - (425) 452-7810
   emails:
@@ -142,42 +128,13 @@
   - https://bellevuewa.gov/city-government/city-council/councilmembers/lynne-robinson
   start_date: '2014-01-01'
   end_date: '2029-12-31'
+  office:
+    name: Council Member - Position 6
+    division_ocdid: ocd-division/country:us/state:wa/place:bellevue
   image: ''
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bellevue/government
   cdn_image: ''
   source_urls:
   - https://bellevuewa.gov/city-government/city-council/councilmembers
-  updated_at: '2026-05-25T22:43:14+00:00'
+  updated_at: '2026-05-25T23:54:48+00:00'
   id: 92a66f50-4ab7-4d3c-9845-55e71e1ddacd
-  office:
-    name: Council Member - Position 6
-    division_ocdid: ocd-division/country:us/state:wa/place:bellevue
-- name: Conrad Lee
-  other_names: []
-  roles: []
-  designations: []
-  phones:
-  - (425) 452-7810
-  emails:
-  - clee@bellevuewa.gov
-  urls:
-  - https://bellevuewa.gov/city-government/city-council/councilmembers/conrad-lee
-  start_date: '1994-01-01'
-  end_date: '2025-12-31'
-  image: https://bellevuewa.gov/sites/default/files/styles/medium/public/inline-images/2024-07/conrad-lee.jpg?itok=RJmQbzw6
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bellevue/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/bellevue/images/8d8967d3d2b14f7aa9df6c8bd9a3c2fc224d80cc78ebc2d3f1f03f2cb016a3c7.jpg
-  source_urls:
-  - https://bellevuewa.gov/city-government/city-council/councilmembers
-  - https://bellevuewa.gov/city-government/city-council/councilmembers/lynne-robinson
-  - https://bellevuewa.gov/city-government/city-council/councilmembers/mo-malakoutian
-  - https://bellevuewa.gov/city-government/city-council/councilmembers/jared-nieuwenhuis
-  - https://bellevuewa.gov/city-government/city-council/councilmembers/conrad-lee
-  - https://bellevuewa.gov/city-government/city-council/councilmembers/dave-hamilton
-  - https://bellevuewa.gov/city-government/city-council/councilmembers/vishal-bhargava
-  - https://bellevuewa.gov/city-government/city-council/councilmembers/claire-sumadiwirya
-  updated_at: '2025-06-13T21:13:42+00:00'
-  id: 7b519e65-1ad2-482c-9ad4-1a14df6ef8d7
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:bellevue
