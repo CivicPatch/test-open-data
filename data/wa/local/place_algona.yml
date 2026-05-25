@@ -1,5 +1,7 @@
 - name: Troy Linnell an edit
   other_names: []
+  roles: []
+  designations: []
   phones:
   - (253) 736-6241
   emails: []
@@ -7,9 +9,6 @@
   - https://algonawa.gov/government/mayor/index.php
   start_date: null
   end_date: null
-  office:
-    name: Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:algona
   image: https://algonawa.gov/Images/Government/Mayor/mayor_linnell.jpg
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:algona/government
   cdn_image: ''
@@ -17,8 +16,13 @@
   - https://algonawa.gov/government/mayor/index.php
   updated_at: '2026-05-25T23:38:20+00:00'
   id: 402f60ff-78bc-4a4a-b668-ce2d62fe8abb
-- name: Bill Thomas
+  office:
+    name: Mayor
+    division_ocdid: ocd-division/country:us/state:wa/place:algona
+- name: Bill Thomas example
   other_names: []
+  roles: []
+  designations: []
   phones: []
   emails:
   - williamt@algonawa.gov
@@ -26,9 +30,6 @@
   - https://algonawa.gov/business_detail_T7_R2.php
   start_date: null
   end_date: null
-  office:
-    name: Council Member - Position 1
-    division_ocdid: ocd-division/country:us/state:wa/place:algona
   image: https://algonawa.gov/bus-directory/City Council/dsc_7739 - Copy.jpg?t=202408131258020
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:algona/government
   cdn_image: ''
@@ -36,8 +37,13 @@
   - https://algonawa.gov/government/city_council/index.php
   updated_at: '2026-05-25T23:38:20+00:00'
   id: b5968f49-ca60-45cc-ba22-02696acc17b2
+  office:
+    name: Council Member - Position 1
+    division_ocdid: ocd-division/country:us/state:wa/place:algona
 - name: Jessica Parker
   other_names: []
+  roles: []
+  designations: []
   phones: []
   emails:
   - jessicap@algonawa.gov
@@ -45,9 +51,6 @@
   - https://algonawa.gov/business_detail_T7_R7.php
   start_date: null
   end_date: null
-  office:
-    name: Council Member - Position 2
-    division_ocdid: ocd-division/country:us/state:wa/place:algona
   image: https://algonawa.gov/bus-directory/City Council/newalgonalogo.jpg?t=202601071152270
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:algona/government
   cdn_image: ''
@@ -55,8 +58,13 @@
   - https://algonawa.gov/government/city_council/index.php
   updated_at: '2026-05-25T23:38:20+00:00'
   id: 35de486f-7b70-46f7-a72b-da3ebfa6cd8a
+  office:
+    name: Council Member - Position 2
+    division_ocdid: ocd-division/country:us/state:wa/place:algona
 - name: Tim Fairley
   other_names: []
+  roles: []
+  designations: []
   phones: []
   emails:
   - timf@algonawa.gov
@@ -64,9 +72,6 @@
   - https://algonawa.gov/business_detail_T7_R6.php
   start_date: null
   end_date: null
-  office:
-    name: Council Member - Position 3
-    division_ocdid: ocd-division/country:us/state:wa/place:algona
   image: https://algonawa.gov/bus-directory/City Council/newalgonalogo.jpg?t=202601071152270
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:algona/government
   cdn_image: ''
@@ -74,8 +79,13 @@
   - https://algonawa.gov/government/city_council/index.php
   updated_at: '2026-05-25T23:38:20+00:00'
   id: bcc234f8-0491-4641-a75c-b60af15805ef
+  office:
+    name: Council Member - Position 3
+    division_ocdid: ocd-division/country:us/state:wa/place:algona
 - name: Jennifer Freeberg
   other_names: []
+  roles: []
+  designations: []
   phones: []
   emails:
   - jenniferf@algonawa.gov
@@ -83,9 +93,6 @@
   - https://algonawa.gov/business_detail_T7_R4.php
   start_date: null
   end_date: null
-  office:
-    name: Council Member - Position 4
-    division_ocdid: ocd-division/country:us/state:wa/place:algona
   image: https://algonawa.gov/bus-directory/City Council/newalgonalogo.jpg?t=202601071152270
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:algona/government
   cdn_image: ''
@@ -93,8 +100,13 @@
   - https://algonawa.gov/government/city_council/index.php
   updated_at: '2026-05-25T23:38:20+00:00'
   id: 45dca9b0-8c73-4eb9-a5ad-a3150b93a8c6
+  office:
+    name: Council Member - Position 4
+    division_ocdid: ocd-division/country:us/state:wa/place:algona
 - name: David White
   other_names: []
+  roles: []
+  designations: []
   phones: []
   emails:
   - davidw@algonawa.gov
@@ -102,9 +114,6 @@
   - https://algonawa.gov/business_detail_T7_R5.php
   start_date: null
   end_date: null
-  office:
-    name: Council Member - Position 5
-    division_ocdid: ocd-division/country:us/state:wa/place:algona
   image: https://algonawa.gov/bus-directory/City Council/newalgonalogo.jpg?t=202601071152270
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:algona/government
   cdn_image: ''
@@ -112,3 +121,50 @@
   - https://algonawa.gov/government/city_council/index.php
   updated_at: '2026-05-25T23:38:20+00:00'
   id: dfeb1de4-53ac-4b09-8d67-01ca6743c8a3
+  office:
+    name: Council Member - Position 5
+    division_ocdid: ocd-division/country:us/state:wa/place:algona
+- name: Lynda Osborn
+  other_names: []
+  roles: []
+  designations: []
+  phones: []
+  emails:
+  - lyndao@algonawa.gov
+  urls:
+  - https://www.algonawa.gov/business_detail_T7_R7.php
+  start_date: null
+  end_date: '2027-12-31'
+  image: null
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:algona/government
+  cdn_image: null
+  source_urls:
+  - https://www.algonawa.gov/government/city_council
+  - https://www.algonawa.gov/business_detail_T7_R7.php
+  updated_at: '2025-06-25T03:07:59+00:00'
+  id: 1aa444d6-ab87-4526-b710-b1c52c0d7a54
+  office:
+    name: Council Member
+    division_ocdid: ocd-division/country:us/state:wa/place:algona
+- name: Gordon Cook
+  other_names: []
+  roles: []
+  designations: []
+  phones: []
+  emails:
+  - gordonc@algonawa.gov
+  urls:
+  - https://www.algonawa.gov/business_detail_T7_R4.php
+  start_date: null
+  end_date: '2025-12-31'
+  image: null
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:algona/government
+  cdn_image: null
+  source_urls:
+  - https://www.algonawa.gov/government/city_council
+  - https://www.algonawa.gov/business_detail_T7_R4.php
+  updated_at: '2025-06-25T03:07:59+00:00'
+  id: 4773d40a-8ff8-4b47-a568-b8879f37b10a
+  office:
+    name: Council Member
+    division_ocdid: ocd-division/country:us/state:wa/place:algona
