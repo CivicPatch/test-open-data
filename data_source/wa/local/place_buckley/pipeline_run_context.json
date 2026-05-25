@@ -1,0 +1,1854 @@
+{
+    "data": {
+        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:buckley/government",
+        "config": {
+            "url": "http://www.cityofbuckley.com/",
+            "name": "Buckley city",
+            "source_urls": null
+        },
+        "frontier": {
+            "links": {
+                "https://cityofbuckley.com": {
+                    "url": "http://www.cityofbuckley.com/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofbuckley_com_",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 1
+                },
+                "https://cityofbuckley.com/250/city-council": {
+                    "url": "https://www.cityofbuckley.com/250/City-Council",
+                    "status": "done",
+                    "folder_name": "www_cityofbuckley_com_250_city-council",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 4
+                },
+                "https://cityofbuckley.com/206/government": {
+                    "url": "https://www.cityofbuckley.com/206/Government",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofbuckley_com_206_government",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 3
+                },
+                "https://cityofbuckley.com/directory.aspx": {
+                    "url": "https://www.cityofbuckley.com/directory.aspx",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofbuckley_com_directory_aspx",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 2
+                },
+                "https://cityofbuckley.com/directory.aspx?did=13": {
+                    "url": "https://www.cityofbuckley.com/Directory.aspx?did=13",
+                    "status": "done",
+                    "folder_name": "www_cityofbuckley_com_directory_aspx?did=13",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 13
+                },
+                "https://cityofbuckley.com/directory.aspx?did=6": {
+                    "url": "https://www.cityofbuckley.com/Directory.aspx?did=6",
+                    "status": "done",
+                    "folder_name": "www_cityofbuckley_com_directory_aspx?did=6",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 11
+                },
+                "https://cityofbuckley.com/248/mayor": {
+                    "url": "https://www.cityofbuckley.com/248/Mayor",
+                    "status": "done",
+                    "folder_name": "www_cityofbuckley_com_248_mayor",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 8
+                },
+                "https://cityofbuckley.com/249/city-council-standing-committees": {
+                    "url": "https://www.cityofbuckley.com/249/City-Council-Standing-Committees",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofbuckley_com_249_city-council-standing-committees",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 6
+                },
+                "https://cityofbuckley.com/236/mayor-city-council": {
+                    "url": "https://www.cityofbuckley.com/236/Mayor-City-Council",
+                    "status": "done",
+                    "folder_name": "www_cityofbuckley_com_236_mayor-city-council",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 5
+                },
+                "https://cityofbuckley.com/241/boards-commissions": {
+                    "url": "https://www.cityofbuckley.com/241/Boards-Commissions",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofbuckley_com_241_boards-commissions",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 16
+                },
+                "https://cityofbuckley.com/agendacenter": {
+                    "url": "https://www.cityofbuckley.com/AgendaCenter",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofbuckley_com_agendacenter",
+                    "num_references": 7,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 18
+                },
+                "https://cityofbuckley.com/358/meeting-audio": {
+                    "url": "https://www.cityofbuckley.com/358/Meeting-Audio",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofbuckley_com_358_meeting-audio",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 17
+                },
+                "https://cityofbuckley.com/356/agenda-packets": {
+                    "url": "https://www.cityofbuckley.com/356/Agenda-Packets",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofbuckley.com/357/city-council-minutes": {
+                    "url": "https://www.cityofbuckley.com/357/City-Council-Minutes",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofbuckley_com_357_city-council-minutes",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 7
+                },
+                "https://cityofbuckley.com/260/administration-finance-public-safety-com": {
+                    "url": "https://www.cityofbuckley.com/260/Administration-Finance-Public-Safety-Com",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofbuckley.com/259/parks-community-services-committee": {
+                    "url": "https://www.cityofbuckley.com/259/Parks-Community-Services-Committee",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofbuckley_com_259_parks-community-services-committee",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 21
+                },
+                "https://cityofbuckley.com/258/development-services-utilities-transport": {
+                    "url": "https://www.cityofbuckley.com/258/Development-Services-Utilities-Transport",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofbuckley.com/252/ordinances": {
+                    "url": "https://www.cityofbuckley.com/252/Ordinances",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofbuckley.com/251/resolutions": {
+                    "url": "https://www.cityofbuckley.com/251/Resolutions",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofbuckley.com/formcenter/contact-form-5/contact-us-47": {
+                    "url": "https://www.cityofbuckley.com/FormCenter/Contact-Form-5/Contact-Us-47",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofbuckley_com_formcenter_contact-form-5_contact-us-47",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 19
+                },
+                "https://cityofbuckley.com/agendacenter/city-council-3": {
+                    "url": "https://www.cityofbuckley.com/AgendaCenter/City-Council-3",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofbuckley_com_agendacenter_city-council-3",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 12
+                },
+                "https://cityofbuckley.com/directory.aspx?eid=62": {
+                    "url": "https://www.cityofbuckley.com/directory.aspx?eid=62",
+                    "status": "done",
+                    "folder_name": "www_cityofbuckley_com_directory_aspx?eid=62",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 9
+                },
+                "https://cityofbuckley.com/207/departments": {
+                    "url": "https://www.cityofbuckley.com/207/Departments",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofbuckley_com_207_departments",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 10
+                },
+                "https://cityofbuckley.com/sitemap": {
+                    "url": "https://www.cityofbuckley.com/sitemap",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofbuckley_com_sitemap",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 20
+                },
+                "https://cityofbuckley.com/employee-portal": {
+                    "url": "https://www.cityofbuckley.com/Employee-Portal",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofbuckley.com/237/employment": {
+                    "url": "https://www.cityofbuckley.com/237/Employment",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofbuckley.com/281/city-administration": {
+                    "url": "https://www.cityofbuckley.com/281/City-Administration",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofbuckley_com_281_city-administration",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 14
+                },
+                "https://cityofbuckley.com/279/clerks-department": {
+                    "url": "https://www.cityofbuckley.com/279/Clerks-Department",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofbuckley.com/278/finance-department": {
+                    "url": "https://www.cityofbuckley.com/278/Finance-Department",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofbuckley.com/277/fire-department": {
+                    "url": "https://www.cityofbuckley.com/277/Fire-Department",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofbuckley.com/234/municipal-court": {
+                    "url": "https://www.cityofbuckley.com/234/Municipal-Court",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofbuckley.com/275/parks-recreation": {
+                    "url": "https://www.cityofbuckley.com/275/Parks-Recreation",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofbuckley.com/273/police-department": {
+                    "url": "https://www.cityofbuckley.com/273/Police-Department",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofbuckley.com/272/public-services": {
+                    "url": "https://www.cityofbuckley.com/272/Public-Services",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofbuckley.com/341/employee-portal": {
+                    "url": "https://www.cityofbuckley.com/341/Employee-Portal",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofbuckley.com/civicalerts.aspx": {
+                    "url": "https://www.cityofbuckley.com/CivicAlerts.aspx",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofbuckley.com/274/permit-center": {
+                    "url": "https://www.cityofbuckley.com/274/Permit-Center",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofbuckley.com/283/passport-services": {
+                    "url": "https://www.cityofbuckley.com/283/Passport-Services",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofbuckley.com/9/how-do-i": {
+                    "url": "https://www.cityofbuckley.com/9/How-Do-I",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofbuckley.com/208/community": {
+                    "url": "https://www.cityofbuckley.com/208/Community",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofbuckley.com/search/results": {
+                    "url": "https://www.cityofbuckley.com/Search/Results",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofbuckley.com/myaccount": {
+                    "url": "https://www.cityofbuckley.com/MyAccount",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofbuckley.com/myaccount/profilecreate": {
+                    "url": "https://www.cityofbuckley.com/MyAccount/ProfileCreate",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofbuckley.com/directory.aspx?did=11": {
+                    "url": "https://www.cityofbuckley.com/directory.aspx?did=11",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofbuckley_com_directory_aspx?did=11",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 15
+                },
+                "https://cityofbuckley.com/129/agendas-minutes": {
+                    "url": "https://www.cityofbuckley.com/129/Agendas-Minutes",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofbuckley.com/243/planning-commission": {
+                    "url": "https://www.cityofbuckley.com/243/Planning-Commission",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofbuckley_com_243_planning-commission",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 22
+                }
+            },
+            "queue": [
+                "https://cityofbuckley.com/260/administration-finance-public-safety-com",
+                "https://cityofbuckley.com/258/development-services-utilities-transport",
+                "https://cityofbuckley.com/237/employment",
+                "https://cityofbuckley.com/civicalerts.aspx",
+                "https://cityofbuckley.com/356/agenda-packets",
+                "https://cityofbuckley.com/252/ordinances",
+                "https://cityofbuckley.com/251/resolutions",
+                "https://cityofbuckley.com/341/employee-portal",
+                "https://cityofbuckley.com/274/permit-center",
+                "https://cityofbuckley.com/283/passport-services",
+                "https://cityofbuckley.com/9/how-do-i",
+                "https://cityofbuckley.com/279/clerks-department",
+                "https://cityofbuckley.com/278/finance-department",
+                "https://cityofbuckley.com/275/parks-recreation",
+                "https://cityofbuckley.com/273/police-department",
+                "https://cityofbuckley.com/272/public-services",
+                "https://cityofbuckley.com/129/agendas-minutes",
+                "https://cityofbuckley.com/employee-portal",
+                "https://cityofbuckley.com/myaccount",
+                "https://cityofbuckley.com/277/fire-department",
+                "https://cityofbuckley.com/234/municipal-court",
+                "https://cityofbuckley.com/208/community",
+                "https://cityofbuckley.com/search/results",
+                "https://cityofbuckley.com/myaccount/profilecreate"
+            ]
+        },
+        "research_municipality_step": {
+            "expected_count": 7,
+            "target_designations": [],
+            "known_roles": [
+                "Council Member"
+            ],
+            "identities": {
+                "Amanda Burbank": [],
+                "Brandon Green": [],
+                "Connie Bender": [],
+                "Denice Bergerson": [],
+                "Kenny Arsanto": [],
+                "Mackenzie Anderson": [],
+                "Ron Smith": []
+            },
+            "source_urls": [
+                "https://www.cityofbuckley.com/250/City-Council"
+            ],
+            "notes": null,
+            "origin_source": "existing"
+        },
+        "preprocess_page_content_step": {
+            "elapsed_times": [
+                2,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                0,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                2,
+                1,
+                1,
+                1,
+                1,
+                0
+            ],
+            "total_elapsed_time_seconds": 17,
+            "average_elapsed_time_seconds": 0
+        },
+        "process_page_content_step": {
+            "raw_records_by_llm": {
+                "open_router": {
+                    "Ron Smith": [
+                        {
+                            "name": "Ron Smith",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "rsmith@cityofbuckley.com",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://7cdbcbead85a.png",
+                            "source_url": "https://www.cityofbuckley.com/250/City-Council"
+                        }
+                    ],
+                    "Robert Wohlfeil": [
+                        {
+                            "name": "Robert Wohlfeil",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "rwohlfeil@cityofbuckley.com",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://7a155c1fe261.png",
+                            "source_url": "https://www.cityofbuckley.com/250/City-Council"
+                        }
+                    ],
+                    "Connie Bender": [
+                        {
+                            "name": "Connie Bender",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "cbender@cityofbuckley.com",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://2d5ea18e95bb.png",
+                            "source_url": "https://www.cityofbuckley.com/250/City-Council"
+                        }
+                    ],
+                    "Kenny Arsanto": [
+                        {
+                            "name": "Kenny Arsanto",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "karsanto@cityofbuckley.com",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://d959825dfb68.png",
+                            "source_url": "https://www.cityofbuckley.com/250/City-Council"
+                        }
+                    ],
+                    "Amanda Burbank": [
+                        {
+                            "name": "Amanda Burbank",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "aburbank@cityofbuckley.com",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://bdae26f2eaad.png",
+                            "source_url": "https://www.cityofbuckley.com/250/City-Council"
+                        }
+                    ],
+                    "Denice Bergerson": [
+                        {
+                            "name": "Denice Bergerson",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "dbergerson@cityofbuckley.com",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://c93e3a3b9af9.png",
+                            "source_url": "https://www.cityofbuckley.com/250/City-Council"
+                        }
+                    ],
+                    "Brandon Green": [
+                        {
+                            "name": "Brandon Green",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "bgreen@cityofbuckley.com",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://db12480c8a22.png",
+                            "source_url": "https://www.cityofbuckley.com/250/City-Council"
+                        }
+                    ],
+                    "Carolyn Robertson Harding": [
+                        {
+                            "name": "Carolyn Robertson Harding",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "360-761-7803",
+                            "email": "mayor@cityofbuckley.com",
+                            "url": "https://www.cityofbuckley.com/directory.aspx?eid=62",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://a54def6de32c.png",
+                            "source_url": "https://www.cityofbuckley.com/236/Mayor-City-Council"
+                        },
+                        {
+                            "name": "Carolyn Robertson Harding",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "360-761-7803",
+                            "email": "mayor@cityofbuckley.com",
+                            "url": "https://www.cityofbuckley.com/directory.aspx?eid=62",
+                            "start_date": "2025",
+                            "end_date": "2029-12-31",
+                            "image": "local://a54def6de32c.png",
+                            "source_url": "https://www.cityofbuckley.com/248/Mayor"
+                        },
+                        {
+                            "name": "Carolyn Robertson Harding",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "360-761-7803",
+                            "email": "mayor@cityofbuckley.com",
+                            "url": "https://www.cityofbuckley.com/Directory.aspx?DID=6",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofbuckley.com/directory.aspx?eid=62"
+                        }
+                    ],
+                    "Robertson Harding, Carolyn": [
+                        {
+                            "name": "Robertson Harding, Carolyn",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "360-761-7803",
+                            "email": "mayor@cityofbuckley.com",
+                            "url": "https://www.cityofbuckley.com/directory.aspx?EID=62",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofbuckley.com/Directory.aspx?did=6"
+                        }
+                    ],
+                    "Burbank, Amanda": [
+                        {
+                            "name": "Burbank, Amanda",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "aburbank@cityofbuckley.com",
+                            "url": "https://www.cityofbuckley.com/directory.aspx?EID=27",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofbuckley.com/Directory.aspx?did=13"
+                        }
+                    ],
+                    "Green, Brandon": [
+                        {
+                            "name": "Green, Brandon",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "bgreen@cityofbuckley.com",
+                            "url": "https://www.cityofbuckley.com/directory.aspx?EID=29",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofbuckley.com/Directory.aspx?did=13"
+                        }
+                    ],
+                    "Bender, Connie": [
+                        {
+                            "name": "Bender, Connie",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "cbender@cityofbuckley.com",
+                            "url": "https://www.cityofbuckley.com/directory.aspx?EID=24",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofbuckley.com/Directory.aspx?did=13"
+                        }
+                    ],
+                    "Bergerson, Denice": [
+                        {
+                            "name": "Bergerson, Denice",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "dbergerson@cityofbuckley.com",
+                            "url": "https://www.cityofbuckley.com/directory.aspx?EID=28",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofbuckley.com/Directory.aspx?did=13"
+                        }
+                    ],
+                    "Arsanto, Kenny": [
+                        {
+                            "name": "Arsanto, Kenny",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "karsanto@cityofbuckley.com",
+                            "url": "https://www.cityofbuckley.com/directory.aspx?EID=26",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofbuckley.com/Directory.aspx?did=13"
+                        }
+                    ],
+                    "Smith, Ron": [
+                        {
+                            "name": "Smith, Ron",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "rsmith@cityofbuckley.com",
+                            "url": "https://www.cityofbuckley.com/directory.aspx?EID=23",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofbuckley.com/Directory.aspx?did=13"
+                        }
+                    ],
+                    "Wohlfeil, Robert": [
+                        {
+                            "name": "Wohlfeil, Robert",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "rwohlfeil@cityofbuckley.com",
+                            "url": "https://www.cityofbuckley.com/directory.aspx?EID=63",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofbuckley.com/Directory.aspx?did=13"
+                        }
+                    ]
+                }
+            },
+            "records_by_llm": {
+                "open_router": {
+                    "Ron Smith": [
+                        {
+                            "name": "Ron Smith",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "rsmith@cityofbuckley.com",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://7cdbcbead85a.png",
+                            "source_url": "https://www.cityofbuckley.com/250/City-Council"
+                        }
+                    ],
+                    "Robert Wohlfeil": [
+                        {
+                            "name": "Robert Wohlfeil",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "rwohlfeil@cityofbuckley.com",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://7a155c1fe261.png",
+                            "source_url": "https://www.cityofbuckley.com/250/City-Council"
+                        }
+                    ],
+                    "Connie Bender": [
+                        {
+                            "name": "Connie Bender",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "cbender@cityofbuckley.com",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://2d5ea18e95bb.png",
+                            "source_url": "https://www.cityofbuckley.com/250/City-Council"
+                        }
+                    ],
+                    "Kenny Arsanto": [
+                        {
+                            "name": "Kenny Arsanto",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "karsanto@cityofbuckley.com",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://d959825dfb68.png",
+                            "source_url": "https://www.cityofbuckley.com/250/City-Council"
+                        }
+                    ],
+                    "Amanda Burbank": [
+                        {
+                            "name": "Amanda Burbank",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "aburbank@cityofbuckley.com",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://bdae26f2eaad.png",
+                            "source_url": "https://www.cityofbuckley.com/250/City-Council"
+                        }
+                    ],
+                    "Denice Bergerson": [
+                        {
+                            "name": "Denice Bergerson",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "dbergerson@cityofbuckley.com",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://c93e3a3b9af9.png",
+                            "source_url": "https://www.cityofbuckley.com/250/City-Council"
+                        }
+                    ],
+                    "Brandon Green": [
+                        {
+                            "name": "Brandon Green",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "bgreen@cityofbuckley.com",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://db12480c8a22.png",
+                            "source_url": "https://www.cityofbuckley.com/250/City-Council"
+                        }
+                    ],
+                    "Carolyn Robertson Harding": [
+                        {
+                            "name": "Carolyn Robertson Harding",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "(360) 761-7803",
+                            "email": "mayor@cityofbuckley.com",
+                            "url": "https://www.cityofbuckley.com/directory.aspx?eid=62",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://a54def6de32c.png",
+                            "source_url": "https://www.cityofbuckley.com/236/Mayor-City-Council"
+                        },
+                        {
+                            "name": "Carolyn Robertson Harding",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "(360) 761-7803",
+                            "email": "mayor@cityofbuckley.com",
+                            "url": "https://www.cityofbuckley.com/directory.aspx?eid=62",
+                            "start_date": "2025",
+                            "end_date": "2029-12-31",
+                            "image": "local://a54def6de32c.png",
+                            "source_url": "https://www.cityofbuckley.com/248/Mayor"
+                        },
+                        {
+                            "name": "Carolyn Robertson Harding",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "(360) 761-7803",
+                            "email": "mayor@cityofbuckley.com",
+                            "url": "https://www.cityofbuckley.com/Directory.aspx?DID=6",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofbuckley.com/directory.aspx?eid=62"
+                        }
+                    ],
+                    "Robertson Harding, Carolyn": [
+                        {
+                            "name": "Carolyn Robertson Harding",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "(360) 761-7803",
+                            "email": "mayor@cityofbuckley.com",
+                            "url": "https://www.cityofbuckley.com/directory.aspx?EID=62",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofbuckley.com/Directory.aspx?did=6"
+                        }
+                    ],
+                    "Burbank, Amanda": [
+                        {
+                            "name": "Amanda Burbank",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "aburbank@cityofbuckley.com",
+                            "url": "https://www.cityofbuckley.com/directory.aspx?EID=27",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofbuckley.com/Directory.aspx?did=13"
+                        }
+                    ],
+                    "Green, Brandon": [
+                        {
+                            "name": "Brandon Green",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "bgreen@cityofbuckley.com",
+                            "url": "https://www.cityofbuckley.com/directory.aspx?EID=29",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofbuckley.com/Directory.aspx?did=13"
+                        }
+                    ],
+                    "Bender, Connie": [
+                        {
+                            "name": "Connie Bender",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "cbender@cityofbuckley.com",
+                            "url": "https://www.cityofbuckley.com/directory.aspx?EID=24",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofbuckley.com/Directory.aspx?did=13"
+                        }
+                    ],
+                    "Bergerson, Denice": [
+                        {
+                            "name": "Denice Bergerson",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "dbergerson@cityofbuckley.com",
+                            "url": "https://www.cityofbuckley.com/directory.aspx?EID=28",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofbuckley.com/Directory.aspx?did=13"
+                        }
+                    ],
+                    "Arsanto, Kenny": [
+                        {
+                            "name": "Kenny Arsanto",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "karsanto@cityofbuckley.com",
+                            "url": "https://www.cityofbuckley.com/directory.aspx?EID=26",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofbuckley.com/Directory.aspx?did=13"
+                        }
+                    ],
+                    "Smith, Ron": [
+                        {
+                            "name": "Ron Smith",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "rsmith@cityofbuckley.com",
+                            "url": "https://www.cityofbuckley.com/directory.aspx?EID=23",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofbuckley.com/Directory.aspx?did=13"
+                        }
+                    ],
+                    "Wohlfeil, Robert": [
+                        {
+                            "name": "Robert Wohlfeil",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "rwohlfeil@cityofbuckley.com",
+                            "url": "https://www.cityofbuckley.com/directory.aspx?EID=63",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofbuckley.com/Directory.aspx?did=13"
+                        }
+                    ]
+                }
+            },
+            "progress": {
+                "required_data": 7,
+                "current_data": 2,
+                "has_target_role": true,
+                "has_target_designations": true
+            }
+        },
+        "merge_records_within_llm_step": {
+            "people_by_llm": {
+                "open_router": [
+                    {
+                        "name": "Ron Smith",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [],
+                        "phones": [],
+                        "emails": [
+                            "rsmith@cityofbuckley.com"
+                        ],
+                        "urls": [
+                            "https://www.cityofbuckley.com/directory.aspx?EID=23"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "local://7cdbcbead85a.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:buckley/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.cityofbuckley.com/250/City-Council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Robert Wohlfeil",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [],
+                        "phones": [],
+                        "emails": [
+                            "rwohlfeil@cityofbuckley.com"
+                        ],
+                        "urls": [
+                            "https://www.cityofbuckley.com/directory.aspx?EID=63"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "local://7a155c1fe261.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:buckley/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.cityofbuckley.com/250/City-Council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Connie Bender",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [],
+                        "phones": [],
+                        "emails": [
+                            "cbender@cityofbuckley.com"
+                        ],
+                        "urls": [
+                            "https://www.cityofbuckley.com/directory.aspx?EID=24"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "local://2d5ea18e95bb.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:buckley/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.cityofbuckley.com/250/City-Council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Kenny Arsanto",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [],
+                        "phones": [],
+                        "emails": [
+                            "karsanto@cityofbuckley.com"
+                        ],
+                        "urls": [
+                            "https://www.cityofbuckley.com/directory.aspx?EID=26"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "local://d959825dfb68.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:buckley/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.cityofbuckley.com/250/City-Council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Amanda Burbank",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [],
+                        "phones": [],
+                        "emails": [
+                            "aburbank@cityofbuckley.com"
+                        ],
+                        "urls": [
+                            "https://www.cityofbuckley.com/directory.aspx?EID=27"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "local://bdae26f2eaad.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:buckley/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.cityofbuckley.com/250/City-Council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Denice Bergerson",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [],
+                        "phones": [],
+                        "emails": [
+                            "dbergerson@cityofbuckley.com"
+                        ],
+                        "urls": [
+                            "https://www.cityofbuckley.com/directory.aspx?EID=28"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "local://c93e3a3b9af9.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:buckley/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.cityofbuckley.com/250/City-Council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Brandon Green",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [],
+                        "phones": [],
+                        "emails": [
+                            "bgreen@cityofbuckley.com"
+                        ],
+                        "urls": [
+                            "https://www.cityofbuckley.com/directory.aspx?EID=29"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "local://db12480c8a22.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:buckley/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.cityofbuckley.com/250/City-Council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Carolyn Robertson Harding",
+                        "other_names": [],
+                        "roles": [
+                            "Mayor"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(360) 761-7803"
+                        ],
+                        "emails": [
+                            "mayor@cityofbuckley.com"
+                        ],
+                        "urls": [
+                            "https://www.cityofbuckley.com/directory.aspx?EID=62",
+                            "https://www.cityofbuckley.com/Directory.aspx?DID=6",
+                            "https://www.cityofbuckley.com/directory.aspx?eid=62"
+                        ],
+                        "start_date": "2025",
+                        "end_date": "2029-12-31",
+                        "image": "local://a54def6de32c.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:buckley/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.cityofbuckley.com/236/Mayor-City-Council"
+                        ],
+                        "updated_at": ""
+                    }
+                ]
+            },
+            "unrecognized_roles": [],
+            "excluded_people": []
+        },
+        "merge_records_across_llms_step": {
+            "people": [
+                {
+                    "name": "Carolyn Robertson Harding",
+                    "other_names": [],
+                    "roles": [
+                        "mayor"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(360) 761-7803"
+                    ],
+                    "emails": [
+                        "mayor@cityofbuckley.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofbuckley.com/directory.aspx?EID=62"
+                    ],
+                    "start_date": "2025",
+                    "end_date": "2029-12-31",
+                    "image": "local://a54def6de32c.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:buckley/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.cityofbuckley.com/236/Mayor-City-Council"
+                    ],
+                    "updated_at": "2026-05-25T23:54:02+00:00"
+                },
+                {
+                    "name": "Ron Smith",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [],
+                    "phones": [],
+                    "emails": [
+                        "rsmith@cityofbuckley.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofbuckley.com/directory.aspx?EID=23"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "local://7cdbcbead85a.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:buckley/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.cityofbuckley.com/250/City-Council"
+                    ],
+                    "updated_at": "2026-05-25T23:54:02+00:00"
+                },
+                {
+                    "name": "Robert Wohlfeil",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [],
+                    "phones": [],
+                    "emails": [
+                        "rwohlfeil@cityofbuckley.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofbuckley.com/directory.aspx?EID=63"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "local://7a155c1fe261.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:buckley/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.cityofbuckley.com/250/City-Council"
+                    ],
+                    "updated_at": "2026-05-25T23:54:02+00:00"
+                },
+                {
+                    "name": "Connie Bender",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [],
+                    "phones": [],
+                    "emails": [
+                        "cbender@cityofbuckley.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofbuckley.com/directory.aspx?EID=24"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "local://2d5ea18e95bb.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:buckley/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.cityofbuckley.com/250/City-Council"
+                    ],
+                    "updated_at": "2026-05-25T23:54:02+00:00"
+                },
+                {
+                    "name": "Kenny Arsanto",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [],
+                    "phones": [],
+                    "emails": [
+                        "karsanto@cityofbuckley.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofbuckley.com/directory.aspx?EID=26"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "local://d959825dfb68.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:buckley/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.cityofbuckley.com/250/City-Council"
+                    ],
+                    "updated_at": "2026-05-25T23:54:02+00:00"
+                },
+                {
+                    "name": "Amanda Burbank",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [],
+                    "phones": [],
+                    "emails": [
+                        "aburbank@cityofbuckley.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofbuckley.com/directory.aspx?EID=27"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "local://bdae26f2eaad.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:buckley/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.cityofbuckley.com/250/City-Council"
+                    ],
+                    "updated_at": "2026-05-25T23:54:02+00:00"
+                },
+                {
+                    "name": "Denice Bergerson",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [],
+                    "phones": [],
+                    "emails": [
+                        "dbergerson@cityofbuckley.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofbuckley.com/directory.aspx?EID=28"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "local://c93e3a3b9af9.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:buckley/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.cityofbuckley.com/250/City-Council"
+                    ],
+                    "updated_at": "2026-05-25T23:54:02+00:00"
+                },
+                {
+                    "name": "Brandon Green",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [],
+                    "phones": [],
+                    "emails": [
+                        "bgreen@cityofbuckley.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofbuckley.com/directory.aspx?EID=29"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "local://db12480c8a22.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:buckley/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.cityofbuckley.com/250/City-Council"
+                    ],
+                    "updated_at": "2026-05-25T23:54:02+00:00"
+                }
+            ]
+        },
+        "format_output_step": {
+            "officials": [
+                {
+                    "name": "Carolyn Robertson Harding",
+                    "other_names": [],
+                    "phones": [
+                        "(360) 761-7803"
+                    ],
+                    "emails": [
+                        "mayor@cityofbuckley.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofbuckley.com/directory.aspx?EID=62"
+                    ],
+                    "start_date": "2025",
+                    "end_date": "2029-12-31",
+                    "office": {
+                        "name": "Mayor",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:buckley"
+                    },
+                    "image": "https://www.cityofbuckley.com/ImageRepository/Document?documentID=1416",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:buckley/government",
+                    "cdn_image": "local://a54def6de32c.png",
+                    "source_urls": [
+                        "https://www.cityofbuckley.com/236/Mayor-City-Council"
+                    ],
+                    "updated_at": "2026-05-25T23:54:02+00:00",
+                    "id": "ceb097e2-7cf1-4de8-afe9-41fa7786be58"
+                },
+                {
+                    "name": "Ron Smith",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [
+                        "rsmith@cityofbuckley.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofbuckley.com/directory.aspx?EID=23"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:buckley"
+                    },
+                    "image": "https://www.cityofbuckley.com/ImageRepository/Document?documentID=519",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:buckley/government",
+                    "cdn_image": "local://7cdbcbead85a.png",
+                    "source_urls": [
+                        "https://www.cityofbuckley.com/250/City-Council"
+                    ],
+                    "updated_at": "2026-05-25T23:54:02+00:00",
+                    "id": "cbfdf64a-faf8-4a45-a41f-a5d8cf4c4504"
+                },
+                {
+                    "name": "Robert Wohlfeil",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [
+                        "rwohlfeil@cityofbuckley.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofbuckley.com/directory.aspx?EID=63"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:buckley"
+                    },
+                    "image": "https://www.cityofbuckley.com/ImageRepository/Document?documentID=1463",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:buckley/government",
+                    "cdn_image": "local://7a155c1fe261.png",
+                    "source_urls": [
+                        "https://www.cityofbuckley.com/250/City-Council"
+                    ],
+                    "updated_at": "2026-05-25T23:54:02+00:00",
+                    "id": "ad962654-866f-4eeb-89d6-78a8dc2c4aef"
+                },
+                {
+                    "name": "Connie Bender",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [
+                        "cbender@cityofbuckley.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofbuckley.com/directory.aspx?EID=24"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:buckley"
+                    },
+                    "image": "https://www.cityofbuckley.com/ImageRepository/Document?documentID=518",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:buckley/government",
+                    "cdn_image": "local://2d5ea18e95bb.png",
+                    "source_urls": [
+                        "https://www.cityofbuckley.com/250/City-Council"
+                    ],
+                    "updated_at": "2026-05-25T23:54:02+00:00",
+                    "id": "a2247cde-73e8-4b54-8a53-7e8844518e4f"
+                },
+                {
+                    "name": "Kenny Arsanto",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [
+                        "karsanto@cityofbuckley.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofbuckley.com/directory.aspx?EID=26"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:buckley"
+                    },
+                    "image": "https://www.cityofbuckley.com/ImageRepository/Document?documentID=1142",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:buckley/government",
+                    "cdn_image": "local://d959825dfb68.png",
+                    "source_urls": [
+                        "https://www.cityofbuckley.com/250/City-Council"
+                    ],
+                    "updated_at": "2026-05-25T23:54:02+00:00",
+                    "id": "9457a567-b16f-40ab-8c2d-d98a6960156d"
+                },
+                {
+                    "name": "Amanda Burbank",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [
+                        "aburbank@cityofbuckley.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofbuckley.com/directory.aspx?EID=27"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:buckley"
+                    },
+                    "image": "https://www.cityofbuckley.com/ImageRepository/Document?documentID=1140",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:buckley/government",
+                    "cdn_image": "local://bdae26f2eaad.png",
+                    "source_urls": [
+                        "https://www.cityofbuckley.com/250/City-Council"
+                    ],
+                    "updated_at": "2026-05-25T23:54:02+00:00",
+                    "id": "3640ea54-1ce5-4bd9-b990-b9c87d18718a"
+                },
+                {
+                    "name": "Denice Bergerson",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [
+                        "dbergerson@cityofbuckley.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofbuckley.com/directory.aspx?EID=28"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:buckley"
+                    },
+                    "image": "https://www.cityofbuckley.com/ImageRepository/Document?documentID=1134",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:buckley/government",
+                    "cdn_image": "local://c93e3a3b9af9.png",
+                    "source_urls": [
+                        "https://www.cityofbuckley.com/250/City-Council"
+                    ],
+                    "updated_at": "2026-05-25T23:54:02+00:00",
+                    "id": "313c72fa-66e4-4f7a-a913-a68224f3fb5e"
+                },
+                {
+                    "name": "Brandon Green",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [
+                        "bgreen@cityofbuckley.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofbuckley.com/directory.aspx?EID=29"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:buckley"
+                    },
+                    "image": "https://www.cityofbuckley.com/ImageRepository/Document?documentID=1136",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:buckley/government",
+                    "cdn_image": "local://db12480c8a22.png",
+                    "source_urls": [
+                        "https://www.cityofbuckley.com/250/City-Council"
+                    ],
+                    "updated_at": "2026-05-25T23:54:02+00:00",
+                    "id": "82943a84-3cb9-4933-825c-6e700ecf4849"
+                }
+            ]
+        },
+        "review_output_step": {
+            "issues": [
+                "Extra official: Carolyn Robertson Harding",
+                "Extra official: Robert Wohlfeil",
+                "Missing official: Mackenzie Anderson"
+            ],
+            "people_by_source": [
+                {
+                    "name": "Amanda Burbank",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Brandon Green",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Carolyn Robertson Harding",
+                    "in_research": false,
+                    "in_data": true
+                },
+                {
+                    "name": "Connie Bender",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Denice Bergerson",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Kenny Arsanto",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Mackenzie Anderson",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Robert Wohlfeil",
+                    "in_research": false,
+                    "in_data": true
+                },
+                {
+                    "name": "Ron Smith",
+                    "in_research": true,
+                    "in_data": true
+                }
+            ],
+            "origin_source": "existing"
+        },
+        "find_jurisdiction_url_step": null,
+        "send_success_step": null,
+        "send_error_step": null,
+        "issues": [],
+        "error_step": null,
+        "error_detail": null
+    },
+    "current_state": "SEND_SUCCESS",
+    "request_id": "1a1d4231-3855-467e-a926-366a4fd40138",
+    "created_at": 1779752808.1523929,
+    "updated_at": 1779753242.7656662,
+    "progress": 47
+}
