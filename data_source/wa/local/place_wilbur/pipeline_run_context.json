@@ -1,0 +1,1741 @@
+{
+    "data": {
+        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:wilbur/government",
+        "config": {
+            "url": "https://www.wilburwa.gov/",
+            "name": "Wilbur town",
+            "source_urls": null
+        },
+        "frontier": {
+            "links": {
+                "https://wilburwa.gov": {
+                    "url": "https://www.wilburwa.gov/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_wilburwa_gov_",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 1
+                },
+                "https://wilburwa.com/1222/town-hall-city-council": {
+                    "url": "https://wilburwa.com/1222/Town-Hall-City-Council",
+                    "status": "done",
+                    "folder_name": "wilburwa_com_1222_town-hall-city-council",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 13
+                },
+                "https://wilburwa.gov/27/government": {
+                    "url": "https://www.wilburwa.gov/27/Government",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_wilburwa_gov_27_government",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 4
+                },
+                "https://wilburwa.gov/directory.aspx": {
+                    "url": "https://www.wilburwa.gov/Directory.aspx",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_wilburwa_gov_directory_aspx",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 2
+                },
+                "https://wilburwa.gov/directory.aspx?did=16": {
+                    "url": "https://www.wilburwa.gov/directory.aspx?did=16",
+                    "status": "done",
+                    "folder_name": "www_wilburwa_gov_directory_aspx?did=16",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 3
+                },
+                "https://wilburwa.gov/directory.aspx?eid=29": {
+                    "url": "https://www.wilburwa.gov/directory.aspx?eid=29",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_wilburwa_gov_directory_aspx?eid=29",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 7
+                },
+                "https://wilburwa.gov/directory.aspx?eid=30": {
+                    "url": "https://www.wilburwa.gov/directory.aspx?eid=30",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_wilburwa_gov_directory_aspx?eid=30",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 8
+                },
+                "https://wilburwa.gov/directory.aspx?eid=28": {
+                    "url": "https://www.wilburwa.gov/directory.aspx?eid=28",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_wilburwa_gov_directory_aspx?eid=28",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 10
+                },
+                "https://wilburwa.gov/directory.aspx?did=17": {
+                    "url": "https://www.wilburwa.gov/Directory.aspx?did=17",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_wilburwa_gov_directory_aspx?did=17",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 11
+                },
+                "https://wilburwa.gov/directory.aspx?did=19": {
+                    "url": "https://www.wilburwa.gov/Directory.aspx?did=19",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_wilburwa_gov_directory_aspx?did=19",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 9
+                },
+                "https://wilburwa.gov/agendacenter": {
+                    "url": "https://www.wilburwa.gov/agendacenter",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_wilburwa_gov_agendacenter",
+                    "num_references": 11,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 14
+                },
+                "https://wilburwa.gov/list.aspx": {
+                    "url": "https://www.wilburwa.gov/list.aspx",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_wilburwa_gov_list_aspx",
+                    "num_references": 6,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 18
+                },
+                "https://wilburwa.gov/1231/employment": {
+                    "url": "https://www.wilburwa.gov/1231/Employment",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_wilburwa_gov_1231_employment",
+                    "num_references": 8,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 16
+                },
+                "https://wilburwa.gov/formcenter": {
+                    "url": "https://www.wilburwa.gov/formcenter",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_wilburwa_gov_formcenter",
+                    "num_references": 8,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 15
+                },
+                "https://wilburwa.gov/sitemap": {
+                    "url": "https://www.wilburwa.gov/sitemap",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_wilburwa_gov_sitemap",
+                    "num_references": 6,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 17
+                },
+                "https://wilburwa.gov/site/accessibility": {
+                    "url": "https://www.wilburwa.gov/site/accessibility",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_wilburwa_gov_site_accessibility",
+                    "num_references": 7,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 19
+                },
+                "https://wilburwa.gov/site/copyright": {
+                    "url": "https://www.wilburwa.gov/site/copyright",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_wilburwa_gov_site_copyright",
+                    "num_references": 6,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 20
+                },
+                "https://wilburwa.gov/site/privacy": {
+                    "url": "https://www.wilburwa.gov/site/privacy",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_wilburwa_gov_site_privacy",
+                    "num_references": 7,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 21
+                },
+                "https://wilburwa.gov/1222/town-hall-city-council": {
+                    "url": "https://www.wilburwa.gov/1222/Town-Hall-City-Council",
+                    "status": "done",
+                    "folder_name": "www_wilburwa_gov_1222_town-hall-city-council",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 5
+                },
+                "https://wilburwa.gov/1185/public-notices": {
+                    "url": "https://www.wilburwa.gov/1185/Public-Notices",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wilburwa.gov/1188/fee-schedules-pdf": {
+                    "url": "https://www.wilburwa.gov/1188/Fee-Schedules-PDF",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wilburwa.gov/1232/surplus-items": {
+                    "url": "https://www.wilburwa.gov/1232/Surplus-Items",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wilburwa.gov/31/services": {
+                    "url": "https://www.wilburwa.gov/31/Services",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wilburwa.gov/35/community": {
+                    "url": "https://www.wilburwa.gov/35/Community",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wilburwa.gov/9/forms-permits": {
+                    "url": "https://www.wilburwa.gov/9/Forms-Permits",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wilburwa.gov/myaccount": {
+                    "url": "https://www.wilburwa.gov/MyAccount",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wilburwa.gov/myaccount/profilecreate": {
+                    "url": "https://www.wilburwa.gov/MyAccount/ProfileCreate",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wilburwa.gov/search/results": {
+                    "url": "https://www.wilburwa.gov/Search/Results",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://wilburwa.gov/agendacenter/council-2": {
+                    "url": "https://www.wilburwa.gov/AgendaCenter/Council-2",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_wilburwa_gov_agendacenter_council-2",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 6
+                },
+                "https://wilburwa.gov/1223/business-directory": {
+                    "url": "https://www.wilburwa.gov/1223/Business-Directory",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_wilburwa_gov_1223_business-directory",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 12
+                },
+                "https://wilburwa.gov/contactus": {
+                    "url": "https://www.wilburwa.gov/contactus",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                }
+            },
+            "queue": [
+                "https://wilburwa.gov/myaccount",
+                "https://wilburwa.gov/search/results",
+                "https://wilburwa.gov/1185/public-notices",
+                "https://wilburwa.gov/1188/fee-schedules-pdf",
+                "https://wilburwa.gov/1232/surplus-items",
+                "https://wilburwa.gov/31/services",
+                "https://wilburwa.gov/35/community",
+                "https://wilburwa.gov/9/forms-permits",
+                "https://wilburwa.gov/myaccount/profilecreate",
+                "https://wilburwa.gov/contactus"
+            ]
+        },
+        "research_municipality_step": {
+            "expected_count": 6,
+            "target_designations": [],
+            "known_roles": [
+                "Mayor",
+                "Council Member"
+            ],
+            "identities": {
+                "Erica Hearrean": [],
+                "Nichole Curtis": [],
+                "Lynn McWhorter": [],
+                "John Hanon": [],
+                "Roy Scheibner": [],
+                "Joel Krause": []
+            },
+            "source_urls": [
+                "https://wilburwa.com/1222/Town-Hall-City-Council"
+            ],
+            "notes": null,
+            "origin_source": "existing"
+        },
+        "preprocess_page_content_step": {
+            "elapsed_times": [
+                3,
+                2,
+                2,
+                2,
+                2,
+                0,
+                39,
+                1,
+                4,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "total_elapsed_time_seconds": 21,
+            "average_elapsed_time_seconds": 0
+        },
+        "process_page_content_step": {
+            "raw_records_by_llm": {
+                "open_router": {
+                    "Hearrean, Erica": [
+                        {
+                            "name": "Hearrean, Erica",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "wilbureh@gmail.com",
+                            "url": "https://www.wilburwa.gov/directory.aspx?EID=18",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.wilburwa.gov/directory.aspx?did=16"
+                        }
+                    ],
+                    "Phelps, Shawn": [
+                        {
+                            "name": "Phelps, Shawn",
+                            "roles": [
+                                "Councilman"
+                            ],
+                            "designations": [
+                                "Position 1"
+                            ],
+                            "phone": null,
+                            "email": "wilbursp1@gmail.com",
+                            "url": "https://www.wilburwa.gov/directory.aspx?EID=19",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.wilburwa.gov/directory.aspx?did=16"
+                        }
+                    ],
+                    "Jaeger, Rich": [
+                        {
+                            "name": "Jaeger, Rich",
+                            "roles": [
+                                "Councilman"
+                            ],
+                            "designations": [
+                                "Position 2"
+                            ],
+                            "phone": null,
+                            "email": "wilburrj2@gmail.com",
+                            "url": "https://www.wilburwa.gov/directory.aspx?EID=20",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.wilburwa.gov/directory.aspx?did=16"
+                        }
+                    ],
+                    "Hanon, John": [
+                        {
+                            "name": "Hanon, John",
+                            "roles": [
+                                "Councilman"
+                            ],
+                            "designations": [
+                                "Position 3"
+                            ],
+                            "phone": "509-385-5265",
+                            "email": null,
+                            "url": "https://www.wilburwa.gov/directory.aspx?EID=21",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.wilburwa.gov/directory.aspx?did=16"
+                        }
+                    ],
+                    "Scheibner, Roy": [
+                        {
+                            "name": "Scheibner, Roy",
+                            "roles": [
+                                "Councilman"
+                            ],
+                            "designations": [
+                                "Position 4"
+                            ],
+                            "phone": "509-647-5304",
+                            "email": null,
+                            "url": "https://www.wilburwa.gov/directory.aspx?EID=22",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.wilburwa.gov/directory.aspx?did=16"
+                        }
+                    ],
+                    "Krause, Joel": [
+                        {
+                            "name": "Krause, Joel",
+                            "roles": [
+                                "Councilman"
+                            ],
+                            "designations": [
+                                "Position 5"
+                            ],
+                            "phone": null,
+                            "email": "wilburjk22@gmail.com",
+                            "url": "https://www.wilburwa.gov/directory.aspx?EID=23",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.wilburwa.gov/directory.aspx?did=16"
+                        }
+                    ],
+                    "Erica Hearrean": [
+                        {
+                            "name": "Erica Hearrean",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.wilburwa.gov/directory.aspx?EID=18",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.wilburwa.gov/1222/Town-Hall-City-Council"
+                        },
+                        {
+                            "name": "Erica Hearrean",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.wilburwa.gov/directory.aspx?EID=18",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://wilburwa.com/1222/Town-Hall-City-Council"
+                        }
+                    ],
+                    "Nichole Curtis": [
+                        {
+                            "name": "Nichole Curtis",
+                            "roles": [
+                                "Councilman"
+                            ],
+                            "designations": [
+                                "Number 1"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.wilburwa.gov/directory.aspx?EID=19",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.wilburwa.gov/1222/Town-Hall-City-Council"
+                        },
+                        {
+                            "name": "Nichole Curtis",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 1"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.wilburwa.gov/directory.aspx?EID=19",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://wilburwa.com/1222/Town-Hall-City-Council"
+                        }
+                    ],
+                    "Lynn McWhorter": [
+                        {
+                            "name": "Lynn McWhorter",
+                            "roles": [
+                                "Councilman"
+                            ],
+                            "designations": [
+                                "Number 2"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.wilburwa.gov/directory.aspx?EID=20",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.wilburwa.gov/1222/Town-Hall-City-Council"
+                        },
+                        {
+                            "name": "Lynn McWhorter",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 2"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.wilburwa.gov/directory.aspx?EID=20",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://wilburwa.com/1222/Town-Hall-City-Council"
+                        }
+                    ],
+                    "John Hanon": [
+                        {
+                            "name": "John Hanon",
+                            "roles": [
+                                "Councilman"
+                            ],
+                            "designations": [
+                                "Number 3"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.wilburwa.gov/directory.aspx?EID=21",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.wilburwa.gov/1222/Town-Hall-City-Council"
+                        },
+                        {
+                            "name": "John Hanon",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 3"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.wilburwa.gov/directory.aspx?EID=21",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://wilburwa.com/1222/Town-Hall-City-Council"
+                        }
+                    ],
+                    "Roy Scheibner": [
+                        {
+                            "name": "Roy Scheibner",
+                            "roles": [
+                                "Councilman"
+                            ],
+                            "designations": [
+                                "Number 4"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.wilburwa.gov/directory.aspx?EID=22",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.wilburwa.gov/1222/Town-Hall-City-Council"
+                        },
+                        {
+                            "name": "Roy Scheibner",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 4"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.wilburwa.gov/directory.aspx?EID=22",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://wilburwa.com/1222/Town-Hall-City-Council"
+                        }
+                    ],
+                    "Joel Krause": [
+                        {
+                            "name": "Joel Krause",
+                            "roles": [
+                                "Councilman"
+                            ],
+                            "designations": [
+                                "Number 5"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.wilburwa.gov/directory.aspx?EID=23",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.wilburwa.gov/1222/Town-Hall-City-Council"
+                        },
+                        {
+                            "name": "Joel Krause",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 5"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.wilburwa.gov/directory.aspx?EID=23",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://wilburwa.com/1222/Town-Hall-City-Council"
+                        }
+                    ]
+                }
+            },
+            "records_by_llm": {
+                "open_router": {
+                    "Hearrean, Erica": [
+                        {
+                            "name": "Erica Hearrean",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "wilbureh@gmail.com",
+                            "url": "https://www.wilburwa.gov/directory.aspx?EID=18",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.wilburwa.gov/directory.aspx?did=16"
+                        }
+                    ],
+                    "Phelps, Shawn": [
+                        {
+                            "name": "Shawn Phelps",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 1"
+                            ],
+                            "phone": null,
+                            "email": "wilbursp1@gmail.com",
+                            "url": "https://www.wilburwa.gov/directory.aspx?EID=19",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.wilburwa.gov/directory.aspx?did=16"
+                        }
+                    ],
+                    "Jaeger, Rich": [
+                        {
+                            "name": "Rich Jaeger",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 2"
+                            ],
+                            "phone": null,
+                            "email": "wilburrj2@gmail.com",
+                            "url": "https://www.wilburwa.gov/directory.aspx?EID=20",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.wilburwa.gov/directory.aspx?did=16"
+                        }
+                    ],
+                    "Hanon, John": [
+                        {
+                            "name": "John Hanon",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 3"
+                            ],
+                            "phone": "(509) 385-5265",
+                            "email": null,
+                            "url": "https://www.wilburwa.gov/directory.aspx?EID=21",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.wilburwa.gov/directory.aspx?did=16"
+                        }
+                    ],
+                    "Scheibner, Roy": [
+                        {
+                            "name": "Roy Scheibner",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 4"
+                            ],
+                            "phone": "(509) 647-5304",
+                            "email": null,
+                            "url": "https://www.wilburwa.gov/directory.aspx?EID=22",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.wilburwa.gov/directory.aspx?did=16"
+                        }
+                    ],
+                    "Krause, Joel": [
+                        {
+                            "name": "Joel Krause",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 5"
+                            ],
+                            "phone": null,
+                            "email": "wilburjk22@gmail.com",
+                            "url": "https://www.wilburwa.gov/directory.aspx?EID=23",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.wilburwa.gov/directory.aspx?did=16"
+                        }
+                    ],
+                    "Erica Hearrean": [
+                        {
+                            "name": "Erica Hearrean",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.wilburwa.gov/directory.aspx?EID=18",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.wilburwa.gov/1222/Town-Hall-City-Council"
+                        },
+                        {
+                            "name": "Erica Hearrean",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.wilburwa.gov/directory.aspx?EID=18",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://wilburwa.com/1222/Town-Hall-City-Council"
+                        }
+                    ],
+                    "Nichole Curtis": [
+                        {
+                            "name": "Nichole Curtis",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Number 1"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.wilburwa.gov/directory.aspx?EID=19",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.wilburwa.gov/1222/Town-Hall-City-Council"
+                        },
+                        {
+                            "name": "Nichole Curtis",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 1"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.wilburwa.gov/directory.aspx?EID=19",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://wilburwa.com/1222/Town-Hall-City-Council"
+                        }
+                    ],
+                    "Lynn McWhorter": [
+                        {
+                            "name": "Lynn McWhorter",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Number 2"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.wilburwa.gov/directory.aspx?EID=20",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.wilburwa.gov/1222/Town-Hall-City-Council"
+                        },
+                        {
+                            "name": "Lynn McWhorter",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 2"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.wilburwa.gov/directory.aspx?EID=20",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://wilburwa.com/1222/Town-Hall-City-Council"
+                        }
+                    ],
+                    "John Hanon": [
+                        {
+                            "name": "John Hanon",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Number 3"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.wilburwa.gov/directory.aspx?EID=21",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.wilburwa.gov/1222/Town-Hall-City-Council"
+                        },
+                        {
+                            "name": "John Hanon",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 3"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.wilburwa.gov/directory.aspx?EID=21",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://wilburwa.com/1222/Town-Hall-City-Council"
+                        }
+                    ],
+                    "Roy Scheibner": [
+                        {
+                            "name": "Roy Scheibner",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Number 4"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.wilburwa.gov/directory.aspx?EID=22",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.wilburwa.gov/1222/Town-Hall-City-Council"
+                        },
+                        {
+                            "name": "Roy Scheibner",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 4"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.wilburwa.gov/directory.aspx?EID=22",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://wilburwa.com/1222/Town-Hall-City-Council"
+                        }
+                    ],
+                    "Joel Krause": [
+                        {
+                            "name": "Joel Krause",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Number 5"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.wilburwa.gov/directory.aspx?EID=23",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.wilburwa.gov/1222/Town-Hall-City-Council"
+                        },
+                        {
+                            "name": "Joel Krause",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 5"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.wilburwa.gov/directory.aspx?EID=23",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://wilburwa.com/1222/Town-Hall-City-Council"
+                        }
+                    ]
+                }
+            },
+            "progress": {
+                "required_data": 6,
+                "current_data": 0,
+                "has_target_role": true,
+                "has_target_designations": true
+            }
+        },
+        "merge_records_within_llm_step": {
+            "people_by_llm": {
+                "open_router": [
+                    {
+                        "name": "Erica Hearrean",
+                        "other_names": [],
+                        "roles": [
+                            "Mayor"
+                        ],
+                        "designations": [],
+                        "phones": [],
+                        "emails": [
+                            "wilbureh@gmail.com"
+                        ],
+                        "urls": [
+                            "https://www.wilburwa.gov/directory.aspx?EID=18"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:wilbur/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.wilburwa.gov/directory.aspx?did=16"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Shawn Phelps",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 1"
+                        ],
+                        "phones": [],
+                        "emails": [
+                            "wilbursp1@gmail.com"
+                        ],
+                        "urls": [
+                            "https://www.wilburwa.gov/directory.aspx?EID=19"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:wilbur/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.wilburwa.gov/directory.aspx?did=16"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Rich Jaeger",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 2"
+                        ],
+                        "phones": [],
+                        "emails": [
+                            "wilburrj2@gmail.com"
+                        ],
+                        "urls": [
+                            "https://www.wilburwa.gov/directory.aspx?EID=20"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:wilbur/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.wilburwa.gov/directory.aspx?did=16"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "John Hanon",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 3",
+                            "Number 3"
+                        ],
+                        "phones": [
+                            "(509) 385-5265"
+                        ],
+                        "emails": [],
+                        "urls": [
+                            "https://www.wilburwa.gov/directory.aspx?EID=21"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:wilbur/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.wilburwa.gov/directory.aspx?did=16"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Roy Scheibner",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 4",
+                            "Number 4"
+                        ],
+                        "phones": [
+                            "(509) 647-5304"
+                        ],
+                        "emails": [],
+                        "urls": [
+                            "https://www.wilburwa.gov/directory.aspx?EID=22"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:wilbur/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.wilburwa.gov/directory.aspx?did=16"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Joel Krause",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 5",
+                            "Number 5"
+                        ],
+                        "phones": [],
+                        "emails": [
+                            "wilburjk22@gmail.com"
+                        ],
+                        "urls": [
+                            "https://www.wilburwa.gov/directory.aspx?EID=23"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:wilbur/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.wilburwa.gov/directory.aspx?did=16"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Nichole Curtis",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 1",
+                            "Number 1"
+                        ],
+                        "phones": [],
+                        "emails": [],
+                        "urls": [
+                            "https://www.wilburwa.gov/directory.aspx?EID=19"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:wilbur/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.wilburwa.gov/1222/Town-Hall-City-Council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Lynn McWhorter",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Number 2",
+                            "Position 2"
+                        ],
+                        "phones": [],
+                        "emails": [],
+                        "urls": [
+                            "https://www.wilburwa.gov/directory.aspx?EID=20"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:wilbur/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.wilburwa.gov/1222/Town-Hall-City-Council"
+                        ],
+                        "updated_at": ""
+                    }
+                ]
+            },
+            "unrecognized_roles": [],
+            "excluded_people": []
+        },
+        "merge_records_across_llms_step": {
+            "people": [
+                {
+                    "name": "Erica Hearrean",
+                    "other_names": [],
+                    "roles": [
+                        "mayor"
+                    ],
+                    "designations": [],
+                    "phones": [],
+                    "emails": [
+                        "wilbureh@gmail.com"
+                    ],
+                    "urls": [
+                        "https://www.wilburwa.gov/directory.aspx?EID=18"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:wilbur/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.wilburwa.gov/directory.aspx?did=16"
+                    ],
+                    "updated_at": "2026-05-25T19:16:09+00:00"
+                },
+                {
+                    "name": "Shawn Phelps",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 1"
+                    ],
+                    "phones": [],
+                    "emails": [
+                        "wilbursp1@gmail.com"
+                    ],
+                    "urls": [
+                        "https://www.wilburwa.gov/directory.aspx?EID=19"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:wilbur/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.wilburwa.gov/directory.aspx?did=16"
+                    ],
+                    "updated_at": "2026-05-25T19:16:09+00:00"
+                },
+                {
+                    "name": "Nichole Curtis",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 1",
+                        "number 1"
+                    ],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://www.wilburwa.gov/directory.aspx?EID=19"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:wilbur/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.wilburwa.gov/1222/Town-Hall-City-Council"
+                    ],
+                    "updated_at": "2026-05-25T19:16:09+00:00"
+                },
+                {
+                    "name": "Rich Jaeger",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 2"
+                    ],
+                    "phones": [],
+                    "emails": [
+                        "wilburrj2@gmail.com"
+                    ],
+                    "urls": [
+                        "https://www.wilburwa.gov/directory.aspx?EID=20"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:wilbur/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.wilburwa.gov/directory.aspx?did=16"
+                    ],
+                    "updated_at": "2026-05-25T19:16:09+00:00"
+                },
+                {
+                    "name": "Lynn McWhorter",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 2",
+                        "number 2"
+                    ],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://www.wilburwa.gov/directory.aspx?EID=20"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:wilbur/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.wilburwa.gov/1222/Town-Hall-City-Council"
+                    ],
+                    "updated_at": "2026-05-25T19:16:09+00:00"
+                },
+                {
+                    "name": "John Hanon",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "number 3",
+                        "position 3"
+                    ],
+                    "phones": [
+                        "(509) 385-5265"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.wilburwa.gov/directory.aspx?EID=21"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:wilbur/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.wilburwa.gov/directory.aspx?did=16"
+                    ],
+                    "updated_at": "2026-05-25T19:16:09+00:00"
+                },
+                {
+                    "name": "Roy Scheibner",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 4",
+                        "number 4"
+                    ],
+                    "phones": [
+                        "(509) 647-5304"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.wilburwa.gov/directory.aspx?EID=22"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:wilbur/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.wilburwa.gov/directory.aspx?did=16"
+                    ],
+                    "updated_at": "2026-05-25T19:16:09+00:00"
+                },
+                {
+                    "name": "Joel Krause",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "number 5",
+                        "position 5"
+                    ],
+                    "phones": [],
+                    "emails": [
+                        "wilburjk22@gmail.com"
+                    ],
+                    "urls": [
+                        "https://www.wilburwa.gov/directory.aspx?EID=23"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:wilbur/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.wilburwa.gov/directory.aspx?did=16"
+                    ],
+                    "updated_at": "2026-05-25T19:16:09+00:00"
+                }
+            ]
+        },
+        "format_output_step": {
+            "officials": [
+                {
+                    "name": "Erica Hearrean",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [
+                        "wilbureh@gmail.com"
+                    ],
+                    "urls": [
+                        "https://www.wilburwa.gov/directory.aspx?EID=18"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Mayor",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:wilbur"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:wilbur/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.wilburwa.gov/directory.aspx?did=16"
+                    ],
+                    "updated_at": "2026-05-25T19:16:09+00:00",
+                    "id": "1088a4bb-133b-4c79-80a3-37c340f0c57f"
+                },
+                {
+                    "name": "Shawn Phelps",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [
+                        "wilbursp1@gmail.com"
+                    ],
+                    "urls": [
+                        "https://www.wilburwa.gov/directory.aspx?EID=19"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Position 1",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:wilbur"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:wilbur/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.wilburwa.gov/directory.aspx?did=16"
+                    ],
+                    "updated_at": "2026-05-25T19:16:09+00:00",
+                    "id": "31775517-7f80-4464-b597-01f9410b1213"
+                },
+                {
+                    "name": "Nichole Curtis",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://www.wilburwa.gov/directory.aspx?EID=19"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Position 1 - Number 1",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:wilbur"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:wilbur/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.wilburwa.gov/1222/Town-Hall-City-Council"
+                    ],
+                    "updated_at": "2026-05-25T19:16:09+00:00",
+                    "id": "17e133a1-1922-404f-9cea-deadb389c724"
+                },
+                {
+                    "name": "Rich Jaeger",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [
+                        "wilburrj2@gmail.com"
+                    ],
+                    "urls": [
+                        "https://www.wilburwa.gov/directory.aspx?EID=20"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Position 2",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:wilbur"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:wilbur/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.wilburwa.gov/directory.aspx?did=16"
+                    ],
+                    "updated_at": "2026-05-25T19:16:09+00:00",
+                    "id": "7519bdc0-0cbf-46f6-8333-93a911c88f10"
+                },
+                {
+                    "name": "Lynn McWhorter",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://www.wilburwa.gov/directory.aspx?EID=20"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Position 2 - Number 2",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:wilbur"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:wilbur/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.wilburwa.gov/1222/Town-Hall-City-Council"
+                    ],
+                    "updated_at": "2026-05-25T19:16:09+00:00",
+                    "id": "c64ed7fe-eb8f-4654-a669-a44109939d4a"
+                },
+                {
+                    "name": "John Hanon",
+                    "other_names": [],
+                    "phones": [
+                        "(509) 385-5265"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.wilburwa.gov/directory.aspx?EID=21"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Number 3 - Position 3",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:wilbur"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:wilbur/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.wilburwa.gov/directory.aspx?did=16"
+                    ],
+                    "updated_at": "2026-05-25T19:16:09+00:00",
+                    "id": "bc06eaef-f5ec-4c72-bdbb-584bb92dbcb3"
+                },
+                {
+                    "name": "Roy Scheibner",
+                    "other_names": [],
+                    "phones": [
+                        "(509) 647-5304"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.wilburwa.gov/directory.aspx?EID=22"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Position 4 - Number 4",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:wilbur"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:wilbur/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.wilburwa.gov/directory.aspx?did=16"
+                    ],
+                    "updated_at": "2026-05-25T19:16:09+00:00",
+                    "id": "a5f12aa4-83f4-46a9-a3e3-bdca4ca53c56"
+                },
+                {
+                    "name": "Joel Krause",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [
+                        "wilburjk22@gmail.com"
+                    ],
+                    "urls": [
+                        "https://www.wilburwa.gov/directory.aspx?EID=23"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Number 5 - Position 5",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:wilbur"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:wilbur/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.wilburwa.gov/directory.aspx?did=16"
+                    ],
+                    "updated_at": "2026-05-25T19:16:09+00:00",
+                    "id": "f3bc8466-f7a9-4950-a49c-200101478059"
+                }
+            ]
+        },
+        "review_output_step": {
+            "issues": [
+                "Extra official: Rich Jaeger",
+                "Extra official: Shawn Phelps",
+                "Position 1 has 3 official(s) (expected 2)",
+                "Position 2 has 3 official(s) (expected 2)"
+            ],
+            "people_by_source": [
+                {
+                    "name": "Erica Hearrean",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Joel Krause",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "John Hanon",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Lynn McWhorter",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Nichole Curtis",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Rich Jaeger",
+                    "in_research": false,
+                    "in_data": true
+                },
+                {
+                    "name": "Roy Scheibner",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Shawn Phelps",
+                    "in_research": false,
+                    "in_data": true
+                }
+            ],
+            "origin_source": "existing"
+        },
+        "find_jurisdiction_url_step": null,
+        "send_success_step": null,
+        "send_error_step": null,
+        "issues": [],
+        "error_step": null,
+        "error_detail": null
+    },
+    "current_state": "SEND_SUCCESS",
+    "request_id": "88811d13-b593-4368-a06e-34d904d41c1d",
+    "created_at": 1779736239.812557,
+    "updated_at": 1779736569.3686507,
+    "progress": 27
+}
