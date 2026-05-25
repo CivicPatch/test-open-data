@@ -1,160 +1,161 @@
-- name: Bruce Reim
+- name: Steve Oliver
+  other_names: []
   phones:
-  - (509) 754-4601 ext. 157
+  - (509) 754-4601
   emails:
-  - contact@ephrata.org
+  - soliver@ephrata.org
   urls:
-  - https://www.ephrata.org/government/city_council.php
+  - https://www.ephrata.org/172/City-Council
+  start_date: null
+  end_date: 2029-12
   office:
     name: Mayor
     division_ocdid: ocd-division/country:us/state:wa/place:ephrata
-  image: null
+  image: https://www.ephrata.org/ImageRepository/Document?documentID=1048
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:ephrata/government
-  cdn_image: null
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/ccb991e0-0c68-45fc-8978-4bb48fa56a41/data_source/wa/local/place_ephrata/images/8dbd99d6a7e3.png
   source_urls:
-  - https://www.ephrata.org/government/city_council.php
-  updated_at: '2025-06-23T04:27:42+00:00'
-  start_date: null
-  end_date: null
-  other_names: []
-  id: e7c352a4-21ef-44c6-bb64-d6c0fdd79d39
-- name: Sarah McDonnell
+  - https://www.ephrata.org/172/City-Council
+  updated_at: '2026-05-25T15:53:21+00:00'
+  id: 02cc9c0a-670d-4a85-8f9f-c9b961ee30a7
+- name: Matt Moore
+  other_names:
+  - Matthew Moore
   phones:
-  - (509) 754-4601 ext. 157
+  - (509) 754-4601
   emails:
-  - contact@ephrata.org
+  - mmoore@cityofephrata.org
   urls:
-  - https://www.ephrata.org/government/city_council.php
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:ephrata
-  image: null
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:ephrata/government
-  cdn_image: null
-  source_urls:
-  - https://www.ephrata.org/government/city_council.php
-  updated_at: '2025-06-23T04:27:42+00:00'
+  - https://www.ephrata.org/172/City-Council
   start_date: null
-  end_date: null
-  other_names: []
-  id: 31bfe1f1-f3ae-441f-b3c0-f4eb582bfe04
-- name: Kathleen Harris
-  phones:
-  - (509) 754-4601 ext. 157
-  emails:
-  - contact@ephrata.org
-  urls:
-  - https://www.ephrata.org/government/city_council.php
+  end_date: 2029-12
   office:
-    name: Council Member
+    name: Council Member - Mayor Pro Tempore - Position 3
     division_ocdid: ocd-division/country:us/state:wa/place:ephrata
-  image: null
+  image: https://www.ephrata.org/ImageRepository/Document?documentID=1046
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:ephrata/government
-  cdn_image: null
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/ccb991e0-0c68-45fc-8978-4bb48fa56a41/data_source/wa/local/place_ephrata/images/2069e7dca43e.png
   source_urls:
-  - https://www.ephrata.org/government/city_council.php
-  updated_at: '2025-06-23T04:27:42+00:00'
-  start_date: null
-  end_date: null
-  other_names: []
-  id: 27120629-c529-45d9-b33c-d8ba0ee63492
-- name: Matthew Moore
-  phones:
-  - (509) 754-4601 ext. 157
-  emails:
-  - contact@ephrata.org
-  urls:
-  - https://www.ephrata.org/government/city_council.php
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:ephrata
-  image: null
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:ephrata/government
-  cdn_image: null
-  source_urls:
-  - https://www.ephrata.org/government/city_council.php
-  updated_at: '2025-06-23T04:27:42+00:00'
-  start_date: null
-  end_date: null
-  other_names: []
+  - https://www.ephrata.org/172/City-Council
+  updated_at: '2026-05-25T15:53:21+00:00'
   id: 7d44473f-546b-48e5-a8b6-e95f6afb4077
-- name: Valli Millard
-  phones:
-  - (509) 754-4601 ext. 157
-  emails:
-  - contact@ephrata.org
-  urls:
-  - https://www.ephrata.org/government/city_council.php
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:ephrata
-  image: null
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:ephrata/government
-  cdn_image: null
-  source_urls:
-  - https://www.ephrata.org/government/city_council.php
-  updated_at: '2025-06-23T04:27:42+00:00'
-  start_date: null
-  end_date: null
+- name: James Mathis
   other_names: []
+  phones:
+  - (509) 754-4601
+  emails:
+  - jmathis@ephrata.org
+  urls:
+  - https://www.ephrata.org/172/City-Council
+  start_date: null
+  end_date: 2029-12
+  office:
+    name: Council Member - Position 1
+    division_ocdid: ocd-division/country:us/state:wa/place:ephrata
+  image: https://www.ephrata.org/ImageRepository/Document?documentID=1044
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:ephrata/government
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/ccb991e0-0c68-45fc-8978-4bb48fa56a41/data_source/wa/local/place_ephrata/images/7da258d4a351.png
+  source_urls:
+  - https://www.ephrata.org/172/City-Council
+  updated_at: '2026-05-25T15:53:21+00:00'
+  id: 8e4467ad-1ecb-4c9e-a326-45e4994ef519
+- name: Kathleen Harris
+  other_names: []
+  phones:
+  - (509) 754-4601
+  emails:
+  - kharris@ephrata.org
+  urls:
+  - https://www.ephrata.org/172/City-Council
+  start_date: null
+  end_date: 2029-12
+  office:
+    name: Council Member - Position 2
+    division_ocdid: ocd-division/country:us/state:wa/place:ephrata
+  image: https://www.ephrata.org/ImageRepository/Document?documentID=1042
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:ephrata/government
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/ccb991e0-0c68-45fc-8978-4bb48fa56a41/data_source/wa/local/place_ephrata/images/3954e8c57785.png
+  source_urls:
+  - https://www.ephrata.org/172/City-Council
+  updated_at: '2026-05-25T15:53:21+00:00'
+  id: 27120629-c529-45d9-b33c-d8ba0ee63492
+- name: Valli Millard
+  other_names: []
+  phones:
+  - (509) 754-4601
+  emails:
+  - vmillard@ephrata.org
+  urls:
+  - https://www.ephrata.org/172/City-Council
+  start_date: null
+  end_date: 2027-12
+  office:
+    name: Council Member - Position 4
+    division_ocdid: ocd-division/country:us/state:wa/place:ephrata
+  image: https://www.ephrata.org/ImageRepository/Document?documentID=1045
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:ephrata/government
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/ccb991e0-0c68-45fc-8978-4bb48fa56a41/data_source/wa/local/place_ephrata/images/14db55f8312d.png
+  source_urls:
+  - https://www.ephrata.org/172/City-Council
+  updated_at: '2026-05-25T15:53:21+00:00'
   id: 10ac4ca7-4edd-4753-9fea-d8d79ca08b7e
 - name: Beau Lamens
-  phones:
-  - (509) 754-4601 ext. 157
-  emails:
-  - contact@ephrata.org
-  urls:
-  - https://www.ephrata.org/government/city_council.php
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:ephrata
-  image: null
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:ephrata/government
-  cdn_image: null
-  source_urls:
-  - https://www.ephrata.org/government/city_council.php
-  updated_at: '2025-06-23T04:27:42+00:00'
-  start_date: null
-  end_date: null
   other_names: []
+  phones:
+  - (509) 754-4601
+  emails:
+  - blamens@ephrata.org
+  urls:
+  - https://www.ephrata.org/172/City-Council
+  start_date: null
+  end_date: 2027-12
+  office:
+    name: Council Member - Position 5
+    division_ocdid: ocd-division/country:us/state:wa/place:ephrata
+  image: https://www.ephrata.org/ImageRepository/Document?documentID=1043
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:ephrata/government
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/ccb991e0-0c68-45fc-8978-4bb48fa56a41/data_source/wa/local/place_ephrata/images/a8847d791625.png
+  source_urls:
+  - https://www.ephrata.org/172/City-Council
+  updated_at: '2026-05-25T15:53:21+00:00'
   id: cf80425f-a811-4ba3-8e59-3d063ae4e152
 - name: Phil Borck
-  phones:
-  - (509) 754-4601 ext. 157
-  emails:
-  - contact@ephrata.org
-  urls:
-  - https://www.ephrata.org/government/city_council.php
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:ephrata
-  image: null
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:ephrata/government
-  cdn_image: null
-  source_urls:
-  - https://www.ephrata.org/government/city_council.php
-  updated_at: '2025-06-23T04:27:42+00:00'
-  start_date: null
-  end_date: null
   other_names: []
+  phones:
+  - (509) 754-4601
+  emails:
+  - pborck@ephrata.org
+  urls:
+  - https://www.ephrata.org/172/City-Council
+  start_date: null
+  end_date: 2027-12
+  office:
+    name: Council Member - Position 6
+    division_ocdid: ocd-division/country:us/state:wa/place:ephrata
+  image: https://www.ephrata.org/ImageRepository/Document?documentID=1041
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:ephrata/government
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/ccb991e0-0c68-45fc-8978-4bb48fa56a41/data_source/wa/local/place_ephrata/images/60e81e531c59.png
+  source_urls:
+  - https://www.ephrata.org/172/City-Council
+  updated_at: '2026-05-25T15:53:21+00:00'
   id: 1d814160-7ca1-40b2-bb16-3df615be92d2
 - name: Mike Warren
-  phones:
-  - (509) 754-4601 ext. 157
-  emails:
-  - contact@ephrata.org
-  urls:
-  - https://www.ephrata.org/government/city_council.php
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:ephrata
-  image: null
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:ephrata/government
-  cdn_image: null
-  source_urls:
-  - https://www.ephrata.org/government/city_council.php
-  updated_at: '2025-06-23T04:27:42+00:00'
-  start_date: null
-  end_date: null
   other_names: []
+  phones:
+  - (509) 754-4601
+  emails:
+  - mwarren@ephrata.org
+  urls:
+  - https://www.ephrata.org/172/City-Council
+  start_date: null
+  end_date: 2027-12
+  office:
+    name: Council Member - Position 7
+    division_ocdid: ocd-division/country:us/state:wa/place:ephrata
+  image: https://www.ephrata.org/ImageRepository/Document?documentID=1047
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:ephrata/government
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/ccb991e0-0c68-45fc-8978-4bb48fa56a41/data_source/wa/local/place_ephrata/images/8bbec12b39ec.png
+  source_urls:
+  - https://www.ephrata.org/172/City-Council
+  updated_at: '2026-05-25T15:53:21+00:00'
   id: 26779de7-3d70-4ed8-ab5f-fe0e85946ff6
