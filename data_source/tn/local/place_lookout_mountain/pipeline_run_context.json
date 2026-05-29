@@ -1,0 +1,1122 @@
+{
+    "data": {
+        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:lookout_mountain/government",
+        "config": {
+            "url": "https://www.lookoutmtn.us/",
+            "name": "Lookout Mountain town",
+            "source_urls": null
+        },
+        "frontier": {
+            "links": {
+                "https://lookoutmtn.us": {
+                    "url": "https://www.lookoutmtn.us/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_lookoutmtn_us_",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 1
+                },
+                "https://lookoutmtn.us/directory/index.php": {
+                    "url": "https://www.lookoutmtn.us/directory/index.php",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_lookoutmtn_us_directory_index_php",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 2
+                },
+                "https://lookoutmtn.us/elected_officials/index.php": {
+                    "url": "https://www.lookoutmtn.us/elected_officials/index.php",
+                    "status": "done",
+                    "folder_name": "www_lookoutmtn_us_elected_officials_index_php",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 3
+                },
+                "https://lookoutmtn.us/commission_meetings/index.php": {
+                    "url": "https://www.lookoutmtn.us/commission_meetings/index.php",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_lookoutmtn_us_commission_meetings_index_php",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 4
+                },
+                "https://lookoutmtn.us/recreation/index.php": {
+                    "url": "https://www.lookoutmtn.us/recreation/index.php",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_lookoutmtn_us_recreation_index_php",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 8
+                },
+                "https://lookoutmtn.us/police___fire/index.php": {
+                    "url": "https://www.lookoutmtn.us/police___fire/index.php",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_lookoutmtn_us_police___fire_index_php",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 5
+                },
+                "https://lookoutmtn.us/public_works/index.php": {
+                    "url": "https://www.lookoutmtn.us/public_works/index.php",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_lookoutmtn_us_public_works_index_php",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 6
+                },
+                "https://lookoutmtn.us/education/index.php": {
+                    "url": "https://www.lookoutmtn.us/education/index.php",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_lookoutmtn_us_education_index_php",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 7
+                },
+                "https://lookoutmtn.us/faq/index.php": {
+                    "url": "https://www.lookoutmtn.us/faq/index.php",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_lookoutmtn_us_faq_index_php",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 9
+                },
+                "https://lookoutmtn.us/enotify/index.php": {
+                    "url": "https://www.lookoutmtn.us/enotify/index.php",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_lookoutmtn_us_enotify_index_php",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 10
+                },
+                "https://lookoutmtn.us/directory/elected_officials/index.php": {
+                    "url": "https://www.lookoutmtn.us/directory/elected_officials/index.php",
+                    "status": "done",
+                    "folder_name": "www_lookoutmtn_us_directory_elected_officials_index_php",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 11
+                },
+                "https://lookoutmtn.us/police___fire/municipal_codes.php": {
+                    "url": "https://www.lookoutmtn.us/police___fire/municipal_codes.php",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_lookoutmtn_us_police___fire_municipal_codes_php",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 13
+                },
+                "https://lookoutmtn.us/police___fire/permits.php": {
+                    "url": "https://www.lookoutmtn.us/police___fire/permits.php",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_lookoutmtn_us_police___fire_permits_php",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 14
+                },
+                "https://lookoutmtn.us/police___fire/inspections.php": {
+                    "url": "https://www.lookoutmtn.us/police___fire/inspections.php",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_lookoutmtn_us_police___fire_inspections_php",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 15
+                },
+                "https://lookoutmtn.us/police___fire/variance_requests.php": {
+                    "url": "https://www.lookoutmtn.us/police___fire/variance_requests.php",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_lookoutmtn_us_police___fire_variance_requests_php",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 16
+                },
+                "https://lookoutmtn.us/police___fire/knoxbox_.php": {
+                    "url": "https://www.lookoutmtn.us/police___fire/knoxbox_.php",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_lookoutmtn_us_police___fire_knoxbox__php",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 17
+                },
+                "https://lookoutmtn.us/police___fire/incident_report_request.php": {
+                    "url": "https://www.lookoutmtn.us/police___fire/incident_report_request.php",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_lookoutmtn_us_police___fire_incident_report_request_php",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 18
+                },
+                "https://lookoutmtn.us/alert_detail_t27_r2.php": {
+                    "url": "https://www.lookoutmtn.us/alert_detail_T27_R2.php",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_lookoutmtn_us_alert_detail_t27_r2_php",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 12
+                }
+            },
+            "queue": []
+        },
+        "research_municipality_step": {
+            "expected_count": 5,
+            "target_designations": [],
+            "known_roles": [
+                "Mayor",
+                "Commissioner",
+                "Commissioner of Fire & Police",
+                "Commissioner of Education",
+                "Commissioner of Parks & Playgrounds",
+                "Commissioner of Public Works"
+            ],
+            "identities": {
+                "Walker Jones": [],
+                "Jim Bentley": [],
+                "Karen Leavengood": [],
+                "John Tugman": [],
+                "William Valadez": [],
+                "Stevie Persinger": []
+            },
+            "source_urls": [],
+            "notes": null,
+            "origin_source": "google_gemini"
+        },
+        "preprocess_page_content_step": {
+            "elapsed_times": [
+                2,
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "total_elapsed_time_seconds": 8,
+            "average_elapsed_time_seconds": 0
+        },
+        "process_page_content_step": {
+            "raw_records_by_llm": {
+                "open_router": {
+                    "Walker Jones": [
+                        {
+                            "name": "Walker Jones",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "423-821-1226",
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.lookoutmtn.us/elected_officials/index.php"
+                        },
+                        {
+                            "name": "Walker Jones",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "423-821-1226",
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.lookoutmtn.us/directory/elected_officials/index.php"
+                        }
+                    ],
+                    "Karen Leavengood": [
+                        {
+                            "name": "Karen Leavengood",
+                            "roles": [
+                                "Commissioner of Education"
+                            ],
+                            "designations": [],
+                            "phone": "423-821-1226",
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.lookoutmtn.us/elected_officials/index.php"
+                        },
+                        {
+                            "name": "Karen Leavengood",
+                            "roles": [
+                                "Commissioner of Education"
+                            ],
+                            "designations": [],
+                            "phone": "423-821-1226",
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.lookoutmtn.us/directory/elected_officials/index.php"
+                        }
+                    ],
+                    "Jim Bentley": [
+                        {
+                            "name": "Jim Bentley",
+                            "roles": [
+                                "Commissioner of Fire & Police"
+                            ],
+                            "designations": [],
+                            "phone": "423-821-1226",
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.lookoutmtn.us/elected_officials/index.php"
+                        },
+                        {
+                            "name": "Jim Bentley",
+                            "roles": [
+                                "Commissioner of Fire & Police"
+                            ],
+                            "designations": [],
+                            "phone": "423-821-1226",
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.lookoutmtn.us/directory/elected_officials/index.php"
+                        }
+                    ],
+                    "John Tugman": [
+                        {
+                            "name": "John Tugman",
+                            "roles": [
+                                "Commissioner of Parks & Playgrounds"
+                            ],
+                            "designations": [],
+                            "phone": "423-821-1226",
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.lookoutmtn.us/elected_officials/index.php"
+                        }
+                    ],
+                    "William Valadez": [
+                        {
+                            "name": "William Valadez",
+                            "roles": [
+                                "Commissioner of Public Works"
+                            ],
+                            "designations": [],
+                            "phone": "423-821-1226",
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.lookoutmtn.us/elected_officials/index.php"
+                        },
+                        {
+                            "name": "William Valadez",
+                            "roles": [
+                                "Commissioner of Public Works"
+                            ],
+                            "designations": [],
+                            "phone": "423-821-1226",
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.lookoutmtn.us/directory/elected_officials/index.php"
+                        }
+                    ],
+                    "Joe Hailey": [
+                        {
+                            "name": "Joe Hailey",
+                            "roles": [
+                                "Commissioner of Parks & Playgrounds"
+                            ],
+                            "designations": [],
+                            "phone": "423-821-1226",
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.lookoutmtn.us/directory/elected_officials/index.php"
+                        }
+                    ]
+                }
+            },
+            "records_by_llm": {
+                "open_router": {
+                    "Walker Jones": [
+                        {
+                            "name": "Walker Jones",
+                            "roles": [
+                                "mayor"
+                            ],
+                            "designations": [],
+                            "phone": "(423) 821-1226",
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.lookoutmtn.us/elected_officials/index.php"
+                        },
+                        {
+                            "name": "Walker Jones",
+                            "roles": [
+                                "mayor"
+                            ],
+                            "designations": [],
+                            "phone": "(423) 821-1226",
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.lookoutmtn.us/directory/elected_officials/index.php"
+                        }
+                    ],
+                    "Karen Leavengood": [
+                        {
+                            "name": "Karen Leavengood",
+                            "roles": [
+                                "Commissioner of Education"
+                            ],
+                            "designations": [],
+                            "phone": "(423) 821-1226",
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.lookoutmtn.us/elected_officials/index.php"
+                        },
+                        {
+                            "name": "Karen Leavengood",
+                            "roles": [
+                                "Commissioner of Education"
+                            ],
+                            "designations": [],
+                            "phone": "(423) 821-1226",
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.lookoutmtn.us/directory/elected_officials/index.php"
+                        }
+                    ],
+                    "Jim Bentley": [
+                        {
+                            "name": "Jim Bentley",
+                            "roles": [
+                                "Commissioner of Fire & Police"
+                            ],
+                            "designations": [],
+                            "phone": "(423) 821-1226",
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.lookoutmtn.us/elected_officials/index.php"
+                        },
+                        {
+                            "name": "Jim Bentley",
+                            "roles": [
+                                "Commissioner of Fire & Police"
+                            ],
+                            "designations": [],
+                            "phone": "(423) 821-1226",
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.lookoutmtn.us/directory/elected_officials/index.php"
+                        }
+                    ],
+                    "John Tugman": [
+                        {
+                            "name": "John Tugman",
+                            "roles": [
+                                "Commissioner of Parks & Playgrounds"
+                            ],
+                            "designations": [],
+                            "phone": "(423) 821-1226",
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.lookoutmtn.us/elected_officials/index.php"
+                        }
+                    ],
+                    "William Valadez": [
+                        {
+                            "name": "William Valadez",
+                            "roles": [
+                                "Commissioner of Public Works"
+                            ],
+                            "designations": [],
+                            "phone": "(423) 821-1226",
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.lookoutmtn.us/elected_officials/index.php"
+                        },
+                        {
+                            "name": "William Valadez",
+                            "roles": [
+                                "Commissioner of Public Works"
+                            ],
+                            "designations": [],
+                            "phone": "(423) 821-1226",
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.lookoutmtn.us/directory/elected_officials/index.php"
+                        }
+                    ],
+                    "Joe Hailey": [
+                        {
+                            "name": "Joe Hailey",
+                            "roles": [
+                                "Commissioner of Parks & Playgrounds"
+                            ],
+                            "designations": [],
+                            "phone": "(423) 821-1226",
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.lookoutmtn.us/directory/elected_officials/index.php"
+                        }
+                    ]
+                }
+            },
+            "progress": {
+                "required_data": 5,
+                "current_data": 0,
+                "has_target_role": true,
+                "has_target_designations": true
+            }
+        },
+        "merge_records_within_llm_step": {
+            "people_by_llm": {
+                "open_router": [
+                    {
+                        "name": "Walker Jones",
+                        "other_names": [],
+                        "roles": [
+                            "mayor"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(423) 821-1226"
+                        ],
+                        "emails": [],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:lookout_mountain/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.lookoutmtn.us/elected_officials/index.php"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Karen Leavengood",
+                        "other_names": [],
+                        "roles": [
+                            "Commissioner of Education"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(423) 821-1226"
+                        ],
+                        "emails": [],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:lookout_mountain/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.lookoutmtn.us/elected_officials/index.php"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Jim Bentley",
+                        "other_names": [],
+                        "roles": [
+                            "Commissioner of Fire & Police"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(423) 821-1226"
+                        ],
+                        "emails": [],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:lookout_mountain/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.lookoutmtn.us/elected_officials/index.php"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "John Tugman",
+                        "other_names": [],
+                        "roles": [
+                            "Commissioner of Parks & Playgrounds"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(423) 821-1226"
+                        ],
+                        "emails": [],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:lookout_mountain/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.lookoutmtn.us/elected_officials/index.php"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "William Valadez",
+                        "other_names": [],
+                        "roles": [
+                            "Commissioner of Public Works"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(423) 821-1226"
+                        ],
+                        "emails": [],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:lookout_mountain/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.lookoutmtn.us/elected_officials/index.php"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Joe Hailey",
+                        "other_names": [],
+                        "roles": [
+                            "Commissioner of Parks & Playgrounds"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(423) 821-1226"
+                        ],
+                        "emails": [],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:lookout_mountain/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.lookoutmtn.us/directory/elected_officials/index.php"
+                        ],
+                        "updated_at": ""
+                    }
+                ]
+            },
+            "unrecognized_roles": [
+                {
+                    "role": "Commissioner of Education",
+                    "person_name": "Karen Leavengood"
+                },
+                {
+                    "role": "Commissioner of Fire & Police",
+                    "person_name": "Jim Bentley"
+                },
+                {
+                    "role": "Commissioner of Parks & Playgrounds",
+                    "person_name": "John Tugman"
+                },
+                {
+                    "role": "Commissioner of Public Works",
+                    "person_name": "William Valadez"
+                },
+                {
+                    "role": "Commissioner of Parks & Playgrounds",
+                    "person_name": "Joe Hailey"
+                }
+            ],
+            "excluded_people": []
+        },
+        "merge_records_across_llms_step": {
+            "people": [
+                {
+                    "name": "Walker Jones",
+                    "other_names": [],
+                    "roles": [
+                        "mayor"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(423) 821-1226"
+                    ],
+                    "emails": [],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:lookout_mountain/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.lookoutmtn.us/elected_officials/index.php"
+                    ],
+                    "updated_at": "2026-05-29T00:51:25+00:00"
+                },
+                {
+                    "name": "Karen Leavengood",
+                    "other_names": [],
+                    "roles": [
+                        "commissioner of education"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(423) 821-1226"
+                    ],
+                    "emails": [],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:lookout_mountain/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.lookoutmtn.us/elected_officials/index.php"
+                    ],
+                    "updated_at": "2026-05-29T00:51:25+00:00"
+                },
+                {
+                    "name": "Jim Bentley",
+                    "other_names": [],
+                    "roles": [
+                        "commissioner of fire & police"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(423) 821-1226"
+                    ],
+                    "emails": [],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:lookout_mountain/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.lookoutmtn.us/elected_officials/index.php"
+                    ],
+                    "updated_at": "2026-05-29T00:51:25+00:00"
+                },
+                {
+                    "name": "John Tugman",
+                    "other_names": [],
+                    "roles": [
+                        "commissioner of parks & playgrounds"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(423) 821-1226"
+                    ],
+                    "emails": [],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:lookout_mountain/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.lookoutmtn.us/elected_officials/index.php"
+                    ],
+                    "updated_at": "2026-05-29T00:51:25+00:00"
+                },
+                {
+                    "name": "William Valadez",
+                    "other_names": [],
+                    "roles": [
+                        "commissioner of public works"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(423) 821-1226"
+                    ],
+                    "emails": [],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:lookout_mountain/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.lookoutmtn.us/elected_officials/index.php"
+                    ],
+                    "updated_at": "2026-05-29T00:51:25+00:00"
+                },
+                {
+                    "name": "Joe Hailey",
+                    "other_names": [],
+                    "roles": [
+                        "commissioner of parks & playgrounds"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(423) 821-1226"
+                    ],
+                    "emails": [],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:lookout_mountain/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.lookoutmtn.us/directory/elected_officials/index.php"
+                    ],
+                    "updated_at": "2026-05-29T00:51:25+00:00"
+                }
+            ]
+        },
+        "format_output_step": {
+            "officials": [
+                {
+                    "name": "Walker Jones",
+                    "other_names": [],
+                    "phones": [
+                        "(423) 821-1226"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.lookoutmtn.us/elected_officials/index.php"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Mayor",
+                        "division_ocdid": "ocd-division/country:us/state:tn/place:lookout_mountain"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:lookout_mountain/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.lookoutmtn.us/elected_officials/index.php"
+                    ],
+                    "updated_at": "2026-05-29T00:51:25+00:00",
+                    "id": "0bb3f92e-c64b-44d6-913d-e576d7c5576a"
+                },
+                {
+                    "name": "Karen Leavengood",
+                    "other_names": [],
+                    "phones": [
+                        "(423) 821-1226"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.lookoutmtn.us/elected_officials/index.php"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Commissioner Of Education",
+                        "division_ocdid": "ocd-division/country:us/state:tn/place:lookout_mountain"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:lookout_mountain/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.lookoutmtn.us/elected_officials/index.php"
+                    ],
+                    "updated_at": "2026-05-29T00:51:25+00:00",
+                    "id": "cf286529-e598-4fff-9b8d-f5cea3530015"
+                },
+                {
+                    "name": "Jim Bentley",
+                    "other_names": [],
+                    "phones": [
+                        "(423) 821-1226"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.lookoutmtn.us/elected_officials/index.php"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Commissioner Of Fire & Police",
+                        "division_ocdid": "ocd-division/country:us/state:tn/place:lookout_mountain"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:lookout_mountain/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.lookoutmtn.us/elected_officials/index.php"
+                    ],
+                    "updated_at": "2026-05-29T00:51:25+00:00",
+                    "id": "a1507877-811b-4396-bbc5-df9413bf7a85"
+                },
+                {
+                    "name": "John Tugman",
+                    "other_names": [],
+                    "phones": [
+                        "(423) 821-1226"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.lookoutmtn.us/elected_officials/index.php"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Commissioner Of Parks & Playgrounds",
+                        "division_ocdid": "ocd-division/country:us/state:tn/place:lookout_mountain"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:lookout_mountain/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.lookoutmtn.us/elected_officials/index.php"
+                    ],
+                    "updated_at": "2026-05-29T00:51:25+00:00",
+                    "id": "b7281933-1a04-44cb-8369-573bf329a9ab"
+                },
+                {
+                    "name": "William Valadez",
+                    "other_names": [],
+                    "phones": [
+                        "(423) 821-1226"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.lookoutmtn.us/elected_officials/index.php"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Commissioner Of Public Works",
+                        "division_ocdid": "ocd-division/country:us/state:tn/place:lookout_mountain"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:lookout_mountain/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.lookoutmtn.us/elected_officials/index.php"
+                    ],
+                    "updated_at": "2026-05-29T00:51:25+00:00",
+                    "id": "4f44c535-500f-4d06-a36b-a69f369e8888"
+                },
+                {
+                    "name": "Joe Hailey",
+                    "other_names": [],
+                    "phones": [
+                        "(423) 821-1226"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.lookoutmtn.us/directory/elected_officials/index.php"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Commissioner Of Parks & Playgrounds",
+                        "division_ocdid": "ocd-division/country:us/state:tn/place:lookout_mountain"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:lookout_mountain/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.lookoutmtn.us/directory/elected_officials/index.php"
+                    ],
+                    "updated_at": "2026-05-29T00:51:25+00:00",
+                    "id": "d78224cb-3266-4742-9162-4daed36ea248"
+                }
+            ]
+        },
+        "review_output_step": {
+            "issues": [
+                "Extra official: Joe Hailey",
+                "Missing official: Stevie Persinger"
+            ],
+            "people_by_source": [
+                {
+                    "name": "Jim Bentley",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Joe Hailey",
+                    "in_research": false,
+                    "in_data": true
+                },
+                {
+                    "name": "John Tugman",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Karen Leavengood",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Stevie Persinger",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Walker Jones",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "William Valadez",
+                    "in_research": true,
+                    "in_data": true
+                }
+            ],
+            "origin_source": "google_gemini"
+        },
+        "find_jurisdiction_url_step": null,
+        "send_success_step": null,
+        "send_error_step": null,
+        "issues": [
+            {
+                "type": "unrecognized_role",
+                "data": {
+                    "role": "Commissioner of Education",
+                    "person_name": "Karen Leavengood"
+                }
+            },
+            {
+                "type": "unrecognized_role",
+                "data": {
+                    "role": "Commissioner of Fire & Police",
+                    "person_name": "Jim Bentley"
+                }
+            },
+            {
+                "type": "unrecognized_role",
+                "data": {
+                    "role": "Commissioner of Parks & Playgrounds",
+                    "person_name": "John Tugman"
+                }
+            },
+            {
+                "type": "unrecognized_role",
+                "data": {
+                    "role": "Commissioner of Public Works",
+                    "person_name": "William Valadez"
+                }
+            },
+            {
+                "type": "unrecognized_role",
+                "data": {
+                    "role": "Commissioner of Parks & Playgrounds",
+                    "person_name": "Joe Hailey"
+                }
+            }
+        ],
+        "error_step": null,
+        "error_detail": null
+    },
+    "current_state": "SEND_SUCCESS",
+    "request_id": "c92ccf56-93fc-41da-be36-2d6f5e0347e2",
+    "created_at": 1780015571.11008,
+    "updated_at": 1780015885.1297169,
+    "progress": 27
+}
