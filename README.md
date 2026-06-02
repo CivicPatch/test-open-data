@@ -1,6 +1,6 @@
 # CivicPatch Data Quality
 
-Generated: 2026-06-01 23:59 UTC
+Generated: 2026-06-02 04:10 UTC
 
 ## Coverage Summary
 
@@ -20,7 +20,7 @@ Generated: 2026-06-01 23:59 UTC
 ### co
 
 <details>
-<summary>133 not yet scraped &nbsp;·&nbsp; 3 in external, not in CP &nbsp;·&nbsp; 2 in CP, not in external</summary>
+<summary>133 not yet scraped &nbsp;·&nbsp; 4 in external, not in CP &nbsp;·&nbsp; 2 in CP, not in external</summary>
 
 #### Not yet scraped
 
@@ -36,7 +36,7 @@ Generated: 2026-06-01 23:59 UTC
 - ocd-jurisdiction/country:us/state:co/place:brookside/government
 - ocd-jurisdiction/country:us/state:co/place:calhan/government
 - ocd-jurisdiction/country:us/state:co/place:campo/government
-- ocd-jurisdiction/country:us/state:co/place:cañon_city/government
+- ocd-jurisdiction/country:us/state:co/place:canon_city/government
 - ocd-jurisdiction/country:us/state:co/place:cedaredge/government
 - ocd-jurisdiction/country:us/state:co/place:central/government
 - ocd-jurisdiction/country:us/state:co/place:cheraw/government
@@ -163,7 +163,8 @@ Generated: 2026-06-01 23:59 UTC
 | In External, Not in Known | In CivicPatch, Not in External |
 |---------------------------|--------------------------------|
 | ocd-jurisdiction/country:us/state:co/place:bonanza/government | ocd-jurisdiction/country:us/state:co/place:broomfield/government |
-| ocd-jurisdiction/country:us/state:co/place:central_city/government | ocd-jurisdiction/country:us/state:co/place:denver/government |
+| ocd-jurisdiction/country:us/state:co/place:cañon_city/government | ocd-jurisdiction/country:us/state:co/place:denver/government |
+| ocd-jurisdiction/country:us/state:co/place:central_city/government |  |
 | ocd-jurisdiction/country:us/state:co/place:raymer_~new_raymer~/government |  |
 
 </details>
@@ -193,7 +194,7 @@ Generated: 2026-06-01 23:59 UTC
 - ocd-jurisdiction/country:us/state:mi/county:antrim/place:star/government
 - ocd-jurisdiction/country:us/state:mi/county:arenac/place:moffatt/government
 - ocd-jurisdiction/country:us/state:mi/county:arenac/place:sims/government
-- ocd-jurisdiction/country:us/state:mi/county:baraga/place:l'anse/government
+- ocd-jurisdiction/country:us/state:mi/county:baraga/place:lanse/government
 - ocd-jurisdiction/country:us/state:mi/county:barry/place:assyria/government
 - ocd-jurisdiction/country:us/state:mi/county:barry/place:hope/government
 - ocd-jurisdiction/country:us/state:mi/county:barry/place:prairieville/government
@@ -527,13 +528,13 @@ Generated: 2026-06-01 23:59 UTC
 - ocd-jurisdiction/country:us/state:mi/place:iron_river/government
 - ocd-jurisdiction/country:us/state:mi/place:jackson/government
 - ocd-jurisdiction/country:us/state:mi/place:kentwood/government
-- ocd-jurisdiction/country:us/state:mi/place:l'anse/government
 - ocd-jurisdiction/country:us/state:mi/place:laingsburg/government
 - ocd-jurisdiction/country:us/state:mi/place:lake_angelus/government
 - ocd-jurisdiction/country:us/state:mi/place:lake_ann/government
 - ocd-jurisdiction/country:us/state:mi/place:lake_city/government
 - ocd-jurisdiction/country:us/state:mi/place:lake_linden/government
 - ocd-jurisdiction/country:us/state:mi/place:lakewood_club/government
+- ocd-jurisdiction/country:us/state:mi/place:lanse/government
 - ocd-jurisdiction/country:us/state:mi/place:laurium/government
 - ocd-jurisdiction/country:us/state:mi/place:le_roy/government
 - ocd-jurisdiction/country:us/state:mi/place:lincoln/government
@@ -691,7 +692,7 @@ Generated: 2026-06-01 23:59 UTC
 - ocd-jurisdiction/country:us/state:nh/county:carroll/place:eaton/government
 - ocd-jurisdiction/country:us/state:nh/county:carroll/place:effingham/government
 - ocd-jurisdiction/country:us/state:nh/county:carroll/place:freedom/government
-- ocd-jurisdiction/country:us/state:nh/county:carroll/place:hart's_location/government
+- ocd-jurisdiction/country:us/state:nh/county:carroll/place:harts_location/government
 - ocd-jurisdiction/country:us/state:nh/county:carroll/place:jackson/government
 - ocd-jurisdiction/country:us/state:nh/county:carroll/place:madison/government
 - ocd-jurisdiction/country:us/state:nh/county:carroll/place:moultonborough/government
@@ -1328,7 +1329,7 @@ Generated: 2026-06-01 23:59 UTC
 - ocd-jurisdiction/country:us/state:sc/place:springfield/government
 - ocd-jurisdiction/country:us/state:sc/place:st._george/government
 - ocd-jurisdiction/country:us/state:sc/place:st._matthews/government
-- ocd-jurisdiction/country:us/state:sc/place:sullivan's_island/government
+- ocd-jurisdiction/country:us/state:sc/place:sullivans_island/government
 - ocd-jurisdiction/country:us/state:sc/place:summerville/government
 - ocd-jurisdiction/country:us/state:sc/place:swansea/government
 - ocd-jurisdiction/country:us/state:sc/place:tega_cay/government
@@ -1514,7 +1515,7 @@ Generated: 2026-06-01 23:59 UTC
 - ocd-jurisdiction/country:us/state:tn/place:oliver_springs/government
 - ocd-jurisdiction/country:us/state:tn/place:oneida/government
 - ocd-jurisdiction/country:us/state:tn/place:paris/government
-- ocd-jurisdiction/country:us/state:tn/place:parker's_crossroads/government
+- ocd-jurisdiction/country:us/state:tn/place:parkers_crossroads/government
 - ocd-jurisdiction/country:us/state:tn/place:parrottsville/government
 - ocd-jurisdiction/country:us/state:tn/place:parsons/government
 - ocd-jurisdiction/country:us/state:tn/place:pegram/government
@@ -1551,7 +1552,7 @@ Generated: 2026-06-01 23:59 UTC
 - ocd-jurisdiction/country:us/state:tn/place:stanton/government
 - ocd-jurisdiction/country:us/state:tn/place:tellico_plains/government
 - ocd-jurisdiction/country:us/state:tn/place:tennessee_ridge/government
-- ocd-jurisdiction/country:us/state:tn/place:thompson's_station/government
+- ocd-jurisdiction/country:us/state:tn/place:thompsons_station/government
 - ocd-jurisdiction/country:us/state:tn/place:three_way/government
 - ocd-jurisdiction/country:us/state:tn/place:tiptonville/government
 - ocd-jurisdiction/country:us/state:tn/place:townsend/government
