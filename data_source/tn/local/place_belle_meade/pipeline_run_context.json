@@ -1,0 +1,821 @@
+{
+    "data": {
+        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:belle_meade/government",
+        "config": {
+            "url": "http://www.citybellemeade.org",
+            "name": "Belle Meade city",
+            "source_urls": null
+        },
+        "frontier": {
+            "links": {
+                "https://citybellemeade.org": {
+                    "url": "http://www.citybellemeade.org",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_citybellemeade_org",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 1
+                },
+                "https://citybellemeade.org/about": {
+                    "url": "https://citybellemeade.org/about",
+                    "status": "processed_irrelevant",
+                    "folder_name": "citybellemeade_org_about",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 2
+                },
+                "https://citybellemeade.org/commissioners": {
+                    "url": "https://citybellemeade.org/commissioners/",
+                    "status": "done",
+                    "folder_name": "citybellemeade_org_commissioners_",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 3
+                },
+                "https://citybellemeade.org/directory": {
+                    "url": "https://citybellemeade.org/directory/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://citybellemeade.org/administration": {
+                    "url": "https://citybellemeade.org/administration/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://citybellemeade.org/person/rusty-moore": {
+                    "url": "https://citybellemeade.org/person/rusty-moore/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://citybellemeade.org/person/commissioner-2": {
+                    "url": "https://citybellemeade.org/person/commissioner-2/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://citybellemeade.org/person/louise-bryan": {
+                    "url": "https://citybellemeade.org/person/louise-bryan/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://citybellemeade.org/person/tom-starkey": {
+                    "url": "https://citybellemeade.org/person/tom-starkey/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://citybellemeade.org/person/commissioner": {
+                    "url": "https://citybellemeade.org/person/commissioner/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://citybellemeade.org/live-stream": {
+                    "url": "https://citybellemeade.org/live-stream/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://citybellemeade.org/legislation": {
+                    "url": "https://citybellemeade.org/legislation/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                }
+            },
+            "queue": [
+                "https://citybellemeade.org/directory",
+                "https://citybellemeade.org/person/commissioner-2",
+                "https://citybellemeade.org/person/commissioner",
+                "https://citybellemeade.org/administration",
+                "https://citybellemeade.org/person/rusty-moore",
+                "https://citybellemeade.org/person/louise-bryan",
+                "https://citybellemeade.org/person/tom-starkey",
+                "https://citybellemeade.org/live-stream",
+                "https://citybellemeade.org/legislation"
+            ]
+        },
+        "research_municipality_step": {
+            "expected_count": 5,
+            "target_designations": [],
+            "known_roles": [
+                "Mayor",
+                "Commissioner",
+                "Vice-Mayor"
+            ],
+            "identities": {
+                "Rusty Moore": [],
+                "Haley Dale": [],
+                "Louise Bryan": [],
+                "Neal Clayton": [],
+                "Tom Starkey": []
+            },
+            "source_urls": [],
+            "notes": null,
+            "origin_source": "google_gemini"
+        },
+        "preprocess_page_content_step": {
+            "elapsed_times": [
+                3,
+                2,
+                2,
+                2,
+                2,
+                0,
+                39,
+                1,
+                1,
+                0
+            ],
+            "total_elapsed_time_seconds": 2,
+            "average_elapsed_time_seconds": 0
+        },
+        "process_page_content_step": {
+            "raw_records_by_llm": {
+                "open_router": {
+                    "Rusty Moore": [
+                        {
+                            "name": "Rusty Moore",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "615-297-6041",
+                            "email": "rmoore@citybellemeade.org",
+                            "url": "https://citybellemeade.org/person/rusty-moore/",
+                            "start_date": null,
+                            "end_date": "2026-11",
+                            "image": "local://5750533ab677.png",
+                            "source_url": "https://citybellemeade.org/commissioners/"
+                        }
+                    ],
+                    "Haley Dale": [
+                        {
+                            "name": "Haley Dale",
+                            "roles": [
+                                "Vice-Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "615-297-6041",
+                            "email": "hdale@citybellemeade.org",
+                            "url": "https://citybellemeade.org/person/commissioner-2/",
+                            "start_date": null,
+                            "end_date": "2028-11",
+                            "image": "local://641567e24b2f.png",
+                            "source_url": "https://citybellemeade.org/commissioners/"
+                        }
+                    ],
+                    "Louise Bryan": [
+                        {
+                            "name": "Louise Bryan",
+                            "roles": [
+                                "Commissioner"
+                            ],
+                            "designations": [],
+                            "phone": "615-297-6041",
+                            "email": "lbryan@citybellemeade.org",
+                            "url": "https://citybellemeade.org/person/louise-bryan/",
+                            "start_date": null,
+                            "end_date": "2026-11",
+                            "image": "local://9f01ba26a40c.png",
+                            "source_url": "https://citybellemeade.org/commissioners/"
+                        }
+                    ],
+                    "Tom Starkey": [
+                        {
+                            "name": "Tom Starkey",
+                            "roles": [
+                                "Commissioner"
+                            ],
+                            "designations": [],
+                            "phone": "615-297-6041",
+                            "email": "tstarkey@citybellemeade.org",
+                            "url": "https://citybellemeade.org/person/tom-starkey/",
+                            "start_date": null,
+                            "end_date": "2028-11",
+                            "image": "local://35c620d76e35.png",
+                            "source_url": "https://citybellemeade.org/commissioners/"
+                        }
+                    ],
+                    "Neal Clayton": [
+                        {
+                            "name": "Neal Clayton",
+                            "roles": [
+                                "Commissioner"
+                            ],
+                            "designations": [],
+                            "phone": "615-297-6041",
+                            "email": "nclayton@citybellemeade.org",
+                            "url": "https://citybellemeade.org/person/commissioner/",
+                            "start_date": null,
+                            "end_date": "2026-11",
+                            "image": "local://151c78eb7631.png",
+                            "source_url": "https://citybellemeade.org/commissioners/"
+                        }
+                    ]
+                }
+            },
+            "records_by_llm": {
+                "open_router": {
+                    "Rusty Moore": [
+                        {
+                            "name": "Rusty Moore",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "(615) 297-6041",
+                            "email": "rmoore@citybellemeade.org",
+                            "url": "https://citybellemeade.org/person/rusty-moore/",
+                            "start_date": null,
+                            "end_date": "2026-11",
+                            "image": "local://5750533ab677.png",
+                            "source_url": "https://citybellemeade.org/commissioners/"
+                        }
+                    ],
+                    "Haley Dale": [
+                        {
+                            "name": "Haley Dale",
+                            "roles": [
+                                "Vice Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "(615) 297-6041",
+                            "email": "hdale@citybellemeade.org",
+                            "url": "https://citybellemeade.org/person/commissioner-2/",
+                            "start_date": null,
+                            "end_date": "2028-11",
+                            "image": "local://641567e24b2f.png",
+                            "source_url": "https://citybellemeade.org/commissioners/"
+                        }
+                    ],
+                    "Louise Bryan": [
+                        {
+                            "name": "Louise Bryan",
+                            "roles": [
+                                "Commissioner"
+                            ],
+                            "designations": [],
+                            "phone": "(615) 297-6041",
+                            "email": "lbryan@citybellemeade.org",
+                            "url": "https://citybellemeade.org/person/louise-bryan/",
+                            "start_date": null,
+                            "end_date": "2026-11",
+                            "image": "local://9f01ba26a40c.png",
+                            "source_url": "https://citybellemeade.org/commissioners/"
+                        }
+                    ],
+                    "Tom Starkey": [
+                        {
+                            "name": "Tom Starkey",
+                            "roles": [
+                                "Commissioner"
+                            ],
+                            "designations": [],
+                            "phone": "(615) 297-6041",
+                            "email": "tstarkey@citybellemeade.org",
+                            "url": "https://citybellemeade.org/person/tom-starkey/",
+                            "start_date": null,
+                            "end_date": "2028-11",
+                            "image": "local://35c620d76e35.png",
+                            "source_url": "https://citybellemeade.org/commissioners/"
+                        }
+                    ],
+                    "Neal Clayton": [
+                        {
+                            "name": "Neal Clayton",
+                            "roles": [
+                                "Commissioner"
+                            ],
+                            "designations": [],
+                            "phone": "(615) 297-6041",
+                            "email": "nclayton@citybellemeade.org",
+                            "url": "https://citybellemeade.org/person/commissioner/",
+                            "start_date": null,
+                            "end_date": "2026-11",
+                            "image": "local://151c78eb7631.png",
+                            "source_url": "https://citybellemeade.org/commissioners/"
+                        }
+                    ]
+                }
+            },
+            "progress": {
+                "required_data": 5,
+                "current_data": 5,
+                "has_target_role": true,
+                "has_target_designations": true
+            }
+        },
+        "merge_records_within_llm_step": {
+            "people_by_llm": {
+                "open_router": [
+                    {
+                        "name": "Rusty Moore",
+                        "other_names": [],
+                        "roles": [
+                            "Mayor"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(615) 297-6041"
+                        ],
+                        "emails": [
+                            "rmoore@citybellemeade.org"
+                        ],
+                        "urls": [
+                            "https://citybellemeade.org/person/rusty-moore/"
+                        ],
+                        "start_date": "",
+                        "end_date": "2026-11",
+                        "image": "local://5750533ab677.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:belle_meade/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://citybellemeade.org/commissioners/"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Haley Dale",
+                        "other_names": [],
+                        "roles": [
+                            "Vice Mayor"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(615) 297-6041"
+                        ],
+                        "emails": [
+                            "hdale@citybellemeade.org"
+                        ],
+                        "urls": [
+                            "https://citybellemeade.org/person/commissioner-2/"
+                        ],
+                        "start_date": "",
+                        "end_date": "2028-11",
+                        "image": "local://641567e24b2f.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:belle_meade/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://citybellemeade.org/commissioners/"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Louise Bryan",
+                        "other_names": [],
+                        "roles": [
+                            "Commissioner"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(615) 297-6041"
+                        ],
+                        "emails": [
+                            "lbryan@citybellemeade.org"
+                        ],
+                        "urls": [
+                            "https://citybellemeade.org/person/louise-bryan/"
+                        ],
+                        "start_date": "",
+                        "end_date": "2026-11",
+                        "image": "local://9f01ba26a40c.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:belle_meade/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://citybellemeade.org/commissioners/"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Tom Starkey",
+                        "other_names": [],
+                        "roles": [
+                            "Commissioner"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(615) 297-6041"
+                        ],
+                        "emails": [
+                            "tstarkey@citybellemeade.org"
+                        ],
+                        "urls": [
+                            "https://citybellemeade.org/person/tom-starkey/"
+                        ],
+                        "start_date": "",
+                        "end_date": "2028-11",
+                        "image": "local://35c620d76e35.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:belle_meade/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://citybellemeade.org/commissioners/"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Neal Clayton",
+                        "other_names": [],
+                        "roles": [
+                            "Commissioner"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(615) 297-6041"
+                        ],
+                        "emails": [
+                            "nclayton@citybellemeade.org"
+                        ],
+                        "urls": [
+                            "https://citybellemeade.org/person/commissioner/"
+                        ],
+                        "start_date": "",
+                        "end_date": "2026-11",
+                        "image": "local://151c78eb7631.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:belle_meade/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://citybellemeade.org/commissioners/"
+                        ],
+                        "updated_at": ""
+                    }
+                ]
+            },
+            "unrecognized_roles": [],
+            "excluded_people": []
+        },
+        "merge_records_across_llms_step": {
+            "people": [
+                {
+                    "name": "Rusty Moore",
+                    "other_names": [],
+                    "roles": [
+                        "mayor"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(615) 297-6041"
+                    ],
+                    "emails": [
+                        "rmoore@citybellemeade.org"
+                    ],
+                    "urls": [
+                        "https://citybellemeade.org/person/rusty-moore/"
+                    ],
+                    "start_date": "",
+                    "end_date": "2026-11",
+                    "image": "local://5750533ab677.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:belle_meade/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://citybellemeade.org/commissioners/"
+                    ],
+                    "updated_at": "2026-05-25T16:58:52+00:00"
+                },
+                {
+                    "name": "Haley Dale",
+                    "other_names": [],
+                    "roles": [
+                        "vice mayor"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(615) 297-6041"
+                    ],
+                    "emails": [
+                        "hdale@citybellemeade.org"
+                    ],
+                    "urls": [
+                        "https://citybellemeade.org/person/commissioner-2/"
+                    ],
+                    "start_date": "",
+                    "end_date": "2028-11",
+                    "image": "local://641567e24b2f.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:belle_meade/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://citybellemeade.org/commissioners/"
+                    ],
+                    "updated_at": "2026-05-25T16:58:52+00:00"
+                },
+                {
+                    "name": "Louise Bryan",
+                    "other_names": [],
+                    "roles": [
+                        "commissioner"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(615) 297-6041"
+                    ],
+                    "emails": [
+                        "lbryan@citybellemeade.org"
+                    ],
+                    "urls": [
+                        "https://citybellemeade.org/person/louise-bryan/"
+                    ],
+                    "start_date": "",
+                    "end_date": "2026-11",
+                    "image": "local://9f01ba26a40c.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:belle_meade/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://citybellemeade.org/commissioners/"
+                    ],
+                    "updated_at": "2026-05-25T16:58:52+00:00"
+                },
+                {
+                    "name": "Tom Starkey",
+                    "other_names": [],
+                    "roles": [
+                        "commissioner"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(615) 297-6041"
+                    ],
+                    "emails": [
+                        "tstarkey@citybellemeade.org"
+                    ],
+                    "urls": [
+                        "https://citybellemeade.org/person/tom-starkey/"
+                    ],
+                    "start_date": "",
+                    "end_date": "2028-11",
+                    "image": "local://35c620d76e35.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:belle_meade/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://citybellemeade.org/commissioners/"
+                    ],
+                    "updated_at": "2026-05-25T16:58:52+00:00"
+                },
+                {
+                    "name": "Neal Clayton",
+                    "other_names": [],
+                    "roles": [
+                        "commissioner"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(615) 297-6041"
+                    ],
+                    "emails": [
+                        "nclayton@citybellemeade.org"
+                    ],
+                    "urls": [
+                        "https://citybellemeade.org/person/commissioner/"
+                    ],
+                    "start_date": "",
+                    "end_date": "2026-11",
+                    "image": "local://151c78eb7631.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:belle_meade/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://citybellemeade.org/commissioners/"
+                    ],
+                    "updated_at": "2026-05-25T16:58:52+00:00"
+                }
+            ]
+        },
+        "format_output_step": {
+            "officials": [
+                {
+                    "name": "Rusty Moore",
+                    "other_names": [],
+                    "phones": [
+                        "(615) 297-6041"
+                    ],
+                    "emails": [
+                        "rmoore@citybellemeade.org"
+                    ],
+                    "urls": [
+                        "https://citybellemeade.org/person/rusty-moore/"
+                    ],
+                    "start_date": null,
+                    "end_date": "2026-11",
+                    "office": {
+                        "name": "Mayor",
+                        "division_ocdid": "ocd-division/country:us/state:tn/place:belle_meade"
+                    },
+                    "image": "https://citybellemeade.org/wp-content/uploads/2018/11/Rusty-Moore-color-pic-scaled-e1648228979485.jpg",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:belle_meade/government",
+                    "cdn_image": "local://5750533ab677.png",
+                    "source_urls": [
+                        "https://citybellemeade.org/commissioners/"
+                    ],
+                    "updated_at": "2026-05-25T16:58:52+00:00",
+                    "id": "1827547a-f554-404a-b8ef-889c411ec39d"
+                },
+                {
+                    "name": "Haley Dale",
+                    "other_names": [],
+                    "phones": [
+                        "(615) 297-6041"
+                    ],
+                    "emails": [
+                        "hdale@citybellemeade.org"
+                    ],
+                    "urls": [
+                        "https://citybellemeade.org/person/commissioner-2/"
+                    ],
+                    "start_date": null,
+                    "end_date": "2028-11",
+                    "office": {
+                        "name": "Vice Mayor",
+                        "division_ocdid": "ocd-division/country:us/state:tn/place:belle_meade"
+                    },
+                    "image": "https://citybellemeade.org/wp-content/uploads/2017/06/Haley-Dale.jpg",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:belle_meade/government",
+                    "cdn_image": "local://641567e24b2f.png",
+                    "source_urls": [
+                        "https://citybellemeade.org/commissioners/"
+                    ],
+                    "updated_at": "2026-05-25T16:58:52+00:00",
+                    "id": "126adca6-e39e-48c3-8b54-4deb1e5ee039"
+                },
+                {
+                    "name": "Louise Bryan",
+                    "other_names": [],
+                    "phones": [
+                        "(615) 297-6041"
+                    ],
+                    "emails": [
+                        "lbryan@citybellemeade.org"
+                    ],
+                    "urls": [
+                        "https://citybellemeade.org/person/louise-bryan/"
+                    ],
+                    "start_date": null,
+                    "end_date": "2026-11",
+                    "office": {
+                        "name": "Commissioner",
+                        "division_ocdid": "ocd-division/country:us/state:tn/place:belle_meade"
+                    },
+                    "image": "https://citybellemeade.org/wp-content/uploads/2018/11/011-3.jpg",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:belle_meade/government",
+                    "cdn_image": "local://9f01ba26a40c.png",
+                    "source_urls": [
+                        "https://citybellemeade.org/commissioners/"
+                    ],
+                    "updated_at": "2026-05-25T16:58:52+00:00",
+                    "id": "3de08515-daa0-4618-afaa-2c5e04936872"
+                },
+                {
+                    "name": "Tom Starkey",
+                    "other_names": [],
+                    "phones": [
+                        "(615) 297-6041"
+                    ],
+                    "emails": [
+                        "tstarkey@citybellemeade.org"
+                    ],
+                    "urls": [
+                        "https://citybellemeade.org/person/tom-starkey/"
+                    ],
+                    "start_date": null,
+                    "end_date": "2028-11",
+                    "office": {
+                        "name": "Commissioner",
+                        "division_ocdid": "ocd-division/country:us/state:tn/place:belle_meade"
+                    },
+                    "image": "https://citybellemeade.org/wp-content/uploads/2017/06/Tom-Starkey.jpg",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:belle_meade/government",
+                    "cdn_image": "local://35c620d76e35.png",
+                    "source_urls": [
+                        "https://citybellemeade.org/commissioners/"
+                    ],
+                    "updated_at": "2026-05-25T16:58:52+00:00",
+                    "id": "42707d98-a7ce-4717-98b7-78ce7adc8092"
+                },
+                {
+                    "name": "Neal Clayton",
+                    "other_names": [],
+                    "phones": [
+                        "(615) 297-6041"
+                    ],
+                    "emails": [
+                        "nclayton@citybellemeade.org"
+                    ],
+                    "urls": [
+                        "https://citybellemeade.org/person/commissioner/"
+                    ],
+                    "start_date": null,
+                    "end_date": "2026-11",
+                    "office": {
+                        "name": "Commissioner",
+                        "division_ocdid": "ocd-division/country:us/state:tn/place:belle_meade"
+                    },
+                    "image": "https://citybellemeade.org/wp-content/uploads/2022/12/Neal-Clayton_cropped-e1673445704649.jpg",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tn/place:belle_meade/government",
+                    "cdn_image": "local://151c78eb7631.png",
+                    "source_urls": [
+                        "https://citybellemeade.org/commissioners/"
+                    ],
+                    "updated_at": "2026-05-25T16:58:52+00:00",
+                    "id": "2d8e5c55-3a25-4480-86b4-2c2bea652f84"
+                }
+            ]
+        },
+        "review_output_step": {
+            "issues": [],
+            "people_by_source": [
+                {
+                    "name": "Haley Dale",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Louise Bryan",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Neal Clayton",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Rusty Moore",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Tom Starkey",
+                    "in_research": true,
+                    "in_data": true
+                }
+            ],
+            "origin_source": "google_gemini"
+        },
+        "find_jurisdiction_url_step": null,
+        "send_success_step": null,
+        "send_error_step": null,
+        "issues": [],
+        "error_step": null,
+        "error_detail": null
+    },
+    "current_state": "SEND_SUCCESS",
+    "request_id": "1e4593e9-b2ff-467e-8563-46f0c18adf29",
+    "created_at": 1779728263.2699065,
+    "updated_at": 1779728332.965551,
+    "progress": 97
+}

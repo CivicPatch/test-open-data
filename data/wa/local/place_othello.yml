@@ -1,152 +1,153 @@
-- name: Shawn Logan
-  phones:
-  - (509) 488-5686
+- name: Ken Johnson
+  other_names: []
+  phones: []
   emails:
-  - slogan@othellowa.gov
-  urls: []
+  - kjohnson@othellowa.gov
+  urls:
+  - https://www.othellowa.gov/ELECTEDCITYOFFICIALS
+  start_date: 2026-01
+  end_date: 2029-12
   office:
     name: Mayor
     division_ocdid: ocd-division/country:us/state:wa/place:othello
-  image: null
+  image: https://www.othellowa.gov/media/City Council/Council_KenJ26.jpg?width=640
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:othello/government
-  cdn_image: null
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/d5807f9f-e97b-4cf5-a4c4-c64041cd3c1d/data_source/wa/local/place_othello/images/a2f4ac5c4708.png
   source_urls:
-  - https://www.othellowa.gov/departments/Administration
   - https://www.othellowa.gov/ELECTEDCITYOFFICIALS
-  updated_at: '2025-06-23T04:25:37+00:00'
-  start_date: 2021-01
-  end_date: 2025-12
+  updated_at: '2026-05-25T19:34:56+00:00'
+  id: 7c9485ba-81bc-4526-8206-478775af9c56
+- name: Kelli Camp
   other_names: []
-  id: c8a7a29b-6859-457f-90c2-5367793c79dc
-- name: Angel Garza
   phones: []
   emails:
-  - angelgarza@othellowa.gov
-  urls: []
+  - kcamp@othellowa.gov
+  urls:
+  - https://www.othellowa.gov/ELECTEDCITYOFFICIALS
+  start_date: 2026-01
+  end_date: 2029-12
   office:
-    name: Council Member
+    name: Council Member - Position 1
     division_ocdid: ocd-division/country:us/state:wa/place:othello
-  image: https://evogov.s3.amazonaws.com/media/49/media/29126.jpg
+  image: https://www.othellowa.gov/media/City Council/Council_KelliC26.jpg?width=640
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:othello/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/othello/images/3d9bcfdc5612a9f583dc7db16f8bec6eb3a4005a12b6631a2e45cd2f2482f37d.jpg
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/d5807f9f-e97b-4cf5-a4c4-c64041cd3c1d/data_source/wa/local/place_othello/images/56f6d15e6b08.png
   source_urls:
   - https://www.othellowa.gov/ELECTEDCITYOFFICIALS
-  - https://www.othellowa.gov/city-council
-  updated_at: '2025-06-23T04:25:37+00:00'
-  start_date: 2023-01
-  end_date: 2026-12
+  updated_at: '2026-05-25T19:34:56+00:00'
+  id: d10c8973-88e4-4c02-af0b-250bda8ad131
+- name: Marc Spohr
   other_names: []
-  id: dc1f1c5c-042a-49fe-a67a-c2cc7b7c403f
-- name: Corey Everett
   phones: []
   emails:
-  - ceverett@othellowa.gov
-  urls: []
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:othello
-  image: null
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:othello/government
-  cdn_image: null
-  source_urls:
-  - https://www.othellowa.gov/city-council
+  - mspohr@othellowa.gov
+  urls:
   - https://www.othellowa.gov/ELECTEDCITYOFFICIALS
-  updated_at: '2025-06-23T04:25:37+00:00'
-  start_date: 2021-01
-  end_date: 2025-12
+  start_date: 2026-01
+  end_date: 2029-12
+  office:
+    name: Council Member - Position 2
+    division_ocdid: ocd-division/country:us/state:wa/place:othello
+  image: https://www.othellowa.gov/media/City Council/Council-MarcS26(1).jpg
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:othello/government
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/d5807f9f-e97b-4cf5-a4c4-c64041cd3c1d/data_source/wa/local/place_othello/images/d349f9d2ecd6.png
+  source_urls:
+  - https://www.othellowa.gov/ELECTEDCITYOFFICIALS
+  updated_at: '2026-05-25T19:34:56+00:00'
+  id: e33087f5-65d2-484b-8b19-d7085a6094d9
+- name: Alma Carmona
   other_names: []
-  id: 8a2c9277-9006-4903-8fd7-20712ce8c515
-- name: Danae Valdez
   phones: []
   emails:
-  - dvaldez@othellowa.gov
-  urls: []
+  - acarmona@othellowa.gov
+  urls:
+  - https://www.othellowa.gov/ELECTEDCITYOFFICIALS
+  start_date: 2026-01
+  end_date: 2029-12
   office:
-    name: Council Member
+    name: Council Member - Position 3
     division_ocdid: ocd-division/country:us/state:wa/place:othello
-  image: null
+  image: https://www.othellowa.gov/media/City Council/Council_AlmaC26.jpg
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:othello/government
-  cdn_image: null
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/d5807f9f-e97b-4cf5-a4c4-c64041cd3c1d/data_source/wa/local/place_othello/images/b1c822b02522.png
   source_urls:
   - https://www.othellowa.gov/ELECTEDCITYOFFICIALS
-  - https://www.othellowa.gov/city-council
-  updated_at: '2025-06-23T04:25:37+00:00'
-  start_date: 2023-01
-  end_date: 2026-12
-  other_names: []
-  id: 3bf78136-1887-4246-b43e-912781bc6b56
+  updated_at: '2026-05-25T19:34:56+00:00'
+  id: c581ca0d-33a7-4202-91a8-c3848ab98e6b
 - name: Darryl Barnes
+  other_names: []
   phones: []
   emails:
   - dbarnes@othellowa.gov
-  urls: []
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:othello
-  image: null
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:othello/government
-  cdn_image: null
-  source_urls:
+  urls:
   - https://www.othellowa.gov/ELECTEDCITYOFFICIALS
-  updated_at: '2025-06-23T04:25:37+00:00'
   start_date: 2023-01
-  end_date: 2026-12
-  other_names: []
+  end_date: 2027-12
+  office:
+    name: Council Member - Position 4
+    division_ocdid: ocd-division/country:us/state:wa/place:othello
+  image: https://www.othellowa.gov/media/City Council/Council.DarrelB24_Web.jpg?width=100%
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:othello/government
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/d5807f9f-e97b-4cf5-a4c4-c64041cd3c1d/data_source/wa/local/place_othello/images/efa19d9314c0.png
+  source_urls:
+  - https://www.othellowa.gov/ELECTEDCITYOFFICIALS
+  updated_at: '2026-05-25T19:34:56+00:00'
   id: 04ba7319-3e5c-4c14-b626-c4cef9442d0f
-- name: Genna Dorow
+- name: Chris Dorow
+  other_names: []
   phones: []
   emails:
-  - gdorow@othellowa.gov
-  urls: []
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:othello
-  image: https://evogov.s3.amazonaws.com/media/49/media/29124.jpg
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:othello/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/othello/images/c8027ed7b377d4d021c2ca009ea67ca3eb259d4ec119358af1bc3382f000f5bc.jpg
-  source_urls:
-  - https://www.othellowa.gov/city-council
+  - cdorow@othellwa.gov
+  urls:
   - https://www.othellowa.gov/ELECTEDCITYOFFICIALS
-  updated_at: '2025-06-23T04:25:37+00:00'
-  start_date: 2021-01
-  end_date: 2025-12
-  other_names: []
-  id: dbcab284-74d7-497a-ae1d-12e8c97b1a44
-- name: John Lallas
-  phones: []
-  emails:
-  - jlallas@othellowa.gov
-  urls: []
+  start_date: 2024-01
+  end_date: 2027-12
   office:
-    name: Council Member
+    name: Council Member - Position 5
     division_ocdid: ocd-division/country:us/state:wa/place:othello
-  image: null
+  image: https://www.othellowa.gov/media/City Council/Council_ChrisD26.jpg
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:othello/government
-  cdn_image: null
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/d5807f9f-e97b-4cf5-a4c4-c64041cd3c1d/data_source/wa/local/place_othello/images/454d5f39dce2.png
   source_urls:
-  - https://www.othellowa.gov/city-council
   - https://www.othellowa.gov/ELECTEDCITYOFFICIALS
-  updated_at: '2025-06-23T04:25:37+00:00'
-  start_date: 2021-01
-  end_date: 2025-12
-  other_names: []
-  id: fa2fd753-7bb2-403e-9e06-cb4c265abd34
+  updated_at: '2026-05-25T19:34:56+00:00'
+  id: 1a480133-877b-4428-a1ee-701528033313
 - name: Mark Snyder
+  other_names:
+  - Mark T. Snyder
   phones: []
   emails:
   - msnyder@othellowa.gov
-  urls: []
+  urls:
+  - https://www.othellowa.gov/ELECTEDCITYOFFICIALS
+  start_date: 2023-01
+  end_date: 2027-12
   office:
-    name: Council Member
+    name: Council Member - Position 6
     division_ocdid: ocd-division/country:us/state:wa/place:othello
-  image: https://evogov.s3.amazonaws.com/media/49/media/29121.jpg
+  image: https://www.othellowa.gov/media/City Council/Council.MarkS_Web.jpg?width=100%
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:othello/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/othello/images/20e6647c7329223b6360b5bfaa705c977c46b575bb75760821c39b6bcd68ede4.jpg
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/d5807f9f-e97b-4cf5-a4c4-c64041cd3c1d/data_source/wa/local/place_othello/images/4fe4919878ac.png
   source_urls:
   - https://www.othellowa.gov/ELECTEDCITYOFFICIALS
-  - https://www.othellowa.gov/city-council
-  updated_at: '2025-06-23T04:25:37+00:00'
-  start_date: 2023-01
-  end_date: 2026-12
-  other_names: []
+  updated_at: '2026-05-25T19:34:56+00:00'
   id: 99555ce2-40a9-47e7-a8c9-e002bfcde9f9
+- name: Angel Garza
+  other_names: []
+  phones: []
+  emails:
+  - angelgarza@othellowa.gov
+  urls:
+  - https://www.othellowa.gov/ELECTEDCITYOFFICIALS
+  start_date: 2023-01
+  end_date: 2027-12
+  office:
+    name: Council Member - Position 7
+    division_ocdid: ocd-division/country:us/state:wa/place:othello
+  image: https://www.othellowa.gov/media/City Council/CouncilAngelG20_Web.jpg
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:othello/government
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/d5807f9f-e97b-4cf5-a4c4-c64041cd3c1d/data_source/wa/local/place_othello/images/c08dda3fc2e0.png
+  source_urls:
+  - https://www.othellowa.gov/ELECTEDCITYOFFICIALS
+  updated_at: '2026-05-25T19:34:56+00:00'
+  id: dc1f1c5c-042a-49fe-a67a-c2cc7b7c403f

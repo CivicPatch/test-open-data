@@ -1,0 +1,1048 @@
+{
+    "data": {
+        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:cathlamet/government",
+        "config": {
+            "url": "https://www.townofcathlamet.com/",
+            "name": "Cathlamet town",
+            "source_urls": null
+        },
+        "frontier": {
+            "links": {
+                "https://townofcathlamet.com": {
+                    "url": "https://www.townofcathlamet.com/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_townofcathlamet_com_",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 1
+                },
+                "https://townofcathlamet.com/about-us": {
+                    "url": "https://www.townofcathlamet.com/about-us",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_townofcathlamet_com_about-us",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 2
+                },
+                "https://townofcathlamet.com/directory-1": {
+                    "url": "https://www.townofcathlamet.com/directory-1",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_townofcathlamet_com_directory-1",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 3
+                },
+                "https://townofcathlamet.com/elected-officials-1": {
+                    "url": "https://www.townofcathlamet.com/elected-officials-1",
+                    "status": "done",
+                    "folder_name": "www_townofcathlamet_com_elected-officials-1",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 4
+                },
+                "https://townofcathlamet.com/boards-commissions-1": {
+                    "url": "https://www.townofcathlamet.com/boards-commissions-1",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_townofcathlamet_com_boards-commissions-1",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 5
+                },
+                "https://townofcathlamet.com/citizen-committees-1": {
+                    "url": "https://www.townofcathlamet.com/citizen-committees-1",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_townofcathlamet_com_citizen-committees-1",
+                    "num_references": 11,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 12
+                },
+                "https://townofcathlamet.com/departments": {
+                    "url": "https://www.townofcathlamet.com/departments",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_townofcathlamet_com_departments",
+                    "num_references": 5,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 6
+                },
+                "https://townofcathlamet.com/contact-us-1": {
+                    "url": "https://www.townofcathlamet.com/contact-us-1",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://townofcathlamet.com/agendas-minutes": {
+                    "url": "https://www.townofcathlamet.com/agendas-minutes",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_townofcathlamet_com_agendas-minutes",
+                    "num_references": 8,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 13
+                },
+                "https://townofcathlamet.com/ordinances-resolutions": {
+                    "url": "https://www.townofcathlamet.com/ordinances-resolutions",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_townofcathlamet_com_ordinances-resolutions",
+                    "num_references": 8,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 14
+                },
+                "https://townofcathlamet.com/other-documents": {
+                    "url": "https://www.townofcathlamet.com/other-documents",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_townofcathlamet_com_other-documents",
+                    "num_references": 7,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 16
+                },
+                "https://townofcathlamet.com/employment-vacancies-1": {
+                    "url": "https://www.townofcathlamet.com/employment-vacancies-1",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_townofcathlamet_com_employment-vacancies-1",
+                    "num_references": 7,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 15
+                },
+                "https://townofcathlamet.com/town-projects-1": {
+                    "url": "https://www.townofcathlamet.com/town-projects-1",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_townofcathlamet_com_town-projects-1",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 7
+                },
+                "https://townofcathlamet.com/planning-commission": {
+                    "url": "https://www.townofcathlamet.com/planning-commission",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_townofcathlamet_com_planning-commission",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 8
+                },
+                "https://townofcathlamet.com/library-board-of-trustees": {
+                    "url": "https://www.townofcathlamet.com/library-board-of-trustees",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_townofcathlamet_com_library-board-of-trustees",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 9
+                },
+                "https://townofcathlamet.com/forms": {
+                    "url": "https://www.townofcathlamet.com/forms",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 7,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://townofcathlamet.com/stormwater-service-1": {
+                    "url": "https://www.townofcathlamet.com/stormwater-service-1",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 7,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://townofcathlamet.com/licenses-permits": {
+                    "url": "https://www.townofcathlamet.com/licenses-permits",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 7,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://townofcathlamet.com/planning-zoning": {
+                    "url": "https://www.townofcathlamet.com/planning-zoning",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_townofcathlamet_com_planning-zoning",
+                    "num_references": 7,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 17
+                },
+                "https://townofcathlamet.com/bidding-roster": {
+                    "url": "https://www.townofcathlamet.com/bidding-roster",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 7,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://townofcathlamet.com/parks-recreation": {
+                    "url": "https://www.townofcathlamet.com/parks-recreation",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_townofcathlamet_com_parks-recreation",
+                    "num_references": 7,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 18
+                },
+                "https://townofcathlamet.com/ev-charger": {
+                    "url": "https://www.townofcathlamet.com/ev-charger",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 7,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://townofcathlamet.com/how-do-i-1": {
+                    "url": "https://www.townofcathlamet.com/how-do-i-1",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_townofcathlamet_com_how-do-i-1",
+                    "num_references": 7,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 19
+                },
+                "https://townofcathlamet.com/apply-for": {
+                    "url": "https://www.townofcathlamet.com/apply-for",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 6,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://townofcathlamet.com/contact": {
+                    "url": "https://www.townofcathlamet.com/contact",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_townofcathlamet_com_contact",
+                    "num_references": 7,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 20
+                },
+                "https://townofcathlamet.com/request": {
+                    "url": "https://www.townofcathlamet.com/request",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 5,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://townofcathlamet.com/submit": {
+                    "url": "https://www.townofcathlamet.com/submit",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 5,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://townofcathlamet.com/view-1": {
+                    "url": "https://www.townofcathlamet.com/view-1",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 5,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://townofcathlamet.com/notices": {
+                    "url": "https://www.townofcathlamet.com/notices",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 5,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://townofcathlamet.com/employment-vacancies-1/planning-commission": {
+                    "url": "https://www.townofcathlamet.com/employment-vacancies-1/planning-commission",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_townofcathlamet_com_employment-vacancies-1_planning-commission",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 10
+                },
+                "https://townofcathlamet.com/employment-vacancies-1/library-board-of-trustees": {
+                    "url": "https://www.townofcathlamet.com/employment-vacancies-1/library-board-of-trustees",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_townofcathlamet_com_employment-vacancies-1_library-board-of-trustees",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 11
+                }
+            },
+            "queue": [
+                "https://townofcathlamet.com/forms",
+                "https://townofcathlamet.com/stormwater-service-1",
+                "https://townofcathlamet.com/licenses-permits",
+                "https://townofcathlamet.com/bidding-roster",
+                "https://townofcathlamet.com/ev-charger",
+                "https://townofcathlamet.com/apply-for",
+                "https://townofcathlamet.com/request",
+                "https://townofcathlamet.com/submit",
+                "https://townofcathlamet.com/view-1",
+                "https://townofcathlamet.com/notices",
+                "https://townofcathlamet.com/contact-us-1"
+            ]
+        },
+        "research_municipality_step": {
+            "expected_count": 5,
+            "target_designations": [],
+            "known_roles": [
+                "Mayor",
+                "Council Member"
+            ],
+            "identities": {
+                "Nicholas Sevald": [],
+                "Crystal Baker": [],
+                "Joe Baker": [],
+                "Tyson Clark": [],
+                "Andrew Weiler": []
+            },
+            "source_urls": [],
+            "notes": null,
+            "origin_source": "google_gemini"
+        },
+        "preprocess_page_content_step": {
+            "elapsed_times": [
+                3,
+                2,
+                2,
+                2,
+                2,
+                0,
+                39,
+                1,
+                4,
+                0,
+                1,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                8,
+                16,
+                6,
+                7,
+                6,
+                8,
+                7,
+                6,
+                16,
+                17,
+                6,
+                16
+            ],
+            "total_elapsed_time_seconds": 167,
+            "average_elapsed_time_seconds": 5
+        },
+        "process_page_content_step": {
+            "raw_records_by_llm": {
+                "open_router": {
+                    "Nicholas Sevald": [
+                        {
+                            "name": "Nicholas Sevald",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "+1(360) 218-9956",
+                            "email": null,
+                            "url": null,
+                            "start_date": "2026-01-01",
+                            "end_date": "2029-12-31",
+                            "image": null,
+                            "source_url": "https://www.townofcathlamet.com/elected-officials-1"
+                        },
+                        {
+                            "name": "Nicholas Sevald",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 1"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": "2024-01-01",
+                            "end_date": "2027-12-31",
+                            "image": null,
+                            "source_url": "https://www.townofcathlamet.com/elected-officials-1"
+                        }
+                    ],
+                    "Crystal Baker": [
+                        {
+                            "name": "Crystal Baker",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 2"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": "2024-01-01",
+                            "end_date": "2027-12-31",
+                            "image": null,
+                            "source_url": "https://www.townofcathlamet.com/elected-officials-1"
+                        }
+                    ],
+                    "Joe Baker": [
+                        {
+                            "name": "Joe Baker",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 3"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": "2024-01-01",
+                            "end_date": "2027-12-31",
+                            "image": null,
+                            "source_url": "https://www.townofcathlamet.com/elected-officials-1"
+                        }
+                    ],
+                    "Tyson Clark": [
+                        {
+                            "name": "Tyson Clark",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 4"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": "2026-01-01",
+                            "end_date": "2029-12-31",
+                            "image": null,
+                            "source_url": "https://www.townofcathlamet.com/elected-officials-1"
+                        }
+                    ],
+                    "Andrew Weiler": [
+                        {
+                            "name": "Andrew Weiler",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 5"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": "2026-01-01",
+                            "end_date": "2029-12-31",
+                            "image": null,
+                            "source_url": "https://www.townofcathlamet.com/elected-officials-1"
+                        }
+                    ]
+                }
+            },
+            "records_by_llm": {
+                "open_router": {
+                    "Nicholas Sevald": [
+                        {
+                            "name": "Nicholas Sevald",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "(360) 218-9956",
+                            "email": null,
+                            "url": null,
+                            "start_date": "2026-01-01",
+                            "end_date": "2029-12-31",
+                            "image": null,
+                            "source_url": "https://www.townofcathlamet.com/elected-officials-1"
+                        },
+                        {
+                            "name": "Nicholas Sevald",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 1"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": "2024-01-01",
+                            "end_date": "2027-12-31",
+                            "image": null,
+                            "source_url": "https://www.townofcathlamet.com/elected-officials-1"
+                        }
+                    ],
+                    "Crystal Baker": [
+                        {
+                            "name": "Crystal Baker",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 2"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": "2024-01-01",
+                            "end_date": "2027-12-31",
+                            "image": null,
+                            "source_url": "https://www.townofcathlamet.com/elected-officials-1"
+                        }
+                    ],
+                    "Joe Baker": [
+                        {
+                            "name": "Joe Baker",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 3"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": "2024-01-01",
+                            "end_date": "2027-12-31",
+                            "image": null,
+                            "source_url": "https://www.townofcathlamet.com/elected-officials-1"
+                        }
+                    ],
+                    "Tyson Clark": [
+                        {
+                            "name": "Tyson Clark",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 4"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": "2026-01-01",
+                            "end_date": "2029-12-31",
+                            "image": null,
+                            "source_url": "https://www.townofcathlamet.com/elected-officials-1"
+                        }
+                    ],
+                    "Andrew Weiler": [
+                        {
+                            "name": "Andrew Weiler",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 5"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": "2026-01-01",
+                            "end_date": "2029-12-31",
+                            "image": null,
+                            "source_url": "https://www.townofcathlamet.com/elected-officials-1"
+                        }
+                    ]
+                }
+            },
+            "progress": {
+                "required_data": 5,
+                "current_data": 0,
+                "has_target_role": true,
+                "has_target_designations": true
+            }
+        },
+        "merge_records_within_llm_step": {
+            "people_by_llm": {
+                "open_router": [
+                    {
+                        "name": "Nicholas Sevald",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member",
+                            "Mayor"
+                        ],
+                        "designations": [
+                            "Position 1"
+                        ],
+                        "phones": [
+                            "(360) 218-9956"
+                        ],
+                        "emails": [],
+                        "urls": [],
+                        "start_date": "2026-01-01",
+                        "end_date": "2029-12-31",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:cathlamet/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.townofcathlamet.com/elected-officials-1"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Crystal Baker",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 2"
+                        ],
+                        "phones": [],
+                        "emails": [],
+                        "urls": [],
+                        "start_date": "2024-01-01",
+                        "end_date": "2027-12-31",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:cathlamet/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.townofcathlamet.com/elected-officials-1"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Joe Baker",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 3"
+                        ],
+                        "phones": [],
+                        "emails": [],
+                        "urls": [],
+                        "start_date": "2024-01-01",
+                        "end_date": "2027-12-31",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:cathlamet/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.townofcathlamet.com/elected-officials-1"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Tyson Clark",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 4"
+                        ],
+                        "phones": [],
+                        "emails": [],
+                        "urls": [],
+                        "start_date": "2026-01-01",
+                        "end_date": "2029-12-31",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:cathlamet/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.townofcathlamet.com/elected-officials-1"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Andrew Weiler",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 5"
+                        ],
+                        "phones": [],
+                        "emails": [],
+                        "urls": [],
+                        "start_date": "2026-01-01",
+                        "end_date": "2029-12-31",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:cathlamet/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.townofcathlamet.com/elected-officials-1"
+                        ],
+                        "updated_at": ""
+                    }
+                ]
+            },
+            "unrecognized_roles": [],
+            "excluded_people": []
+        },
+        "merge_records_across_llms_step": {
+            "people": [
+                {
+                    "name": "Nicholas Sevald",
+                    "other_names": [],
+                    "roles": [
+                        "council member",
+                        "mayor"
+                    ],
+                    "designations": [
+                        "position 1"
+                    ],
+                    "phones": [
+                        "(360) 218-9956"
+                    ],
+                    "emails": [],
+                    "urls": [],
+                    "start_date": "2026-01-01",
+                    "end_date": "2029-12-31",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:cathlamet/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.townofcathlamet.com/elected-officials-1"
+                    ],
+                    "updated_at": "2026-05-25T19:27:53+00:00"
+                },
+                {
+                    "name": "Crystal Baker",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 2"
+                    ],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [],
+                    "start_date": "2024-01-01",
+                    "end_date": "2027-12-31",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:cathlamet/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.townofcathlamet.com/elected-officials-1"
+                    ],
+                    "updated_at": "2026-05-25T19:27:53+00:00"
+                },
+                {
+                    "name": "Joe Baker",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 3"
+                    ],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [],
+                    "start_date": "2024-01-01",
+                    "end_date": "2027-12-31",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:cathlamet/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.townofcathlamet.com/elected-officials-1"
+                    ],
+                    "updated_at": "2026-05-25T19:27:53+00:00"
+                },
+                {
+                    "name": "Tyson Clark",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 4"
+                    ],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [],
+                    "start_date": "2026-01-01",
+                    "end_date": "2029-12-31",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:cathlamet/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.townofcathlamet.com/elected-officials-1"
+                    ],
+                    "updated_at": "2026-05-25T19:27:53+00:00"
+                },
+                {
+                    "name": "Andrew Weiler",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 5"
+                    ],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [],
+                    "start_date": "2026-01-01",
+                    "end_date": "2029-12-31",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:cathlamet/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.townofcathlamet.com/elected-officials-1"
+                    ],
+                    "updated_at": "2026-05-25T19:27:53+00:00"
+                }
+            ]
+        },
+        "format_output_step": {
+            "officials": [
+                {
+                    "name": "Nicholas Sevald",
+                    "other_names": [],
+                    "phones": [
+                        "(360) 218-9956"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.townofcathlamet.com/elected-officials-1"
+                    ],
+                    "start_date": "2026-01-01",
+                    "end_date": "2029-12-31",
+                    "office": {
+                        "name": "Council Member - Mayor - Position 1",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:cathlamet"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:cathlamet/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.townofcathlamet.com/elected-officials-1"
+                    ],
+                    "updated_at": "2026-05-25T19:27:53+00:00",
+                    "id": "ef28b556-9ba7-4918-8c92-4c182c5d11c1"
+                },
+                {
+                    "name": "Crystal Baker",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://www.townofcathlamet.com/elected-officials-1"
+                    ],
+                    "start_date": "2024-01-01",
+                    "end_date": "2027-12-31",
+                    "office": {
+                        "name": "Council Member - Position 2",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:cathlamet"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:cathlamet/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.townofcathlamet.com/elected-officials-1"
+                    ],
+                    "updated_at": "2026-05-25T19:27:53+00:00",
+                    "id": "830ac22a-8b96-407f-868a-4abf771b8632"
+                },
+                {
+                    "name": "Joe Baker",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://www.townofcathlamet.com/elected-officials-1"
+                    ],
+                    "start_date": "2024-01-01",
+                    "end_date": "2027-12-31",
+                    "office": {
+                        "name": "Council Member - Position 3",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:cathlamet"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:cathlamet/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.townofcathlamet.com/elected-officials-1"
+                    ],
+                    "updated_at": "2026-05-25T19:27:53+00:00",
+                    "id": "ce3d96d5-d7fb-4e11-91d7-57f28e2bd85a"
+                },
+                {
+                    "name": "Tyson Clark",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://www.townofcathlamet.com/elected-officials-1"
+                    ],
+                    "start_date": "2026-01-01",
+                    "end_date": "2029-12-31",
+                    "office": {
+                        "name": "Council Member - Position 4",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:cathlamet"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:cathlamet/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.townofcathlamet.com/elected-officials-1"
+                    ],
+                    "updated_at": "2026-05-25T19:27:53+00:00",
+                    "id": "fb0d42d2-7aee-44b0-83be-67363f952399"
+                },
+                {
+                    "name": "Andrew Weiler",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://www.townofcathlamet.com/elected-officials-1"
+                    ],
+                    "start_date": "2026-01-01",
+                    "end_date": "2029-12-31",
+                    "office": {
+                        "name": "Council Member - Position 5",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:cathlamet"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:cathlamet/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.townofcathlamet.com/elected-officials-1"
+                    ],
+                    "updated_at": "2026-05-25T19:27:53+00:00",
+                    "id": "68b93745-313c-45da-beea-d042b108e5be"
+                }
+            ]
+        },
+        "review_output_step": {
+            "issues": [],
+            "people_by_source": [
+                {
+                    "name": "Andrew Weiler",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Crystal Baker",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Joe Baker",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Nicholas Sevald",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Tyson Clark",
+                    "in_research": true,
+                    "in_data": true
+                }
+            ],
+            "origin_source": "google_gemini"
+        },
+        "find_jurisdiction_url_step": null,
+        "send_success_step": null,
+        "send_error_step": null,
+        "issues": [],
+        "error_step": null,
+        "error_detail": null
+    },
+    "current_state": "SEND_SUCCESS",
+    "request_id": "0b603d07-43fb-4503-be51-bd36804c1903",
+    "created_at": 1779736719.897401,
+    "updated_at": 1779737273.9246292,
+    "progress": 27
+}

@@ -1,0 +1,1324 @@
+{
+    "data": {
+        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:bridgeport/government",
+        "config": {
+            "url": "http://www.bridgeportwashington.net/",
+            "name": "Bridgeport city",
+            "source_urls": null
+        },
+        "frontier": {
+            "links": {
+                "https://bridgeportwashington.net": {
+                    "url": "http://www.bridgeportwashington.net/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_bridgeportwashington_net_",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 1
+                },
+                "https://bridgeportwashington.net/ova_dep/mayors-office": {
+                    "url": "https://bridgeportwashington.net/ova_dep/mayors-office",
+                    "status": "done",
+                    "folder_name": "bridgeportwashington_net_ova_dep_mayors-office",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 4
+                },
+                "https://bridgeportwashington.net/government": {
+                    "url": "https://bridgeportwashington.net/government/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "bridgeportwashington_net_government_",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 3
+                },
+                "https://bridgeportwashington.net/city-council": {
+                    "url": "https://bridgeportwashington.net/city-council/",
+                    "status": "done",
+                    "folder_name": "bridgeportwashington_net_city-council_",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 2
+                },
+                "https://bridgeportwashington.net/team/matthew-schuh": {
+                    "url": "https://bridgeportwashington.net/team/matthew-schuh/",
+                    "status": "done",
+                    "folder_name": "bridgeportwashington_net_team_matthew-schuh_",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 11
+                },
+                "https://bridgeportwashington.net/team/mike-bjornstad": {
+                    "url": "https://bridgeportwashington.net/team/mike-bjornstad/",
+                    "status": "done",
+                    "folder_name": "bridgeportwashington_net_team_mike-bjornstad_",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 7
+                },
+                "https://bridgeportwashington.net/team/jacqueline-hentges": {
+                    "url": "https://bridgeportwashington.net/team/jacqueline-hentges/",
+                    "status": "done",
+                    "folder_name": "bridgeportwashington_net_team_jacqueline-hentges_",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 12
+                },
+                "https://bridgeportwashington.net/team/paul-anson": {
+                    "url": "https://bridgeportwashington.net/team/paul-anson/",
+                    "status": "done",
+                    "folder_name": "bridgeportwashington_net_team_paul-anson_",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 13
+                },
+                "https://bridgeportwashington.net/team/esiquio-martinez": {
+                    "url": "https://bridgeportwashington.net/team/esiquio-martinez/",
+                    "status": "done",
+                    "folder_name": "bridgeportwashington_net_team_esiquio-martinez_",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 14
+                },
+                "https://bridgeportwashington.net/contact": {
+                    "url": "https://bridgeportwashington.net/contact/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "bridgeportwashington_net_contact_",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 9
+                },
+                "https://bridgeportwashington.net/ova_dep/city-council": {
+                    "url": "https://bridgeportwashington.net/ova_dep/city-council/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "bridgeportwashington_net_ova_dep_city-council_",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 5
+                },
+                "https://bridgeportwashington.net/ova_dep/planning-commission": {
+                    "url": "https://bridgeportwashington.net/ova_dep/planning-commission/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "bridgeportwashington_net_ova_dep_planning-commission_",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 6
+                },
+                "https://bridgeportwashington.net/ova_dep/administration": {
+                    "url": "https://bridgeportwashington.net/ova_dep/administration/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "bridgeportwashington_net_ova_dep_administration_",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 10
+                },
+                "https://bridgeportwashington.net/about": {
+                    "url": "https://bridgeportwashington.net/about/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "bridgeportwashington_net_about_",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 8
+                },
+                "https://bridgeportwashington.net/history": {
+                    "url": "https://bridgeportwashington.net/history/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "bridgeportwashington_net_history_",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 15
+                },
+                "https://bridgeportwashington.net/rv-parks": {
+                    "url": "https://bridgeportwashington.net/rv-parks/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "bridgeportwashington_net_rv-parks_",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 16
+                },
+                "https://bridgeportwashington.net/textmygov": {
+                    "url": "https://bridgeportwashington.net/textmygov/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "bridgeportwashington_net_textmygov_",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 17
+                },
+                "https://bridgeportwashington.net/things-to-do-see": {
+                    "url": "https://bridgeportwashington.net/things-to-do-see/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "bridgeportwashington_net_things-to-do-see_",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 18
+                },
+                "https://bridgeportwashington.net/forms-and-docs": {
+                    "url": "https://bridgeportwashington.net/forms-and-docs/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "bridgeportwashington_net_forms-and-docs_",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 19
+                }
+            },
+            "queue": []
+        },
+        "research_municipality_step": {
+            "expected_count": 6,
+            "target_designations": [],
+            "known_roles": [
+                "Mayor",
+                "Council Member"
+            ],
+            "identities": {
+                "Sergio Orozco": [],
+                "Matthew Schuh": [],
+                "Mike Bjornstad": [],
+                "Jacqueline Hentges": [],
+                "Paul Anson": [],
+                "Esiquio Martinez": []
+            },
+            "source_urls": [
+                "https://bridgeportwashington.net/ova_dep/mayors-office"
+            ],
+            "notes": null,
+            "origin_source": "existing"
+        },
+        "preprocess_page_content_step": {
+            "elapsed_times": [
+                3,
+                2,
+                2,
+                2,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                2,
+                1,
+                1,
+                2,
+                1,
+                1,
+                1,
+                1,
+                1,
+                2,
+                1,
+                2
+            ],
+            "total_elapsed_time_seconds": 24,
+            "average_elapsed_time_seconds": 1
+        },
+        "process_page_content_step": {
+            "raw_records_by_llm": {
+                "open_router": {
+                    "Matthew Schuh": [
+                        {
+                            "name": "Matthew Schuh",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 1"
+                            ],
+                            "phone": null,
+                            "email": "CouncilSchuh@BridgeportWA.net",
+                            "url": "https://bridgeportwashington.net/team/matthew-schuh/",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://cb1496fd906c.png",
+                            "source_url": "https://bridgeportwashington.net/city-council/"
+                        },
+                        {
+                            "name": "Matthew Schuh",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "CouncilSchuh@BridgeportWA.net",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2025-12",
+                            "image": null,
+                            "source_url": "https://bridgeportwashington.net/ova_dep/mayors-office"
+                        },
+                        {
+                            "name": "Matthew Schuh",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 1"
+                            ],
+                            "phone": "509-686-4041",
+                            "email": "CouncilSchuh@BridgeportWA.net",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://cb1496fd906c.png",
+                            "source_url": "https://bridgeportwashington.net/team/matthew-schuh/"
+                        }
+                    ],
+                    "Charlene Wuolle": [
+                        {
+                            "name": "Charlene Wuolle",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 2"
+                            ],
+                            "phone": null,
+                            "email": "CouncilWuolle@BridgeportWA.net",
+                            "url": "https://bridgeportwashington.net/team/mike-bjornstad/",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://bridgeportwashington.net/city-council/"
+                        }
+                    ],
+                    "Jacqueline Hentges": [
+                        {
+                            "name": "Jacqueline Hentges",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 3"
+                            ],
+                            "phone": null,
+                            "email": "CouncilHentges@BridgeportWA.net",
+                            "url": "https://bridgeportwashington.net/team/jacqueline-hentges/",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://01706aa07c41.png",
+                            "source_url": "https://bridgeportwashington.net/city-council/"
+                        },
+                        {
+                            "name": "Jacqueline Hentges",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "CouncilHentges@BridgeportWA.net",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2025-12",
+                            "image": null,
+                            "source_url": "https://bridgeportwashington.net/ova_dep/mayors-office"
+                        }
+                    ],
+                    "Paul Anson": [
+                        {
+                            "name": "Paul Anson",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 4"
+                            ],
+                            "phone": null,
+                            "email": "CouncilAnson@BridgeportWA.net",
+                            "url": "https://bridgeportwashington.net/team/paul-anson/",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://b37f473bd8f9.png",
+                            "source_url": "https://bridgeportwashington.net/city-council/"
+                        },
+                        {
+                            "name": "Paul Anson",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "CouncilAnson@BridgeportWA.net",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2027-12",
+                            "image": null,
+                            "source_url": "https://bridgeportwashington.net/ova_dep/mayors-office"
+                        },
+                        {
+                            "name": "Paul Anson",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 4"
+                            ],
+                            "phone": "509-686-4041",
+                            "email": "CouncilAnson@BridgeportWA.net",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "https://demo.ovatheme.com/egovt/wp-content/uploads/placehold.it/single-1.jpg",
+                            "source_url": "https://bridgeportwashington.net/team/paul-anson/"
+                        }
+                    ],
+                    "Esiquio Martinez": [
+                        {
+                            "name": "Esiquio Martinez",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 5"
+                            ],
+                            "phone": null,
+                            "email": "CouncilMartinez@BridgeportWA.net",
+                            "url": "https://bridgeportwashington.net/team/esiquio-martinez/",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://16140a430d1b.png",
+                            "source_url": "https://bridgeportwashington.net/city-council/"
+                        },
+                        {
+                            "name": "Esiquio Martinez",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 5"
+                            ],
+                            "phone": null,
+                            "email": "CouncilMartinez@BridgeportWA.net",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2027-12",
+                            "image": null,
+                            "source_url": "https://bridgeportwashington.net/ova_dep/mayors-office"
+                        }
+                    ],
+                    "Sergio Orozco": [
+                        {
+                            "name": "Sergio Orozco",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "Mayor@BridgeportWA.net",
+                            "url": null,
+                            "start_date": "2024-01",
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://bridgeportwashington.net/ova_dep/mayors-office"
+                        }
+                    ],
+                    "Mike Bjornstad": [
+                        {
+                            "name": "Mike Bjornstad",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "CouncilBjornstad@BridgeportWA.net",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2025-12",
+                            "image": null,
+                            "source_url": "https://bridgeportwashington.net/ova_dep/mayors-office"
+                        }
+                    ]
+                }
+            },
+            "records_by_llm": {
+                "open_router": {
+                    "Matthew Schuh": [
+                        {
+                            "name": "Matthew Schuh",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 1"
+                            ],
+                            "phone": null,
+                            "email": "councilschuh@bridgeportwa.net",
+                            "url": "https://bridgeportwashington.net/team/matthew-schuh/",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://cb1496fd906c.png",
+                            "source_url": "https://bridgeportwashington.net/city-council/"
+                        },
+                        {
+                            "name": "Matthew Schuh",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "councilschuh@bridgeportwa.net",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2025-12",
+                            "image": null,
+                            "source_url": "https://bridgeportwashington.net/ova_dep/mayors-office"
+                        },
+                        {
+                            "name": "Matthew Schuh",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 1"
+                            ],
+                            "phone": "(509) 686-4041",
+                            "email": "councilschuh@bridgeportwa.net",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://cb1496fd906c.png",
+                            "source_url": "https://bridgeportwashington.net/team/matthew-schuh/"
+                        }
+                    ],
+                    "Charlene Wuolle": [
+                        {
+                            "name": "Charlene Wuolle",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 2"
+                            ],
+                            "phone": null,
+                            "email": "councilwuolle@bridgeportwa.net",
+                            "url": "https://bridgeportwashington.net/team/mike-bjornstad/",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://bridgeportwashington.net/city-council/"
+                        }
+                    ],
+                    "Jacqueline Hentges": [
+                        {
+                            "name": "Jacqueline Hentges",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 3"
+                            ],
+                            "phone": null,
+                            "email": "councilhentges@bridgeportwa.net",
+                            "url": "https://bridgeportwashington.net/team/jacqueline-hentges/",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://01706aa07c41.png",
+                            "source_url": "https://bridgeportwashington.net/city-council/"
+                        },
+                        {
+                            "name": "Jacqueline Hentges",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "councilhentges@bridgeportwa.net",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2025-12",
+                            "image": null,
+                            "source_url": "https://bridgeportwashington.net/ova_dep/mayors-office"
+                        }
+                    ],
+                    "Paul Anson": [
+                        {
+                            "name": "Paul Anson",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 4"
+                            ],
+                            "phone": null,
+                            "email": "councilanson@bridgeportwa.net",
+                            "url": "https://bridgeportwashington.net/team/paul-anson/",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://b37f473bd8f9.png",
+                            "source_url": "https://bridgeportwashington.net/city-council/"
+                        },
+                        {
+                            "name": "Paul Anson",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "councilanson@bridgeportwa.net",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2027-12",
+                            "image": null,
+                            "source_url": "https://bridgeportwashington.net/ova_dep/mayors-office"
+                        },
+                        {
+                            "name": "Paul Anson",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 4"
+                            ],
+                            "phone": "(509) 686-4041",
+                            "email": "councilanson@bridgeportwa.net",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "https://demo.ovatheme.com/egovt/wp-content/uploads/placehold.it/single-1.jpg",
+                            "source_url": "https://bridgeportwashington.net/team/paul-anson/"
+                        }
+                    ],
+                    "Esiquio Martinez": [
+                        {
+                            "name": "Esiquio Martinez",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 5"
+                            ],
+                            "phone": null,
+                            "email": "councilmartinez@bridgeportwa.net",
+                            "url": "https://bridgeportwashington.net/team/esiquio-martinez/",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://16140a430d1b.png",
+                            "source_url": "https://bridgeportwashington.net/city-council/"
+                        },
+                        {
+                            "name": "Esiquio Martinez",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 5"
+                            ],
+                            "phone": null,
+                            "email": "councilmartinez@bridgeportwa.net",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2027-12",
+                            "image": null,
+                            "source_url": "https://bridgeportwashington.net/ova_dep/mayors-office"
+                        }
+                    ],
+                    "Sergio Orozco": [
+                        {
+                            "name": "Sergio Orozco",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "mayor@bridgeportwa.net",
+                            "url": null,
+                            "start_date": "2024-01",
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://bridgeportwashington.net/ova_dep/mayors-office"
+                        }
+                    ],
+                    "Mike Bjornstad": [
+                        {
+                            "name": "Mike Bjornstad",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "councilbjornstad@bridgeportwa.net",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2025-12",
+                            "image": null,
+                            "source_url": "https://bridgeportwashington.net/ova_dep/mayors-office"
+                        }
+                    ]
+                }
+            },
+            "progress": {
+                "required_data": 6,
+                "current_data": 4,
+                "has_target_role": true,
+                "has_target_designations": true
+            }
+        },
+        "merge_records_within_llm_step": {
+            "people_by_llm": {
+                "open_router": [
+                    {
+                        "name": "Matthew Schuh",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 1"
+                        ],
+                        "phones": [
+                            "(509) 686-4041"
+                        ],
+                        "emails": [
+                            "councilschuh@bridgeportwa.net"
+                        ],
+                        "urls": [
+                            "https://bridgeportwashington.net/team/matthew-schuh/"
+                        ],
+                        "start_date": "",
+                        "end_date": "2025-12",
+                        "image": "local://cb1496fd906c.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:bridgeport/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://bridgeportwashington.net/team/matthew-schuh/",
+                            "https://bridgeportwashington.net/city-council/"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Charlene Wuolle",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 2"
+                        ],
+                        "phones": [],
+                        "emails": [
+                            "councilwuolle@bridgeportwa.net"
+                        ],
+                        "urls": [
+                            "https://bridgeportwashington.net/team/mike-bjornstad/"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:bridgeport/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://bridgeportwashington.net/city-council/"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Jacqueline Hentges",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 3"
+                        ],
+                        "phones": [],
+                        "emails": [
+                            "councilhentges@bridgeportwa.net"
+                        ],
+                        "urls": [
+                            "https://bridgeportwashington.net/team/jacqueline-hentges/"
+                        ],
+                        "start_date": "",
+                        "end_date": "2025-12",
+                        "image": "local://01706aa07c41.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:bridgeport/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://bridgeportwashington.net/city-council/"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Paul Anson",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 4"
+                        ],
+                        "phones": [
+                            "(509) 686-4041"
+                        ],
+                        "emails": [
+                            "councilanson@bridgeportwa.net"
+                        ],
+                        "urls": [
+                            "https://bridgeportwashington.net/team/paul-anson/"
+                        ],
+                        "start_date": "",
+                        "end_date": "2027-12",
+                        "image": "local://b37f473bd8f9.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:bridgeport/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://bridgeportwashington.net/team/paul-anson/",
+                            "https://bridgeportwashington.net/city-council/"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Esiquio Martinez",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 5"
+                        ],
+                        "phones": [],
+                        "emails": [
+                            "councilmartinez@bridgeportwa.net"
+                        ],
+                        "urls": [
+                            "https://bridgeportwashington.net/team/esiquio-martinez/"
+                        ],
+                        "start_date": "",
+                        "end_date": "2027-12",
+                        "image": "local://16140a430d1b.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:bridgeport/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://bridgeportwashington.net/city-council/"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Sergio Orozco",
+                        "other_names": [],
+                        "roles": [
+                            "Mayor"
+                        ],
+                        "designations": [],
+                        "phones": [],
+                        "emails": [
+                            "mayor@bridgeportwa.net"
+                        ],
+                        "urls": [],
+                        "start_date": "2024-01",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:bridgeport/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://bridgeportwashington.net/ova_dep/mayors-office"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Mike Bjornstad",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [],
+                        "phones": [],
+                        "emails": [
+                            "councilbjornstad@bridgeportwa.net"
+                        ],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "2025-12",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:bridgeport/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://bridgeportwashington.net/ova_dep/mayors-office"
+                        ],
+                        "updated_at": ""
+                    }
+                ]
+            },
+            "unrecognized_roles": [],
+            "excluded_people": []
+        },
+        "merge_records_across_llms_step": {
+            "people": [
+                {
+                    "name": "Sergio Orozco",
+                    "other_names": [],
+                    "roles": [
+                        "mayor"
+                    ],
+                    "designations": [],
+                    "phones": [],
+                    "emails": [
+                        "mayor@bridgeportwa.net"
+                    ],
+                    "urls": [],
+                    "start_date": "2024-01",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:bridgeport/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://bridgeportwashington.net/ova_dep/mayors-office"
+                    ],
+                    "updated_at": "2026-05-25T16:26:27+00:00"
+                },
+                {
+                    "name": "Matthew Schuh",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 1"
+                    ],
+                    "phones": [
+                        "(509) 686-4041"
+                    ],
+                    "emails": [
+                        "councilschuh@bridgeportwa.net"
+                    ],
+                    "urls": [
+                        "https://bridgeportwashington.net/team/matthew-schuh/"
+                    ],
+                    "start_date": "",
+                    "end_date": "2025-12",
+                    "image": "local://cb1496fd906c.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:bridgeport/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://bridgeportwashington.net/team/matthew-schuh/",
+                        "https://bridgeportwashington.net/city-council/"
+                    ],
+                    "updated_at": "2026-05-25T16:26:27+00:00"
+                },
+                {
+                    "name": "Charlene Wuolle",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 2"
+                    ],
+                    "phones": [],
+                    "emails": [
+                        "councilwuolle@bridgeportwa.net"
+                    ],
+                    "urls": [
+                        "https://bridgeportwashington.net/team/mike-bjornstad/"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:bridgeport/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://bridgeportwashington.net/city-council/"
+                    ],
+                    "updated_at": "2026-05-25T16:26:27+00:00"
+                },
+                {
+                    "name": "Jacqueline Hentges",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 3"
+                    ],
+                    "phones": [],
+                    "emails": [
+                        "councilhentges@bridgeportwa.net"
+                    ],
+                    "urls": [
+                        "https://bridgeportwashington.net/team/jacqueline-hentges/"
+                    ],
+                    "start_date": "",
+                    "end_date": "2025-12",
+                    "image": "local://01706aa07c41.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:bridgeport/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://bridgeportwashington.net/city-council/"
+                    ],
+                    "updated_at": "2026-05-25T16:26:27+00:00"
+                },
+                {
+                    "name": "Paul Anson",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 4"
+                    ],
+                    "phones": [
+                        "(509) 686-4041"
+                    ],
+                    "emails": [
+                        "councilanson@bridgeportwa.net"
+                    ],
+                    "urls": [
+                        "https://bridgeportwashington.net/team/paul-anson/"
+                    ],
+                    "start_date": "",
+                    "end_date": "2027-12",
+                    "image": "local://b37f473bd8f9.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:bridgeport/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://bridgeportwashington.net/team/paul-anson/",
+                        "https://bridgeportwashington.net/city-council/"
+                    ],
+                    "updated_at": "2026-05-25T16:26:27+00:00"
+                },
+                {
+                    "name": "Esiquio Martinez",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 5"
+                    ],
+                    "phones": [],
+                    "emails": [
+                        "councilmartinez@bridgeportwa.net"
+                    ],
+                    "urls": [
+                        "https://bridgeportwashington.net/team/esiquio-martinez/"
+                    ],
+                    "start_date": "",
+                    "end_date": "2027-12",
+                    "image": "local://16140a430d1b.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:bridgeport/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://bridgeportwashington.net/city-council/"
+                    ],
+                    "updated_at": "2026-05-25T16:26:27+00:00"
+                },
+                {
+                    "name": "Mike Bjornstad",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [],
+                    "phones": [],
+                    "emails": [
+                        "councilbjornstad@bridgeportwa.net"
+                    ],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "2025-12",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:bridgeport/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://bridgeportwashington.net/ova_dep/mayors-office"
+                    ],
+                    "updated_at": "2026-05-25T16:26:27+00:00"
+                }
+            ]
+        },
+        "format_output_step": {
+            "officials": [
+                {
+                    "name": "Sergio Orozco",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [
+                        "mayor@bridgeportwa.net"
+                    ],
+                    "urls": [
+                        "https://bridgeportwashington.net/ova_dep/mayors-office"
+                    ],
+                    "start_date": "2024-01",
+                    "end_date": null,
+                    "office": {
+                        "name": "Mayor",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:bridgeport"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:bridgeport/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://bridgeportwashington.net/ova_dep/mayors-office"
+                    ],
+                    "updated_at": "2026-05-25T16:26:27+00:00",
+                    "id": "6191b540-955b-4054-8a1f-17ec45e2465d"
+                },
+                {
+                    "name": "Matthew Schuh",
+                    "other_names": [],
+                    "phones": [
+                        "(509) 686-4041"
+                    ],
+                    "emails": [
+                        "councilschuh@bridgeportwa.net"
+                    ],
+                    "urls": [
+                        "https://bridgeportwashington.net/team/matthew-schuh/"
+                    ],
+                    "start_date": null,
+                    "end_date": "2025-12",
+                    "office": {
+                        "name": "Council Member - Position 1",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:bridgeport"
+                    },
+                    "image": "https://bridgeportwashington.net/wp-content/uploads/2020/07/Matt.jpg",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:bridgeport/government",
+                    "cdn_image": "local://cb1496fd906c.png",
+                    "source_urls": [
+                        "https://bridgeportwashington.net/team/matthew-schuh/",
+                        "https://bridgeportwashington.net/city-council/"
+                    ],
+                    "updated_at": "2026-05-25T16:26:27+00:00",
+                    "id": "503862a1-4ea3-4516-85e9-362c6c1ab792"
+                },
+                {
+                    "name": "Charlene Wuolle",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [
+                        "councilwuolle@bridgeportwa.net"
+                    ],
+                    "urls": [
+                        "https://bridgeportwashington.net/team/mike-bjornstad/"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Position 2",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:bridgeport"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:bridgeport/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://bridgeportwashington.net/city-council/"
+                    ],
+                    "updated_at": "2026-05-25T16:26:27+00:00",
+                    "id": "39307c84-217a-4777-beec-1b9f43e5358a"
+                },
+                {
+                    "name": "Jacqueline Hentges",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [
+                        "councilhentges@bridgeportwa.net"
+                    ],
+                    "urls": [
+                        "https://bridgeportwashington.net/team/jacqueline-hentges/"
+                    ],
+                    "start_date": null,
+                    "end_date": "2025-12",
+                    "office": {
+                        "name": "Council Member - Position 3",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:bridgeport"
+                    },
+                    "image": "https://bridgeportwashington.net/wp-content/uploads/2020/07/JAQUELINE-HENTGES.jpg",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:bridgeport/government",
+                    "cdn_image": "local://01706aa07c41.png",
+                    "source_urls": [
+                        "https://bridgeportwashington.net/city-council/"
+                    ],
+                    "updated_at": "2026-05-25T16:26:27+00:00",
+                    "id": "62231862-f830-41f1-b424-9f61337b28f0"
+                },
+                {
+                    "name": "Paul Anson",
+                    "other_names": [],
+                    "phones": [
+                        "(509) 686-4041"
+                    ],
+                    "emails": [
+                        "councilanson@bridgeportwa.net"
+                    ],
+                    "urls": [
+                        "https://bridgeportwashington.net/team/paul-anson/"
+                    ],
+                    "start_date": null,
+                    "end_date": "2027-12",
+                    "office": {
+                        "name": "Council Member - Position 4",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:bridgeport"
+                    },
+                    "image": "https://demo.ovatheme.com/egovt/wp-content/uploads/placehold.it/single-1.jpg",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:bridgeport/government",
+                    "cdn_image": "local://b37f473bd8f9.png",
+                    "source_urls": [
+                        "https://bridgeportwashington.net/team/paul-anson/",
+                        "https://bridgeportwashington.net/city-council/"
+                    ],
+                    "updated_at": "2026-05-25T16:26:27+00:00",
+                    "id": "3c399db0-558e-4c9d-8f13-7f17721fa0c3"
+                },
+                {
+                    "name": "Esiquio Martinez",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [
+                        "councilmartinez@bridgeportwa.net"
+                    ],
+                    "urls": [
+                        "https://bridgeportwashington.net/team/esiquio-martinez/"
+                    ],
+                    "start_date": null,
+                    "end_date": "2027-12",
+                    "office": {
+                        "name": "Council Member - Position 5",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:bridgeport"
+                    },
+                    "image": "https://bridgeportwashington.net/wp-content/uploads/2020/07/ESIQUIO-MARTINEZ.jpg",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:bridgeport/government",
+                    "cdn_image": "local://16140a430d1b.png",
+                    "source_urls": [
+                        "https://bridgeportwashington.net/city-council/"
+                    ],
+                    "updated_at": "2026-05-25T16:26:27+00:00",
+                    "id": "65ce3430-64ee-4285-b8a3-70fa7a72e1f2"
+                },
+                {
+                    "name": "Mike Bjornstad",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [
+                        "councilbjornstad@bridgeportwa.net"
+                    ],
+                    "urls": [
+                        "https://bridgeportwashington.net/ova_dep/mayors-office"
+                    ],
+                    "start_date": null,
+                    "end_date": "2025-12",
+                    "office": {
+                        "name": "Council Member",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:bridgeport"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:bridgeport/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://bridgeportwashington.net/ova_dep/mayors-office"
+                    ],
+                    "updated_at": "2026-05-25T16:26:27+00:00",
+                    "id": "493bf40f-9740-4fe0-ba4d-53e62597d59b"
+                }
+            ]
+        },
+        "review_output_step": {
+            "issues": [
+                "Extra official: Charlene Wuolle"
+            ],
+            "people_by_source": [
+                {
+                    "name": "Charlene Wuolle",
+                    "in_research": false,
+                    "in_data": true
+                },
+                {
+                    "name": "Esiquio Martinez",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Jacqueline Hentges",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Matthew Schuh",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Mike Bjornstad",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Paul Anson",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Sergio Orozco",
+                    "in_research": true,
+                    "in_data": true
+                }
+            ],
+            "origin_source": "existing"
+        },
+        "find_jurisdiction_url_step": null,
+        "send_success_step": null,
+        "send_error_step": null,
+        "issues": [],
+        "error_step": null,
+        "error_detail": null
+    },
+    "current_state": "SEND_SUCCESS",
+    "request_id": "56e1c593-f4a8-4f80-a42b-56378c1c4908",
+    "created_at": 1779726060.402356,
+    "updated_at": 1779726387.8028834,
+    "progress": 74
+}

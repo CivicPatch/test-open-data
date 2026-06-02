@@ -1,108 +1,137 @@
 - name: Sergio Orozco
+  other_names: []
   phones: []
   emails:
-  - Mayor@BridgeportWA.net
-  urls: []
+  - mayor@bridgeportwa.net
+  urls:
+  - https://bridgeportwashington.net/ova_dep/mayors-office
+  start_date: 2024-01
+  end_date: null
   office:
     name: Mayor
     division_ocdid: ocd-division/country:us/state:wa/place:bridgeport
-  image: null
+  image: ''
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bridgeport/government
-  cdn_image: null
+  cdn_image: ''
   source_urls:
   - https://bridgeportwashington.net/ova_dep/mayors-office
-  updated_at: '2025-06-25T22:14:25+00:00'
-  start_date: 2024-01
-  end_date: null
-  other_names: []
+  updated_at: '2026-05-25T16:26:27+00:00'
   id: 6191b540-955b-4054-8a1f-17ec45e2465d
 - name: Matthew Schuh
-  phones: []
+  other_names: []
+  phones:
+  - (509) 686-4041
   emails:
-  - CouncilSchuh@BridgeportWA.net
-  urls: []
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:bridgeport
-  image: null
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bridgeport/government
-  cdn_image: null
-  source_urls:
-  - https://bridgeportwashington.net/ova_dep/mayors-office
-  updated_at: '2025-06-25T22:14:25+00:00'
+  - councilschuh@bridgeportwa.net
+  urls:
+  - https://bridgeportwashington.net/team/matthew-schuh/
   start_date: null
   end_date: 2025-12
-  other_names: []
+  office:
+    name: Council Member - Position 1
+    division_ocdid: ocd-division/country:us/state:wa/place:bridgeport
+  image: https://bridgeportwashington.net/wp-content/uploads/2020/07/Matt.jpg
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bridgeport/government
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/56e1c593-f4a8-4f80-a42b-56378c1c4908/data_source/wa/local/place_bridgeport/images/cb1496fd906c.png
+  source_urls:
+  - https://bridgeportwashington.net/team/matthew-schuh/
+  - https://bridgeportwashington.net/city-council/
+  updated_at: '2026-05-25T16:26:27+00:00'
   id: 503862a1-4ea3-4516-85e9-362c6c1ab792
-- name: Mike Bjornstad
+- name: Charlene Wuolle
+  other_names: []
   phones: []
   emails:
-  - CouncilBjornstad@BridgeportWA.net
-  urls: []
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:bridgeport
-  image: null
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bridgeport/government
-  cdn_image: null
-  source_urls:
-  - https://bridgeportwashington.net/ova_dep/mayors-office
-  updated_at: '2025-06-25T22:14:25+00:00'
+  - councilwuolle@bridgeportwa.net
+  urls:
+  - https://bridgeportwashington.net/team/mike-bjornstad/
   start_date: null
-  end_date: 2025-12
-  other_names: []
-  id: 493bf40f-9740-4fe0-ba4d-53e62597d59b
+  end_date: null
+  office:
+    name: Council Member - Position 2
+    division_ocdid: ocd-division/country:us/state:wa/place:bridgeport
+  image: ''
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bridgeport/government
+  cdn_image: ''
+  source_urls:
+  - https://bridgeportwashington.net/city-council/
+  updated_at: '2026-05-25T16:26:27+00:00'
+  id: 39307c84-217a-4777-beec-1b9f43e5358a
 - name: Jacqueline Hentges
+  other_names: []
   phones: []
   emails:
-  - CouncilHentges@BridgeportWA.net
-  urls: []
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:bridgeport
-  image: null
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bridgeport/government
-  cdn_image: null
-  source_urls:
-  - https://bridgeportwashington.net/ova_dep/mayors-office
-  updated_at: '2025-06-25T22:14:25+00:00'
+  - councilhentges@bridgeportwa.net
+  urls:
+  - https://bridgeportwashington.net/team/jacqueline-hentges/
   start_date: null
   end_date: 2025-12
-  other_names: []
+  office:
+    name: Council Member - Position 3
+    division_ocdid: ocd-division/country:us/state:wa/place:bridgeport
+  image: https://bridgeportwashington.net/wp-content/uploads/2020/07/JAQUELINE-HENTGES.jpg
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bridgeport/government
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/56e1c593-f4a8-4f80-a42b-56378c1c4908/data_source/wa/local/place_bridgeport/images/01706aa07c41.png
+  source_urls:
+  - https://bridgeportwashington.net/city-council/
+  updated_at: '2026-05-25T16:26:27+00:00'
   id: 62231862-f830-41f1-b424-9f61337b28f0
 - name: Paul Anson
-  phones: []
+  other_names: []
+  phones:
+  - (509) 686-4041
   emails:
-  - CouncilAnson@BridgeportWA.net
-  urls: []
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:bridgeport
-  image: null
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bridgeport/government
-  cdn_image: null
-  source_urls:
-  - https://bridgeportwashington.net/ova_dep/mayors-office
-  updated_at: '2025-06-25T22:14:25+00:00'
+  - councilanson@bridgeportwa.net
+  urls:
+  - https://bridgeportwashington.net/team/paul-anson/
   start_date: null
   end_date: 2027-12
-  other_names: []
+  office:
+    name: Council Member - Position 4
+    division_ocdid: ocd-division/country:us/state:wa/place:bridgeport
+  image: https://demo.ovatheme.com/egovt/wp-content/uploads/placehold.it/single-1.jpg
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bridgeport/government
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/56e1c593-f4a8-4f80-a42b-56378c1c4908/data_source/wa/local/place_bridgeport/images/b37f473bd8f9.png
+  source_urls:
+  - https://bridgeportwashington.net/team/paul-anson/
+  - https://bridgeportwashington.net/city-council/
+  updated_at: '2026-05-25T16:26:27+00:00'
   id: 3c399db0-558e-4c9d-8f13-7f17721fa0c3
 - name: Esiquio Martinez
+  other_names: []
   phones: []
   emails:
-  - CouncilMartinez@BridgeportWA.net
-  urls: []
+  - councilmartinez@bridgeportwa.net
+  urls:
+  - https://bridgeportwashington.net/team/esiquio-martinez/
+  start_date: null
+  end_date: 2027-12
+  office:
+    name: Council Member - Position 5
+    division_ocdid: ocd-division/country:us/state:wa/place:bridgeport
+  image: https://bridgeportwashington.net/wp-content/uploads/2020/07/ESIQUIO-MARTINEZ.jpg
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bridgeport/government
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/56e1c593-f4a8-4f80-a42b-56378c1c4908/data_source/wa/local/place_bridgeport/images/16140a430d1b.png
+  source_urls:
+  - https://bridgeportwashington.net/city-council/
+  updated_at: '2026-05-25T16:26:27+00:00'
+  id: 65ce3430-64ee-4285-b8a3-70fa7a72e1f2
+- name: Mike Bjornstad
+  other_names: []
+  phones: []
+  emails:
+  - councilbjornstad@bridgeportwa.net
+  urls:
+  - https://bridgeportwashington.net/ova_dep/mayors-office
+  start_date: null
+  end_date: 2025-12
   office:
     name: Council Member
     division_ocdid: ocd-division/country:us/state:wa/place:bridgeport
-  image: null
+  image: ''
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bridgeport/government
-  cdn_image: null
+  cdn_image: ''
   source_urls:
   - https://bridgeportwashington.net/ova_dep/mayors-office
-  updated_at: '2025-06-25T22:14:25+00:00'
-  start_date: null
-  end_date: 2027-12
-  other_names: []
-  id: 65ce3430-64ee-4285-b8a3-70fa7a72e1f2
+  updated_at: '2026-05-25T16:26:27+00:00'
+  id: 493bf40f-9740-4fe0-ba4d-53e62597d59b

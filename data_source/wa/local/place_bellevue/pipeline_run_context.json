@@ -1,0 +1,1416 @@
+{
+    "data": {
+        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:bellevue/government",
+        "config": {
+            "url": "https://bellevuewa.gov/",
+            "name": "Bellevue city",
+            "source_urls": null
+        },
+        "frontier": {
+            "links": {
+                "https://bellevuewa.gov": {
+                    "url": "https://bellevuewa.gov/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "bellevuewa_gov_",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 1
+                },
+                "https://bellevuewa.gov/city-government/city-council/councilmembers": {
+                    "url": "https://bellevuewa.gov/city-government/city-council/councilmembers",
+                    "status": "done",
+                    "folder_name": "bellevuewa_gov_city-government_city-council_councilmembers",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 4
+                },
+                "https://bellevuewa.gov/city-government": {
+                    "url": "https://bellevuewa.gov/city-government",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://bellevuewa.gov/city-government/city-council": {
+                    "url": "https://bellevuewa.gov/city-government/city-council",
+                    "status": "processed_irrelevant",
+                    "folder_name": "bellevuewa_gov_city-government_city-council",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 2
+                },
+                "https://bellevuewa.gov/city-government/departments": {
+                    "url": "https://bellevuewa.gov/city-government/departments",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://bellevuewa.gov/contact-us": {
+                    "url": "https://bellevuewa.gov/contact-us",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://bellevuewa.gov/city-government/city-council/council-meetings": {
+                    "url": "https://bellevuewa.gov/city-government/city-council/council-meetings",
+                    "status": "processed_irrelevant",
+                    "folder_name": "bellevuewa_gov_city-government_city-council_council-meetings",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 3
+                },
+                "https://bellevuewa.gov/city-government/city-council/council-vision": {
+                    "url": "https://bellevuewa.gov/city-government/city-council/council-vision",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://bellevuewa.gov/city-government/city-council/proclamation-requests": {
+                    "url": "https://bellevuewa.gov/city-government/city-council/proclamation-requests",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://bellevuewa.gov/city-government/city-council/state-of-the-city": {
+                    "url": "https://bellevuewa.gov/city-government/city-council/state-of-the-city",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://bellevuewa.gov/city-government/city-council/council-pledge": {
+                    "url": "https://bellevuewa.gov/city-government/city-council/council-pledge",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://bellevuewa.gov/city-government/city-council/serving-city-council": {
+                    "url": "https://bellevuewa.gov/city-government/city-council/serving-city-council",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://bellevuewa.gov/city-government/city-council/council-speaking-requests": {
+                    "url": "https://bellevuewa.gov/city-government/city-council/council-speaking-requests",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://bellevuewa.gov/city-government/departments/city-clerks-office/boards-and-commissions": {
+                    "url": "https://bellevuewa.gov/city-government/departments/city-clerks-office/boards-and-commissions",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://bellevuewa.gov/city-government/departments/city-managers-office": {
+                    "url": "https://bellevuewa.gov/city-government/departments/city-managers-office",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://bellevuewa.gov/city-government/departments/city-clerks-office": {
+                    "url": "https://bellevuewa.gov/city-government/departments/city-clerks-office",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://bellevuewa.gov/city-government/departments/city-attorneys-office": {
+                    "url": "https://bellevuewa.gov/city-government/departments/city-attorneys-office",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://bellevuewa.gov/city-government/departments/community-development": {
+                    "url": "https://bellevuewa.gov/city-government/departments/community-development",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://bellevuewa.gov/city-government/departments/development": {
+                    "url": "https://bellevuewa.gov/city-government/departments/development",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://bellevuewa.gov/city-government/departments/finance": {
+                    "url": "https://bellevuewa.gov/city-government/departments/finance",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://bellevuewa.gov/city-government/departments/fire": {
+                    "url": "https://bellevuewa.gov/city-government/departments/fire",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://bellevuewa.gov/city-government/departments/human-resources": {
+                    "url": "https://bellevuewa.gov/city-government/departments/human-resources",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://bellevuewa.gov/city-government/departments/itd": {
+                    "url": "https://bellevuewa.gov/city-government/departments/ITD",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://bellevuewa.gov/city-government/departments/parks": {
+                    "url": "https://bellevuewa.gov/city-government/departments/parks",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://bellevuewa.gov/city-government/departments/police": {
+                    "url": "https://bellevuewa.gov/city-government/departments/police",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://bellevuewa.gov/city-government/departments/transportation": {
+                    "url": "https://bellevuewa.gov/city-government/departments/transportation",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://bellevuewa.gov/city-government/departments/utilities": {
+                    "url": "https://bellevuewa.gov/city-government/departments/utilities",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://bellevuewa.gov/city-government/city-council/councilmembers/mo-malakoutian": {
+                    "url": "https://bellevuewa.gov/city-government/city-council/councilmembers/mo-malakoutian",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://bellevuewa.gov/city-government/city-council/councilmembers/deputy-mayor-dave-hamilton": {
+                    "url": "https://bellevuewa.gov/city-government/city-council/councilmembers/deputy-mayor-dave-hamilton",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://bellevuewa.gov/city-government/city-council/councilmembers/vishal-bhargava": {
+                    "url": "https://bellevuewa.gov/city-government/city-council/councilmembers/vishal-bhargava",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://bellevuewa.gov/city-government/city-council/councilmembers/naren-briar": {
+                    "url": "https://bellevuewa.gov/city-government/city-council/councilmembers/naren-briar",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://bellevuewa.gov/city-government/city-council/councilmembers/jared-nieuwenhuis": {
+                    "url": "https://bellevuewa.gov/city-government/city-council/councilmembers/jared-nieuwenhuis",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://bellevuewa.gov/city-government/city-council/councilmembers/lynne-robinson": {
+                    "url": "https://bellevuewa.gov/city-government/city-council/councilmembers/lynne-robinson",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://bellevuewa.gov/city-government/city-council/councilmembers/claire-sumadiwirya": {
+                    "url": "https://bellevuewa.gov/city-government/city-council/councilmembers/claire-sumadiwirya",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://bellevuewa.gov/city-government/city-council/council-meetings/council-meeting-procedures": {
+                    "url": "https://bellevuewa.gov/city-government/city-council/council-meetings/council-meeting-procedures",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://bellevuewa.gov/city-government/boards-commissions-and-committees": {
+                    "url": "https://bellevuewa.gov/city-government/boards-commissions-and-committees",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://bellevuewa.gov/city-government/east-bellevue-community-council": {
+                    "url": "https://bellevuewa.gov/city-government/east-bellevue-community-council",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                }
+            },
+            "queue": [
+                "https://bellevuewa.gov/city-government",
+                "https://bellevuewa.gov/city-government/departments",
+                "https://bellevuewa.gov/city-government/city-council/council-vision",
+                "https://bellevuewa.gov/city-government/city-council/proclamation-requests",
+                "https://bellevuewa.gov/city-government/city-council/state-of-the-city",
+                "https://bellevuewa.gov/city-government/city-council/council-pledge",
+                "https://bellevuewa.gov/city-government/city-council/serving-city-council",
+                "https://bellevuewa.gov/city-government/city-council/council-speaking-requests",
+                "https://bellevuewa.gov/city-government/city-council/councilmembers/mo-malakoutian",
+                "https://bellevuewa.gov/city-government/city-council/councilmembers/deputy-mayor-dave-hamilton",
+                "https://bellevuewa.gov/city-government/city-council/councilmembers/vishal-bhargava",
+                "https://bellevuewa.gov/city-government/city-council/councilmembers/naren-briar",
+                "https://bellevuewa.gov/city-government/city-council/councilmembers/jared-nieuwenhuis",
+                "https://bellevuewa.gov/city-government/city-council/councilmembers/lynne-robinson",
+                "https://bellevuewa.gov/city-government/city-council/councilmembers/claire-sumadiwirya",
+                "https://bellevuewa.gov/city-government/departments/city-clerks-office",
+                "https://bellevuewa.gov/city-government/east-bellevue-community-council",
+                "https://bellevuewa.gov/city-government/boards-commissions-and-committees",
+                "https://bellevuewa.gov/city-government/departments/city-managers-office",
+                "https://bellevuewa.gov/city-government/departments/city-attorneys-office",
+                "https://bellevuewa.gov/city-government/departments/community-development",
+                "https://bellevuewa.gov/city-government/departments/development",
+                "https://bellevuewa.gov/city-government/departments/finance",
+                "https://bellevuewa.gov/city-government/departments/fire",
+                "https://bellevuewa.gov/city-government/departments/human-resources",
+                "https://bellevuewa.gov/city-government/departments/itd",
+                "https://bellevuewa.gov/city-government/departments/parks",
+                "https://bellevuewa.gov/city-government/departments/police",
+                "https://bellevuewa.gov/city-government/departments/transportation",
+                "https://bellevuewa.gov/city-government/departments/utilities",
+                "https://bellevuewa.gov/city-government/city-council/council-meetings/council-meeting-procedures",
+                "https://bellevuewa.gov/city-government/departments/city-clerks-office/boards-and-commissions",
+                "https://bellevuewa.gov/contact-us"
+            ]
+        },
+        "research_municipality_step": {
+            "expected_count": 7,
+            "target_designations": [],
+            "known_roles": [
+                "Mayor",
+                "Deputy Mayor",
+                "Council Member"
+            ],
+            "identities": {
+                "Mo Malakoutian": [],
+                "Dave Hamilton": [],
+                "Vishal Bhargava": [],
+                "Naren Briar": [],
+                "Jared Nieuwenhuis": [],
+                "Claire Sumadiwirya": [],
+                "Lynne Robinson": []
+            },
+            "source_urls": [
+                "https://bellevuewa.gov/city-government/city-council/councilmembers"
+            ],
+            "notes": null,
+            "origin_source": "existing"
+        },
+        "preprocess_page_content_step": {
+            "elapsed_times": [
+                2,
+                1,
+                1,
+                0,
+                1,
+                0
+            ],
+            "total_elapsed_time_seconds": 2,
+            "average_elapsed_time_seconds": 0
+        },
+        "process_page_content_step": {
+            "raw_records_by_llm": {
+                "open_router": {
+                    "Mo Malakoutian": [
+                        {
+                            "name": "Mo Malakoutian",
+                            "roles": [
+                                "Mayor",
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 3"
+                            ],
+                            "phone": "425-452-7810",
+                            "email": "counciloffice@bellevuewa.gov",
+                            "url": "https://bellevuewa.gov/city-government/city-council/councilmembers/mo-malakoutian",
+                            "start_date": "2024-01-01",
+                            "end_date": "2027-12-31",
+                            "image": null,
+                            "source_url": "https://bellevuewa.gov/city-government/city-council/councilmembers"
+                        }
+                    ],
+                    "Dave Hamilton": [
+                        {
+                            "name": "Dave Hamilton",
+                            "roles": [
+                                "Deputy Mayor",
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 7"
+                            ],
+                            "phone": "425-452-7810",
+                            "email": "counciloffice@bellevuewa.gov",
+                            "url": "https://bellevuewa.gov/city-government/city-council/councilmembers/deputy-mayor-dave-hamilton",
+                            "start_date": "2024-01-01",
+                            "end_date": "2027-12-31",
+                            "image": null,
+                            "source_url": "https://bellevuewa.gov/city-government/city-council/councilmembers"
+                        }
+                    ],
+                    "Vishal Bhargava": [
+                        {
+                            "name": "Vishal Bhargava",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 1"
+                            ],
+                            "phone": "425-452-7810",
+                            "email": "counciloffice@bellevuewa.gov",
+                            "url": "https://bellevuewa.gov/city-government/city-council/councilmembers/vishal-bhargava",
+                            "start_date": "2025-05-06",
+                            "end_date": "2027-12-31",
+                            "image": null,
+                            "source_url": "https://bellevuewa.gov/city-government/city-council/councilmembers"
+                        }
+                    ],
+                    "Naren Briar": [
+                        {
+                            "name": "Naren Briar",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 2"
+                            ],
+                            "phone": "425-452-7810",
+                            "email": "counciloffice@bellevuewa.gov",
+                            "url": "https://bellevuewa.gov/city-government/city-council/councilmembers/naren-briar",
+                            "start_date": "2026-01-01",
+                            "end_date": "2029-12-31",
+                            "image": null,
+                            "source_url": "https://bellevuewa.gov/city-government/city-council/councilmembers"
+                        }
+                    ],
+                    "Jared Nieuwenhuis": [
+                        {
+                            "name": "Jared Nieuwenhuis",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 4"
+                            ],
+                            "phone": "425-452-7810",
+                            "email": "counciloffice@bellevuewa.gov",
+                            "url": "https://bellevuewa.gov/city-government/city-council/councilmembers/jared-nieuwenhuis",
+                            "start_date": "2018-01-01",
+                            "end_date": "2029-12-31",
+                            "image": null,
+                            "source_url": "https://bellevuewa.gov/city-government/city-council/councilmembers"
+                        }
+                    ],
+                    "Lynne Robinson": [
+                        {
+                            "name": "Lynne Robinson",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 6"
+                            ],
+                            "phone": "425-452-7810",
+                            "email": "counciloffice@bellevuewa.gov",
+                            "url": "https://bellevuewa.gov/city-government/city-council/councilmembers/lynne-robinson",
+                            "start_date": "2014-01-01",
+                            "end_date": "2029-12-31",
+                            "image": null,
+                            "source_url": "https://bellevuewa.gov/city-government/city-council/councilmembers"
+                        }
+                    ],
+                    "Claire Sumadiwirya": [
+                        {
+                            "name": "Claire Sumadiwirya",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 5"
+                            ],
+                            "phone": "425-452-7810",
+                            "email": "counciloffice@bellevuewa.gov",
+                            "url": "https://bellevuewa.gov/city-government/city-council/councilmembers/claire-sumadiwirya",
+                            "start_date": "2025-04-01",
+                            "end_date": "2027-12-31",
+                            "image": null,
+                            "source_url": "https://bellevuewa.gov/city-government/city-council/councilmembers"
+                        }
+                    ]
+                }
+            },
+            "records_by_llm": {
+                "open_router": {
+                    "Mo Malakoutian": [
+                        {
+                            "name": "Mo Malakoutian",
+                            "roles": [
+                                "Mayor",
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 3"
+                            ],
+                            "phone": "(425) 452-7810",
+                            "email": "counciloffice@bellevuewa.gov",
+                            "url": "https://bellevuewa.gov/city-government/city-council/councilmembers/mo-malakoutian",
+                            "start_date": "2024-01-01",
+                            "end_date": "2027-12-31",
+                            "image": null,
+                            "source_url": "https://bellevuewa.gov/city-government/city-council/councilmembers"
+                        }
+                    ],
+                    "Dave Hamilton": [
+                        {
+                            "name": "Dave Hamilton",
+                            "roles": [
+                                "Deputy Mayor",
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 7"
+                            ],
+                            "phone": "(425) 452-7810",
+                            "email": "counciloffice@bellevuewa.gov",
+                            "url": "https://bellevuewa.gov/city-government/city-council/councilmembers/deputy-mayor-dave-hamilton",
+                            "start_date": "2024-01-01",
+                            "end_date": "2027-12-31",
+                            "image": null,
+                            "source_url": "https://bellevuewa.gov/city-government/city-council/councilmembers"
+                        }
+                    ],
+                    "Vishal Bhargava": [
+                        {
+                            "name": "Vishal Bhargava",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 1"
+                            ],
+                            "phone": "(425) 452-7810",
+                            "email": "counciloffice@bellevuewa.gov",
+                            "url": "https://bellevuewa.gov/city-government/city-council/councilmembers/vishal-bhargava",
+                            "start_date": "2025-05-06",
+                            "end_date": "2027-12-31",
+                            "image": null,
+                            "source_url": "https://bellevuewa.gov/city-government/city-council/councilmembers"
+                        }
+                    ],
+                    "Naren Briar": [
+                        {
+                            "name": "Naren Briar",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 2"
+                            ],
+                            "phone": "(425) 452-7810",
+                            "email": "counciloffice@bellevuewa.gov",
+                            "url": "https://bellevuewa.gov/city-government/city-council/councilmembers/naren-briar",
+                            "start_date": "2026-01-01",
+                            "end_date": "2029-12-31",
+                            "image": null,
+                            "source_url": "https://bellevuewa.gov/city-government/city-council/councilmembers"
+                        }
+                    ],
+                    "Jared Nieuwenhuis": [
+                        {
+                            "name": "Jared Nieuwenhuis",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 4"
+                            ],
+                            "phone": "(425) 452-7810",
+                            "email": "counciloffice@bellevuewa.gov",
+                            "url": "https://bellevuewa.gov/city-government/city-council/councilmembers/jared-nieuwenhuis",
+                            "start_date": "2018-01-01",
+                            "end_date": "2029-12-31",
+                            "image": null,
+                            "source_url": "https://bellevuewa.gov/city-government/city-council/councilmembers"
+                        }
+                    ],
+                    "Lynne Robinson": [
+                        {
+                            "name": "Lynne Robinson",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 6"
+                            ],
+                            "phone": "(425) 452-7810",
+                            "email": "counciloffice@bellevuewa.gov",
+                            "url": "https://bellevuewa.gov/city-government/city-council/councilmembers/lynne-robinson",
+                            "start_date": "2014-01-01",
+                            "end_date": "2029-12-31",
+                            "image": null,
+                            "source_url": "https://bellevuewa.gov/city-government/city-council/councilmembers"
+                        }
+                    ],
+                    "Claire Sumadiwirya": [
+                        {
+                            "name": "Claire Sumadiwirya",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 5"
+                            ],
+                            "phone": "(425) 452-7810",
+                            "email": "counciloffice@bellevuewa.gov",
+                            "url": "https://bellevuewa.gov/city-government/city-council/councilmembers/claire-sumadiwirya",
+                            "start_date": "2025-04-01",
+                            "end_date": "2027-12-31",
+                            "image": null,
+                            "source_url": "https://bellevuewa.gov/city-government/city-council/councilmembers"
+                        }
+                    ]
+                }
+            },
+            "progress": {
+                "required_data": 7,
+                "current_data": 7,
+                "has_target_role": true,
+                "has_target_designations": true
+            }
+        },
+        "merge_records_within_llm_step": {
+            "people_by_llm": {
+                "open_router": [
+                    {
+                        "name": "Mo Malakoutian",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member",
+                            "Mayor"
+                        ],
+                        "designations": [
+                            "Position 3"
+                        ],
+                        "phones": [
+                            "(425) 452-7810"
+                        ],
+                        "emails": [
+                            "counciloffice@bellevuewa.gov"
+                        ],
+                        "urls": [
+                            "https://bellevuewa.gov/city-government/city-council/councilmembers/mo-malakoutian"
+                        ],
+                        "start_date": "2024-01-01",
+                        "end_date": "2027-12-31",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:bellevue/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://bellevuewa.gov/city-government/city-council/councilmembers"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Dave Hamilton",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member",
+                            "Deputy Mayor"
+                        ],
+                        "designations": [
+                            "Position 7"
+                        ],
+                        "phones": [
+                            "(425) 452-7810"
+                        ],
+                        "emails": [
+                            "counciloffice@bellevuewa.gov"
+                        ],
+                        "urls": [
+                            "https://bellevuewa.gov/city-government/city-council/councilmembers/deputy-mayor-dave-hamilton"
+                        ],
+                        "start_date": "2024-01-01",
+                        "end_date": "2027-12-31",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:bellevue/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://bellevuewa.gov/city-government/city-council/councilmembers"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Vishal Bhargava",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 1"
+                        ],
+                        "phones": [
+                            "(425) 452-7810"
+                        ],
+                        "emails": [
+                            "counciloffice@bellevuewa.gov"
+                        ],
+                        "urls": [
+                            "https://bellevuewa.gov/city-government/city-council/councilmembers/vishal-bhargava"
+                        ],
+                        "start_date": "2025-05-06",
+                        "end_date": "2027-12-31",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:bellevue/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://bellevuewa.gov/city-government/city-council/councilmembers"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Naren Briar",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 2"
+                        ],
+                        "phones": [
+                            "(425) 452-7810"
+                        ],
+                        "emails": [
+                            "counciloffice@bellevuewa.gov"
+                        ],
+                        "urls": [
+                            "https://bellevuewa.gov/city-government/city-council/councilmembers/naren-briar"
+                        ],
+                        "start_date": "2026-01-01",
+                        "end_date": "2029-12-31",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:bellevue/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://bellevuewa.gov/city-government/city-council/councilmembers"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Jared Nieuwenhuis",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 4"
+                        ],
+                        "phones": [
+                            "(425) 452-7810"
+                        ],
+                        "emails": [
+                            "counciloffice@bellevuewa.gov"
+                        ],
+                        "urls": [
+                            "https://bellevuewa.gov/city-government/city-council/councilmembers/jared-nieuwenhuis"
+                        ],
+                        "start_date": "2018-01-01",
+                        "end_date": "2029-12-31",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:bellevue/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://bellevuewa.gov/city-government/city-council/councilmembers"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Lynne Robinson",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 6"
+                        ],
+                        "phones": [
+                            "(425) 452-7810"
+                        ],
+                        "emails": [
+                            "counciloffice@bellevuewa.gov"
+                        ],
+                        "urls": [
+                            "https://bellevuewa.gov/city-government/city-council/councilmembers/lynne-robinson"
+                        ],
+                        "start_date": "2014-01-01",
+                        "end_date": "2029-12-31",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:bellevue/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://bellevuewa.gov/city-government/city-council/councilmembers"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Claire Sumadiwirya",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 5"
+                        ],
+                        "phones": [
+                            "(425) 452-7810"
+                        ],
+                        "emails": [
+                            "counciloffice@bellevuewa.gov"
+                        ],
+                        "urls": [
+                            "https://bellevuewa.gov/city-government/city-council/councilmembers/claire-sumadiwirya"
+                        ],
+                        "start_date": "2025-04-01",
+                        "end_date": "2027-12-31",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:bellevue/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://bellevuewa.gov/city-government/city-council/councilmembers"
+                        ],
+                        "updated_at": ""
+                    }
+                ]
+            },
+            "unrecognized_roles": [],
+            "excluded_people": []
+        },
+        "merge_records_across_llms_step": {
+            "people": [
+                {
+                    "name": "Mo Malakoutian",
+                    "other_names": [],
+                    "roles": [
+                        "mayor",
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 3"
+                    ],
+                    "phones": [
+                        "(425) 452-7810"
+                    ],
+                    "emails": [
+                        "counciloffice@bellevuewa.gov"
+                    ],
+                    "urls": [
+                        "https://bellevuewa.gov/city-government/city-council/councilmembers/mo-malakoutian"
+                    ],
+                    "start_date": "2024-01-01",
+                    "end_date": "2027-12-31",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:bellevue/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://bellevuewa.gov/city-government/city-council/councilmembers"
+                    ],
+                    "updated_at": "2026-05-25T23:54:48+00:00"
+                },
+                {
+                    "name": "Dave Hamilton",
+                    "other_names": [],
+                    "roles": [
+                        "deputy mayor",
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 7"
+                    ],
+                    "phones": [
+                        "(425) 452-7810"
+                    ],
+                    "emails": [
+                        "counciloffice@bellevuewa.gov"
+                    ],
+                    "urls": [
+                        "https://bellevuewa.gov/city-government/city-council/councilmembers/deputy-mayor-dave-hamilton"
+                    ],
+                    "start_date": "2024-01-01",
+                    "end_date": "2027-12-31",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:bellevue/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://bellevuewa.gov/city-government/city-council/councilmembers"
+                    ],
+                    "updated_at": "2026-05-25T23:54:48+00:00"
+                },
+                {
+                    "name": "Vishal Bhargava",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 1"
+                    ],
+                    "phones": [
+                        "(425) 452-7810"
+                    ],
+                    "emails": [
+                        "counciloffice@bellevuewa.gov"
+                    ],
+                    "urls": [
+                        "https://bellevuewa.gov/city-government/city-council/councilmembers/vishal-bhargava"
+                    ],
+                    "start_date": "2025-05-06",
+                    "end_date": "2027-12-31",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:bellevue/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://bellevuewa.gov/city-government/city-council/councilmembers"
+                    ],
+                    "updated_at": "2026-05-25T23:54:48+00:00"
+                },
+                {
+                    "name": "Naren Briar",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 2"
+                    ],
+                    "phones": [
+                        "(425) 452-7810"
+                    ],
+                    "emails": [
+                        "counciloffice@bellevuewa.gov"
+                    ],
+                    "urls": [
+                        "https://bellevuewa.gov/city-government/city-council/councilmembers/naren-briar"
+                    ],
+                    "start_date": "2026-01-01",
+                    "end_date": "2029-12-31",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:bellevue/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://bellevuewa.gov/city-government/city-council/councilmembers"
+                    ],
+                    "updated_at": "2026-05-25T23:54:48+00:00"
+                },
+                {
+                    "name": "Jared Nieuwenhuis",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 4"
+                    ],
+                    "phones": [
+                        "(425) 452-7810"
+                    ],
+                    "emails": [
+                        "counciloffice@bellevuewa.gov"
+                    ],
+                    "urls": [
+                        "https://bellevuewa.gov/city-government/city-council/councilmembers/jared-nieuwenhuis"
+                    ],
+                    "start_date": "2018-01-01",
+                    "end_date": "2029-12-31",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:bellevue/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://bellevuewa.gov/city-government/city-council/councilmembers"
+                    ],
+                    "updated_at": "2026-05-25T23:54:48+00:00"
+                },
+                {
+                    "name": "Claire Sumadiwirya",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 5"
+                    ],
+                    "phones": [
+                        "(425) 452-7810"
+                    ],
+                    "emails": [
+                        "counciloffice@bellevuewa.gov"
+                    ],
+                    "urls": [
+                        "https://bellevuewa.gov/city-government/city-council/councilmembers/claire-sumadiwirya"
+                    ],
+                    "start_date": "2025-04-01",
+                    "end_date": "2027-12-31",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:bellevue/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://bellevuewa.gov/city-government/city-council/councilmembers"
+                    ],
+                    "updated_at": "2026-05-25T23:54:48+00:00"
+                },
+                {
+                    "name": "Lynne Robinson",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 6"
+                    ],
+                    "phones": [
+                        "(425) 452-7810"
+                    ],
+                    "emails": [
+                        "counciloffice@bellevuewa.gov"
+                    ],
+                    "urls": [
+                        "https://bellevuewa.gov/city-government/city-council/councilmembers/lynne-robinson"
+                    ],
+                    "start_date": "2014-01-01",
+                    "end_date": "2029-12-31",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:bellevue/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://bellevuewa.gov/city-government/city-council/councilmembers"
+                    ],
+                    "updated_at": "2026-05-25T23:54:48+00:00"
+                }
+            ]
+        },
+        "format_output_step": {
+            "officials": [
+                {
+                    "name": "Mo Malakoutian",
+                    "other_names": [],
+                    "phones": [
+                        "(425) 452-7810"
+                    ],
+                    "emails": [
+                        "counciloffice@bellevuewa.gov"
+                    ],
+                    "urls": [
+                        "https://bellevuewa.gov/city-government/city-council/councilmembers/mo-malakoutian"
+                    ],
+                    "start_date": "2024-01-01",
+                    "end_date": "2027-12-31",
+                    "office": {
+                        "name": "Mayor - Council Member - Position 3",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:bellevue"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:bellevue/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://bellevuewa.gov/city-government/city-council/councilmembers"
+                    ],
+                    "updated_at": "2026-05-25T23:54:48+00:00",
+                    "id": "6428026e-c70d-4819-abb0-d91361d797bd"
+                },
+                {
+                    "name": "Dave Hamilton",
+                    "other_names": [],
+                    "phones": [
+                        "(425) 452-7810"
+                    ],
+                    "emails": [
+                        "counciloffice@bellevuewa.gov"
+                    ],
+                    "urls": [
+                        "https://bellevuewa.gov/city-government/city-council/councilmembers/deputy-mayor-dave-hamilton"
+                    ],
+                    "start_date": "2024-01-01",
+                    "end_date": "2027-12-31",
+                    "office": {
+                        "name": "Deputy Mayor - Council Member - Position 7",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:bellevue"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:bellevue/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://bellevuewa.gov/city-government/city-council/councilmembers"
+                    ],
+                    "updated_at": "2026-05-25T23:54:48+00:00",
+                    "id": "43cd6af0-503c-4685-b0b7-262f1fe4bdc7"
+                },
+                {
+                    "name": "Vishal Bhargava",
+                    "other_names": [],
+                    "phones": [
+                        "(425) 452-7810"
+                    ],
+                    "emails": [
+                        "counciloffice@bellevuewa.gov"
+                    ],
+                    "urls": [
+                        "https://bellevuewa.gov/city-government/city-council/councilmembers/vishal-bhargava"
+                    ],
+                    "start_date": "2025-05-06",
+                    "end_date": "2027-12-31",
+                    "office": {
+                        "name": "Council Member - Position 1",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:bellevue"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:bellevue/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://bellevuewa.gov/city-government/city-council/councilmembers"
+                    ],
+                    "updated_at": "2026-05-25T23:54:48+00:00",
+                    "id": "192d95e6-8cd2-4371-80d5-0c12859a106a"
+                },
+                {
+                    "name": "Naren Briar",
+                    "other_names": [],
+                    "phones": [
+                        "(425) 452-7810"
+                    ],
+                    "emails": [
+                        "counciloffice@bellevuewa.gov"
+                    ],
+                    "urls": [
+                        "https://bellevuewa.gov/city-government/city-council/councilmembers/naren-briar"
+                    ],
+                    "start_date": "2026-01-01",
+                    "end_date": "2029-12-31",
+                    "office": {
+                        "name": "Council Member - Position 2",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:bellevue"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:bellevue/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://bellevuewa.gov/city-government/city-council/councilmembers"
+                    ],
+                    "updated_at": "2026-05-25T23:54:48+00:00",
+                    "id": "e6ba0f1b-1553-497e-bb0f-8bb9694562b5"
+                },
+                {
+                    "name": "Jared Nieuwenhuis",
+                    "other_names": [],
+                    "phones": [
+                        "(425) 452-7810"
+                    ],
+                    "emails": [
+                        "counciloffice@bellevuewa.gov"
+                    ],
+                    "urls": [
+                        "https://bellevuewa.gov/city-government/city-council/councilmembers/jared-nieuwenhuis"
+                    ],
+                    "start_date": "2018-01-01",
+                    "end_date": "2029-12-31",
+                    "office": {
+                        "name": "Council Member - Position 4",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:bellevue"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:bellevue/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://bellevuewa.gov/city-government/city-council/councilmembers"
+                    ],
+                    "updated_at": "2026-05-25T23:54:48+00:00",
+                    "id": "12699d9d-73f5-42e7-a317-b8342abbb50c"
+                },
+                {
+                    "name": "Claire Sumadiwirya",
+                    "other_names": [],
+                    "phones": [
+                        "(425) 452-7810"
+                    ],
+                    "emails": [
+                        "counciloffice@bellevuewa.gov"
+                    ],
+                    "urls": [
+                        "https://bellevuewa.gov/city-government/city-council/councilmembers/claire-sumadiwirya"
+                    ],
+                    "start_date": "2025-04-01",
+                    "end_date": "2027-12-31",
+                    "office": {
+                        "name": "Council Member - Position 5",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:bellevue"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:bellevue/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://bellevuewa.gov/city-government/city-council/councilmembers"
+                    ],
+                    "updated_at": "2026-05-25T23:54:48+00:00",
+                    "id": "774beb8d-8703-4fe5-aff7-d9b5c25b487a"
+                },
+                {
+                    "name": "Lynne Robinson",
+                    "other_names": [],
+                    "phones": [
+                        "(425) 452-7810"
+                    ],
+                    "emails": [
+                        "counciloffice@bellevuewa.gov"
+                    ],
+                    "urls": [
+                        "https://bellevuewa.gov/city-government/city-council/councilmembers/lynne-robinson"
+                    ],
+                    "start_date": "2014-01-01",
+                    "end_date": "2029-12-31",
+                    "office": {
+                        "name": "Council Member - Position 6",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:bellevue"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:bellevue/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://bellevuewa.gov/city-government/city-council/councilmembers"
+                    ],
+                    "updated_at": "2026-05-25T23:54:48+00:00",
+                    "id": "92a66f50-4ab7-4d3c-9845-55e71e1ddacd"
+                }
+            ]
+        },
+        "review_output_step": {
+            "issues": [],
+            "people_by_source": [
+                {
+                    "name": "Claire Sumadiwirya",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Dave Hamilton",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Jared Nieuwenhuis",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Lynne Robinson",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Mo Malakoutian",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Naren Briar",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Vishal Bhargava",
+                    "in_research": true,
+                    "in_data": true
+                }
+            ],
+            "origin_source": "existing"
+        },
+        "find_jurisdiction_url_step": null,
+        "send_success_step": null,
+        "send_error_step": null,
+        "issues": [],
+        "error_step": null,
+        "error_detail": null
+    },
+    "current_state": "SEND_SUCCESS",
+    "request_id": "b7372cc5-d9a5-4799-b67d-7b436e02b4be",
+    "created_at": 1779753183.3200903,
+    "updated_at": 1779753288.195411,
+    "progress": 97
+}

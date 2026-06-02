@@ -1,0 +1,95 @@
+- name: Jackie Hamm
+  other_names: []
+  phones:
+  - (731) 632-1401
+  emails: []
+  urls:
+  - https://www.cityofadamsville.com/boards_commissions/city_commission/index.html
+  start_date: null
+  end_date: null
+  office:
+    name: Mayor
+    division_ocdid: ocd-division/country:us/state:tn/place:adamsville
+  image: https://www.cityofadamsville.com/boards_commissions/city_commission/images/jackie_hamm.jpg
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:tn/place:adamsville/government
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/d87da483-dbab-4462-a6fb-83a3a83c865c/data_source/tn/local/place_adamsville/images/bcceb645b758.png
+  source_urls:
+  - https://www.cityofadamsville.com/boards_commissions/city_commission/index.html
+  updated_at: '2026-05-23T13:59:39+00:00'
+  id: 7cf3358f-2143-410c-aa2c-df53a7660a1a
+- name: Jennifer Frazier
+  other_names: []
+  phones:
+  - (731) 632-1401
+  emails: []
+  urls:
+  - https://www.cityofadamsville.com/boards_commissions/city_commission/index.html
+  start_date: null
+  end_date: null
+  office:
+    name: Vice Mayor
+    division_ocdid: ocd-division/country:us/state:tn/place:adamsville
+  image: https://www.cityofadamsville.com/boards_commissions/city_commission/images/jennifer_frazier.jpg
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:tn/place:adamsville/government
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/d87da483-dbab-4462-a6fb-83a3a83c865c/data_source/tn/local/place_adamsville/images/5e15d31c2056.png
+  source_urls:
+  - https://www.cityofadamsville.com/boards_commissions/city_commission/index.html
+  updated_at: '2026-05-23T13:59:39+00:00'
+  id: 4f67fd66-b407-4786-8c4e-5dd2f01a45ee
+- name: Brian Burks
+  other_names: []
+  phones:
+  - (731) 632-1401
+  emails: []
+  urls:
+  - https://www.cityofadamsville.com/boards_commissions/city_commission/index.html
+  start_date: null
+  end_date: null
+  office:
+    name: Commissioner
+    division_ocdid: ocd-division/country:us/state:tn/place:adamsville
+  image: https://www.cityofadamsville.com/boards_commissions/city_commission/images/brian_burks.jpg
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:tn/place:adamsville/government
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/d87da483-dbab-4462-a6fb-83a3a83c865c/data_source/tn/local/place_adamsville/images/226079ee9d39.png
+  source_urls:
+  - https://www.cityofadamsville.com/boards_commissions/city_commission/index.html
+  updated_at: '2026-05-23T13:59:39+00:00'
+  id: 7addf79d-bd8a-43cb-8be6-b84e98941631
+- name: Emily Hopper
+  other_names: []
+  phones:
+  - (731) 632-1401
+  emails: []
+  urls:
+  - https://www.cityofadamsville.com/boards_commissions/city_commission/index.html
+  start_date: null
+  end_date: null
+  office:
+    name: Commissioner
+    division_ocdid: ocd-division/country:us/state:tn/place:adamsville
+  image: https://www.cityofadamsville.com/boards_commissions/city_commission/images/emily_hopper.jpg
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:tn/place:adamsville/government
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/d87da483-dbab-4462-a6fb-83a3a83c865c/data_source/tn/local/place_adamsville/images/f3957a7b8d19.png
+  source_urls:
+  - https://www.cityofadamsville.com/boards_commissions/city_commission/index.html
+  updated_at: '2026-05-23T13:59:39+00:00'
+  id: f81313e2-3c68-4949-89d4-45fcdcc448a1
+- name: Jai Templton
+  other_names: []
+  phones:
+  - (731) 632-1401
+  emails: []
+  urls:
+  - https://www.cityofadamsville.com/boards_commissions/city_commission/index.html
+  start_date: null
+  end_date: null
+  office:
+    name: Commissioner
+    division_ocdid: ocd-division/country:us/state:tn/place:adamsville
+  image: https://www.cityofadamsville.com/boards_commissions/city_commission/images/jai_templton.jpg
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:tn/place:adamsville/government
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/d87da483-dbab-4462-a6fb-83a3a83c865c/data_source/tn/local/place_adamsville/images/63e46989b78b.png
+  source_urls:
+  - https://www.cityofadamsville.com/boards_commissions/city_commission/index.html
+  updated_at: '2026-05-23T13:59:39+00:00'
+  id: 7d43ca4e-ad49-4a38-aaa8-ec30cd0d1f7f

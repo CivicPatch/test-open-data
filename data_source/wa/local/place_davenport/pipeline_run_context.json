@@ -1,0 +1,1580 @@
+{
+    "data": {
+        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:davenport/government",
+        "config": {
+            "url": "https://davenportwa.us",
+            "name": "Davenport city",
+            "source_urls": null
+        },
+        "frontier": {
+            "links": {
+                "https://davenportwa.us": {
+                    "url": "https://davenportwa.us",
+                    "status": "processed_irrelevant",
+                    "folder_name": "davenportwa_us",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 1
+                },
+                "https://davenportwa.us/index.asp?sec=c177e0d1-c61e-4ad4-a339-ca10665ffd9a&type=b_basic": {
+                    "url": "https://www.davenportwa.us/index.asp?SEC=C177E0D1-C61E-4AD4-A339-CA10665FFD9A&Type=B_BASIC",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_davenportwa_us_index_asp?sec=c177e0d1-c61e-4ad4-a339-ca10665ffd9a&type=b_basic",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 2
+                },
+                "https://davenportwa.us/index.asp?sec=a2951c48-519e-4aac-a2c8-4e8e24c4010c&type=b_dir": {
+                    "url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR",
+                    "status": "done",
+                    "folder_name": "www_davenportwa_us_index_asp?sec=a2951c48-519e-4aac-a2c8-4e8e24c4010c&type=b_dir",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 3
+                },
+                "https://davenportwa.us/index.asp?sec=fa57c333-c715-40af-aee6-0a576c356b41&type=b_dir": {
+                    "url": "https://www.davenportwa.us/index.asp?SEC=FA57C333-C715-40AF-AEE6-0A576C356B41&Type=B_DIR",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_davenportwa_us_index_asp?sec=fa57c333-c715-40af-aee6-0a576c356b41&type=b_dir",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 4
+                },
+                "https://davenportwa.us/index.asp?sec=5e0b7169-455a-40a0-be1c-f3ae44d0360e&type=b_basic": {
+                    "url": "https://www.davenportwa.us/index.asp?SEC=5E0B7169-455A-40A0-BE1C-F3AE44D0360E&Type=B_BASIC",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_davenportwa_us_index_asp?sec=5e0b7169-455a-40a0-be1c-f3ae44d0360e&type=b_basic",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 5
+                },
+                "https://davenportwa.us/index.asp?sec=320c9480-e682-4734-8251-89dbf6f7d8d6&type=b_basic": {
+                    "url": "https://www.davenportwa.us/index.asp?SEC=320C9480-E682-4734-8251-89DBF6F7D8D6&Type=B_BASIC",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_davenportwa_us_index_asp?sec=320c9480-e682-4734-8251-89dbf6f7d8d6&type=b_basic",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 6
+                },
+                "https://davenportwa.us/index.asp?sec=a59c1cab-e3e1-4ffa-964f-101bbf7c490c&type=b_job": {
+                    "url": "https://www.davenportwa.us/index.asp?SEC=A59C1CAB-E3E1-4FFA-964F-101BBF7C490C&Type=B_JOB",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_davenportwa_us_index_asp?sec=a59c1cab-e3e1-4ffa-964f-101bbf7c490c&type=b_job",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 7
+                },
+                "https://davenportwa.us/index.asp?sec=4ead110c-47fc-4c60-a33d-58782c862699&type=b_basic": {
+                    "url": "https://www.davenportwa.us/index.asp?SEC=4EAD110C-47FC-4C60-A33D-58782C862699&Type=B_BASIC",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_davenportwa_us_index_asp?sec=4ead110c-47fc-4c60-a33d-58782c862699&type=b_basic",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 8
+                },
+                "https://davenportwa.us/index.asp?sec=00271e6d-59c9-4796-b6eb-a8888f63593b&type=b_basic": {
+                    "url": "https://www.davenportwa.us/index.asp?SEC=00271E6D-59C9-4796-B6EB-A8888F63593B&Type=B_BASIC",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_davenportwa_us_index_asp?sec=00271e6d-59c9-4796-b6eb-a8888f63593b&type=b_basic",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 10
+                },
+                "https://davenportwa.us/index.asp?sec=4c3def74-1b7a-4ede-80ae-e7e81edae96a&type=b_ev": {
+                    "url": "https://www.davenportwa.us/index.asp?SEC=4C3DEF74-1B7A-4EDE-80AE-E7E81EDAE96A&Type=B_EV",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://davenportwa.us/index.asp?sec=f30ec1f7-6f40-439d-bd21-90fae51316fb&type=b_basic": {
+                    "url": "https://www.davenportwa.us/index.asp?SEC=F30EC1F7-6F40-439D-BD21-90FAE51316FB&Type=B_BASIC",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://davenportwa.us/index.asp?sec=937170ca-214f-4360-90f8-dbc5dc5615d&type=b_list": {
+                    "url": "https://www.davenportwa.us/index.asp?SEC=937170CA-214F-4360-90F8-DBC5DC5615D&Type=B_LIST",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://davenportwa.us/index.asp?sec=d987083a-ed76-4164-878d-590ad857deeb&type=b_basic": {
+                    "url": "https://www.davenportwa.us/index.asp?SEC=D987083A-ED76-4164-878D-590AD857DEEB&Type=B_BASIC",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://davenportwa.us/index.asp?sec=6504a100-3c3a-4f0d-b775-4b86225f0843&type=gallery": {
+                    "url": "https://www.davenportwa.us/index.asp?SEC=6504A100-3C3A-4F0D-B775-4B86225F0843&Type=GALLERY",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://davenportwa.us/index.asp?sec=a5beb1d6-9674-484e-822d-6722f2041c20&type=b_basic": {
+                    "url": "https://www.davenportwa.us/index.asp?SEC=A5BEB1D6-9674-484E-822D-6722F2041C20&Type=B_BASIC",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://davenportwa.us/index.asp?sec=f02b4d66-b630-4111-bc5a-df46322ef90e&type=b_basic": {
+                    "url": "https://www.davenportwa.us/index.asp?SEC=F02B4D66-B630-4111-BC5A-DF46322EF90E&Type=B_BASIC",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://davenportwa.us/index.asp?sec=58d04dd7-6fa8-4824-9cc0-0035921ece49&type=b_basic": {
+                    "url": "https://www.davenportwa.us/index.asp?SEC=58D04DD7-6FA8-4824-9CC0-0035921ECE49&Type=B_BASIC",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://davenportwa.us/index.asp?sec=7c4b9207-4f04-47f0-97fc-da42a2de1b6e&type=b_loc": {
+                    "url": "https://www.davenportwa.us/index.asp?SEC=7C4B9207-4F04-47F0-97FC-DA42A2DE1B6E&Type=B_LOC",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_davenportwa_us_index_asp?sec=7c4b9207-4f04-47f0-97fc-da42a2de1b6e&type=b_loc",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 11
+                },
+                "https://davenportwa.us/index.asp?sec=694476bb-778b-4801-a80c-3577cd406c6d&type=b_basic": {
+                    "url": "https://www.davenportwa.us/index.asp?SEC=694476BB-778B-4801-A80C-3577CD406C6D&Type=B_BASIC",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://davenportwa.us/index.asp?sec=3ba7f318-114e-4b62-900b-f152fda41343&type=b_basic": {
+                    "url": "https://www.davenportwa.us/index.asp?SEC=3BA7F318-114E-4B62-900B-F152FDA41343&Type=B_BASIC",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://davenportwa.us/index.asp?sec=15dd69f0-fbd9-4e00-97e1-2d762fca8d51&type=b_basic": {
+                    "url": "https://www.davenportwa.us/index.asp?SEC=15DD69F0-FBD9-4E00-97E1-2D762FCA8D51&Type=B_BASIC",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://davenportwa.us/index.asp?sec=a2951c48-519e-4aac-a2c8-4e8e24c4010c&de=10e187b2-2880-4da3-9a55-cde959ee113c&type=b_dir": {
+                    "url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=10E187B2-2880-4DA3-9A55-CDE959EE113C&Type=B_DIR",
+                    "status": "done",
+                    "folder_name": "www_davenportwa_us_index_asp?sec=a2951c48-519e-4aac-a2c8-4e8e24c4010c&de=10e187b2-2880-4da3-9a55-cde959ee113c&type=b_dir",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 9
+                },
+                "https://davenportwa.us/index.asp?sec=a2951c48-519e-4aac-a2c8-4e8e24c4010c&de=650c0fdf-6762-4b89-90b4-347c4c3127cd&type=b_dir": {
+                    "url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=650C0FDF-6762-4B89-90B4-347C4C3127CD&Type=B_DIR",
+                    "status": "done",
+                    "folder_name": "www_davenportwa_us_index_asp?sec=a2951c48-519e-4aac-a2c8-4e8e24c4010c&de=650c0fdf-6762-4b89-90b4-347c4c3127cd&type=b_dir",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 15
+                },
+                "https://davenportwa.us/index.asp?sec=a2951c48-519e-4aac-a2c8-4e8e24c4010c&de=4eeb3b40-ba46-425f-b0b7-63b0fc35fe16&type=b_dir": {
+                    "url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=4EEB3B40-BA46-425F-B0B7-63B0FC35FE16&Type=B_DIR",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_davenportwa_us_index_asp?sec=a2951c48-519e-4aac-a2c8-4e8e24c4010c&de=4eeb3b40-ba46-425f-b0b7-63b0fc35fe16&type=b_dir",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 16
+                },
+                "https://davenportwa.us/index.asp?sec=a2951c48-519e-4aac-a2c8-4e8e24c4010c&de=7405f810-4d6a-46ae-bee7-4a94fc2440b5&type=b_dir": {
+                    "url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=7405F810-4D6A-46AE-BEE7-4A94FC2440B5&Type=B_DIR",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_davenportwa_us_index_asp?sec=a2951c48-519e-4aac-a2c8-4e8e24c4010c&de=7405f810-4d6a-46ae-bee7-4a94fc2440b5&type=b_dir",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 17
+                },
+                "https://davenportwa.us/index.asp?sec=a2951c48-519e-4aac-a2c8-4e8e24c4010c&de=77b4ada7-1131-44cf-b4f9-34435643538c&type=b_dir": {
+                    "url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=77B4ADA7-1131-44CF-B4F9-34435643538C&Type=B_DIR",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_davenportwa_us_index_asp?sec=a2951c48-519e-4aac-a2c8-4e8e24c4010c&de=77b4ada7-1131-44cf-b4f9-34435643538c&type=b_dir",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 18
+                },
+                "https://davenportwa.us/index.asp?sec=a2951c48-519e-4aac-a2c8-4e8e24c4010c&de=26addbce-23ea-475a-a86a-1b64741feb4b&type=b_dir": {
+                    "url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=26ADDBCE-23EA-475A-A86A-1B64741FEB4B&Type=B_DIR",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_davenportwa_us_index_asp?sec=a2951c48-519e-4aac-a2c8-4e8e24c4010c&de=26addbce-23ea-475a-a86a-1b64741feb4b&type=b_dir",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 19
+                },
+                "https://davenportwa.us/index.asp?sec=a2951c48-519e-4aac-a2c8-4e8e24c4010c&de=4af1b45b-81cb-4eee-8dc7-3c6bdb98eaad&type=b_dir": {
+                    "url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=4AF1B45B-81CB-4EEE-8DC7-3C6BDB98EAAD&Type=B_DIR",
+                    "status": "done",
+                    "folder_name": "www_davenportwa_us_index_asp?sec=a2951c48-519e-4aac-a2c8-4e8e24c4010c&de=4af1b45b-81cb-4eee-8dc7-3c6bdb98eaad&type=b_dir",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 20
+                },
+                "https://davenportwa.us/index.asp?sec=a2951c48-519e-4aac-a2c8-4e8e24c4010c&de=f8d91985-c8c3-4aa0-a336-f2ce43d6770b&type=b_dir": {
+                    "url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=F8D91985-C8C3-4AA0-A336-F2CE43D6770B&Type=B_DIR",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 5,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://davenportwa.us/index.asp?sec=2faa093e-ec07-4af4-9e6e-537ad4a3b16f&type=b_basic": {
+                    "url": "https://www.davenportwa.us/index.asp?SEC=2FAA093E-EC07-4AF4-9E6E-537AD4A3B16F&Type=B_BASIC",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_davenportwa_us_index_asp?sec=2faa093e-ec07-4af4-9e6e-537ad4a3b16f&type=b_basic",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 12
+                },
+                "https://davenportwa.us/index.asp?sec=72de437c-dcd3-45fe-bcd9-1c37b1e522f1&type=b_pr": {
+                    "url": "https://www.davenportwa.us/index.asp?SEC=72DE437C-DCD3-45FE-BCD9-1C37B1E522F1&Type=B_PR",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_davenportwa_us_index_asp?sec=72de437c-dcd3-45fe-bcd9-1c37b1e522f1&type=b_pr",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 13
+                },
+                "https://davenportwa.us/index.asp?sec=c40ed936-f0a5-4c7b-8da4-b6996ca0245f&type=quickform": {
+                    "url": "https://www.davenportwa.us/index.asp?SEC=C40ED936-F0A5-4C7B-8DA4-B6996CA0245F&Type=QUICKFORM",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_davenportwa_us_index_asp?sec=c40ed936-f0a5-4c7b-8da4-b6996ca0245f&type=quickform",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 14
+                },
+                "https://davenportwa.us/index.asp?sec=76ee584d-f108-4b85-b0c9-f363f0c0a802&type=b_basic": {
+                    "url": "https://www.davenportwa.us/index.asp?SEC=76EE584D-F108-4B85-B0C9-F363F0C0A802&Type=B_BASIC",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://davenportwa.us/index.asp?sec=937170ca-214f-4360-90f8-dbc5dc561b5d&type=b_list": {
+                    "url": "https://www.davenportwa.us/index.asp?SEC=937170CA-214F-4360-90F8-DBC5DC561B5D&Type=B_LIST",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://davenportwa.us/index.asp?sec=13d2f483-532f-4112-a9db-75d4b32f90a1&type=b_basic": {
+                    "url": "https://www.davenportwa.us/index.asp?SEC=13D2F483-532F-4112-A9DB-75D4B32F90A1&Type=B_BASIC",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://davenportwa.us/index.asp?sec=3ffaf66b-62ef-4c5f-acc6-650f5d2f48c2&type=b_list": {
+                    "url": "https://www.davenportwa.us/index.asp?SEC=3FFAF66B-62EF-4C5F-ACC6-650F5D2F48C2&Type=B_LIST",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://davenportwa.us/index.asp?sec=02bc9134-0e0a-40ff-a51f-6a3c7a0280b6&type=b_basic": {
+                    "url": "https://www.davenportwa.us/index.asp?SEC=02BC9134-0E0A-40FF-A51F-6A3C7A0280B6&Type=B_BASIC",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                }
+            },
+            "queue": [
+                "https://davenportwa.us/index.asp?sec=a2951c48-519e-4aac-a2c8-4e8e24c4010c&de=f8d91985-c8c3-4aa0-a336-f2ce43d6770b&type=b_dir",
+                "https://davenportwa.us/index.asp?sec=13d2f483-532f-4112-a9db-75d4b32f90a1&type=b_basic",
+                "https://davenportwa.us/index.asp?sec=3ffaf66b-62ef-4c5f-acc6-650f5d2f48c2&type=b_list",
+                "https://davenportwa.us/index.asp?sec=02bc9134-0e0a-40ff-a51f-6a3c7a0280b6&type=b_basic",
+                "https://davenportwa.us/index.asp?sec=4c3def74-1b7a-4ede-80ae-e7e81edae96a&type=b_ev",
+                "https://davenportwa.us/index.asp?sec=f30ec1f7-6f40-439d-bd21-90fae51316fb&type=b_basic",
+                "https://davenportwa.us/index.asp?sec=937170ca-214f-4360-90f8-dbc5dc5615d&type=b_list",
+                "https://davenportwa.us/index.asp?sec=d987083a-ed76-4164-878d-590ad857deeb&type=b_basic",
+                "https://davenportwa.us/index.asp?sec=6504a100-3c3a-4f0d-b775-4b86225f0843&type=gallery",
+                "https://davenportwa.us/index.asp?sec=a5beb1d6-9674-484e-822d-6722f2041c20&type=b_basic",
+                "https://davenportwa.us/index.asp?sec=f02b4d66-b630-4111-bc5a-df46322ef90e&type=b_basic",
+                "https://davenportwa.us/index.asp?sec=58d04dd7-6fa8-4824-9cc0-0035921ece49&type=b_basic",
+                "https://davenportwa.us/index.asp?sec=694476bb-778b-4801-a80c-3577cd406c6d&type=b_basic",
+                "https://davenportwa.us/index.asp?sec=3ba7f318-114e-4b62-900b-f152fda41343&type=b_basic",
+                "https://davenportwa.us/index.asp?sec=15dd69f0-fbd9-4e00-97e1-2d762fca8d51&type=b_basic",
+                "https://davenportwa.us/index.asp?sec=76ee584d-f108-4b85-b0c9-f363f0c0a802&type=b_basic",
+                "https://davenportwa.us/index.asp?sec=937170ca-214f-4360-90f8-dbc5dc561b5d&type=b_list"
+            ]
+        },
+        "research_municipality_step": {
+            "expected_count": 1,
+            "target_designations": [],
+            "known_roles": [
+                "Mayor"
+            ],
+            "identities": {
+                "Jon Chapman": []
+            },
+            "source_urls": [],
+            "notes": null,
+            "origin_source": "google_gemini"
+        },
+        "preprocess_page_content_step": {
+            "elapsed_times": [
+                3,
+                2,
+                2,
+                2,
+                2,
+                0,
+                39,
+                1,
+                4,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "total_elapsed_time_seconds": 0,
+            "average_elapsed_time_seconds": 0
+        },
+        "process_page_content_step": {
+            "raw_records_by_llm": {
+                "open_router": {
+                    "Brad Sweet": [
+                        {
+                            "name": "Brad Sweet",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "509-725-4352",
+                            "email": null,
+                            "url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=10E187B2-2880-4DA3-9A55-CDE959EE113C&Type=B_DIR",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR"
+                        },
+                        {
+                            "name": "Brad Sweet",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=10E187B2-2880-4DA3-9A55-CDE959EE113C&Type=B_DIR"
+                        }
+                    ],
+                    "Mike Strite": [
+                        {
+                            "name": "Mike Strite",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 1"
+                            ],
+                            "phone": "509-725-4352",
+                            "email": null,
+                            "url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=650C0FDF-6762-4B89-90B4-347C4C3127CD&Type=B_DIR",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR"
+                        },
+                        {
+                            "name": "Mike Strite",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 1"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=650C0FDF-6762-4B89-90B4-347C4C3127CD&Type=B_DIR"
+                        }
+                    ],
+                    "Michael Wilkinson": [
+                        {
+                            "name": "Michael Wilkinson",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 2"
+                            ],
+                            "phone": "509-725-4352",
+                            "email": null,
+                            "url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=4EEB3B40-BA46-425F-B0B7-63B0FC35FE16&Type=B_DIR",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR"
+                        }
+                    ],
+                    "Lance Strite": [
+                        {
+                            "name": "Lance Strite",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 3"
+                            ],
+                            "phone": "509-725-4352",
+                            "email": null,
+                            "url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=7405F810-4D6A-46AE-BEE7-4A94FC2440B5&Type=B_DIR",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR"
+                        }
+                    ],
+                    "Chris Stein": [
+                        {
+                            "name": "Chris Stein",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 4"
+                            ],
+                            "phone": "509-725-4352",
+                            "email": null,
+                            "url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=77B4ADA7-1131-44CF-B4F9-34435643538C&Type=B_DIR",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR"
+                        }
+                    ],
+                    "Heath Becker": [
+                        {
+                            "name": "Heath Becker",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 5"
+                            ],
+                            "phone": "509-725-4352",
+                            "email": null,
+                            "url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=26ADDBCE-23EA-475A-A86A-1B64741FEB4B&Type=B_DIR",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR"
+                        }
+                    ],
+                    "Cory Hollis": [
+                        {
+                            "name": "Cory Hollis",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 6"
+                            ],
+                            "phone": "509-725-4352",
+                            "email": null,
+                            "url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=4AF1B45B-81CB-4EEE-8DC7-3C6BDB98EAAD&Type=B_DIR",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR"
+                        },
+                        {
+                            "name": "Cory Hollis",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 6"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=4AF1B45B-81CB-4EEE-8DC7-3C6BDB98EAAD&Type=B_DIR"
+                        }
+                    ],
+                    "Patrick Katz": [
+                        {
+                            "name": "Patrick Katz",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "At Large"
+                            ],
+                            "phone": "509-725-4352",
+                            "email": null,
+                            "url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=F8D91985-C8C3-4AA0-A336-F2CE43D6770B&Type=B_DIR",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR"
+                        }
+                    ]
+                }
+            },
+            "records_by_llm": {
+                "open_router": {
+                    "Brad Sweet": [
+                        {
+                            "name": "Brad Sweet",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "(509) 725-4352",
+                            "email": null,
+                            "url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=10E187B2-2880-4DA3-9A55-CDE959EE113C&Type=B_DIR",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR"
+                        },
+                        {
+                            "name": "Brad Sweet",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=10E187B2-2880-4DA3-9A55-CDE959EE113C&Type=B_DIR"
+                        }
+                    ],
+                    "Mike Strite": [
+                        {
+                            "name": "Mike Strite",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 1"
+                            ],
+                            "phone": "(509) 725-4352",
+                            "email": null,
+                            "url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=650C0FDF-6762-4B89-90B4-347C4C3127CD&Type=B_DIR",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR"
+                        },
+                        {
+                            "name": "Mike Strite",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 1"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=650C0FDF-6762-4B89-90B4-347C4C3127CD&Type=B_DIR"
+                        }
+                    ],
+                    "Michael Wilkinson": [
+                        {
+                            "name": "Michael Wilkinson",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 2"
+                            ],
+                            "phone": "(509) 725-4352",
+                            "email": null,
+                            "url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=4EEB3B40-BA46-425F-B0B7-63B0FC35FE16&Type=B_DIR",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR"
+                        }
+                    ],
+                    "Lance Strite": [
+                        {
+                            "name": "Lance Strite",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 3"
+                            ],
+                            "phone": "(509) 725-4352",
+                            "email": null,
+                            "url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=7405F810-4D6A-46AE-BEE7-4A94FC2440B5&Type=B_DIR",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR"
+                        }
+                    ],
+                    "Chris Stein": [
+                        {
+                            "name": "Chris Stein",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 4"
+                            ],
+                            "phone": "(509) 725-4352",
+                            "email": null,
+                            "url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=77B4ADA7-1131-44CF-B4F9-34435643538C&Type=B_DIR",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR"
+                        }
+                    ],
+                    "Heath Becker": [
+                        {
+                            "name": "Heath Becker",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 5"
+                            ],
+                            "phone": "(509) 725-4352",
+                            "email": null,
+                            "url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=26ADDBCE-23EA-475A-A86A-1B64741FEB4B&Type=B_DIR",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR"
+                        }
+                    ],
+                    "Cory Hollis": [
+                        {
+                            "name": "Cory Hollis",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 6"
+                            ],
+                            "phone": "(509) 725-4352",
+                            "email": null,
+                            "url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=4AF1B45B-81CB-4EEE-8DC7-3C6BDB98EAAD&Type=B_DIR",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR"
+                        },
+                        {
+                            "name": "Cory Hollis",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 6"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=4AF1B45B-81CB-4EEE-8DC7-3C6BDB98EAAD&Type=B_DIR"
+                        }
+                    ],
+                    "Patrick Katz": [
+                        {
+                            "name": "Patrick Katz",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "At-Large"
+                            ],
+                            "phone": "(509) 725-4352",
+                            "email": null,
+                            "url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=F8D91985-C8C3-4AA0-A336-F2CE43D6770B&Type=B_DIR",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR"
+                        }
+                    ]
+                }
+            },
+            "progress": {
+                "required_data": 5,
+                "current_data": 0,
+                "has_target_role": true,
+                "has_target_designations": true
+            }
+        },
+        "merge_records_within_llm_step": {
+            "people_by_llm": {
+                "open_router": [
+                    {
+                        "name": "Brad Sweet",
+                        "other_names": [],
+                        "roles": [
+                            "Mayor"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(509) 725-4352"
+                        ],
+                        "emails": [],
+                        "urls": [
+                            "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=10E187B2-2880-4DA3-9A55-CDE959EE113C&Type=B_DIR"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:davenport/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Mike Strite",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 1"
+                        ],
+                        "phones": [
+                            "(509) 725-4352"
+                        ],
+                        "emails": [],
+                        "urls": [
+                            "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=650C0FDF-6762-4B89-90B4-347C4C3127CD&Type=B_DIR"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:davenport/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Michael Wilkinson",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 2"
+                        ],
+                        "phones": [
+                            "(509) 725-4352"
+                        ],
+                        "emails": [],
+                        "urls": [
+                            "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=4EEB3B40-BA46-425F-B0B7-63B0FC35FE16&Type=B_DIR"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:davenport/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Lance Strite",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 3"
+                        ],
+                        "phones": [
+                            "(509) 725-4352"
+                        ],
+                        "emails": [],
+                        "urls": [
+                            "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=7405F810-4D6A-46AE-BEE7-4A94FC2440B5&Type=B_DIR"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:davenport/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Chris Stein",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 4"
+                        ],
+                        "phones": [
+                            "(509) 725-4352"
+                        ],
+                        "emails": [],
+                        "urls": [
+                            "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=77B4ADA7-1131-44CF-B4F9-34435643538C&Type=B_DIR"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:davenport/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Heath Becker",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 5"
+                        ],
+                        "phones": [
+                            "(509) 725-4352"
+                        ],
+                        "emails": [],
+                        "urls": [
+                            "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=26ADDBCE-23EA-475A-A86A-1B64741FEB4B&Type=B_DIR"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:davenport/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Cory Hollis",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 6"
+                        ],
+                        "phones": [
+                            "(509) 725-4352"
+                        ],
+                        "emails": [],
+                        "urls": [
+                            "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=4AF1B45B-81CB-4EEE-8DC7-3C6BDB98EAAD&Type=B_DIR"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:davenport/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Patrick Katz",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "At-Large"
+                        ],
+                        "phones": [
+                            "(509) 725-4352"
+                        ],
+                        "emails": [],
+                        "urls": [
+                            "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=F8D91985-C8C3-4AA0-A336-F2CE43D6770B&Type=B_DIR"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:davenport/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR"
+                        ],
+                        "updated_at": ""
+                    }
+                ]
+            },
+            "unrecognized_roles": [],
+            "excluded_people": []
+        },
+        "merge_records_across_llms_step": {
+            "people": [
+                {
+                    "name": "Brad Sweet",
+                    "other_names": [],
+                    "roles": [
+                        "mayor"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(509) 725-4352"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=10E187B2-2880-4DA3-9A55-CDE959EE113C&Type=B_DIR"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:davenport/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR"
+                    ],
+                    "updated_at": "2026-05-25T19:17:09+00:00"
+                },
+                {
+                    "name": "Mike Strite",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 1"
+                    ],
+                    "phones": [
+                        "(509) 725-4352"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=650C0FDF-6762-4B89-90B4-347C4C3127CD&Type=B_DIR"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:davenport/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR"
+                    ],
+                    "updated_at": "2026-05-25T19:17:09+00:00"
+                },
+                {
+                    "name": "Michael Wilkinson",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 2"
+                    ],
+                    "phones": [
+                        "(509) 725-4352"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=4EEB3B40-BA46-425F-B0B7-63B0FC35FE16&Type=B_DIR"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:davenport/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR"
+                    ],
+                    "updated_at": "2026-05-25T19:17:09+00:00"
+                },
+                {
+                    "name": "Lance Strite",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 3"
+                    ],
+                    "phones": [
+                        "(509) 725-4352"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=7405F810-4D6A-46AE-BEE7-4A94FC2440B5&Type=B_DIR"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:davenport/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR"
+                    ],
+                    "updated_at": "2026-05-25T19:17:09+00:00"
+                },
+                {
+                    "name": "Chris Stein",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 4"
+                    ],
+                    "phones": [
+                        "(509) 725-4352"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=77B4ADA7-1131-44CF-B4F9-34435643538C&Type=B_DIR"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:davenport/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR"
+                    ],
+                    "updated_at": "2026-05-25T19:17:09+00:00"
+                },
+                {
+                    "name": "Heath Becker",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 5"
+                    ],
+                    "phones": [
+                        "(509) 725-4352"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=26ADDBCE-23EA-475A-A86A-1B64741FEB4B&Type=B_DIR"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:davenport/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR"
+                    ],
+                    "updated_at": "2026-05-25T19:17:09+00:00"
+                },
+                {
+                    "name": "Cory Hollis",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 6"
+                    ],
+                    "phones": [
+                        "(509) 725-4352"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=4AF1B45B-81CB-4EEE-8DC7-3C6BDB98EAAD&Type=B_DIR"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:davenport/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR"
+                    ],
+                    "updated_at": "2026-05-25T19:17:09+00:00"
+                },
+                {
+                    "name": "Patrick Katz",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "at-large"
+                    ],
+                    "phones": [
+                        "(509) 725-4352"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=F8D91985-C8C3-4AA0-A336-F2CE43D6770B&Type=B_DIR"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:davenport/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR"
+                    ],
+                    "updated_at": "2026-05-25T19:17:09+00:00"
+                }
+            ]
+        },
+        "format_output_step": {
+            "officials": [
+                {
+                    "name": "Brad Sweet",
+                    "other_names": [],
+                    "phones": [
+                        "(509) 725-4352"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=10E187B2-2880-4DA3-9A55-CDE959EE113C&Type=B_DIR"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Mayor",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:davenport"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:davenport/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR"
+                    ],
+                    "updated_at": "2026-05-25T19:17:09+00:00",
+                    "id": "1decd498-da44-4399-a5d8-39b332abe0df"
+                },
+                {
+                    "name": "Mike Strite",
+                    "other_names": [],
+                    "phones": [
+                        "(509) 725-4352"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=650C0FDF-6762-4B89-90B4-347C4C3127CD&Type=B_DIR"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Position 1",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:davenport"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:davenport/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR"
+                    ],
+                    "updated_at": "2026-05-25T19:17:09+00:00",
+                    "id": "59defc45-6c9e-4bf3-9a22-2ec45d18b2a1"
+                },
+                {
+                    "name": "Michael Wilkinson",
+                    "other_names": [],
+                    "phones": [
+                        "(509) 725-4352"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=4EEB3B40-BA46-425F-B0B7-63B0FC35FE16&Type=B_DIR"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Position 2",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:davenport"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:davenport/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR"
+                    ],
+                    "updated_at": "2026-05-25T19:17:09+00:00",
+                    "id": "48db44ba-15fc-4c4a-aac7-79e7c9f96999"
+                },
+                {
+                    "name": "Lance Strite",
+                    "other_names": [],
+                    "phones": [
+                        "(509) 725-4352"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=7405F810-4D6A-46AE-BEE7-4A94FC2440B5&Type=B_DIR"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Position 3",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:davenport"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:davenport/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR"
+                    ],
+                    "updated_at": "2026-05-25T19:17:09+00:00",
+                    "id": "f3811e4a-3d23-4757-8946-758b90bdad90"
+                },
+                {
+                    "name": "Chris Stein",
+                    "other_names": [],
+                    "phones": [
+                        "(509) 725-4352"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=77B4ADA7-1131-44CF-B4F9-34435643538C&Type=B_DIR"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Position 4",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:davenport"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:davenport/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR"
+                    ],
+                    "updated_at": "2026-05-25T19:17:09+00:00",
+                    "id": "160b6838-8a45-43fe-9f34-6814a1c765a7"
+                },
+                {
+                    "name": "Heath Becker",
+                    "other_names": [],
+                    "phones": [
+                        "(509) 725-4352"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=26ADDBCE-23EA-475A-A86A-1B64741FEB4B&Type=B_DIR"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Position 5",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:davenport"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:davenport/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR"
+                    ],
+                    "updated_at": "2026-05-25T19:17:09+00:00",
+                    "id": "07958950-3282-4950-9a3b-6a802d87967d"
+                },
+                {
+                    "name": "Cory Hollis",
+                    "other_names": [],
+                    "phones": [
+                        "(509) 725-4352"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=4AF1B45B-81CB-4EEE-8DC7-3C6BDB98EAAD&Type=B_DIR"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Position 6",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:davenport"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:davenport/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR"
+                    ],
+                    "updated_at": "2026-05-25T19:17:09+00:00",
+                    "id": "1f5a035c-15f5-4cda-aa15-fe65ed5591d0"
+                },
+                {
+                    "name": "Patrick Katz",
+                    "other_names": [],
+                    "phones": [
+                        "(509) 725-4352"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=F8D91985-C8C3-4AA0-A336-F2CE43D6770B&Type=B_DIR"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - At-Large",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:davenport"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:davenport/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR"
+                    ],
+                    "updated_at": "2026-05-25T19:17:09+00:00",
+                    "id": "1e133c92-ac14-4459-b705-d4d37d985a39"
+                }
+            ]
+        },
+        "review_output_step": {
+            "issues": [
+                "Extra official: Brad Sweet",
+                "Extra official: Chris Stein",
+                "Extra official: Cory Hollis",
+                "Extra official: Heath Becker",
+                "Extra official: Lance Strite",
+                "Extra official: Michael Wilkinson",
+                "Extra official: Mike Strite",
+                "Extra official: Patrick Katz",
+                "Missing official: Jon Chapman"
+            ],
+            "people_by_source": [
+                {
+                    "name": "Brad Sweet",
+                    "in_research": false,
+                    "in_data": true
+                },
+                {
+                    "name": "Chris Stein",
+                    "in_research": false,
+                    "in_data": true
+                },
+                {
+                    "name": "Cory Hollis",
+                    "in_research": false,
+                    "in_data": true
+                },
+                {
+                    "name": "Heath Becker",
+                    "in_research": false,
+                    "in_data": true
+                },
+                {
+                    "name": "Jon Chapman",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Lance Strite",
+                    "in_research": false,
+                    "in_data": true
+                },
+                {
+                    "name": "Michael Wilkinson",
+                    "in_research": false,
+                    "in_data": true
+                },
+                {
+                    "name": "Mike Strite",
+                    "in_research": false,
+                    "in_data": true
+                },
+                {
+                    "name": "Patrick Katz",
+                    "in_research": false,
+                    "in_data": true
+                }
+            ],
+            "origin_source": "google_gemini"
+        },
+        "find_jurisdiction_url_step": null,
+        "send_success_step": null,
+        "send_error_step": null,
+        "issues": [],
+        "error_step": null,
+        "error_detail": null
+    },
+    "current_state": "SEND_SUCCESS",
+    "request_id": "50619001-95f1-4fac-8d1e-1fddbd852b9b",
+    "created_at": 1779736163.5781894,
+    "updated_at": 1779736629.8588588,
+    "progress": 27
+}

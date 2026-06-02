@@ -1,0 +1,1910 @@
+{
+    "data": {
+        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:omak/government",
+        "config": {
+            "url": "http://www.omakcity.com",
+            "name": "Omak city",
+            "source_urls": null
+        },
+        "frontier": {
+            "links": {
+                "https://omakcity.com": {
+                    "url": "http://www.omakcity.com",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_omakcity_com",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 1
+                },
+                "https://omakcity.com/citycouncil": {
+                    "url": "https://www.omakcity.com/citycouncil",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://omakcity.com/directory-listing/michael-foth": {
+                    "url": "https://www.omakcity.com/directory-listing/michael-foth",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://omakcity.com/directory-listing/michelle-gaines": {
+                    "url": "https://www.omakcity.com/directory-listing/michelle-gaines",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://omakcity.com/directory-listing/nattalie-cariker": {
+                    "url": "https://www.omakcity.com/directory-listing/nattalie-cariker",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://omakcity.com/directory-listing/dave-womack": {
+                    "url": "https://www.omakcity.com/directory-listing/dave-womack",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://omakcity.com/directory-listing/barry-freel": {
+                    "url": "https://www.omakcity.com/directory-listing/barry-freel",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://omakcity.com/directory-listing/steve-clark": {
+                    "url": "https://www.omakcity.com/directory-listing/steve-clark",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://omakcity.com/directory-listing/maria-lassila": {
+                    "url": "https://www.omakcity.com/directory-listing/maria-lassila",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://omakcity.com/1383/community": {
+                    "url": "https://www.omakcity.com/1383/Community",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 15,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://omakcity.com/1382/departments": {
+                    "url": "https://www.omakcity.com/1382/Departments",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_omakcity_com_1382_departments",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 3
+                },
+                "https://omakcity.com/1381/resources": {
+                    "url": "https://www.omakcity.com/1381/Resources",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 15,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://omakcity.com/1380/team-one": {
+                    "url": "https://www.omakcity.com/1380/Team-ONE",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 15,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://omakcity.com/1429/omak-municipal-code": {
+                    "url": "https://www.omakcity.com/1429/Omak-Municipal-Code",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 17,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://omakcity.com/1417/mayor": {
+                    "url": "https://www.omakcity.com/1417/Mayor",
+                    "status": "done",
+                    "folder_name": "www_omakcity_com_1417_mayor",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 2
+                },
+                "https://omakcity.com/1418/commissions-committees-and-boards": {
+                    "url": "https://www.omakcity.com/1418/Commissions-Committees-and-Boards",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_omakcity_com_1418_commissions-committees-and-boards",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 5
+                },
+                "https://omakcity.com/1400/city-council": {
+                    "url": "https://www.omakcity.com/1400/City-Council",
+                    "status": "done",
+                    "folder_name": "www_omakcity_com_1400_city-council",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 4
+                },
+                "https://omakcity.com/1403/boards-and-commissions": {
+                    "url": "https://www.omakcity.com/1403/Boards-and-Commissions",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_omakcity_com_1403_boards-and-commissions",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 6
+                },
+                "https://omakcity.com/1425/civil-service-commission": {
+                    "url": "https://www.omakcity.com/1425/Civil-Service-Commission",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_omakcity_com_1425_civil-service-commission",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 9
+                },
+                "https://omakcity.com/1424/hotel-motel-committee": {
+                    "url": "https://www.omakcity.com/1424/Hotel-Motel-Committee",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 6,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://omakcity.com/1423/library-board": {
+                    "url": "https://www.omakcity.com/1423/Library-Board",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_omakcity_com_1423_library-board",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 11
+                },
+                "https://omakcity.com/1422/park-board": {
+                    "url": "https://www.omakcity.com/1422/Park-Board",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_omakcity_com_1422_park-board",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 12
+                },
+                "https://omakcity.com/1421/planning-commission": {
+                    "url": "https://www.omakcity.com/1421/Planning-Commission",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_omakcity_com_1421_planning-commission",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 13
+                },
+                "https://omakcity.com/1420/tree-board": {
+                    "url": "https://www.omakcity.com/1420/Tree-Board",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_omakcity_com_1420_tree-board",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 14
+                },
+                "https://omakcity.com/1419/volunteer-firefighter-board": {
+                    "url": "https://www.omakcity.com/1419/Volunteer-Firefighter-Board",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_omakcity_com_1419_volunteer-firefighter-board",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 15
+                },
+                "https://omakcity.com/1426/hotelmotel-funding": {
+                    "url": "https://www.omakcity.com/1426/HotelMotel-Funding",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://omakcity.com/1479/civil-service-commission-pdf": {
+                    "url": "https://www.omakcity.com/1479/Civil-Service-Commission-PDF",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_omakcity_com_1479_civil-service-commission-pdf",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 22
+                },
+                "https://omakcity.com/agendacenter": {
+                    "url": "https://www.omakcity.com/agendacenter",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 18,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://omakcity.com/formcenter": {
+                    "url": "https://www.omakcity.com/formcenter",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 15,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://omakcity.com/1405/administration-and-finance": {
+                    "url": "https://www.omakcity.com/1405/Administration-and-Finance",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://omakcity.com/directory.aspx": {
+                    "url": "https://www.omakcity.com/Directory.aspx",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_omakcity_com_directory_aspx",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 7
+                },
+                "https://omakcity.com/directory.aspx?did=12": {
+                    "url": "https://www.omakcity.com/directory.aspx?did=12",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_omakcity_com_directory_aspx?did=12",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 8
+                },
+                "https://omakcity.com/directory.aspx?did=23": {
+                    "url": "https://www.omakcity.com/Directory.aspx?did=23",
+                    "status": "done",
+                    "folder_name": "www_omakcity_com_directory_aspx?did=23",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 21
+                },
+                "https://omakcity.com/directory.aspx?did=19": {
+                    "url": "https://www.omakcity.com/Directory.aspx?did=19",
+                    "status": "done",
+                    "folder_name": "www_omakcity_com_directory_aspx?did=19",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 23
+                },
+                "https://omakcity.com/directory.aspx?did=14": {
+                    "url": "https://www.omakcity.com/Directory.aspx?did=14",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_omakcity_com_directory_aspx?did=14",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 10
+                },
+                "https://omakcity.com/directory.aspx?did=13": {
+                    "url": "https://www.omakcity.com/Directory.aspx?did=13",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_omakcity_com_directory_aspx?did=13",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 16
+                },
+                "https://omakcity.com/directory.aspx?did=15": {
+                    "url": "https://www.omakcity.com/Directory.aspx?did=15",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_omakcity_com_directory_aspx?did=15",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 17
+                },
+                "https://omakcity.com/directory.aspx?did=16": {
+                    "url": "https://www.omakcity.com/Directory.aspx?did=16",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_omakcity_com_directory_aspx?did=16",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 18
+                },
+                "https://omakcity.com/directory.aspx?did=17": {
+                    "url": "https://www.omakcity.com/Directory.aspx?did=17",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_omakcity_com_directory_aspx?did=17",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 19
+                },
+                "https://omakcity.com/directory.aspx?did=18": {
+                    "url": "https://www.omakcity.com/Directory.aspx?did=18",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_omakcity_com_directory_aspx?did=18",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 20
+                },
+                "https://omakcity.com/directory.aspx?eid=10": {
+                    "url": "https://www.omakcity.com/directory.aspx?eid=10",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://omakcity.com/directory.aspx?eid=24": {
+                    "url": "https://www.omakcity.com/directory.aspx?eid=24",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://omakcity.com/search/results": {
+                    "url": "https://www.omakcity.com/Search/Results",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                }
+            },
+            "queue": [
+                "https://omakcity.com/directory.aspx?eid=10",
+                "https://omakcity.com/directory.aspx?eid=24",
+                "https://omakcity.com/directory-listing/michael-foth",
+                "https://omakcity.com/directory-listing/michelle-gaines",
+                "https://omakcity.com/directory-listing/nattalie-cariker",
+                "https://omakcity.com/directory-listing/dave-womack",
+                "https://omakcity.com/directory-listing/barry-freel",
+                "https://omakcity.com/directory-listing/steve-clark",
+                "https://omakcity.com/directory-listing/maria-lassila",
+                "https://omakcity.com/citycouncil",
+                "https://omakcity.com/agendacenter",
+                "https://omakcity.com/1429/omak-municipal-code",
+                "https://omakcity.com/formcenter",
+                "https://omakcity.com/1383/community",
+                "https://omakcity.com/1381/resources",
+                "https://omakcity.com/1380/team-one",
+                "https://omakcity.com/1424/hotel-motel-committee",
+                "https://omakcity.com/1426/hotelmotel-funding",
+                "https://omakcity.com/1405/administration-and-finance",
+                "https://omakcity.com/search/results"
+            ]
+        },
+        "research_municipality_step": {
+            "expected_count": 8,
+            "target_designations": [],
+            "known_roles": [
+                "Mayor",
+                "Mayor Pro Tempore",
+                "Council Member"
+            ],
+            "identities": {
+                "Cindy Gagné": [],
+                "Michael Foth": [],
+                "Michelle Gaines": [],
+                "Nattalie Cariker": [],
+                "Dave Womack": [],
+                "Barry Freel": [],
+                "Steve Clark": [],
+                "Maria Lassila": []
+            },
+            "source_urls": [
+                "https://www.omakcity.com/citycouncil",
+                "https://www.omakcity.com/directory-listing/michael-foth",
+                "https://www.omakcity.com/directory-listing/michelle-gaines",
+                "https://www.omakcity.com/directory-listing/nattalie-cariker",
+                "https://www.omakcity.com/directory-listing/dave-womack",
+                "https://www.omakcity.com/directory-listing/barry-freel",
+                "https://www.omakcity.com/directory-listing/steve-clark",
+                "https://www.omakcity.com/directory-listing/maria-lassila"
+            ],
+            "notes": null,
+            "origin_source": "existing"
+        },
+        "preprocess_page_content_step": {
+            "elapsed_times": [
+                3,
+                2,
+                2,
+                2,
+                2,
+                0,
+                39,
+                1,
+                4,
+                0,
+                1,
+                6,
+                1,
+                24,
+                0,
+                0,
+                1,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0
+            ],
+            "total_elapsed_time_seconds": 3,
+            "average_elapsed_time_seconds": 0
+        },
+        "process_page_content_step": {
+            "raw_records_by_llm": {
+                "open_router": {
+                    "Cindy Gagné": [
+                        {
+                            "name": "Cindy Gagne",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.omakcity.com/1417/Mayor",
+                            "start_date": "2009-05",
+                            "end_date": null,
+                            "image": "local://675f3355a29d.png",
+                            "source_url": "https://www.omakcity.com/1417/Mayor"
+                        }
+                    ],
+                    "Michael Foth": [
+                        {
+                            "name": "Michael Foth",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 1"
+                            ],
+                            "phone": "509-826-1170",
+                            "email": "mikef@omakcity.com",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2029-12-31",
+                            "image": "local://405a2297",
+                            "source_url": "https://www.omakcity.com/1400/City-Council"
+                        }
+                    ],
+                    "Michelle Gaines": [
+                        {
+                            "name": "Michelle Gaines",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 2"
+                            ],
+                            "phone": "509-826-1170",
+                            "email": "michelleg@omakcity.com",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2029-12-31",
+                            "image": "local://michele_gaines",
+                            "source_url": "https://www.omakcity.com/1400/City-Council"
+                        }
+                    ],
+                    "Nattalie Cariker": [
+                        {
+                            "name": "Nattalie Cariker",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 3"
+                            ],
+                            "phone": "509-826-1170",
+                            "email": "nattaliec@omakcity.com",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2029-12-31",
+                            "image": "local://nattalie_cariker",
+                            "source_url": "https://www.omakcity.com/1400/City-Council"
+                        }
+                    ],
+                    "Dave Womack": [
+                        {
+                            "name": "Dave Womack",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 4"
+                            ],
+                            "phone": "509-826-1170",
+                            "email": "davew@omakcity.com",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2027-12-31",
+                            "image": "local://dave_womack",
+                            "source_url": "https://www.omakcity.com/1400/City-Council"
+                        }
+                    ],
+                    "Barry Freel": [
+                        {
+                            "name": "Barry Freel",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 5"
+                            ],
+                            "phone": "509-826-1170",
+                            "email": "barryf@omakcity.com",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2027-12-31",
+                            "image": "local://barry_freel",
+                            "source_url": "https://www.omakcity.com/1400/City-Council"
+                        }
+                    ],
+                    "Steve Clark": [
+                        {
+                            "name": "Steve Clark",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 6"
+                            ],
+                            "phone": "509-826-1170",
+                            "email": "stevec@omakcity.com",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2027-12-31",
+                            "image": "local://405a2333",
+                            "source_url": "https://www.omakcity.com/1400/City-Council"
+                        }
+                    ],
+                    "Maria Lassila": [
+                        {
+                            "name": "Maria Lassila",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 7"
+                            ],
+                            "phone": "509-826-1170",
+                            "email": "mlassila@omakcity.com",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2027-11-25",
+                            "image": null,
+                            "source_url": "https://www.omakcity.com/1400/City-Council"
+                        }
+                    ],
+                    "Cariker, Nattalie": [
+                        {
+                            "name": "Cariker, Nattalie",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 3"
+                            ],
+                            "phone": null,
+                            "email": "nattaliec@omakcity.com",
+                            "url": "https://www.omakcity.com/directory.aspx?EID=69",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.omakcity.com/Directory.aspx?did=23"
+                        }
+                    ],
+                    "Clark, Steve": [
+                        {
+                            "name": "Clark, Steve",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 6"
+                            ],
+                            "phone": null,
+                            "email": "stevec@omakcity.com",
+                            "url": "https://www.omakcity.com/directory.aspx?EID=72",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.omakcity.com/Directory.aspx?did=23"
+                        }
+                    ],
+                    "Foth, Michael": [
+                        {
+                            "name": "Foth, Michael",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 1"
+                            ],
+                            "phone": null,
+                            "email": "mikef@omakcity.com",
+                            "url": "https://www.omakcity.com/directory.aspx?EID=67",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.omakcity.com/Directory.aspx?did=23"
+                        }
+                    ],
+                    "Freel, Barry": [
+                        {
+                            "name": "Freel, Barry",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 5"
+                            ],
+                            "phone": null,
+                            "email": "barryf@omakcity.com",
+                            "url": "https://www.omakcity.com/directory.aspx?EID=71",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.omakcity.com/Directory.aspx?did=23"
+                        }
+                    ],
+                    "Lassila, Maria": [
+                        {
+                            "name": "Lassila, Maria",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 7"
+                            ],
+                            "phone": null,
+                            "email": "mlassila@omakcity.com",
+                            "url": "https://www.omakcity.com/directory.aspx?EID=73",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.omakcity.com/Directory.aspx?did=23"
+                        }
+                    ],
+                    "Gaines, Michelle": [
+                        {
+                            "name": "Gaines, Michelle",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 2"
+                            ],
+                            "phone": null,
+                            "email": "michelleg@omakcity.com",
+                            "url": "https://www.omakcity.com/directory.aspx?EID=68",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.omakcity.com/Directory.aspx?did=23"
+                        }
+                    ],
+                    "Womack, Dave": [
+                        {
+                            "name": "Womack, Dave",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 4"
+                            ],
+                            "phone": null,
+                            "email": "davew@omakcity.com",
+                            "url": "https://www.omakcity.com/directory.aspx?EID=70",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.omakcity.com/Directory.aspx?did=23"
+                        }
+                    ],
+                    "Gagné, Cindy": [
+                        {
+                            "name": "Gagné, Cindy",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "509-826-1170",
+                            "email": "mayor@omakcity.com",
+                            "url": "https://www.omakcity.com/directory.aspx?EID=45",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.omakcity.com/Directory.aspx?did=19"
+                        }
+                    ]
+                }
+            },
+            "records_by_llm": {
+                "open_router": {
+                    "Cindy Gagné": [
+                        {
+                            "name": "Cindy Gagne",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.omakcity.com/1417/Mayor",
+                            "start_date": "2009-05",
+                            "end_date": null,
+                            "image": "local://675f3355a29d.png",
+                            "source_url": "https://www.omakcity.com/1417/Mayor"
+                        }
+                    ],
+                    "Michael Foth": [
+                        {
+                            "name": "Michael Foth",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 1"
+                            ],
+                            "phone": "(509) 826-1170",
+                            "email": "mikef@omakcity.com",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2029-12-31",
+                            "image": "local://405a2297",
+                            "source_url": "https://www.omakcity.com/1400/City-Council"
+                        }
+                    ],
+                    "Michelle Gaines": [
+                        {
+                            "name": "Michelle Gaines",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 2"
+                            ],
+                            "phone": "(509) 826-1170",
+                            "email": "michelleg@omakcity.com",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2029-12-31",
+                            "image": "local://michele_gaines",
+                            "source_url": "https://www.omakcity.com/1400/City-Council"
+                        }
+                    ],
+                    "Nattalie Cariker": [
+                        {
+                            "name": "Nattalie Cariker",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 3"
+                            ],
+                            "phone": "(509) 826-1170",
+                            "email": "nattaliec@omakcity.com",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2029-12-31",
+                            "image": "local://nattalie_cariker",
+                            "source_url": "https://www.omakcity.com/1400/City-Council"
+                        }
+                    ],
+                    "Dave Womack": [
+                        {
+                            "name": "Dave Womack",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 4"
+                            ],
+                            "phone": "(509) 826-1170",
+                            "email": "davew@omakcity.com",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2027-12-31",
+                            "image": "local://dave_womack",
+                            "source_url": "https://www.omakcity.com/1400/City-Council"
+                        }
+                    ],
+                    "Barry Freel": [
+                        {
+                            "name": "Barry Freel",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 5"
+                            ],
+                            "phone": "(509) 826-1170",
+                            "email": "barryf@omakcity.com",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2027-12-31",
+                            "image": "local://barry_freel",
+                            "source_url": "https://www.omakcity.com/1400/City-Council"
+                        }
+                    ],
+                    "Steve Clark": [
+                        {
+                            "name": "Steve Clark",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 6"
+                            ],
+                            "phone": "(509) 826-1170",
+                            "email": "stevec@omakcity.com",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2027-12-31",
+                            "image": "local://405a2333",
+                            "source_url": "https://www.omakcity.com/1400/City-Council"
+                        }
+                    ],
+                    "Maria Lassila": [
+                        {
+                            "name": "Maria Lassila",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 7"
+                            ],
+                            "phone": "(509) 826-1170",
+                            "email": "mlassila@omakcity.com",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2027-11-25",
+                            "image": null,
+                            "source_url": "https://www.omakcity.com/1400/City-Council"
+                        }
+                    ],
+                    "Cariker, Nattalie": [
+                        {
+                            "name": "Nattalie Cariker",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 3"
+                            ],
+                            "phone": null,
+                            "email": "nattaliec@omakcity.com",
+                            "url": "https://www.omakcity.com/directory.aspx?EID=69",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.omakcity.com/Directory.aspx?did=23"
+                        }
+                    ],
+                    "Clark, Steve": [
+                        {
+                            "name": "Steve Clark",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 6"
+                            ],
+                            "phone": null,
+                            "email": "stevec@omakcity.com",
+                            "url": "https://www.omakcity.com/directory.aspx?EID=72",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.omakcity.com/Directory.aspx?did=23"
+                        }
+                    ],
+                    "Foth, Michael": [
+                        {
+                            "name": "Michael Foth",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 1"
+                            ],
+                            "phone": null,
+                            "email": "mikef@omakcity.com",
+                            "url": "https://www.omakcity.com/directory.aspx?EID=67",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.omakcity.com/Directory.aspx?did=23"
+                        }
+                    ],
+                    "Freel, Barry": [
+                        {
+                            "name": "Barry Freel",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 5"
+                            ],
+                            "phone": null,
+                            "email": "barryf@omakcity.com",
+                            "url": "https://www.omakcity.com/directory.aspx?EID=71",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.omakcity.com/Directory.aspx?did=23"
+                        }
+                    ],
+                    "Lassila, Maria": [
+                        {
+                            "name": "Maria Lassila",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 7"
+                            ],
+                            "phone": null,
+                            "email": "mlassila@omakcity.com",
+                            "url": "https://www.omakcity.com/directory.aspx?EID=73",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.omakcity.com/Directory.aspx?did=23"
+                        }
+                    ],
+                    "Gaines, Michelle": [
+                        {
+                            "name": "Michelle Gaines",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 2"
+                            ],
+                            "phone": null,
+                            "email": "michelleg@omakcity.com",
+                            "url": "https://www.omakcity.com/directory.aspx?EID=68",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.omakcity.com/Directory.aspx?did=23"
+                        }
+                    ],
+                    "Womack, Dave": [
+                        {
+                            "name": "Dave Womack",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 4"
+                            ],
+                            "phone": null,
+                            "email": "davew@omakcity.com",
+                            "url": "https://www.omakcity.com/directory.aspx?EID=70",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.omakcity.com/Directory.aspx?did=23"
+                        }
+                    ],
+                    "Gagné, Cindy": [
+                        {
+                            "name": "Cindy Gagné",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "(509) 826-1170",
+                            "email": "mayor@omakcity.com",
+                            "url": "https://www.omakcity.com/directory.aspx?EID=45",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.omakcity.com/Directory.aspx?did=19"
+                        }
+                    ]
+                }
+            },
+            "progress": {
+                "required_data": 8,
+                "current_data": 7,
+                "has_target_role": true,
+                "has_target_designations": true
+            }
+        },
+        "merge_records_within_llm_step": {
+            "people_by_llm": {
+                "open_router": [
+                    {
+                        "name": "Cindy Gagné",
+                        "other_names": [
+                            "Cindy Gagne"
+                        ],
+                        "roles": [
+                            "Mayor"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(509) 826-1170"
+                        ],
+                        "emails": [
+                            "mayor@omakcity.com"
+                        ],
+                        "urls": [
+                            "https://www.omakcity.com/directory.aspx?EID=45",
+                            "https://www.omakcity.com/1417/Mayor"
+                        ],
+                        "start_date": "2009-05",
+                        "end_date": "",
+                        "image": "local://675f3355a29d.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:omak/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.omakcity.com/Directory.aspx?did=19",
+                            "https://www.omakcity.com/1417/Mayor"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Michael Foth",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 1"
+                        ],
+                        "phones": [
+                            "(509) 826-1170"
+                        ],
+                        "emails": [
+                            "mikef@omakcity.com"
+                        ],
+                        "urls": [
+                            "https://www.omakcity.com/directory.aspx?EID=67"
+                        ],
+                        "start_date": "",
+                        "end_date": "2029-12-31",
+                        "image": "local://405a2297",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:omak/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.omakcity.com/1400/City-Council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Michelle Gaines",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 2"
+                        ],
+                        "phones": [
+                            "(509) 826-1170"
+                        ],
+                        "emails": [
+                            "michelleg@omakcity.com"
+                        ],
+                        "urls": [
+                            "https://www.omakcity.com/directory.aspx?EID=68"
+                        ],
+                        "start_date": "",
+                        "end_date": "2029-12-31",
+                        "image": "local://michele_gaines",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:omak/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.omakcity.com/1400/City-Council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Nattalie Cariker",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 3"
+                        ],
+                        "phones": [
+                            "(509) 826-1170"
+                        ],
+                        "emails": [
+                            "nattaliec@omakcity.com"
+                        ],
+                        "urls": [
+                            "https://www.omakcity.com/directory.aspx?EID=69"
+                        ],
+                        "start_date": "",
+                        "end_date": "2029-12-31",
+                        "image": "local://nattalie_cariker",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:omak/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.omakcity.com/1400/City-Council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Dave Womack",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 4"
+                        ],
+                        "phones": [
+                            "(509) 826-1170"
+                        ],
+                        "emails": [
+                            "davew@omakcity.com"
+                        ],
+                        "urls": [
+                            "https://www.omakcity.com/directory.aspx?EID=70"
+                        ],
+                        "start_date": "",
+                        "end_date": "2027-12-31",
+                        "image": "local://dave_womack",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:omak/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.omakcity.com/1400/City-Council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Barry Freel",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 5"
+                        ],
+                        "phones": [
+                            "(509) 826-1170"
+                        ],
+                        "emails": [
+                            "barryf@omakcity.com"
+                        ],
+                        "urls": [
+                            "https://www.omakcity.com/directory.aspx?EID=71"
+                        ],
+                        "start_date": "",
+                        "end_date": "2027-12-31",
+                        "image": "local://barry_freel",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:omak/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.omakcity.com/1400/City-Council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Steve Clark",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 6"
+                        ],
+                        "phones": [
+                            "(509) 826-1170"
+                        ],
+                        "emails": [
+                            "stevec@omakcity.com"
+                        ],
+                        "urls": [
+                            "https://www.omakcity.com/directory.aspx?EID=72"
+                        ],
+                        "start_date": "",
+                        "end_date": "2027-12-31",
+                        "image": "local://405a2333",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:omak/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.omakcity.com/1400/City-Council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Maria Lassila",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 7"
+                        ],
+                        "phones": [
+                            "(509) 826-1170"
+                        ],
+                        "emails": [
+                            "mlassila@omakcity.com"
+                        ],
+                        "urls": [
+                            "https://www.omakcity.com/directory.aspx?EID=73"
+                        ],
+                        "start_date": "",
+                        "end_date": "2027-11-25",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:omak/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.omakcity.com/1400/City-Council"
+                        ],
+                        "updated_at": ""
+                    }
+                ]
+            },
+            "unrecognized_roles": [],
+            "excluded_people": []
+        },
+        "merge_records_across_llms_step": {
+            "people": [
+                {
+                    "name": "Cindy Gagné",
+                    "other_names": [
+                        "Cindy Gagne"
+                    ],
+                    "roles": [
+                        "mayor"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(509) 826-1170"
+                    ],
+                    "emails": [
+                        "mayor@omakcity.com"
+                    ],
+                    "urls": [
+                        "https://www.omakcity.com/directory.aspx?EID=45"
+                    ],
+                    "start_date": "2009-05",
+                    "end_date": "",
+                    "image": "local://675f3355a29d.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:omak/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.omakcity.com/Directory.aspx?did=19",
+                        "https://www.omakcity.com/1417/Mayor"
+                    ],
+                    "updated_at": "2026-05-25T19:53:06+00:00"
+                },
+                {
+                    "name": "Michael Foth",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 1"
+                    ],
+                    "phones": [
+                        "(509) 826-1170"
+                    ],
+                    "emails": [
+                        "mikef@omakcity.com"
+                    ],
+                    "urls": [
+                        "https://www.omakcity.com/directory.aspx?EID=67"
+                    ],
+                    "start_date": "",
+                    "end_date": "2029-12-31",
+                    "image": "local://405a2297",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:omak/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.omakcity.com/1400/City-Council"
+                    ],
+                    "updated_at": "2026-05-25T19:53:06+00:00"
+                },
+                {
+                    "name": "Michelle Gaines",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 2"
+                    ],
+                    "phones": [
+                        "(509) 826-1170"
+                    ],
+                    "emails": [
+                        "michelleg@omakcity.com"
+                    ],
+                    "urls": [
+                        "https://www.omakcity.com/directory.aspx?EID=68"
+                    ],
+                    "start_date": "",
+                    "end_date": "2029-12-31",
+                    "image": "local://michele_gaines",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:omak/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.omakcity.com/1400/City-Council"
+                    ],
+                    "updated_at": "2026-05-25T19:53:06+00:00"
+                },
+                {
+                    "name": "Nattalie Cariker",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 3"
+                    ],
+                    "phones": [
+                        "(509) 826-1170"
+                    ],
+                    "emails": [
+                        "nattaliec@omakcity.com"
+                    ],
+                    "urls": [
+                        "https://www.omakcity.com/directory.aspx?EID=69"
+                    ],
+                    "start_date": "",
+                    "end_date": "2029-12-31",
+                    "image": "local://nattalie_cariker",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:omak/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.omakcity.com/1400/City-Council"
+                    ],
+                    "updated_at": "2026-05-25T19:53:06+00:00"
+                },
+                {
+                    "name": "Dave Womack",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 4"
+                    ],
+                    "phones": [
+                        "(509) 826-1170"
+                    ],
+                    "emails": [
+                        "davew@omakcity.com"
+                    ],
+                    "urls": [
+                        "https://www.omakcity.com/directory.aspx?EID=70"
+                    ],
+                    "start_date": "",
+                    "end_date": "2027-12-31",
+                    "image": "local://dave_womack",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:omak/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.omakcity.com/1400/City-Council"
+                    ],
+                    "updated_at": "2026-05-25T19:53:06+00:00"
+                },
+                {
+                    "name": "Barry Freel",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 5"
+                    ],
+                    "phones": [
+                        "(509) 826-1170"
+                    ],
+                    "emails": [
+                        "barryf@omakcity.com"
+                    ],
+                    "urls": [
+                        "https://www.omakcity.com/directory.aspx?EID=71"
+                    ],
+                    "start_date": "",
+                    "end_date": "2027-12-31",
+                    "image": "local://barry_freel",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:omak/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.omakcity.com/1400/City-Council"
+                    ],
+                    "updated_at": "2026-05-25T19:53:06+00:00"
+                },
+                {
+                    "name": "Steve Clark",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 6"
+                    ],
+                    "phones": [
+                        "(509) 826-1170"
+                    ],
+                    "emails": [
+                        "stevec@omakcity.com"
+                    ],
+                    "urls": [
+                        "https://www.omakcity.com/directory.aspx?EID=72"
+                    ],
+                    "start_date": "",
+                    "end_date": "2027-12-31",
+                    "image": "local://405a2333",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:omak/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.omakcity.com/1400/City-Council"
+                    ],
+                    "updated_at": "2026-05-25T19:53:06+00:00"
+                },
+                {
+                    "name": "Maria Lassila",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 7"
+                    ],
+                    "phones": [
+                        "(509) 826-1170"
+                    ],
+                    "emails": [
+                        "mlassila@omakcity.com"
+                    ],
+                    "urls": [
+                        "https://www.omakcity.com/directory.aspx?EID=73"
+                    ],
+                    "start_date": "",
+                    "end_date": "2027-11-25",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:omak/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.omakcity.com/1400/City-Council"
+                    ],
+                    "updated_at": "2026-05-25T19:53:06+00:00"
+                }
+            ]
+        },
+        "format_output_step": {
+            "officials": [
+                {
+                    "name": "Cindy Gagné",
+                    "other_names": [
+                        "Cindy Gagne"
+                    ],
+                    "phones": [
+                        "(509) 826-1170"
+                    ],
+                    "emails": [
+                        "mayor@omakcity.com"
+                    ],
+                    "urls": [
+                        "https://www.omakcity.com/directory.aspx?EID=45"
+                    ],
+                    "start_date": "2009-05",
+                    "end_date": null,
+                    "office": {
+                        "name": "Mayor",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:omak"
+                    },
+                    "image": "https://www.omakcity.com/ImageRepository/Document?documentId=325",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:omak/government",
+                    "cdn_image": "local://675f3355a29d.png",
+                    "source_urls": [
+                        "https://www.omakcity.com/Directory.aspx?did=19",
+                        "https://www.omakcity.com/1417/Mayor"
+                    ],
+                    "updated_at": "2026-05-25T19:53:06+00:00",
+                    "id": "aa01ed18-29bb-49a3-bbc4-826a3c9dbf62"
+                },
+                {
+                    "name": "Michael Foth",
+                    "other_names": [],
+                    "phones": [
+                        "(509) 826-1170"
+                    ],
+                    "emails": [
+                        "mikef@omakcity.com"
+                    ],
+                    "urls": [
+                        "https://www.omakcity.com/directory.aspx?EID=67"
+                    ],
+                    "start_date": null,
+                    "end_date": "2029-12-31",
+                    "office": {
+                        "name": "Council Member - Position 1",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:omak"
+                    },
+                    "image": "local://405a2297",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:omak/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.omakcity.com/1400/City-Council"
+                    ],
+                    "updated_at": "2026-05-25T19:53:06+00:00",
+                    "id": "ae1935c5-e3ed-4718-98f7-6b4734a066e8"
+                },
+                {
+                    "name": "Michelle Gaines",
+                    "other_names": [],
+                    "phones": [
+                        "(509) 826-1170"
+                    ],
+                    "emails": [
+                        "michelleg@omakcity.com"
+                    ],
+                    "urls": [
+                        "https://www.omakcity.com/directory.aspx?EID=68"
+                    ],
+                    "start_date": null,
+                    "end_date": "2029-12-31",
+                    "office": {
+                        "name": "Council Member - Position 2",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:omak"
+                    },
+                    "image": "local://michele_gaines",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:omak/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.omakcity.com/1400/City-Council"
+                    ],
+                    "updated_at": "2026-05-25T19:53:06+00:00",
+                    "id": "94dec2fe-e9ee-4d53-b70f-a1ece69477df"
+                },
+                {
+                    "name": "Nattalie Cariker",
+                    "other_names": [],
+                    "phones": [
+                        "(509) 826-1170"
+                    ],
+                    "emails": [
+                        "nattaliec@omakcity.com"
+                    ],
+                    "urls": [
+                        "https://www.omakcity.com/directory.aspx?EID=69"
+                    ],
+                    "start_date": null,
+                    "end_date": "2029-12-31",
+                    "office": {
+                        "name": "Council Member - Position 3",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:omak"
+                    },
+                    "image": "local://nattalie_cariker",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:omak/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.omakcity.com/1400/City-Council"
+                    ],
+                    "updated_at": "2026-05-25T19:53:06+00:00",
+                    "id": "761d1fde-ac6b-4d64-bb42-683d4ec1aa8b"
+                },
+                {
+                    "name": "Dave Womack",
+                    "other_names": [],
+                    "phones": [
+                        "(509) 826-1170"
+                    ],
+                    "emails": [
+                        "davew@omakcity.com"
+                    ],
+                    "urls": [
+                        "https://www.omakcity.com/directory.aspx?EID=70"
+                    ],
+                    "start_date": null,
+                    "end_date": "2027-12-31",
+                    "office": {
+                        "name": "Council Member - Position 4",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:omak"
+                    },
+                    "image": "local://dave_womack",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:omak/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.omakcity.com/1400/City-Council"
+                    ],
+                    "updated_at": "2026-05-25T19:53:06+00:00",
+                    "id": "711506d5-f1d7-4839-87a4-755c934f2519"
+                },
+                {
+                    "name": "Barry Freel",
+                    "other_names": [],
+                    "phones": [
+                        "(509) 826-1170"
+                    ],
+                    "emails": [
+                        "barryf@omakcity.com"
+                    ],
+                    "urls": [
+                        "https://www.omakcity.com/directory.aspx?EID=71"
+                    ],
+                    "start_date": null,
+                    "end_date": "2027-12-31",
+                    "office": {
+                        "name": "Council Member - Position 5",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:omak"
+                    },
+                    "image": "local://barry_freel",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:omak/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.omakcity.com/1400/City-Council"
+                    ],
+                    "updated_at": "2026-05-25T19:53:06+00:00",
+                    "id": "d6cf3959-6f6d-47a0-bc6b-05952899b730"
+                },
+                {
+                    "name": "Steve Clark",
+                    "other_names": [],
+                    "phones": [
+                        "(509) 826-1170"
+                    ],
+                    "emails": [
+                        "stevec@omakcity.com"
+                    ],
+                    "urls": [
+                        "https://www.omakcity.com/directory.aspx?EID=72"
+                    ],
+                    "start_date": null,
+                    "end_date": "2027-12-31",
+                    "office": {
+                        "name": "Council Member - Position 6",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:omak"
+                    },
+                    "image": "local://405a2333",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:omak/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.omakcity.com/1400/City-Council"
+                    ],
+                    "updated_at": "2026-05-25T19:53:06+00:00",
+                    "id": "126247a4-c55c-4185-b9b4-b6306ab1218e"
+                },
+                {
+                    "name": "Maria Lassila",
+                    "other_names": [],
+                    "phones": [
+                        "(509) 826-1170"
+                    ],
+                    "emails": [
+                        "mlassila@omakcity.com"
+                    ],
+                    "urls": [
+                        "https://www.omakcity.com/directory.aspx?EID=73"
+                    ],
+                    "start_date": null,
+                    "end_date": "2027-11-25",
+                    "office": {
+                        "name": "Council Member - Position 7",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:omak"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:omak/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.omakcity.com/1400/City-Council"
+                    ],
+                    "updated_at": "2026-05-25T19:53:06+00:00",
+                    "id": "e15c8ec9-7308-45c1-8563-4e8a4d6315dc"
+                }
+            ]
+        },
+        "review_output_step": {
+            "issues": [],
+            "people_by_source": [
+                {
+                    "name": "Barry Freel",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Cindy Gagné",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Dave Womack",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Maria Lassila",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Michael Foth",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Michelle Gaines",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Nattalie Cariker",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Steve Clark",
+                    "in_research": true,
+                    "in_data": true
+                }
+            ],
+            "origin_source": "existing"
+        },
+        "find_jurisdiction_url_step": null,
+        "send_success_step": null,
+        "send_error_step": null,
+        "issues": [],
+        "error_step": null,
+        "error_detail": null
+    },
+    "current_state": "SEND_SUCCESS",
+    "request_id": "96ce0765-e04e-44c0-a1b3-80da12621d65",
+    "created_at": 1779738412.714082,
+    "updated_at": 1779738787.0301747,
+    "progress": 88
+}

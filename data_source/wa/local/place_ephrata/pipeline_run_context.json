@@ -1,0 +1,1445 @@
+{
+    "data": {
+        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:ephrata/government",
+        "config": {
+            "url": "http://www.ephrata.org/",
+            "name": "Ephrata city",
+            "source_urls": null
+        },
+        "frontier": {
+            "links": {
+                "https://ephrata.org": {
+                    "url": "http://www.ephrata.org/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_ephrata_org_",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 1
+                },
+                "https://ephrata.org/government/city_council.php": {
+                    "url": "https://www.ephrata.org/government/city_council.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://ephrata.org/27/government": {
+                    "url": "https://www.ephrata.org/27/Government",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_ephrata_org_27_government",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 3
+                },
+                "https://ephrata.org/172": {
+                    "url": "https://www.ephrata.org/172",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://ephrata.org/directory.aspx": {
+                    "url": "https://www.ephrata.org/directory.aspx",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_ephrata_org_directory_aspx",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 2
+                },
+                "https://ephrata.org/360/city-administrator": {
+                    "url": "https://www.ephrata.org/360/City-Administrator",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://ephrata.org/directory.aspx?did=20": {
+                    "url": "https://www.ephrata.org/Directory.aspx?did=20",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://ephrata.org/directory.aspx?did=19": {
+                    "url": "https://www.ephrata.org/Directory.aspx?did=19",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://ephrata.org/directory.aspx?did=22": {
+                    "url": "https://www.ephrata.org/Directory.aspx?did=22",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://ephrata.org/directory.aspx?did=21": {
+                    "url": "https://www.ephrata.org/Directory.aspx?did=21",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://ephrata.org/agendacenter": {
+                    "url": "https://www.ephrata.org/AgendaCenter",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://ephrata.org/184": {
+                    "url": "https://www.ephrata.org/184",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://ephrata.org/171": {
+                    "url": "https://www.ephrata.org/171",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://ephrata.org/370": {
+                    "url": "https://www.ephrata.org/370",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://ephrata.org/168": {
+                    "url": "https://www.ephrata.org/168",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://ephrata.org/sitemap": {
+                    "url": "https://www.ephrata.org/sitemap",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://ephrata.org/site/accessibility": {
+                    "url": "https://www.ephrata.org/site/accessibility",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://ephrata.org/copyright": {
+                    "url": "https://www.ephrata.org/copyright",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://ephrata.org/172/city-council": {
+                    "url": "https://www.ephrata.org/172/City-Council",
+                    "status": "done",
+                    "folder_name": "www_ephrata_org_172_city-council",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 4
+                },
+                "https://ephrata.org/299/boards-commissions": {
+                    "url": "https://www.ephrata.org/299/Boards-Commissions",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://ephrata.org/445/ordinances-resolutions-and-proclamations": {
+                    "url": "https://www.ephrata.org/445/Ordinances-Resolutions-and-Proclamations",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://ephrata.org/170/municipal-codes": {
+                    "url": "https://www.ephrata.org/170/Municipal-Codes",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://ephrata.org/169/municipal-court": {
+                    "url": "https://www.ephrata.org/169/Municipal-Court",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://ephrata.org/168/public-records": {
+                    "url": "https://www.ephrata.org/168/Public-Records",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://ephrata.org/171/human-resources": {
+                    "url": "https://www.ephrata.org/171/Human-Resources",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://ephrata.org/164/civil-service-commission": {
+                    "url": "https://www.ephrata.org/164/Civil-Service-Commission",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://ephrata.org/159/parks-recreation-commission": {
+                    "url": "https://www.ephrata.org/159/Parks-Recreation-Commission",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://ephrata.org/376/planning-commission": {
+                    "url": "https://www.ephrata.org/376/Planning-Commission",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://ephrata.org/jobs.aspx": {
+                    "url": "https://www.ephrata.org/Jobs.aspx",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://ephrata.org/101/departments": {
+                    "url": "https://www.ephrata.org/101/Departments",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://ephrata.org/agendacenter/city-council-5": {
+                    "url": "https://www.ephrata.org/AgendaCenter/City-Council-5",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                }
+            },
+            "queue": [
+                "https://ephrata.org/164/civil-service-commission",
+                "https://ephrata.org/159/parks-recreation-commission",
+                "https://ephrata.org/376/planning-commission",
+                "https://ephrata.org/299/boards-commissions",
+                "https://ephrata.org/agendacenter/city-council-5",
+                "https://ephrata.org/360/city-administrator",
+                "https://ephrata.org/directory.aspx?did=20",
+                "https://ephrata.org/directory.aspx?did=19",
+                "https://ephrata.org/directory.aspx?did=22",
+                "https://ephrata.org/directory.aspx?did=21",
+                "https://ephrata.org/101/departments",
+                "https://ephrata.org/government/city_council.php",
+                "https://ephrata.org/agendacenter",
+                "https://ephrata.org/184",
+                "https://ephrata.org/370",
+                "https://ephrata.org/sitemap",
+                "https://ephrata.org/copyright",
+                "https://ephrata.org/jobs.aspx",
+                "https://ephrata.org/site/accessibility",
+                "https://ephrata.org/445/ordinances-resolutions-and-proclamations",
+                "https://ephrata.org/169/municipal-court",
+                "https://ephrata.org/168/public-records",
+                "https://ephrata.org/171/human-resources",
+                "https://ephrata.org/172",
+                "https://ephrata.org/171",
+                "https://ephrata.org/168",
+                "https://ephrata.org/170/municipal-codes"
+            ]
+        },
+        "research_municipality_step": {
+            "expected_count": 8,
+            "target_designations": [],
+            "known_roles": [
+                "Mayor",
+                "Council Member"
+            ],
+            "identities": {
+                "Bruce Reim": [],
+                "Sarah McDonnell": [],
+                "Kathleen Harris": [],
+                "Matthew Moore": [],
+                "Valli Millard": [],
+                "Beau Lamens": [],
+                "Phil Borck": [],
+                "Mike Warren": []
+            },
+            "source_urls": [
+                "https://www.ephrata.org/government/city_council.php"
+            ],
+            "notes": null,
+            "origin_source": "existing"
+        },
+        "preprocess_page_content_step": {
+            "elapsed_times": [
+                3,
+                2,
+                1,
+                1,
+                1
+            ],
+            "total_elapsed_time_seconds": 5,
+            "average_elapsed_time_seconds": 1
+        },
+        "process_page_content_step": {
+            "raw_records_by_llm": {
+                "open_router": {
+                    "Steve Oliver": [
+                        {
+                            "name": "Steve Oliver",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "509-754-4601",
+                            "email": "soliver@ephrata.org",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2029-12",
+                            "image": "local://8dbd99d6a7e3.png",
+                            "source_url": "https://www.ephrata.org/172/City-Council"
+                        }
+                    ],
+                    "Matt Moore": [
+                        {
+                            "name": "Matt Moore",
+                            "roles": [
+                                "Mayor Pro Tem",
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 3"
+                            ],
+                            "phone": "509-754-4601",
+                            "email": "mmoore@cityofephrata.org",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2029-12",
+                            "image": "local://2069e7dca43e.png",
+                            "source_url": "https://www.ephrata.org/172/City-Council"
+                        }
+                    ],
+                    "James Mathis": [
+                        {
+                            "name": "James Mathis",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 1"
+                            ],
+                            "phone": "509-754-4601",
+                            "email": "jmathis@ephrata.org",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2029-12",
+                            "image": "local://7da258d4a351.png",
+                            "source_url": "https://www.ephrata.org/172/City-Council"
+                        }
+                    ],
+                    "Kathleen Harris": [
+                        {
+                            "name": "Kathleen Harris",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 2"
+                            ],
+                            "phone": "509-754-4601",
+                            "email": "kharris@ephrata.org",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2029-12",
+                            "image": "local://3954e8c57785.png",
+                            "source_url": "https://www.ephrata.org/172/City-Council"
+                        }
+                    ],
+                    "Valli Millard": [
+                        {
+                            "name": "Valli Millard",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 4"
+                            ],
+                            "phone": "509-754-4601",
+                            "email": "vmillard@ephrata.org",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2027-12",
+                            "image": "local://14db55f8312d.png",
+                            "source_url": "https://www.ephrata.org/172/City-Council"
+                        }
+                    ],
+                    "Beau Lamens": [
+                        {
+                            "name": "Beau Lamens",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 5"
+                            ],
+                            "phone": "509-754-4601",
+                            "email": "blamens@ephrata.org",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2027-12",
+                            "image": "local://a8847d791625.png",
+                            "source_url": "https://www.ephrata.org/172/City-Council"
+                        }
+                    ],
+                    "Phil Borck": [
+                        {
+                            "name": "Phil Borck",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 6"
+                            ],
+                            "phone": "509-754-4601",
+                            "email": "pborck@ephrata.org",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2027-12",
+                            "image": "local://60e81e531c59.png",
+                            "source_url": "https://www.ephrata.org/172/City-Council"
+                        }
+                    ],
+                    "Mike Warren": [
+                        {
+                            "name": "Mike Warren",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 7"
+                            ],
+                            "phone": "509-754-4601",
+                            "email": "mwarren@ephrata.org",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2027-12",
+                            "image": "local://8bbec12b39ec.png",
+                            "source_url": "https://www.ephrata.org/172/City-Council"
+                        }
+                    ]
+                }
+            },
+            "records_by_llm": {
+                "open_router": {
+                    "Steve Oliver": [
+                        {
+                            "name": "Steve Oliver",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "(509) 754-4601",
+                            "email": "soliver@ephrata.org",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2029-12",
+                            "image": "local://8dbd99d6a7e3.png",
+                            "source_url": "https://www.ephrata.org/172/City-Council"
+                        }
+                    ],
+                    "Matt Moore": [
+                        {
+                            "name": "Matt Moore",
+                            "roles": [
+                                "Mayor Pro Tempore",
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 3"
+                            ],
+                            "phone": "(509) 754-4601",
+                            "email": "mmoore@cityofephrata.org",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2029-12",
+                            "image": "local://2069e7dca43e.png",
+                            "source_url": "https://www.ephrata.org/172/City-Council"
+                        }
+                    ],
+                    "James Mathis": [
+                        {
+                            "name": "James Mathis",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 1"
+                            ],
+                            "phone": "(509) 754-4601",
+                            "email": "jmathis@ephrata.org",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2029-12",
+                            "image": "local://7da258d4a351.png",
+                            "source_url": "https://www.ephrata.org/172/City-Council"
+                        }
+                    ],
+                    "Kathleen Harris": [
+                        {
+                            "name": "Kathleen Harris",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 2"
+                            ],
+                            "phone": "(509) 754-4601",
+                            "email": "kharris@ephrata.org",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2029-12",
+                            "image": "local://3954e8c57785.png",
+                            "source_url": "https://www.ephrata.org/172/City-Council"
+                        }
+                    ],
+                    "Valli Millard": [
+                        {
+                            "name": "Valli Millard",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 4"
+                            ],
+                            "phone": "(509) 754-4601",
+                            "email": "vmillard@ephrata.org",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2027-12",
+                            "image": "local://14db55f8312d.png",
+                            "source_url": "https://www.ephrata.org/172/City-Council"
+                        }
+                    ],
+                    "Beau Lamens": [
+                        {
+                            "name": "Beau Lamens",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 5"
+                            ],
+                            "phone": "(509) 754-4601",
+                            "email": "blamens@ephrata.org",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2027-12",
+                            "image": "local://a8847d791625.png",
+                            "source_url": "https://www.ephrata.org/172/City-Council"
+                        }
+                    ],
+                    "Phil Borck": [
+                        {
+                            "name": "Phil Borck",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 6"
+                            ],
+                            "phone": "(509) 754-4601",
+                            "email": "pborck@ephrata.org",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2027-12",
+                            "image": "local://60e81e531c59.png",
+                            "source_url": "https://www.ephrata.org/172/City-Council"
+                        }
+                    ],
+                    "Mike Warren": [
+                        {
+                            "name": "Mike Warren",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 7"
+                            ],
+                            "phone": "(509) 754-4601",
+                            "email": "mwarren@ephrata.org",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2027-12",
+                            "image": "local://8bbec12b39ec.png",
+                            "source_url": "https://www.ephrata.org/172/City-Council"
+                        }
+                    ]
+                }
+            },
+            "progress": {
+                "required_data": 8,
+                "current_data": 8,
+                "has_target_role": true,
+                "has_target_designations": true
+            }
+        },
+        "merge_records_within_llm_step": {
+            "people_by_llm": {
+                "open_router": [
+                    {
+                        "name": "Steve Oliver",
+                        "other_names": [],
+                        "roles": [
+                            "Mayor"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(509) 754-4601"
+                        ],
+                        "emails": [
+                            "soliver@ephrata.org"
+                        ],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "2029-12",
+                        "image": "local://8dbd99d6a7e3.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:ephrata/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.ephrata.org/172/City-Council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Matt Moore",
+                        "other_names": [],
+                        "roles": [
+                            "Mayor Pro Tempore",
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 3"
+                        ],
+                        "phones": [
+                            "(509) 754-4601"
+                        ],
+                        "emails": [
+                            "mmoore@cityofephrata.org"
+                        ],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "2029-12",
+                        "image": "local://2069e7dca43e.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:ephrata/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.ephrata.org/172/City-Council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "James Mathis",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 1"
+                        ],
+                        "phones": [
+                            "(509) 754-4601"
+                        ],
+                        "emails": [
+                            "jmathis@ephrata.org"
+                        ],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "2029-12",
+                        "image": "local://7da258d4a351.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:ephrata/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.ephrata.org/172/City-Council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Kathleen Harris",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 2"
+                        ],
+                        "phones": [
+                            "(509) 754-4601"
+                        ],
+                        "emails": [
+                            "kharris@ephrata.org"
+                        ],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "2029-12",
+                        "image": "local://3954e8c57785.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:ephrata/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.ephrata.org/172/City-Council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Valli Millard",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 4"
+                        ],
+                        "phones": [
+                            "(509) 754-4601"
+                        ],
+                        "emails": [
+                            "vmillard@ephrata.org"
+                        ],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "2027-12",
+                        "image": "local://14db55f8312d.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:ephrata/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.ephrata.org/172/City-Council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Beau Lamens",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 5"
+                        ],
+                        "phones": [
+                            "(509) 754-4601"
+                        ],
+                        "emails": [
+                            "blamens@ephrata.org"
+                        ],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "2027-12",
+                        "image": "local://a8847d791625.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:ephrata/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.ephrata.org/172/City-Council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Phil Borck",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 6"
+                        ],
+                        "phones": [
+                            "(509) 754-4601"
+                        ],
+                        "emails": [
+                            "pborck@ephrata.org"
+                        ],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "2027-12",
+                        "image": "local://60e81e531c59.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:ephrata/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.ephrata.org/172/City-Council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Mike Warren",
+                        "other_names": [],
+                        "roles": [
+                            "Council Member"
+                        ],
+                        "designations": [
+                            "Position 7"
+                        ],
+                        "phones": [
+                            "(509) 754-4601"
+                        ],
+                        "emails": [
+                            "mwarren@ephrata.org"
+                        ],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "2027-12",
+                        "image": "local://8bbec12b39ec.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:ephrata/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.ephrata.org/172/City-Council"
+                        ],
+                        "updated_at": ""
+                    }
+                ]
+            },
+            "unrecognized_roles": [],
+            "excluded_people": []
+        },
+        "merge_records_across_llms_step": {
+            "people": [
+                {
+                    "name": "Steve Oliver",
+                    "other_names": [],
+                    "roles": [
+                        "mayor"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(509) 754-4601"
+                    ],
+                    "emails": [
+                        "soliver@ephrata.org"
+                    ],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "2029-12",
+                    "image": "local://8dbd99d6a7e3.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:ephrata/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.ephrata.org/172/City-Council"
+                    ],
+                    "updated_at": "2026-05-25T15:53:21+00:00"
+                },
+                {
+                    "name": "Matt Moore",
+                    "other_names": [],
+                    "roles": [
+                        "council member",
+                        "mayor pro tempore"
+                    ],
+                    "designations": [
+                        "position 3"
+                    ],
+                    "phones": [
+                        "(509) 754-4601"
+                    ],
+                    "emails": [
+                        "mmoore@cityofephrata.org"
+                    ],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "2029-12",
+                    "image": "local://2069e7dca43e.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:ephrata/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.ephrata.org/172/City-Council"
+                    ],
+                    "updated_at": "2026-05-25T15:53:21+00:00"
+                },
+                {
+                    "name": "James Mathis",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 1"
+                    ],
+                    "phones": [
+                        "(509) 754-4601"
+                    ],
+                    "emails": [
+                        "jmathis@ephrata.org"
+                    ],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "2029-12",
+                    "image": "local://7da258d4a351.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:ephrata/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.ephrata.org/172/City-Council"
+                    ],
+                    "updated_at": "2026-05-25T15:53:21+00:00"
+                },
+                {
+                    "name": "Kathleen Harris",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 2"
+                    ],
+                    "phones": [
+                        "(509) 754-4601"
+                    ],
+                    "emails": [
+                        "kharris@ephrata.org"
+                    ],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "2029-12",
+                    "image": "local://3954e8c57785.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:ephrata/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.ephrata.org/172/City-Council"
+                    ],
+                    "updated_at": "2026-05-25T15:53:21+00:00"
+                },
+                {
+                    "name": "Valli Millard",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 4"
+                    ],
+                    "phones": [
+                        "(509) 754-4601"
+                    ],
+                    "emails": [
+                        "vmillard@ephrata.org"
+                    ],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "2027-12",
+                    "image": "local://14db55f8312d.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:ephrata/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.ephrata.org/172/City-Council"
+                    ],
+                    "updated_at": "2026-05-25T15:53:21+00:00"
+                },
+                {
+                    "name": "Beau Lamens",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 5"
+                    ],
+                    "phones": [
+                        "(509) 754-4601"
+                    ],
+                    "emails": [
+                        "blamens@ephrata.org"
+                    ],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "2027-12",
+                    "image": "local://a8847d791625.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:ephrata/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.ephrata.org/172/City-Council"
+                    ],
+                    "updated_at": "2026-05-25T15:53:21+00:00"
+                },
+                {
+                    "name": "Phil Borck",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 6"
+                    ],
+                    "phones": [
+                        "(509) 754-4601"
+                    ],
+                    "emails": [
+                        "pborck@ephrata.org"
+                    ],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "2027-12",
+                    "image": "local://60e81e531c59.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:ephrata/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.ephrata.org/172/City-Council"
+                    ],
+                    "updated_at": "2026-05-25T15:53:21+00:00"
+                },
+                {
+                    "name": "Mike Warren",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 7"
+                    ],
+                    "phones": [
+                        "(509) 754-4601"
+                    ],
+                    "emails": [
+                        "mwarren@ephrata.org"
+                    ],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "2027-12",
+                    "image": "local://8bbec12b39ec.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:ephrata/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.ephrata.org/172/City-Council"
+                    ],
+                    "updated_at": "2026-05-25T15:53:21+00:00"
+                }
+            ]
+        },
+        "format_output_step": {
+            "officials": [
+                {
+                    "name": "Steve Oliver",
+                    "other_names": [],
+                    "phones": [
+                        "(509) 754-4601"
+                    ],
+                    "emails": [
+                        "soliver@ephrata.org"
+                    ],
+                    "urls": [
+                        "https://www.ephrata.org/172/City-Council"
+                    ],
+                    "start_date": null,
+                    "end_date": "2029-12",
+                    "office": {
+                        "name": "Mayor",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:ephrata"
+                    },
+                    "image": "https://www.ephrata.org/ImageRepository/Document?documentID=1048",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:ephrata/government",
+                    "cdn_image": "local://8dbd99d6a7e3.png",
+                    "source_urls": [
+                        "https://www.ephrata.org/172/City-Council"
+                    ],
+                    "updated_at": "2026-05-25T15:53:21+00:00",
+                    "id": "02cc9c0a-670d-4a85-8f9f-c9b961ee30a7"
+                },
+                {
+                    "name": "Matt Moore",
+                    "other_names": [],
+                    "phones": [
+                        "(509) 754-4601"
+                    ],
+                    "emails": [
+                        "mmoore@cityofephrata.org"
+                    ],
+                    "urls": [
+                        "https://www.ephrata.org/172/City-Council"
+                    ],
+                    "start_date": null,
+                    "end_date": "2029-12",
+                    "office": {
+                        "name": "Council Member - Mayor Pro Tempore - Position 3",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:ephrata"
+                    },
+                    "image": "https://www.ephrata.org/ImageRepository/Document?documentID=1046",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:ephrata/government",
+                    "cdn_image": "local://2069e7dca43e.png",
+                    "source_urls": [
+                        "https://www.ephrata.org/172/City-Council"
+                    ],
+                    "updated_at": "2026-05-25T15:53:21+00:00",
+                    "id": "f72ee13e-f705-46bb-9a9e-d826299d1513"
+                },
+                {
+                    "name": "James Mathis",
+                    "other_names": [],
+                    "phones": [
+                        "(509) 754-4601"
+                    ],
+                    "emails": [
+                        "jmathis@ephrata.org"
+                    ],
+                    "urls": [
+                        "https://www.ephrata.org/172/City-Council"
+                    ],
+                    "start_date": null,
+                    "end_date": "2029-12",
+                    "office": {
+                        "name": "Council Member - Position 1",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:ephrata"
+                    },
+                    "image": "https://www.ephrata.org/ImageRepository/Document?documentID=1044",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:ephrata/government",
+                    "cdn_image": "local://7da258d4a351.png",
+                    "source_urls": [
+                        "https://www.ephrata.org/172/City-Council"
+                    ],
+                    "updated_at": "2026-05-25T15:53:21+00:00",
+                    "id": "8e4467ad-1ecb-4c9e-a326-45e4994ef519"
+                },
+                {
+                    "name": "Kathleen Harris",
+                    "other_names": [],
+                    "phones": [
+                        "(509) 754-4601"
+                    ],
+                    "emails": [
+                        "kharris@ephrata.org"
+                    ],
+                    "urls": [
+                        "https://www.ephrata.org/172/City-Council"
+                    ],
+                    "start_date": null,
+                    "end_date": "2029-12",
+                    "office": {
+                        "name": "Council Member - Position 2",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:ephrata"
+                    },
+                    "image": "https://www.ephrata.org/ImageRepository/Document?documentID=1042",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:ephrata/government",
+                    "cdn_image": "local://3954e8c57785.png",
+                    "source_urls": [
+                        "https://www.ephrata.org/172/City-Council"
+                    ],
+                    "updated_at": "2026-05-25T15:53:21+00:00",
+                    "id": "27120629-c529-45d9-b33c-d8ba0ee63492"
+                },
+                {
+                    "name": "Valli Millard",
+                    "other_names": [],
+                    "phones": [
+                        "(509) 754-4601"
+                    ],
+                    "emails": [
+                        "vmillard@ephrata.org"
+                    ],
+                    "urls": [
+                        "https://www.ephrata.org/172/City-Council"
+                    ],
+                    "start_date": null,
+                    "end_date": "2027-12",
+                    "office": {
+                        "name": "Council Member - Position 4",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:ephrata"
+                    },
+                    "image": "https://www.ephrata.org/ImageRepository/Document?documentID=1045",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:ephrata/government",
+                    "cdn_image": "local://14db55f8312d.png",
+                    "source_urls": [
+                        "https://www.ephrata.org/172/City-Council"
+                    ],
+                    "updated_at": "2026-05-25T15:53:21+00:00",
+                    "id": "10ac4ca7-4edd-4753-9fea-d8d79ca08b7e"
+                },
+                {
+                    "name": "Beau Lamens",
+                    "other_names": [],
+                    "phones": [
+                        "(509) 754-4601"
+                    ],
+                    "emails": [
+                        "blamens@ephrata.org"
+                    ],
+                    "urls": [
+                        "https://www.ephrata.org/172/City-Council"
+                    ],
+                    "start_date": null,
+                    "end_date": "2027-12",
+                    "office": {
+                        "name": "Council Member - Position 5",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:ephrata"
+                    },
+                    "image": "https://www.ephrata.org/ImageRepository/Document?documentID=1043",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:ephrata/government",
+                    "cdn_image": "local://a8847d791625.png",
+                    "source_urls": [
+                        "https://www.ephrata.org/172/City-Council"
+                    ],
+                    "updated_at": "2026-05-25T15:53:21+00:00",
+                    "id": "cf80425f-a811-4ba3-8e59-3d063ae4e152"
+                },
+                {
+                    "name": "Phil Borck",
+                    "other_names": [],
+                    "phones": [
+                        "(509) 754-4601"
+                    ],
+                    "emails": [
+                        "pborck@ephrata.org"
+                    ],
+                    "urls": [
+                        "https://www.ephrata.org/172/City-Council"
+                    ],
+                    "start_date": null,
+                    "end_date": "2027-12",
+                    "office": {
+                        "name": "Council Member - Position 6",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:ephrata"
+                    },
+                    "image": "https://www.ephrata.org/ImageRepository/Document?documentID=1041",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:ephrata/government",
+                    "cdn_image": "local://60e81e531c59.png",
+                    "source_urls": [
+                        "https://www.ephrata.org/172/City-Council"
+                    ],
+                    "updated_at": "2026-05-25T15:53:21+00:00",
+                    "id": "1d814160-7ca1-40b2-bb16-3df615be92d2"
+                },
+                {
+                    "name": "Mike Warren",
+                    "other_names": [],
+                    "phones": [
+                        "(509) 754-4601"
+                    ],
+                    "emails": [
+                        "mwarren@ephrata.org"
+                    ],
+                    "urls": [
+                        "https://www.ephrata.org/172/City-Council"
+                    ],
+                    "start_date": null,
+                    "end_date": "2027-12",
+                    "office": {
+                        "name": "Council Member - Position 7",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:ephrata"
+                    },
+                    "image": "https://www.ephrata.org/ImageRepository/Document?documentID=1047",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:ephrata/government",
+                    "cdn_image": "local://8bbec12b39ec.png",
+                    "source_urls": [
+                        "https://www.ephrata.org/172/City-Council"
+                    ],
+                    "updated_at": "2026-05-25T15:53:21+00:00",
+                    "id": "26779de7-3d70-4ed8-ab5f-fe0e85946ff6"
+                }
+            ]
+        },
+        "review_output_step": {
+            "issues": [
+                "Extra official: James Mathis",
+                "Extra official: Matt Moore",
+                "Extra official: Steve Oliver",
+                "Missing official: Bruce Reim",
+                "Missing official: Matthew Moore",
+                "Missing official: Sarah McDonnell"
+            ],
+            "people_by_source": [
+                {
+                    "name": "Beau Lamens",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Bruce Reim",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "James Mathis",
+                    "in_research": false,
+                    "in_data": true
+                },
+                {
+                    "name": "Kathleen Harris",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Matt Moore",
+                    "in_research": false,
+                    "in_data": true
+                },
+                {
+                    "name": "Matthew Moore",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Mike Warren",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Phil Borck",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Sarah McDonnell",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Steve Oliver",
+                    "in_research": false,
+                    "in_data": true
+                },
+                {
+                    "name": "Valli Millard",
+                    "in_research": true,
+                    "in_data": true
+                }
+            ],
+            "origin_source": "existing"
+        },
+        "find_jurisdiction_url_step": null,
+        "send_success_step": null,
+        "send_error_step": null,
+        "issues": [],
+        "error_step": null,
+        "error_detail": null
+    },
+    "current_state": "SEND_SUCCESS",
+    "request_id": "ccb991e0-0c68-45fc-8978-4bb48fa56a41",
+    "created_at": 1779724318.9208932,
+    "updated_at": 1779724401.9907982,
+    "progress": 97
+}

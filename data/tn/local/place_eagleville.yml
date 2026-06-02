@@ -1,0 +1,137 @@
+- name: Chad Leeman
+  other_names: []
+  phones:
+  - (615) 274-2922
+  emails:
+  - mayorleeman@eaglevilletn.gov
+  urls:
+  - https://eaglevilletn.com/city_council.html
+  start_date: null
+  end_date: 2026-11
+  office:
+    name: Mayor
+    division_ocdid: ocd-division/country:us/state:tn/place:eagleville
+  image: https://eaglevilletn.com/assets/img/chad_leeman.jpg
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:tn/place:eagleville/government
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/808a0392-2262-4e9b-92fd-bb96164caf3a/data_source/tn/local/place_eagleville/images/91a8c25336f7.png
+  source_urls:
+  - https://eaglevilletn.com/city_council.html
+  - https://eaglevilletn.com/staff_directory.html#administration
+  updated_at: '2026-05-25T15:02:04+00:00'
+  id: b0ad40fb-3948-4da0-8136-20d175fa2849
+- name: William Tollett
+  other_names: []
+  phones:
+  - (615) 274-2922
+  emails:
+  - wtollett@eaglevilletn.gov
+  urls:
+  - https://eaglevilletn.com/city_council.html
+  start_date: null
+  end_date: 2026-11
+  office:
+    name: Vice Mayor
+    division_ocdid: ocd-division/country:us/state:tn/place:eagleville
+  image: https://eaglevilletn.com/assets/img/william_tollett.jpg
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:tn/place:eagleville/government
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/808a0392-2262-4e9b-92fd-bb96164caf3a/data_source/tn/local/place_eagleville/images/daf03b2b2f48.png
+  source_urls:
+  - https://eaglevilletn.com/city_council.html
+  - https://eaglevilletn.com/staff_directory.html#administration
+  updated_at: '2026-05-25T15:02:04+00:00'
+  id: 8a863122-ca75-47de-b29e-745be449e752
+- name: Jason Blair
+  other_names: []
+  phones: []
+  emails:
+  - jblair@eaglevilletn.gov
+  urls:
+  - https://eaglevilletn.com/city_council.html
+  start_date: null
+  end_date: 2028-11
+  office:
+    name: Council Member
+    division_ocdid: ocd-division/country:us/state:tn/place:eagleville
+  image: https://eaglevilletn.com/assets/img/jason_blair.jpg
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:tn/place:eagleville/government
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/808a0392-2262-4e9b-92fd-bb96164caf3a/data_source/tn/local/place_eagleville/images/99a02487be57.png
+  source_urls:
+  - https://eaglevilletn.com/city_council.html
+  updated_at: '2026-05-25T15:02:04+00:00'
+  id: 104cb968-edce-46e8-a958-8d0b5aa7656b
+- name: Ryan Edwards
+  other_names: []
+  phones: []
+  emails:
+  - redwards@eaglevilletn.gov
+  urls:
+  - https://eaglevilletn.com/city_council.html
+  start_date: null
+  end_date: 2028-11
+  office:
+    name: Council Member
+    division_ocdid: ocd-division/country:us/state:tn/place:eagleville
+  image: https://eaglevilletn.com/assets/img/ryan_edwards.jpg
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:tn/place:eagleville/government
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/808a0392-2262-4e9b-92fd-bb96164caf3a/data_source/tn/local/place_eagleville/images/9760463e556d.png
+  source_urls:
+  - https://eaglevilletn.com/city_council.html
+  updated_at: '2026-05-25T15:02:04+00:00'
+  id: b35ba28f-79a8-443b-a62e-01ff1667e50f
+- name: Brandon Emamalie
+  other_names: []
+  phones: []
+  emails:
+  - bemamalie@eaglevilletn.gov
+  urls:
+  - https://eaglevilletn.com/city_council.html
+  start_date: null
+  end_date: 2026-11
+  office:
+    name: Council Member
+    division_ocdid: ocd-division/country:us/state:tn/place:eagleville
+  image: https://eaglevilletn.com/assets/img/brandon_emamalie.jpg
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:tn/place:eagleville/government
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/808a0392-2262-4e9b-92fd-bb96164caf3a/data_source/tn/local/place_eagleville/images/5ab7e575e2e4.png
+  source_urls:
+  - https://eaglevilletn.com/city_council.html
+  updated_at: '2026-05-25T15:02:04+00:00'
+  id: bf1a89a9-6971-459c-852e-6660383860ae
+- name: Craig Campbell
+  other_names: []
+  phones: []
+  emails:
+  - ccampbell@eaglevilletn.gov
+  urls:
+  - https://eaglevilletn.com/city_council.html
+  start_date: null
+  end_date: 2026-11
+  office:
+    name: Council Member
+    division_ocdid: ocd-division/country:us/state:tn/place:eagleville
+  image: https://eaglevilletn.com/assets/img/craig_campbell.jpg
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:tn/place:eagleville/government
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/808a0392-2262-4e9b-92fd-bb96164caf3a/data_source/tn/local/place_eagleville/images/2d7e794aa10d.png
+  source_urls:
+  - https://eaglevilletn.com/city_council.html
+  updated_at: '2026-05-25T15:02:04+00:00'
+  id: 679bf4e5-46bd-4997-acf9-b670e9cbcba4
+- name: Chris Hendrix
+  other_names: []
+  phones: []
+  emails:
+  - chendrix@eaglevilletn.gov
+  urls:
+  - https://eaglevilletn.com/city_council.html
+  start_date: null
+  end_date: 2028-11
+  office:
+    name: Council Member
+    division_ocdid: ocd-division/country:us/state:tn/place:eagleville
+  image: https://eaglevilletn.com/assets/img/chris_hendrix.jpg
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:tn/place:eagleville/government
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/808a0392-2262-4e9b-92fd-bb96164caf3a/data_source/tn/local/place_eagleville/images/2aa2806dc053.png
+  source_urls:
+  - https://eaglevilletn.com/city_council.html
+  updated_at: '2026-05-25T15:02:04+00:00'
+  id: 47ffefb1-ecdc-4930-b4c3-0d2d5aec1b7e
