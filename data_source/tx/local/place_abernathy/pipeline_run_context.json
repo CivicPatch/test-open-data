@@ -1,0 +1,1319 @@
+{
+    "data": {
+        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:abernathy/government",
+        "config": {
+            "url": "https://cityofabernathy.org",
+            "name": "Abernathy city",
+            "source_urls": null
+        },
+        "frontier": {
+            "links": {
+                "https://cityofabernathy.org": {
+                    "url": "https://cityofabernathy.org",
+                    "status": "processed_irrelevant",
+                    "folder_name": "cityofabernathy_org",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 1
+                },
+                "https://cityofabernathy.org/your-government/city-council": {
+                    "url": "https://cityofabernathy.org/your-government/city-council",
+                    "status": "done",
+                    "folder_name": "cityofabernathy_org_your-government_city-council",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 2
+                },
+                "https://cityofabernathy.org/directory": {
+                    "url": "https://cityofabernathy.org/directory/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "cityofabernathy_org_directory_",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 4
+                },
+                "https://cityofabernathy.org/your-government/city-administration": {
+                    "url": "https://cityofabernathy.org/your-government/city-administration/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "cityofabernathy_org_your-government_city-administration_",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 3
+                },
+                "https://cityofabernathy.org/your-government/elections": {
+                    "url": "https://cityofabernathy.org/your-government/elections/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "cityofabernathy_org_your-government_elections_",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 5
+                },
+                "https://cityofabernathy.org/contact": {
+                    "url": "https://cityofabernathy.org/contact/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 17,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofabernathy.org/documents": {
+                    "url": "https://cityofabernathy.org/documents/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 13,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofabernathy.org/your-government/open-records": {
+                    "url": "https://cityofabernathy.org/your-government/open-records/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "cityofabernathy_org_your-government_open-records_",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 6
+                },
+                "https://cityofabernathy.org/your-government/public-notices": {
+                    "url": "https://cityofabernathy.org/your-government/public-notices/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "cityofabernathy_org_your-government_public-notices_",
+                    "num_references": 5,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 7
+                },
+                "https://cityofabernathy.org/your-government/code-of-ordinances": {
+                    "url": "https://cityofabernathy.org/your-government/code-of-ordinances/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "cityofabernathy_org_your-government_code-of-ordinances_",
+                    "num_references": 5,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 8
+                },
+                "https://cityofabernathy.org/your-government/city-administration/financial-transparency": {
+                    "url": "https://cityofabernathy.org/your-government/city-administration/financial-transparency/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "cityofabernathy_org_your-government_city-administration_financial-transparency_",
+                    "num_references": 5,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 16
+                },
+                "https://cityofabernathy.org/accessibility": {
+                    "url": "https://cityofabernathy.org/accessibility/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 7,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofabernathy.org/your-government/court": {
+                    "url": "https://cityofabernathy.org/your-government/court/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "cityofabernathy_org_your-government_court_",
+                    "num_references": 5,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 9
+                },
+                "https://cityofabernathy.org/your-government/police-department": {
+                    "url": "https://cityofabernathy.org/your-government/police-department/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "cityofabernathy_org_your-government_police-department_",
+                    "num_references": 5,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 10
+                },
+                "https://cityofabernathy.org/your-government/volunteer-fire-department": {
+                    "url": "https://cityofabernathy.org/your-government/volunteer-fire-department/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "cityofabernathy_org_your-government_volunteer-fire-department_",
+                    "num_references": 5,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 11
+                },
+                "https://cityofabernathy.org/your-government/library": {
+                    "url": "https://cityofabernathy.org/your-government/library/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "cityofabernathy_org_your-government_library_",
+                    "num_references": 5,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 12
+                },
+                "https://cityofabernathy.org/your-government/public-works": {
+                    "url": "https://cityofabernathy.org/your-government/public-works/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "cityofabernathy_org_your-government_public-works_",
+                    "num_references": 6,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 13
+                },
+                "https://cityofabernathy.org/your-government/code-enforcement": {
+                    "url": "https://cityofabernathy.org/your-government/code-enforcement/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "cityofabernathy_org_your-government_code-enforcement_",
+                    "num_references": 6,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 14
+                },
+                "https://cityofabernathy.org/your-government/building-codes": {
+                    "url": "https://cityofabernathy.org/your-government/building-codes/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "cityofabernathy_org_your-government_building-codes_",
+                    "num_references": 6,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 15
+                },
+                "https://cityofabernathy.org/your-government/building-codes/building-permits": {
+                    "url": "https://cityofabernathy.org/your-government/building-codes/building-permits/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "cityofabernathy_org_your-government_building-codes_building-permits_",
+                    "num_references": 5,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 17
+                },
+                "https://cityofabernathy.org/about-abernathy/#mission": {
+                    "url": "https://cityofabernathy.org/about-abernathy/#mission",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofabernathy.org/volunteer": {
+                    "url": "https://cityofabernathy.org/volunteer/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofabernathy.org/directory/staff?id=3": {
+                    "url": "https://cityofabernathy.org/directory/staff?id=3",
+                    "status": "processed_irrelevant",
+                    "folder_name": "cityofabernathy_org_directory_staff?id=3",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 18
+                },
+                "https://cityofabernathy.org/directory/staff?id=39": {
+                    "url": "https://cityofabernathy.org/directory/staff?id=39",
+                    "status": "processed_irrelevant",
+                    "folder_name": "cityofabernathy_org_directory_staff?id=39",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 19
+                },
+                "https://cityofabernathy.org/directory/staff?id=10": {
+                    "url": "https://cityofabernathy.org/directory/staff?id=10",
+                    "status": "processed_irrelevant",
+                    "folder_name": "cityofabernathy_org_directory_staff?id=10",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 20
+                },
+                "https://cityofabernathy.org/directory/staff?id=11": {
+                    "url": "https://cityofabernathy.org/directory/staff?id=11",
+                    "status": "processed_irrelevant",
+                    "folder_name": "cityofabernathy_org_directory_staff?id=11",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 21
+                },
+                "https://cityofabernathy.org/directory/staff?id=17": {
+                    "url": "https://cityofabernathy.org/directory/staff?id=17",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofabernathy.org/directory/staff?id=18": {
+                    "url": "https://cityofabernathy.org/directory/staff?id=18",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofabernathy.org/directory/staff?id=12": {
+                    "url": "https://cityofabernathy.org/directory/staff?id=12",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofabernathy.org/directory/staff?id=19": {
+                    "url": "https://cityofabernathy.org/directory/staff?id=19",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofabernathy.org/directory/staff?id=13": {
+                    "url": "https://cityofabernathy.org/directory/staff?id=13",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofabernathy.org/directory/staff?id=20": {
+                    "url": "https://cityofabernathy.org/directory/staff?id=20",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofabernathy.org/directory/staff?id=6": {
+                    "url": "https://cityofabernathy.org/directory/staff?id=6",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofabernathy.org/directory/staff?id=16": {
+                    "url": "https://cityofabernathy.org/directory/staff?id=16",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofabernathy.org/directory/staff?id=22": {
+                    "url": "https://cityofabernathy.org/directory/staff?id=22",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofabernathy.org/directory/staff?id=5": {
+                    "url": "https://cityofabernathy.org/directory/staff?id=5",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofabernathy.org/directory/staff?id=7": {
+                    "url": "https://cityofabernathy.org/directory/staff?id=7",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofabernathy.org/directory/staff?id=24": {
+                    "url": "https://cityofabernathy.org/directory/staff?id=24",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofabernathy.org/your-government/animal-control": {
+                    "url": "https://cityofabernathy.org/your-government/animal-control/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofabernathy.org/documents/#agendacenter": {
+                    "url": "https://cityofabernathy.org/documents/#agendacenter",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofabernathy.org/sitemap": {
+                    "url": "https://cityofabernathy.org/sitemap/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofabernathy.org/directory/staff?id=25": {
+                    "url": "https://cityofabernathy.org/directory/staff?id=25",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofabernathy.org/news": {
+                    "url": "https://cityofabernathy.org/news/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofabernathy.org/city-council": {
+                    "url": "https://cityofabernathy.org/city-council/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofabernathy.org/your-government/public-works/utility-rates": {
+                    "url": "https://cityofabernathy.org/your-government/public-works/utility-rates/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofabernathy.org/events": {
+                    "url": "https://cityofabernathy.org/events",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofabernathy.org/new-residents": {
+                    "url": "https://cityofabernathy.org/new-residents/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                }
+            },
+            "queue": [
+                "https://cityofabernathy.org/directory/staff?id=12",
+                "https://cityofabernathy.org/directory/staff?id=13",
+                "https://cityofabernathy.org/directory/staff?id=16",
+                "https://cityofabernathy.org/directory/staff?id=6",
+                "https://cityofabernathy.org/directory/staff?id=7",
+                "https://cityofabernathy.org/directory/staff?id=17",
+                "https://cityofabernathy.org/directory/staff?id=18",
+                "https://cityofabernathy.org/directory/staff?id=19",
+                "https://cityofabernathy.org/directory/staff?id=20",
+                "https://cityofabernathy.org/directory/staff?id=22",
+                "https://cityofabernathy.org/directory/staff?id=24",
+                "https://cityofabernathy.org/about-abernathy/#mission",
+                "https://cityofabernathy.org/directory/staff?id=5",
+                "https://cityofabernathy.org/directory/staff?id=25",
+                "https://cityofabernathy.org/city-council",
+                "https://cityofabernathy.org/your-government/animal-control",
+                "https://cityofabernathy.org/your-government/public-works/utility-rates",
+                "https://cityofabernathy.org/contact",
+                "https://cityofabernathy.org/documents",
+                "https://cityofabernathy.org/accessibility",
+                "https://cityofabernathy.org/sitemap",
+                "https://cityofabernathy.org/news",
+                "https://cityofabernathy.org/documents/#agendacenter",
+                "https://cityofabernathy.org/events",
+                "https://cityofabernathy.org/volunteer",
+                "https://cityofabernathy.org/new-residents"
+            ]
+        },
+        "research_municipality_step": {
+            "expected_count": 6,
+            "target_designations": [],
+            "known_roles": [
+                "Mayor",
+                "Mayor Pro Tempore"
+            ],
+            "identities": {
+                "Harold Bufe": [],
+                "Bilinda Prater": [
+                    "Mrs. Bilinda Prater"
+                ],
+                "Gary Stephenson": [
+                    "Mr. Gary Stephenson"
+                ],
+                "Matthew Speer": [],
+                "Eva Cortez": [
+                    "Mrs. Eva Cortez"
+                ],
+                "Tammy Mahan": [
+                    "Mrs. Tammy Mahan"
+                ]
+            },
+            "source_urls": [
+                "https://cityofabernathy.org/your-government/city-council"
+            ],
+            "notes": null,
+            "origin_source": "existing"
+        },
+        "preprocess_page_content_step": {
+            "elapsed_times": [
+                2,
+                2,
+                1,
+                2,
+                1,
+                1,
+                1,
+                2,
+                1,
+                2,
+                1,
+                1,
+                1,
+                2,
+                2,
+                1,
+                1,
+                2,
+                1,
+                1,
+                1,
+                1
+            ],
+            "total_elapsed_time_seconds": 28,
+            "average_elapsed_time_seconds": 1
+        },
+        "process_page_content_step": {
+            "raw_records_by_llm": {
+                "open_router": {
+                    "Harold Bufe": [
+                        {
+                            "name": "Harold Bufe",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": "2025-06",
+                            "end_date": "2028-05",
+                            "image": "local://48140b328c80.png",
+                            "source_url": "https://cityofabernathy.org/your-government/city-council"
+                        }
+                    ],
+                    "Bilinda Prater": [
+                        {
+                            "name": "Mrs. Bilinda Prater",
+                            "roles": [
+                                "Mayor Pro-Tempore"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "bprater@cityofabernathy.org",
+                            "url": null,
+                            "start_date": "2018-05",
+                            "end_date": "2026-05",
+                            "image": "local://f807858b4119.png",
+                            "source_url": "https://cityofabernathy.org/your-government/city-council"
+                        }
+                    ],
+                    "Gary Stephenson": [
+                        {
+                            "name": "Mr. Gary Stephenson",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "gstephenson@cityofabernathy.org",
+                            "url": null,
+                            "start_date": "2023-05",
+                            "end_date": "2025-05",
+                            "image": "local://48140b328c80.png",
+                            "source_url": "https://cityofabernathy.org/your-government/city-council"
+                        }
+                    ],
+                    "Matthew Speer": [
+                        {
+                            "name": "Matthew Speer",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "m.speer@cityofabernathy.org",
+                            "url": null,
+                            "start_date": "2025-05",
+                            "end_date": "2026-05",
+                            "image": "local://48140b328c80.png",
+                            "source_url": "https://cityofabernathy.org/your-government/city-council"
+                        }
+                    ],
+                    "Eva Cortez": [
+                        {
+                            "name": "Mrs. Eva Cortez",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "ecortez@cityofabernathy.org",
+                            "url": null,
+                            "start_date": "2022-05",
+                            "end_date": "2026-05",
+                            "image": "local://48140b328c80.png",
+                            "source_url": "https://cityofabernathy.org/your-government/city-council"
+                        }
+                    ],
+                    "Tammy Mahan": [
+                        {
+                            "name": "Mrs. Tammy Mahan",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "tmahan@cityofabernathy.org",
+                            "url": null,
+                            "start_date": "2023-05",
+                            "end_date": "2025-05",
+                            "image": "local://48140b328c80.png",
+                            "source_url": "https://cityofabernathy.org/your-government/city-council"
+                        }
+                    ]
+                }
+            },
+            "records_by_llm": {
+                "open_router": {
+                    "Harold Bufe": [
+                        {
+                            "name": "Harold Bufe",
+                            "roles": [
+                                "mayor"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": "2025-06",
+                            "end_date": "2028-05",
+                            "image": "local://48140b328c80.png",
+                            "source_url": "https://cityofabernathy.org/your-government/city-council"
+                        }
+                    ],
+                    "Bilinda Prater": [
+                        {
+                            "name": "Mrs. Bilinda Prater",
+                            "roles": [
+                                "mayor pro tempore"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "bprater@cityofabernathy.org",
+                            "url": null,
+                            "start_date": "2018-05",
+                            "end_date": "2026-05",
+                            "image": "local://f807858b4119.png",
+                            "source_url": "https://cityofabernathy.org/your-government/city-council"
+                        }
+                    ],
+                    "Gary Stephenson": [
+                        {
+                            "name": "Mr. Gary Stephenson",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "gstephenson@cityofabernathy.org",
+                            "url": null,
+                            "start_date": "2023-05",
+                            "end_date": "2025-05",
+                            "image": "local://48140b328c80.png",
+                            "source_url": "https://cityofabernathy.org/your-government/city-council"
+                        }
+                    ],
+                    "Matthew Speer": [
+                        {
+                            "name": "Matthew Speer",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "m.speer@cityofabernathy.org",
+                            "url": null,
+                            "start_date": "2025-05",
+                            "end_date": "2026-05",
+                            "image": "local://48140b328c80.png",
+                            "source_url": "https://cityofabernathy.org/your-government/city-council"
+                        }
+                    ],
+                    "Eva Cortez": [
+                        {
+                            "name": "Mrs. Eva Cortez",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "ecortez@cityofabernathy.org",
+                            "url": null,
+                            "start_date": "2022-05",
+                            "end_date": "2026-05",
+                            "image": "local://48140b328c80.png",
+                            "source_url": "https://cityofabernathy.org/your-government/city-council"
+                        }
+                    ],
+                    "Tammy Mahan": [
+                        {
+                            "name": "Mrs. Tammy Mahan",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "tmahan@cityofabernathy.org",
+                            "url": null,
+                            "start_date": "2023-05",
+                            "end_date": "2025-05",
+                            "image": "local://48140b328c80.png",
+                            "source_url": "https://cityofabernathy.org/your-government/city-council"
+                        }
+                    ]
+                }
+            },
+            "progress": {
+                "required_data": 6,
+                "current_data": 0,
+                "has_target_role": true,
+                "has_target_designations": true
+            }
+        },
+        "merge_records_within_llm_step": {
+            "people_by_llm": {
+                "open_router": [
+                    {
+                        "name": "Harold Bufe",
+                        "other_names": [],
+                        "roles": [
+                            "mayor"
+                        ],
+                        "designations": [],
+                        "phones": [],
+                        "emails": [],
+                        "urls": [],
+                        "start_date": "2025-06",
+                        "end_date": "2028-05",
+                        "image": "local://48140b328c80.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:abernathy/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://cityofabernathy.org/your-government/city-council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Bilinda Prater",
+                        "other_names": [
+                            "Mrs. Bilinda Prater"
+                        ],
+                        "roles": [
+                            "mayor pro tempore"
+                        ],
+                        "designations": [],
+                        "phones": [],
+                        "emails": [
+                            "bprater@cityofabernathy.org"
+                        ],
+                        "urls": [],
+                        "start_date": "2018-05",
+                        "end_date": "2026-05",
+                        "image": "local://f807858b4119.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:abernathy/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://cityofabernathy.org/your-government/city-council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Gary Stephenson",
+                        "other_names": [
+                            "Mr. Gary Stephenson"
+                        ],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [],
+                        "phones": [],
+                        "emails": [
+                            "gstephenson@cityofabernathy.org"
+                        ],
+                        "urls": [],
+                        "start_date": "2023-05",
+                        "end_date": "2025-05",
+                        "image": "local://48140b328c80.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:abernathy/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://cityofabernathy.org/your-government/city-council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Matthew Speer",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [],
+                        "phones": [],
+                        "emails": [
+                            "m.speer@cityofabernathy.org"
+                        ],
+                        "urls": [],
+                        "start_date": "2025-05",
+                        "end_date": "2026-05",
+                        "image": "local://48140b328c80.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:abernathy/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://cityofabernathy.org/your-government/city-council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Eva Cortez",
+                        "other_names": [
+                            "Mrs. Eva Cortez"
+                        ],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [],
+                        "phones": [],
+                        "emails": [
+                            "ecortez@cityofabernathy.org"
+                        ],
+                        "urls": [],
+                        "start_date": "2022-05",
+                        "end_date": "2026-05",
+                        "image": "local://48140b328c80.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:abernathy/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://cityofabernathy.org/your-government/city-council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Tammy Mahan",
+                        "other_names": [
+                            "Mrs. Tammy Mahan"
+                        ],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [],
+                        "phones": [],
+                        "emails": [
+                            "tmahan@cityofabernathy.org"
+                        ],
+                        "urls": [],
+                        "start_date": "2023-05",
+                        "end_date": "2025-05",
+                        "image": "local://48140b328c80.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:abernathy/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://cityofabernathy.org/your-government/city-council"
+                        ],
+                        "updated_at": ""
+                    }
+                ]
+            },
+            "unrecognized_roles": [],
+            "excluded_people": []
+        },
+        "merge_records_across_llms_step": {
+            "people": [
+                {
+                    "name": "Harold Bufe",
+                    "other_names": [],
+                    "roles": [
+                        "mayor"
+                    ],
+                    "designations": [],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [],
+                    "start_date": "2025-06",
+                    "end_date": "2028-05",
+                    "image": "local://48140b328c80.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:abernathy/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://cityofabernathy.org/your-government/city-council"
+                    ],
+                    "updated_at": "2026-06-03T22:25:29+00:00"
+                },
+                {
+                    "name": "Gary Stephenson",
+                    "other_names": [
+                        "Mr. Gary Stephenson"
+                    ],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [],
+                    "phones": [],
+                    "emails": [
+                        "gstephenson@cityofabernathy.org"
+                    ],
+                    "urls": [],
+                    "start_date": "2023-05",
+                    "end_date": "2025-05",
+                    "image": "local://48140b328c80.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:abernathy/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://cityofabernathy.org/your-government/city-council"
+                    ],
+                    "updated_at": "2026-06-03T22:25:29+00:00"
+                },
+                {
+                    "name": "Matthew Speer",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [],
+                    "phones": [],
+                    "emails": [
+                        "m.speer@cityofabernathy.org"
+                    ],
+                    "urls": [],
+                    "start_date": "2025-05",
+                    "end_date": "2026-05",
+                    "image": "local://48140b328c80.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:abernathy/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://cityofabernathy.org/your-government/city-council"
+                    ],
+                    "updated_at": "2026-06-03T22:25:29+00:00"
+                },
+                {
+                    "name": "Eva Cortez",
+                    "other_names": [
+                        "Mrs. Eva Cortez"
+                    ],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [],
+                    "phones": [],
+                    "emails": [
+                        "ecortez@cityofabernathy.org"
+                    ],
+                    "urls": [],
+                    "start_date": "2022-05",
+                    "end_date": "2026-05",
+                    "image": "local://48140b328c80.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:abernathy/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://cityofabernathy.org/your-government/city-council"
+                    ],
+                    "updated_at": "2026-06-03T22:25:29+00:00"
+                },
+                {
+                    "name": "Tammy Mahan",
+                    "other_names": [
+                        "Mrs. Tammy Mahan"
+                    ],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [],
+                    "phones": [],
+                    "emails": [
+                        "tmahan@cityofabernathy.org"
+                    ],
+                    "urls": [],
+                    "start_date": "2023-05",
+                    "end_date": "2025-05",
+                    "image": "local://48140b328c80.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:abernathy/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://cityofabernathy.org/your-government/city-council"
+                    ],
+                    "updated_at": "2026-06-03T22:25:29+00:00"
+                },
+                {
+                    "name": "Bilinda Prater",
+                    "other_names": [
+                        "Mrs. Bilinda Prater"
+                    ],
+                    "roles": [
+                        "mayor pro tempore"
+                    ],
+                    "designations": [],
+                    "phones": [],
+                    "emails": [
+                        "bprater@cityofabernathy.org"
+                    ],
+                    "urls": [],
+                    "start_date": "2018-05",
+                    "end_date": "2026-05",
+                    "image": "local://f807858b4119.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:abernathy/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://cityofabernathy.org/your-government/city-council"
+                    ],
+                    "updated_at": "2026-06-03T22:25:29+00:00"
+                }
+            ]
+        },
+        "format_output_step": {
+            "officials": [
+                {
+                    "name": "Harold Bufe",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://cityofabernathy.org/your-government/city-council"
+                    ],
+                    "start_date": "2025-06",
+                    "end_date": "2028-05",
+                    "office": {
+                        "name": "Mayor",
+                        "division_ocdid": "ocd-division/country:us/state:tx/place:abernathy"
+                    },
+                    "image": "https://cityofabernathy.org/wp-content/uploads/2022/12/court.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:abernathy/government",
+                    "cdn_image": "local://48140b328c80.png",
+                    "source_urls": [
+                        "https://cityofabernathy.org/your-government/city-council"
+                    ],
+                    "updated_at": "2026-06-03T22:25:29+00:00",
+                    "id": "eef21758-81f5-4892-8235-d27323f1a075"
+                },
+                {
+                    "name": "Gary Stephenson",
+                    "other_names": [
+                        "Mr. Gary Stephenson"
+                    ],
+                    "phones": [],
+                    "emails": [
+                        "gstephenson@cityofabernathy.org"
+                    ],
+                    "urls": [
+                        "https://cityofabernathy.org/your-government/city-council"
+                    ],
+                    "start_date": "2023-05",
+                    "end_date": "2025-05",
+                    "office": {
+                        "name": "Council Member",
+                        "division_ocdid": "ocd-division/country:us/state:tx/place:abernathy"
+                    },
+                    "image": "https://cityofabernathy.org/wp-content/uploads/2022/12/court.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:abernathy/government",
+                    "cdn_image": "local://48140b328c80.png",
+                    "source_urls": [
+                        "https://cityofabernathy.org/your-government/city-council"
+                    ],
+                    "updated_at": "2026-06-03T22:25:29+00:00",
+                    "id": "037135d7-3252-4590-b405-a8d158c1b869"
+                },
+                {
+                    "name": "Matthew Speer",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [
+                        "m.speer@cityofabernathy.org"
+                    ],
+                    "urls": [
+                        "https://cityofabernathy.org/your-government/city-council"
+                    ],
+                    "start_date": "2025-05",
+                    "end_date": "2026-05",
+                    "office": {
+                        "name": "Council Member",
+                        "division_ocdid": "ocd-division/country:us/state:tx/place:abernathy"
+                    },
+                    "image": "https://cityofabernathy.org/wp-content/uploads/2022/12/court.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:abernathy/government",
+                    "cdn_image": "local://48140b328c80.png",
+                    "source_urls": [
+                        "https://cityofabernathy.org/your-government/city-council"
+                    ],
+                    "updated_at": "2026-06-03T22:25:29+00:00",
+                    "id": "6c1e7baf-42d4-4b28-9317-97f0c336d697"
+                },
+                {
+                    "name": "Eva Cortez",
+                    "other_names": [
+                        "Mrs. Eva Cortez"
+                    ],
+                    "phones": [],
+                    "emails": [
+                        "ecortez@cityofabernathy.org"
+                    ],
+                    "urls": [
+                        "https://cityofabernathy.org/your-government/city-council"
+                    ],
+                    "start_date": "2022-05",
+                    "end_date": "2026-05",
+                    "office": {
+                        "name": "Council Member",
+                        "division_ocdid": "ocd-division/country:us/state:tx/place:abernathy"
+                    },
+                    "image": "https://cityofabernathy.org/wp-content/uploads/2022/12/court.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:abernathy/government",
+                    "cdn_image": "local://48140b328c80.png",
+                    "source_urls": [
+                        "https://cityofabernathy.org/your-government/city-council"
+                    ],
+                    "updated_at": "2026-06-03T22:25:29+00:00",
+                    "id": "e0ed3424-9797-465a-9791-b0104b5d0ee0"
+                },
+                {
+                    "name": "Tammy Mahan",
+                    "other_names": [
+                        "Mrs. Tammy Mahan"
+                    ],
+                    "phones": [],
+                    "emails": [
+                        "tmahan@cityofabernathy.org"
+                    ],
+                    "urls": [
+                        "https://cityofabernathy.org/your-government/city-council"
+                    ],
+                    "start_date": "2023-05",
+                    "end_date": "2025-05",
+                    "office": {
+                        "name": "Council Member",
+                        "division_ocdid": "ocd-division/country:us/state:tx/place:abernathy"
+                    },
+                    "image": "https://cityofabernathy.org/wp-content/uploads/2022/12/court.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:abernathy/government",
+                    "cdn_image": "local://48140b328c80.png",
+                    "source_urls": [
+                        "https://cityofabernathy.org/your-government/city-council"
+                    ],
+                    "updated_at": "2026-06-03T22:25:29+00:00",
+                    "id": "9fff13c5-4cfb-4ec2-b4c9-0d25377129bb"
+                },
+                {
+                    "name": "Bilinda Prater",
+                    "other_names": [
+                        "Mrs. Bilinda Prater"
+                    ],
+                    "phones": [],
+                    "emails": [
+                        "bprater@cityofabernathy.org"
+                    ],
+                    "urls": [
+                        "https://cityofabernathy.org/your-government/city-council"
+                    ],
+                    "start_date": "2018-05",
+                    "end_date": "2026-05",
+                    "office": {
+                        "name": "Mayor Pro Tempore",
+                        "division_ocdid": "ocd-division/country:us/state:tx/place:abernathy"
+                    },
+                    "image": "https://cityofabernathy.org/wp-content/uploads/2022/11/bprater-300x300.jpg",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:abernathy/government",
+                    "cdn_image": "local://f807858b4119.png",
+                    "source_urls": [
+                        "https://cityofabernathy.org/your-government/city-council"
+                    ],
+                    "updated_at": "2026-06-03T22:25:29+00:00",
+                    "id": "124d95b9-53c1-4aed-9eac-9a05afd34ccd"
+                }
+            ]
+        },
+        "review_output_step": {
+            "issues": [],
+            "people_by_source": [
+                {
+                    "name": "Bilinda Prater",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Eva Cortez",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Gary Stephenson",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Harold Bufe",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Matthew Speer",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Tammy Mahan",
+                    "in_research": true,
+                    "in_data": true
+                }
+            ],
+            "origin_source": "existing"
+        },
+        "find_jurisdiction_url_step": null,
+        "send_success_step": null,
+        "send_error_step": null,
+        "issues": [],
+        "error_step": null,
+        "error_detail": null
+    },
+    "current_state": "SEND_SUCCESS",
+    "request_id": "12bbe6af-7da9-4ad4-a4f3-17baa30fe562",
+    "created_at": 1780525162.126064,
+    "updated_at": 1780525530.0083833,
+    "progress": 27
+}
