@@ -1,0 +1,1250 @@
+{
+    "data": {
+        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:goldthwaite/government",
+        "config": {
+            "url": "https://www.visitgoldthwaite.com/",
+            "name": "Goldthwaite city",
+            "source_urls": null
+        },
+        "frontier": {
+            "links": {
+                "https://visitgoldthwaite.com": {
+                    "url": "https://www.visitgoldthwaite.com/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_visitgoldthwaite_com_",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 1
+                },
+                "https://visitgoldthwaite.com/council": {
+                    "url": "https://www.visitgoldthwaite.com/council",
+                    "status": "done",
+                    "folder_name": "www_visitgoldthwaite_com_council",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 4
+                },
+                "https://visitgoldthwaite.com/city-hall": {
+                    "url": "https://www.visitgoldthwaite.com/city-hall",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_visitgoldthwaite_com_city-hall",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 5
+                },
+                "https://visitgoldthwaite.com/mayor-and-council": {
+                    "url": "https://www.visitgoldthwaite.com/mayor-and-council",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_visitgoldthwaite_com_mayor-and-council",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 2
+                },
+                "https://visitgoldthwaite.com/mayor": {
+                    "url": "https://www.visitgoldthwaite.com/mayor",
+                    "status": "done",
+                    "folder_name": "www_visitgoldthwaite_com_mayor",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 3
+                },
+                "https://visitgoldthwaite.com/city-manager": {
+                    "url": "https://www.visitgoldthwaite.com/city-manager",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_visitgoldthwaite_com_city-manager",
+                    "num_references": 5,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 6
+                },
+                "https://visitgoldthwaite.com/city-secretary": {
+                    "url": "https://www.visitgoldthwaite.com/city-secretary",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_visitgoldthwaite_com_city-secretary",
+                    "num_references": 6,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 8
+                },
+                "https://visitgoldthwaite.com/city-clerk": {
+                    "url": "https://www.visitgoldthwaite.com/city-clerk",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_visitgoldthwaite_com_city-clerk",
+                    "num_references": 7,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 9
+                },
+                "https://visitgoldthwaite.com/departments": {
+                    "url": "https://www.visitgoldthwaite.com/departments",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_visitgoldthwaite_com_departments",
+                    "num_references": 6,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 7
+                },
+                "https://visitgoldthwaite.com/contact-us": {
+                    "url": "https://www.visitgoldthwaite.com/contact-us",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_visitgoldthwaite_com_contact-us",
+                    "num_references": 8,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 13
+                },
+                "https://visitgoldthwaite.com/human-resources": {
+                    "url": "https://www.visitgoldthwaite.com/human-resources",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_visitgoldthwaite_com_human-resources",
+                    "num_references": 7,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 16
+                },
+                "https://visitgoldthwaite.com/council-agendas-and-notices": {
+                    "url": "https://www.visitgoldthwaite.com/council-agendas-and-notices",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_visitgoldthwaite_com_council-agendas-and-notices",
+                    "num_references": 8,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 10
+                },
+                "https://visitgoldthwaite.com/other-notices": {
+                    "url": "https://www.visitgoldthwaite.com/other-notices",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_visitgoldthwaite_com_other-notices",
+                    "num_references": 8,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 14
+                },
+                "https://visitgoldthwaite.com/notices": {
+                    "url": "https://www.visitgoldthwaite.com/notices",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_visitgoldthwaite_com_notices",
+                    "num_references": 10,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 12
+                },
+                "https://visitgoldthwaite.com/press-releases": {
+                    "url": "https://www.visitgoldthwaite.com/press-releases",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_visitgoldthwaite_com_press-releases",
+                    "num_references": 8,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 15
+                },
+                "https://visitgoldthwaite.com/application-process": {
+                    "url": "https://www.visitgoldthwaite.com/application-process",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_visitgoldthwaite_com_application-process",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 19
+                },
+                "https://visitgoldthwaite.com/benefits": {
+                    "url": "https://www.visitgoldthwaite.com/benefits",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_visitgoldthwaite_com_benefits",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 20
+                },
+                "https://visitgoldthwaite.com/employment-opportunities": {
+                    "url": "https://www.visitgoldthwaite.com/employment-opportunities",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_visitgoldthwaite_com_employment-opportunities",
+                    "num_references": 5,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 21
+                },
+                "https://visitgoldthwaite.com/about-us": {
+                    "url": "https://www.visitgoldthwaite.com/about-us",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_visitgoldthwaite_com_about-us",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 11
+                },
+                "https://visitgoldthwaite.com/faq": {
+                    "url": "https://www.visitgoldthwaite.com/faq",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_visitgoldthwaite_com_faq",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 17
+                },
+                "https://visitgoldthwaite.com/new-resident-resources": {
+                    "url": "https://www.visitgoldthwaite.com/new-resident-resources",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_visitgoldthwaite_com_new-resident-resources",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 18
+                },
+                "https://visitgoldthwaite.com/subscribe": {
+                    "url": "https://www.visitgoldthwaite.com/subscribe",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://visitgoldthwaite.com/unsubscribe": {
+                    "url": "https://www.visitgoldthwaite.com/unsubscribe",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://visitgoldthwaite.com/terms.html": {
+                    "url": "https://www.visitgoldthwaite.com/terms.html",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://visitgoldthwaite.com/frequently-called-numbers": {
+                    "url": "https://www.visitgoldthwaite.com/frequently-called-numbers",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 5,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://visitgoldthwaite.com/chamber-of-commerce": {
+                    "url": "https://www.visitgoldthwaite.com/chamber-of-commerce",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://visitgoldthwaite.com/economic-profile": {
+                    "url": "https://www.visitgoldthwaite.com/economic-profile",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://visitgoldthwaite.com/attractions": {
+                    "url": "https://www.visitgoldthwaite.com/attractions",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://visitgoldthwaite.com/shopping-dining-and-lodging": {
+                    "url": "https://www.visitgoldthwaite.com/shopping-dining-and-lodging",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://visitgoldthwaite.com/locations-and-directions": {
+                    "url": "https://www.visitgoldthwaite.com/locations-and-directions",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://visitgoldthwaite.com/parks-and-recreation": {
+                    "url": "https://www.visitgoldthwaite.com/parks-and-recreation",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://visitgoldthwaite.com/sanitation-and-recycling": {
+                    "url": "https://www.visitgoldthwaite.com/sanitation-and-recycling",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://visitgoldthwaite.com/water-and-sewer-utilities": {
+                    "url": "https://www.visitgoldthwaite.com/water-and-sewer-utilities",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://visitgoldthwaite.com/payment-options": {
+                    "url": "https://www.visitgoldthwaite.com/payment-options",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://visitgoldthwaite.com/park-facilities": {
+                    "url": "https://www.visitgoldthwaite.com/park-facilities",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://visitgoldthwaite.com/water-quality-report": {
+                    "url": "https://www.visitgoldthwaite.com/water-quality-report",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://visitgoldthwaite.com/alerts": {
+                    "url": "https://www.visitgoldthwaite.com/alerts",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                }
+            },
+            "queue": [
+                "https://visitgoldthwaite.com/frequently-called-numbers",
+                "https://visitgoldthwaite.com/parks-and-recreation",
+                "https://visitgoldthwaite.com/sanitation-and-recycling",
+                "https://visitgoldthwaite.com/water-and-sewer-utilities",
+                "https://visitgoldthwaite.com/park-facilities",
+                "https://visitgoldthwaite.com/water-quality-report",
+                "https://visitgoldthwaite.com/subscribe",
+                "https://visitgoldthwaite.com/chamber-of-commerce",
+                "https://visitgoldthwaite.com/economic-profile",
+                "https://visitgoldthwaite.com/attractions",
+                "https://visitgoldthwaite.com/shopping-dining-and-lodging",
+                "https://visitgoldthwaite.com/locations-and-directions",
+                "https://visitgoldthwaite.com/payment-options",
+                "https://visitgoldthwaite.com/unsubscribe",
+                "https://visitgoldthwaite.com/terms.html",
+                "https://visitgoldthwaite.com/alerts"
+            ]
+        },
+        "research_municipality_step": {
+            "expected_count": 6,
+            "target_designations": [],
+            "known_roles": [
+                "Mayor",
+                "Mayor Pro Tempore"
+            ],
+            "identities": {
+                "J. Wilson": [],
+                "Ramona Flores": [],
+                "Rich Brown": [],
+                "Steve Patrick": [],
+                "Lynn Bouse": [],
+                "Jimmy Jones": []
+            },
+            "source_urls": [
+                "https://www.visitgoldthwaite.com/council"
+            ],
+            "notes": null,
+            "origin_source": "existing"
+        },
+        "preprocess_page_content_step": {
+            "elapsed_times": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "total_elapsed_time_seconds": 1,
+            "average_elapsed_time_seconds": 0
+        },
+        "process_page_content_step": {
+            "raw_records_by_llm": {
+                "open_router": {
+                    "J. Wilson": [
+                        {
+                            "name": "J. Wilson",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "(325) 648-3186",
+                            "email": null,
+                            "url": "https://www.visitgoldthwaite.com/mayor",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://e4b53422e805.png",
+                            "source_url": "https://www.visitgoldthwaite.com/mayor"
+                        }
+                    ],
+                    "Ramona Flores": [
+                        {
+                            "name": "Ramona Flores",
+                            "roles": [
+                                "Mayor Pro Tem"
+                            ],
+                            "designations": [],
+                            "phone": "(325) 648-3186",
+                            "email": null,
+                            "url": "https://www.visitgoldthwaite.com/council",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.visitgoldthwaite.com/council"
+                        }
+                    ],
+                    "Jimmy Jones": [
+                        {
+                            "name": "Jimmy Jones",
+                            "roles": [
+                                "Alderperson"
+                            ],
+                            "designations": [],
+                            "phone": "(325) 648-3186",
+                            "email": null,
+                            "url": "https://www.visitgoldthwaite.com/council",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.visitgoldthwaite.com/council"
+                        }
+                    ],
+                    "Greg Kithas": [
+                        {
+                            "name": "Greg Kithas",
+                            "roles": [
+                                "Aldersperson"
+                            ],
+                            "designations": [],
+                            "phone": "(325) 648-3186",
+                            "email": null,
+                            "url": "https://www.visitgoldthwaite.com/council",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.visitgoldthwaite.com/council"
+                        }
+                    ],
+                    "Steve Patrick": [
+                        {
+                            "name": "Steve Patrick",
+                            "roles": [
+                                "Alderperson"
+                            ],
+                            "designations": [],
+                            "phone": "(325) 648-3186",
+                            "email": null,
+                            "url": "https://www.visitgoldthwaite.com/council",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.visitgoldthwaite.com/council"
+                        }
+                    ],
+                    "Lynn Bouse": [
+                        {
+                            "name": "Lynn Bouse",
+                            "roles": [
+                                "Alderperson"
+                            ],
+                            "designations": [],
+                            "phone": "(325) 648-3186",
+                            "email": null,
+                            "url": "https://www.visitgoldthwaite.com/council",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.visitgoldthwaite.com/council"
+                        }
+                    ]
+                }
+            },
+            "records_by_llm": {
+                "open_router": {
+                    "J. Wilson": [
+                        {
+                            "name": "J. Wilson",
+                            "roles": [
+                                "mayor"
+                            ],
+                            "designations": [],
+                            "phone": "(325) 648-3186",
+                            "email": null,
+                            "url": "https://www.visitgoldthwaite.com/mayor",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://e4b53422e805.png",
+                            "source_url": "https://www.visitgoldthwaite.com/mayor"
+                        }
+                    ],
+                    "Ramona Flores": [
+                        {
+                            "name": "Ramona Flores",
+                            "roles": [
+                                "mayor pro tempore"
+                            ],
+                            "designations": [],
+                            "phone": "(325) 648-3186",
+                            "email": null,
+                            "url": "https://www.visitgoldthwaite.com/council",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.visitgoldthwaite.com/council"
+                        }
+                    ],
+                    "Jimmy Jones": [
+                        {
+                            "name": "Jimmy Jones",
+                            "roles": [
+                                "Alderperson"
+                            ],
+                            "designations": [],
+                            "phone": "(325) 648-3186",
+                            "email": null,
+                            "url": "https://www.visitgoldthwaite.com/council",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.visitgoldthwaite.com/council"
+                        }
+                    ],
+                    "Greg Kithas": [
+                        {
+                            "name": "Greg Kithas",
+                            "roles": [
+                                "Aldersperson"
+                            ],
+                            "designations": [],
+                            "phone": "(325) 648-3186",
+                            "email": null,
+                            "url": "https://www.visitgoldthwaite.com/council",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.visitgoldthwaite.com/council"
+                        }
+                    ],
+                    "Steve Patrick": [
+                        {
+                            "name": "Steve Patrick",
+                            "roles": [
+                                "Alderperson"
+                            ],
+                            "designations": [],
+                            "phone": "(325) 648-3186",
+                            "email": null,
+                            "url": "https://www.visitgoldthwaite.com/council",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.visitgoldthwaite.com/council"
+                        }
+                    ],
+                    "Lynn Bouse": [
+                        {
+                            "name": "Lynn Bouse",
+                            "roles": [
+                                "Alderperson"
+                            ],
+                            "designations": [],
+                            "phone": "(325) 648-3186",
+                            "email": null,
+                            "url": "https://www.visitgoldthwaite.com/council",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.visitgoldthwaite.com/council"
+                        }
+                    ]
+                }
+            },
+            "progress": {
+                "required_data": 6,
+                "current_data": 1,
+                "has_target_role": true,
+                "has_target_designations": true
+            }
+        },
+        "merge_records_within_llm_step": {
+            "people_by_llm": {
+                "open_router": [
+                    {
+                        "name": "J. Wilson",
+                        "other_names": [],
+                        "roles": [
+                            "mayor"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(325) 648-3186"
+                        ],
+                        "emails": [],
+                        "urls": [
+                            "https://www.visitgoldthwaite.com/mayor"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "local://e4b53422e805.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:goldthwaite/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.visitgoldthwaite.com/mayor"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Ramona Flores",
+                        "other_names": [],
+                        "roles": [
+                            "mayor pro tempore"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(325) 648-3186"
+                        ],
+                        "emails": [],
+                        "urls": [
+                            "https://www.visitgoldthwaite.com/council"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:goldthwaite/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.visitgoldthwaite.com/council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Jimmy Jones",
+                        "other_names": [],
+                        "roles": [
+                            "Alderperson"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(325) 648-3186"
+                        ],
+                        "emails": [],
+                        "urls": [
+                            "https://www.visitgoldthwaite.com/council"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:goldthwaite/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.visitgoldthwaite.com/council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Greg Kithas",
+                        "other_names": [],
+                        "roles": [
+                            "Aldersperson"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(325) 648-3186"
+                        ],
+                        "emails": [],
+                        "urls": [
+                            "https://www.visitgoldthwaite.com/council"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:goldthwaite/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.visitgoldthwaite.com/council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Steve Patrick",
+                        "other_names": [],
+                        "roles": [
+                            "Alderperson"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(325) 648-3186"
+                        ],
+                        "emails": [],
+                        "urls": [
+                            "https://www.visitgoldthwaite.com/council"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:goldthwaite/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.visitgoldthwaite.com/council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Lynn Bouse",
+                        "other_names": [],
+                        "roles": [
+                            "Alderperson"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(325) 648-3186"
+                        ],
+                        "emails": [],
+                        "urls": [
+                            "https://www.visitgoldthwaite.com/council"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:goldthwaite/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.visitgoldthwaite.com/council"
+                        ],
+                        "updated_at": ""
+                    }
+                ]
+            },
+            "unrecognized_roles": [
+                {
+                    "role": "Alderperson",
+                    "person_name": "Jimmy Jones"
+                },
+                {
+                    "role": "Aldersperson",
+                    "person_name": "Greg Kithas"
+                },
+                {
+                    "role": "Alderperson",
+                    "person_name": "Steve Patrick"
+                },
+                {
+                    "role": "Alderperson",
+                    "person_name": "Lynn Bouse"
+                }
+            ],
+            "excluded_people": []
+        },
+        "merge_records_across_llms_step": {
+            "people": [
+                {
+                    "name": "J. Wilson",
+                    "other_names": [],
+                    "roles": [
+                        "mayor"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(325) 648-3186"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.visitgoldthwaite.com/mayor"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "local://e4b53422e805.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:goldthwaite/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.visitgoldthwaite.com/mayor"
+                    ],
+                    "updated_at": "2026-06-04T21:25:07+00:00"
+                },
+                {
+                    "name": "Ramona Flores",
+                    "other_names": [],
+                    "roles": [
+                        "mayor pro tempore"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(325) 648-3186"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.visitgoldthwaite.com/council"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:goldthwaite/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.visitgoldthwaite.com/council"
+                    ],
+                    "updated_at": "2026-06-04T21:25:07+00:00"
+                },
+                {
+                    "name": "Jimmy Jones",
+                    "other_names": [],
+                    "roles": [
+                        "alderperson"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(325) 648-3186"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.visitgoldthwaite.com/council"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:goldthwaite/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.visitgoldthwaite.com/council"
+                    ],
+                    "updated_at": "2026-06-04T21:25:07+00:00"
+                },
+                {
+                    "name": "Greg Kithas",
+                    "other_names": [],
+                    "roles": [
+                        "aldersperson"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(325) 648-3186"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.visitgoldthwaite.com/council"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:goldthwaite/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.visitgoldthwaite.com/council"
+                    ],
+                    "updated_at": "2026-06-04T21:25:07+00:00"
+                },
+                {
+                    "name": "Steve Patrick",
+                    "other_names": [],
+                    "roles": [
+                        "alderperson"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(325) 648-3186"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.visitgoldthwaite.com/council"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:goldthwaite/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.visitgoldthwaite.com/council"
+                    ],
+                    "updated_at": "2026-06-04T21:25:07+00:00"
+                },
+                {
+                    "name": "Lynn Bouse",
+                    "other_names": [],
+                    "roles": [
+                        "alderperson"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(325) 648-3186"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.visitgoldthwaite.com/council"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:goldthwaite/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.visitgoldthwaite.com/council"
+                    ],
+                    "updated_at": "2026-06-04T21:25:07+00:00"
+                }
+            ]
+        },
+        "format_output_step": {
+            "officials": [
+                {
+                    "name": "J. Wilson",
+                    "other_names": [],
+                    "phones": [
+                        "(325) 648-3186"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.visitgoldthwaite.com/mayor"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Mayor",
+                        "division_ocdid": "ocd-division/country:us/state:tx/place:goldthwaite"
+                    },
+                    "image": "https://visitgoldthwaite.com/imgD/muni_social.jpg",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:goldthwaite/government",
+                    "cdn_image": "local://e4b53422e805.png",
+                    "source_urls": [
+                        "https://www.visitgoldthwaite.com/mayor"
+                    ],
+                    "updated_at": "2026-06-04T21:25:07+00:00",
+                    "id": "7c07acd3-b135-4651-af66-78ec1a4cb605"
+                },
+                {
+                    "name": "Ramona Flores",
+                    "other_names": [],
+                    "phones": [
+                        "(325) 648-3186"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.visitgoldthwaite.com/council"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Mayor Pro Tempore",
+                        "division_ocdid": "ocd-division/country:us/state:tx/place:goldthwaite"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:goldthwaite/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.visitgoldthwaite.com/council"
+                    ],
+                    "updated_at": "2026-06-04T21:25:07+00:00",
+                    "id": "2dba3d17-da47-46c9-b158-da73860f224e"
+                },
+                {
+                    "name": "Jimmy Jones",
+                    "other_names": [],
+                    "phones": [
+                        "(325) 648-3186"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.visitgoldthwaite.com/council"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Alderperson",
+                        "division_ocdid": "ocd-division/country:us/state:tx/place:goldthwaite"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:goldthwaite/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.visitgoldthwaite.com/council"
+                    ],
+                    "updated_at": "2026-06-04T21:25:07+00:00",
+                    "id": "f7862b6b-6e48-49a8-bf5a-0b84460ae31a"
+                },
+                {
+                    "name": "Greg Kithas",
+                    "other_names": [],
+                    "phones": [
+                        "(325) 648-3186"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.visitgoldthwaite.com/council"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Aldersperson",
+                        "division_ocdid": "ocd-division/country:us/state:tx/place:goldthwaite"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:goldthwaite/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.visitgoldthwaite.com/council"
+                    ],
+                    "updated_at": "2026-06-04T21:25:07+00:00",
+                    "id": "7b3711b6-9c44-49eb-b3de-24e90835c63e"
+                },
+                {
+                    "name": "Steve Patrick",
+                    "other_names": [],
+                    "phones": [
+                        "(325) 648-3186"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.visitgoldthwaite.com/council"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Alderperson",
+                        "division_ocdid": "ocd-division/country:us/state:tx/place:goldthwaite"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:goldthwaite/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.visitgoldthwaite.com/council"
+                    ],
+                    "updated_at": "2026-06-04T21:25:07+00:00",
+                    "id": "285c0df6-d6f3-46fc-a70c-31469727eeeb"
+                },
+                {
+                    "name": "Lynn Bouse",
+                    "other_names": [],
+                    "phones": [
+                        "(325) 648-3186"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.visitgoldthwaite.com/council"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Alderperson",
+                        "division_ocdid": "ocd-division/country:us/state:tx/place:goldthwaite"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:goldthwaite/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.visitgoldthwaite.com/council"
+                    ],
+                    "updated_at": "2026-06-04T21:25:07+00:00",
+                    "id": "03fa7b6f-98b9-47c9-9a99-6e1741942c35"
+                }
+            ]
+        },
+        "review_output_step": {
+            "issues": [
+                "Extra official: Greg Kithas",
+                "Missing official: Rich Brown"
+            ],
+            "people_by_source": [
+                {
+                    "name": "Greg Kithas",
+                    "in_research": false,
+                    "in_data": true
+                },
+                {
+                    "name": "J. Wilson",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Jimmy Jones",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Lynn Bouse",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Ramona Flores",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Rich Brown",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Steve Patrick",
+                    "in_research": true,
+                    "in_data": true
+                }
+            ],
+            "origin_source": "existing"
+        },
+        "find_jurisdiction_url_step": null,
+        "send_success_step": null,
+        "send_error_step": null,
+        "issues": [
+            {
+                "type": "unrecognized_role",
+                "data": {
+                    "role": "Alderperson",
+                    "person_name": "Jimmy Jones"
+                }
+            },
+            {
+                "type": "unrecognized_role",
+                "data": {
+                    "role": "Aldersperson",
+                    "person_name": "Greg Kithas"
+                }
+            },
+            {
+                "type": "unrecognized_role",
+                "data": {
+                    "role": "Alderperson",
+                    "person_name": "Steve Patrick"
+                }
+            },
+            {
+                "type": "unrecognized_role",
+                "data": {
+                    "role": "Alderperson",
+                    "person_name": "Lynn Bouse"
+                }
+            }
+        ],
+        "error_step": null,
+        "error_detail": null
+    },
+    "current_state": "SEND_SUCCESS",
+    "request_id": "f9944383-51dc-43b8-be8b-01ebcc8d6dec",
+    "created_at": 1780607689.981053,
+    "updated_at": 1780608307.6161673,
+    "progress": 39
+}

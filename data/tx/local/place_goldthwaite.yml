@@ -1,25 +1,26 @@
 - name: J. Wilson
   other_names: []
   phones:
-  - (325) 648-3186
+  - (325) 648-0000
   emails: []
   urls:
-  - https://visitgoldthwaite.com/mayor
+  - https://www.visitgoldthwaite.com/mayor
   start_date: null
   end_date: null
   office:
     name: Mayor
     division_ocdid: ocd-division/country:us/state:tx/place:goldthwaite
-  image: null
+  image: https://visitgoldthwaite.com/imgD/muni_social.jpg
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:tx/place:goldthwaite/government
-  cdn_image: null
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/f9944383-51dc-43b8-be8b-01ebcc8d6dec/data_source/tx/local/place_goldthwaite/images/e4b53422e805.png
   source_urls:
-  - https://visitgoldthwaite.com/mayor
-  updated_at: '2026-03-28T21:33:12+00:00'
+  - https://www.visitgoldthwaite.com/mayor
+  updated_at: '2026-06-04T21:25:07+00:00'
   id: 7c07acd3-b135-4651-af66-78ec1a4cb605
 - name: Ramona Flores
   other_names: []
-  phones: []
+  phones:
+  - (325) 648-3186
   emails: []
   urls:
   - https://www.visitgoldthwaite.com/council
@@ -28,16 +29,17 @@
   office:
     name: Mayor Pro Tempore
     division_ocdid: ocd-division/country:us/state:tx/place:goldthwaite
-  image: null
+  image: ''
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:tx/place:goldthwaite/government
-  cdn_image: null
+  cdn_image: ''
   source_urls:
   - https://www.visitgoldthwaite.com/council
-  updated_at: '2026-03-28T21:33:12+00:00'
+  updated_at: '2026-06-04T21:25:07+00:00'
   id: 2dba3d17-da47-46c9-b158-da73860f224e
-- name: Rich Brown
+- name: Jimmy Jones
   other_names: []
-  phones: []
+  phones:
+  - (325) 648-3186
   emails: []
   urls:
   - https://www.visitgoldthwaite.com/council
@@ -46,16 +48,36 @@
   office:
     name: Alderperson
     division_ocdid: ocd-division/country:us/state:tx/place:goldthwaite
-  image: null
+  image: ''
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:tx/place:goldthwaite/government
-  cdn_image: null
+  cdn_image: ''
   source_urls:
   - https://www.visitgoldthwaite.com/council
-  updated_at: '2026-03-28T21:33:12+00:00'
-  id: 72f10362-03e8-4f10-a9a0-67cb8ffad8e9
+  updated_at: '2026-06-04T21:25:07+00:00'
+  id: f7862b6b-6e48-49a8-bf5a-0b84460ae31a
+- name: Greg Kithas
+  other_names: []
+  phones:
+  - (325) 648-3186
+  emails: []
+  urls:
+  - https://www.visitgoldthwaite.com/council
+  start_date: null
+  end_date: null
+  office:
+    name: Aldersperson
+    division_ocdid: ocd-division/country:us/state:tx/place:goldthwaite
+  image: ''
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:tx/place:goldthwaite/government
+  cdn_image: ''
+  source_urls:
+  - https://www.visitgoldthwaite.com/council
+  updated_at: '2026-06-04T21:25:07+00:00'
+  id: 7b3711b6-9c44-49eb-b3de-24e90835c63e
 - name: Steve Patrick
   other_names: []
-  phones: []
+  phones:
+  - (325) 648-3186
   emails: []
   urls:
   - https://www.visitgoldthwaite.com/council
@@ -64,16 +86,17 @@
   office:
     name: Alderperson
     division_ocdid: ocd-division/country:us/state:tx/place:goldthwaite
-  image: null
+  image: ''
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:tx/place:goldthwaite/government
-  cdn_image: null
+  cdn_image: ''
   source_urls:
   - https://www.visitgoldthwaite.com/council
-  updated_at: '2026-03-28T21:33:12+00:00'
+  updated_at: '2026-06-04T21:25:07+00:00'
   id: 285c0df6-d6f3-46fc-a70c-31469727eeeb
 - name: Lynn Bouse
   other_names: []
-  phones: []
+  phones:
+  - (325) 648-3186
   emails: []
   urls:
   - https://www.visitgoldthwaite.com/council
@@ -82,28 +105,10 @@
   office:
     name: Alderperson
     division_ocdid: ocd-division/country:us/state:tx/place:goldthwaite
-  image: null
+  image: ''
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:tx/place:goldthwaite/government
-  cdn_image: null
+  cdn_image: ''
   source_urls:
   - https://www.visitgoldthwaite.com/council
-  updated_at: '2026-03-28T21:33:12+00:00'
+  updated_at: '2026-06-04T21:25:07+00:00'
   id: 03fa7b6f-98b9-47c9-9a99-6e1741942c35
-- name: Jimmy Jones
-  other_names: []
-  phones: []
-  emails: []
-  urls:
-  - https://www.visitgoldthwaite.com/council
-  start_date: null
-  end_date: null
-  office:
-    name: Alderperson
-    division_ocdid: ocd-division/country:us/state:tx/place:goldthwaite
-  image: null
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:tx/place:goldthwaite/government
-  cdn_image: null
-  source_urls:
-  - https://www.visitgoldthwaite.com/council
-  updated_at: '2026-03-28T21:33:12+00:00'
-  id: f7862b6b-6e48-49a8-bf5a-0b84460ae31a
