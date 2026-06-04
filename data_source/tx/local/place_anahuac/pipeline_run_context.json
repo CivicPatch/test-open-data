@@ -1,0 +1,1068 @@
+{
+    "data": {
+        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:anahuac/government",
+        "config": {
+            "url": "https://www.anahuac.us",
+            "name": "Anahuac city",
+            "source_urls": null
+        },
+        "frontier": {
+            "links": {
+                "https://anahuac.us": {
+                    "url": "https://www.anahuac.us",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_anahuac_us",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 1
+                },
+                "https://anahuac.us/contact": {
+                    "url": "https://anahuac.us/contact",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://anahuac.us/government/city-council": {
+                    "url": "https://anahuac.us/government/city-council",
+                    "status": "done",
+                    "folder_name": "anahuac_us_government_city-council",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 2
+                },
+                "https://anahuac.us/government": {
+                    "url": "https://anahuac.us/government/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://anahuac.us/government/greetings-from-the-mayor": {
+                    "url": "https://anahuac.us/government/greetings-from-the-mayor/",
+                    "status": "done",
+                    "folder_name": "anahuac_us_government_greetings-from-the-mayor_",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 3
+                },
+                "https://anahuac.us/government/elections": {
+                    "url": "https://anahuac.us/government/elections/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://anahuac.us/departments": {
+                    "url": "https://anahuac.us/departments/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://anahuac.us/employment-opportunities": {
+                    "url": "https://anahuac.us/employment-opportunities/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://anahuac.us/living-visiting/community": {
+                    "url": "https://anahuac.us/living-visiting/community/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://anahuac.us/living-visiting/residents": {
+                    "url": "https://anahuac.us/living-visiting/residents/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://anahuac.us/living-visiting/tourism": {
+                    "url": "https://anahuac.us/living-visiting/tourism/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://anahuac.us/how-do-i": {
+                    "url": "https://anahuac.us/how-do-i/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://anahuac.us/government/agendas-and-minutes": {
+                    "url": "https://anahuac.us/government/agendas-and-minutes/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://anahuac.us/government/city-documents": {
+                    "url": "https://anahuac.us/government/city-documents/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://anahuac.us/government/financial-transparency": {
+                    "url": "https://anahuac.us/government/financial-transparency/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://anahuac.us/government/public-notices": {
+                    "url": "https://anahuac.us/government/public-notices/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://anahuac.us/events": {
+                    "url": "https://anahuac.us/events/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://anahuac.us/departments/building-and-planning/permits-and-inspections": {
+                    "url": "https://anahuac.us/departments/building-and-planning/permits-and-inspections/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://anahuac.us/government/city-council/agendas-and-minutes": {
+                    "url": "https://anahuac.us/government/city-council/agendas-and-minutes/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                }
+            },
+            "queue": [
+                "https://anahuac.us/government/city-documents",
+                "https://anahuac.us/government",
+                "https://anahuac.us/departments",
+                "https://anahuac.us/government/elections",
+                "https://anahuac.us/government/agendas-and-minutes",
+                "https://anahuac.us/government/financial-transparency",
+                "https://anahuac.us/government/public-notices",
+                "https://anahuac.us/government/city-council/agendas-and-minutes",
+                "https://anahuac.us/departments/building-and-planning/permits-and-inspections",
+                "https://anahuac.us/contact",
+                "https://anahuac.us/employment-opportunities",
+                "https://anahuac.us/how-do-i",
+                "https://anahuac.us/living-visiting/community",
+                "https://anahuac.us/living-visiting/residents",
+                "https://anahuac.us/living-visiting/tourism",
+                "https://anahuac.us/events"
+            ]
+        },
+        "research_municipality_step": {
+            "expected_count": 6,
+            "target_designations": [],
+            "known_roles": [
+                "Mayor",
+                "Council Member",
+                "Mayor Pro Tempore"
+            ],
+            "identities": {
+                "Charles Hightower": [],
+                "Janice Jircik": [],
+                "Kolby Chambliss": [],
+                "Sean Perry": [],
+                "Meredith Turner-Croyle": [
+                    "Meredith Turner"
+                ],
+                "Nathan Trahan": []
+            },
+            "source_urls": [
+                "https://anahuac.us/contact",
+                "https://anahuac.us/government/city-council"
+            ],
+            "notes": null,
+            "origin_source": "existing"
+        },
+        "preprocess_page_content_step": {
+            "elapsed_times": [
+                2,
+                2,
+                0,
+                0,
+                0
+            ],
+            "total_elapsed_time_seconds": 0,
+            "average_elapsed_time_seconds": 0
+        },
+        "process_page_content_step": {
+            "raw_records_by_llm": {
+                "open_router": {
+                    "Kolby Chambliss": [
+                        {
+                            "name": "Kolby Chambliss",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 1"
+                            ],
+                            "phone": "409-267-6681",
+                            "email": "k.chambliss@anahuac.us",
+                            "url": "https://anahuac.us/government/city-council/",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://anahuac.us/government/city-council"
+                        }
+                    ],
+                    "Janice Jircik": [
+                        {
+                            "name": "Janice Jircik",
+                            "roles": [
+                                "Council Member",
+                                "Mayor Pro Tem"
+                            ],
+                            "designations": [
+                                "Position 2"
+                            ],
+                            "phone": "409-267-6681",
+                            "email": "j.jircik@anahuac.us",
+                            "url": "https://anahuac.us/government/city-council/",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://anahuac.us/government/city-council"
+                        }
+                    ],
+                    "Sean Perry": [
+                        {
+                            "name": "Sean Perry",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 3"
+                            ],
+                            "phone": "409-267-6681",
+                            "email": "s.perry@anahuac.us",
+                            "url": "https://anahuac.us/government/city-council/",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://anahuac.us/government/city-council"
+                        }
+                    ],
+                    "Meredith Turner-Croyle": [
+                        {
+                            "name": "Meredith Turner-Croyle",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 4"
+                            ],
+                            "phone": "409-267-6681",
+                            "email": "m.turner-croyle@anahuac.us",
+                            "url": "https://anahuac.us/government/city-council/",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://anahuac.us/government/city-council"
+                        }
+                    ],
+                    "Nathan Trahan": [
+                        {
+                            "name": "Nathan Trahan",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 5"
+                            ],
+                            "phone": "409-267-6681",
+                            "email": "n.trahan@anahuac.us",
+                            "url": "https://anahuac.us/government/city-council/",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://anahuac.us/government/city-council"
+                        }
+                    ],
+                    "Charles Hightower": [
+                        {
+                            "name": "Charles Hightower",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "409-267-6681",
+                            "email": "c.hightower@anahuac.us",
+                            "url": "https://anahuac.us/government/greetings-from-the-mayor/",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://anahuac.us/government/greetings-from-the-mayor/"
+                        }
+                    ]
+                }
+            },
+            "records_by_llm": {
+                "open_router": {
+                    "Kolby Chambliss": [
+                        {
+                            "name": "Kolby Chambliss",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Position 1"
+                            ],
+                            "phone": "(409) 267-6681",
+                            "email": "k.chambliss@anahuac.us",
+                            "url": "https://anahuac.us/government/city-council/",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://anahuac.us/government/city-council"
+                        }
+                    ],
+                    "Janice Jircik": [
+                        {
+                            "name": "Janice Jircik",
+                            "roles": [
+                                "council member",
+                                "mayor pro tempore"
+                            ],
+                            "designations": [
+                                "Position 2"
+                            ],
+                            "phone": "(409) 267-6681",
+                            "email": "j.jircik@anahuac.us",
+                            "url": "https://anahuac.us/government/city-council/",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://anahuac.us/government/city-council"
+                        }
+                    ],
+                    "Sean Perry": [
+                        {
+                            "name": "Sean Perry",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Position 3"
+                            ],
+                            "phone": "(409) 267-6681",
+                            "email": "s.perry@anahuac.us",
+                            "url": "https://anahuac.us/government/city-council/",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://anahuac.us/government/city-council"
+                        }
+                    ],
+                    "Meredith Turner-Croyle": [
+                        {
+                            "name": "Meredith Turner-Croyle",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Position 4"
+                            ],
+                            "phone": "(409) 267-6681",
+                            "email": "m.turner-croyle@anahuac.us",
+                            "url": "https://anahuac.us/government/city-council/",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://anahuac.us/government/city-council"
+                        }
+                    ],
+                    "Nathan Trahan": [
+                        {
+                            "name": "Nathan Trahan",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Position 5"
+                            ],
+                            "phone": "(409) 267-6681",
+                            "email": "n.trahan@anahuac.us",
+                            "url": "https://anahuac.us/government/city-council/",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://anahuac.us/government/city-council"
+                        }
+                    ],
+                    "Charles Hightower": [
+                        {
+                            "name": "Charles Hightower",
+                            "roles": [
+                                "mayor"
+                            ],
+                            "designations": [],
+                            "phone": "(409) 267-6681",
+                            "email": "c.hightower@anahuac.us",
+                            "url": "https://anahuac.us/government/greetings-from-the-mayor/",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://anahuac.us/government/greetings-from-the-mayor/"
+                        }
+                    ]
+                }
+            },
+            "progress": {
+                "required_data": 6,
+                "current_data": 6,
+                "has_target_role": true,
+                "has_target_designations": true
+            }
+        },
+        "merge_records_within_llm_step": {
+            "people_by_llm": {
+                "open_router": [
+                    {
+                        "name": "Kolby Chambliss",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Position 1"
+                        ],
+                        "phones": [
+                            "(409) 267-6681"
+                        ],
+                        "emails": [
+                            "k.chambliss@anahuac.us"
+                        ],
+                        "urls": [
+                            "https://anahuac.us/government/city-council/"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:anahuac/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://anahuac.us/government/city-council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Janice Jircik",
+                        "other_names": [],
+                        "roles": [
+                            "council member",
+                            "mayor pro tempore"
+                        ],
+                        "designations": [
+                            "Position 2"
+                        ],
+                        "phones": [
+                            "(409) 267-6681"
+                        ],
+                        "emails": [
+                            "j.jircik@anahuac.us"
+                        ],
+                        "urls": [
+                            "https://anahuac.us/government/city-council/"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:anahuac/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://anahuac.us/government/city-council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Sean Perry",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Position 3"
+                        ],
+                        "phones": [
+                            "(409) 267-6681"
+                        ],
+                        "emails": [
+                            "s.perry@anahuac.us"
+                        ],
+                        "urls": [
+                            "https://anahuac.us/government/city-council/"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:anahuac/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://anahuac.us/government/city-council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Meredith Turner-Croyle",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Position 4"
+                        ],
+                        "phones": [
+                            "(409) 267-6681"
+                        ],
+                        "emails": [
+                            "m.turner-croyle@anahuac.us"
+                        ],
+                        "urls": [
+                            "https://anahuac.us/government/city-council/"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:anahuac/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://anahuac.us/government/city-council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Nathan Trahan",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Position 5"
+                        ],
+                        "phones": [
+                            "(409) 267-6681"
+                        ],
+                        "emails": [
+                            "n.trahan@anahuac.us"
+                        ],
+                        "urls": [
+                            "https://anahuac.us/government/city-council/"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:anahuac/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://anahuac.us/government/city-council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Charles Hightower",
+                        "other_names": [],
+                        "roles": [
+                            "mayor"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(409) 267-6681"
+                        ],
+                        "emails": [
+                            "c.hightower@anahuac.us"
+                        ],
+                        "urls": [
+                            "https://anahuac.us/government/greetings-from-the-mayor/"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:anahuac/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://anahuac.us/government/greetings-from-the-mayor/"
+                        ],
+                        "updated_at": ""
+                    }
+                ]
+            },
+            "unrecognized_roles": [],
+            "excluded_people": []
+        },
+        "merge_records_across_llms_step": {
+            "people": [
+                {
+                    "name": "Charles Hightower",
+                    "other_names": [],
+                    "roles": [
+                        "mayor"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(409) 267-6681"
+                    ],
+                    "emails": [
+                        "c.hightower@anahuac.us"
+                    ],
+                    "urls": [
+                        "https://anahuac.us/government/greetings-from-the-mayor/"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:anahuac/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://anahuac.us/government/greetings-from-the-mayor/"
+                    ],
+                    "updated_at": "2026-06-04T00:40:18+00:00"
+                },
+                {
+                    "name": "Kolby Chambliss",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 1"
+                    ],
+                    "phones": [
+                        "(409) 267-6681"
+                    ],
+                    "emails": [
+                        "k.chambliss@anahuac.us"
+                    ],
+                    "urls": [
+                        "https://anahuac.us/government/city-council/"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:anahuac/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://anahuac.us/government/city-council"
+                    ],
+                    "updated_at": "2026-06-04T00:40:18+00:00"
+                },
+                {
+                    "name": "Janice Jircik",
+                    "other_names": [],
+                    "roles": [
+                        "council member",
+                        "mayor pro tempore"
+                    ],
+                    "designations": [
+                        "position 2"
+                    ],
+                    "phones": [
+                        "(409) 267-6681"
+                    ],
+                    "emails": [
+                        "j.jircik@anahuac.us"
+                    ],
+                    "urls": [
+                        "https://anahuac.us/government/city-council/"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:anahuac/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://anahuac.us/government/city-council"
+                    ],
+                    "updated_at": "2026-06-04T00:40:18+00:00"
+                },
+                {
+                    "name": "Sean Perry",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 3"
+                    ],
+                    "phones": [
+                        "(409) 267-6681"
+                    ],
+                    "emails": [
+                        "s.perry@anahuac.us"
+                    ],
+                    "urls": [
+                        "https://anahuac.us/government/city-council/"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:anahuac/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://anahuac.us/government/city-council"
+                    ],
+                    "updated_at": "2026-06-04T00:40:18+00:00"
+                },
+                {
+                    "name": "Meredith Turner-Croyle",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 4"
+                    ],
+                    "phones": [
+                        "(409) 267-6681"
+                    ],
+                    "emails": [
+                        "m.turner-croyle@anahuac.us"
+                    ],
+                    "urls": [
+                        "https://anahuac.us/government/city-council/"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:anahuac/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://anahuac.us/government/city-council"
+                    ],
+                    "updated_at": "2026-06-04T00:40:18+00:00"
+                },
+                {
+                    "name": "Nathan Trahan",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 5"
+                    ],
+                    "phones": [
+                        "(409) 267-6681"
+                    ],
+                    "emails": [
+                        "n.trahan@anahuac.us"
+                    ],
+                    "urls": [
+                        "https://anahuac.us/government/city-council/"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:anahuac/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://anahuac.us/government/city-council"
+                    ],
+                    "updated_at": "2026-06-04T00:40:18+00:00"
+                }
+            ]
+        },
+        "format_output_step": {
+            "officials": [
+                {
+                    "name": "Charles Hightower",
+                    "other_names": [],
+                    "phones": [
+                        "(409) 267-6681"
+                    ],
+                    "emails": [
+                        "c.hightower@anahuac.us"
+                    ],
+                    "urls": [
+                        "https://anahuac.us/government/greetings-from-the-mayor/"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Mayor",
+                        "division_ocdid": "ocd-division/country:us/state:tx/place:anahuac"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:anahuac/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://anahuac.us/government/greetings-from-the-mayor/"
+                    ],
+                    "updated_at": "2026-06-04T00:40:18+00:00",
+                    "id": "2849b147-ebdb-462e-9820-1e5af2759877"
+                },
+                {
+                    "name": "Kolby Chambliss",
+                    "other_names": [],
+                    "phones": [
+                        "(409) 267-6681"
+                    ],
+                    "emails": [
+                        "k.chambliss@anahuac.us"
+                    ],
+                    "urls": [
+                        "https://anahuac.us/government/city-council/"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Position 1",
+                        "division_ocdid": "ocd-division/country:us/state:tx/place:anahuac"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:anahuac/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://anahuac.us/government/city-council"
+                    ],
+                    "updated_at": "2026-06-04T00:40:18+00:00",
+                    "id": "4c9bf444-1eab-4fff-b98d-ded42ddd98b8"
+                },
+                {
+                    "name": "Janice Jircik",
+                    "other_names": [],
+                    "phones": [
+                        "(409) 267-6681"
+                    ],
+                    "emails": [
+                        "j.jircik@anahuac.us"
+                    ],
+                    "urls": [
+                        "https://anahuac.us/government/city-council/"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Mayor Pro Tempore - Position 2",
+                        "division_ocdid": "ocd-division/country:us/state:tx/place:anahuac"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:anahuac/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://anahuac.us/government/city-council"
+                    ],
+                    "updated_at": "2026-06-04T00:40:18+00:00",
+                    "id": "242a31c5-68f9-4fe6-ab8e-b6a0b95f8092"
+                },
+                {
+                    "name": "Sean Perry",
+                    "other_names": [],
+                    "phones": [
+                        "(409) 267-6681"
+                    ],
+                    "emails": [
+                        "s.perry@anahuac.us"
+                    ],
+                    "urls": [
+                        "https://anahuac.us/government/city-council/"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Position 3",
+                        "division_ocdid": "ocd-division/country:us/state:tx/place:anahuac"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:anahuac/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://anahuac.us/government/city-council"
+                    ],
+                    "updated_at": "2026-06-04T00:40:18+00:00",
+                    "id": "bb134a59-ded4-4dd5-994b-e31cd4b29984"
+                },
+                {
+                    "name": "Meredith Turner-Croyle",
+                    "other_names": [
+                        "Meredith Turner"
+                    ],
+                    "phones": [
+                        "(409) 267-6681"
+                    ],
+                    "emails": [
+                        "m.turner-croyle@anahuac.us"
+                    ],
+                    "urls": [
+                        "https://anahuac.us/government/city-council/"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Position 4",
+                        "division_ocdid": "ocd-division/country:us/state:tx/place:anahuac"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:anahuac/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://anahuac.us/government/city-council"
+                    ],
+                    "updated_at": "2026-06-04T00:40:18+00:00",
+                    "id": "4b3ebeef-1a2f-4b2e-af06-9e82141bcff7"
+                },
+                {
+                    "name": "Nathan Trahan",
+                    "other_names": [],
+                    "phones": [
+                        "(409) 267-6681"
+                    ],
+                    "emails": [
+                        "n.trahan@anahuac.us"
+                    ],
+                    "urls": [
+                        "https://anahuac.us/government/city-council/"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Position 5",
+                        "division_ocdid": "ocd-division/country:us/state:tx/place:anahuac"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:anahuac/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://anahuac.us/government/city-council"
+                    ],
+                    "updated_at": "2026-06-04T00:40:18+00:00",
+                    "id": "7d25f17f-fc83-4076-825d-8e55af64eb51"
+                }
+            ]
+        },
+        "review_output_step": {
+            "issues": [],
+            "people_by_source": [
+                {
+                    "name": "Charles Hightower",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Janice Jircik",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Kolby Chambliss",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Meredith Turner-Croyle",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Nathan Trahan",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Sean Perry",
+                    "in_research": true,
+                    "in_data": true
+                }
+            ],
+            "origin_source": "existing"
+        },
+        "find_jurisdiction_url_step": null,
+        "send_success_step": null,
+        "send_error_step": null,
+        "issues": [],
+        "error_step": null,
+        "error_detail": null
+    },
+    "current_state": "SEND_SUCCESS",
+    "request_id": "a7757d4c-c18b-4bf2-b978-b9969b62b142",
+    "created_at": 1780533551.4952197,
+    "updated_at": 1780533618.7268815,
+    "progress": 97
+}
