@@ -11,13 +11,13 @@
   office:
     name: Mayor
     division_ocdid: ocd-division/country:us/state:tx/place:amherst
-  image: null
+  image: ''
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:tx/place:amherst/government
-  cdn_image: null
+  cdn_image: ''
   source_urls:
   - https://www.cityofamherst.com/city_government/mayor___city_council.php
   - https://www.cityofamherst.com/city_government/index.php
-  updated_at: '2026-04-10T00:27:50+00:00'
+  updated_at: '2026-06-04T19:35:40+00:00'
   id: 60c7a808-8164-45e9-b23d-3bbd6d8548bb
 - name: Mickey Brantley
   other_names: []
@@ -30,18 +30,19 @@
   start_date: null
   end_date: '2026'
   office:
-    name: Commissioner - Mayor Pro-Tem
+    name: Commissioner - Mayor Pro Tempore
     division_ocdid: ocd-division/country:us/state:tx/place:amherst
-  image: null
+  image: ''
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:tx/place:amherst/government
-  cdn_image: null
+  cdn_image: ''
   source_urls:
   - https://www.cityofamherst.com/city_government/mayor___city_council.php
   - https://www.cityofamherst.com/city_government/index.php
-  updated_at: '2026-04-10T00:27:50+00:00'
+  updated_at: '2026-06-04T19:35:40+00:00'
   id: 652ff694-5cab-4e94-8f2c-8744cf0fae2b
 - name: Rosa Logsdon
-  other_names: []
+  other_names:
+  - Rosa L. Logsdon
   phones:
   - (806) 246-3421
   emails:
@@ -53,11 +54,11 @@
   office:
     name: Commissioner
     division_ocdid: ocd-division/country:us/state:tx/place:amherst
-  image: null
+  image: ''
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:tx/place:amherst/government
-  cdn_image: null
+  cdn_image: ''
   source_urls:
   - https://www.cityofamherst.com/city_government/mayor___city_council.php
   - https://www.cityofamherst.com/city_government/index.php
-  updated_at: '2026-04-10T00:27:50+00:00'
+  updated_at: '2026-06-04T19:35:40+00:00'
   id: b39449a3-7f63-4cb7-ae94-e9e91dc396eb

@@ -1,0 +1,701 @@
+{
+    "data": {
+        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:amherst/government",
+        "config": {
+            "url": "https://www.cityofamherst.com/",
+            "name": "Amherst city",
+            "source_urls": null
+        },
+        "frontier": {
+            "links": {
+                "https://cityofamherst.com": {
+                    "url": "https://www.cityofamherst.com/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofamherst_com_",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 1
+                },
+                "https://cityofamherst.com/city_government/mayor___city_council.php": {
+                    "url": "https://www.cityofamherst.com/city_government/mayor___city_council.php",
+                    "status": "done",
+                    "folder_name": "www_cityofamherst_com_city_government_mayor___city_council_php",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 2
+                },
+                "https://cityofamherst.com/city_government/index.php": {
+                    "url": "https://www.cityofamherst.com/city_government/index.php",
+                    "status": "done",
+                    "folder_name": "www_cityofamherst_com_city_government_index_php",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 3
+                },
+                "https://cityofamherst.com/contact_us/index.php": {
+                    "url": "https://www.cityofamherst.com/contact_us/index.php",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofamherst_com_contact_us_index_php",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 4
+                },
+                "https://cityofamherst.com/city_government/city_council_agenda___minutes.php": {
+                    "url": "https://www.cityofamherst.com/city_government/city_council_agenda___minutes.php",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofamherst_com_city_government_city_council_agenda___minutes_php",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 5
+                },
+                "https://cityofamherst.com/city_government/community_resources.php": {
+                    "url": "https://www.cityofamherst.com/city_government/community_resources.php",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofamherst_com_city_government_community_resources_php",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 6
+                },
+                "https://cityofamherst.com/city_government/public_works.php": {
+                    "url": "https://www.cityofamherst.com/city_government/public_works.php",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofamherst_com_city_government_public_works_php",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 7
+                },
+                "https://cityofamherst.com/city_government/budget_and_tax_rate_information.php": {
+                    "url": "https://www.cityofamherst.com/city_government/budget_and_tax_rate_information.php",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofamherst_com_city_government_budget_and_tax_rate_information_php",
+                    "num_references": 5,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 9
+                },
+                "https://cityofamherst.com/municipal_services/index.php": {
+                    "url": "https://www.cityofamherst.com/municipal_services/index.php",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofamherst_com_municipal_services_index_php",
+                    "num_references": 5,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 10
+                },
+                "https://cityofamherst.com/municipal_services/pay_online.php": {
+                    "url": "https://www.cityofamherst.com/municipal_services/pay_online.php",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofamherst_com_municipal_services_pay_online_php",
+                    "num_references": 6,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 12
+                },
+                "https://cityofamherst.com/emergency_services/index.php": {
+                    "url": "https://www.cityofamherst.com/emergency_services/index.php",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofamherst_com_emergency_services_index_php",
+                    "num_references": 6,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 11
+                },
+                "https://cityofamherst.com/index.php": {
+                    "url": "https://www.cityofamherst.com/index.php",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofamherst_com_index_php",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 8
+                },
+                "https://cityofamherst.com/newslist.php": {
+                    "url": "https://www.cityofamherst.com/newslist.php",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofamherst_com_newslist_php",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 13
+                },
+                "https://cityofamherst.com/calendar.php": {
+                    "url": "https://www.cityofamherst.com/calendar.php",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofamherst_com_calendar_php",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 14
+                }
+            },
+            "queue": []
+        },
+        "research_municipality_step": {
+            "expected_count": 3,
+            "target_designations": [],
+            "known_roles": [
+                "Mayor",
+                "Commissioner",
+                "Mayor Pro-Tem"
+            ],
+            "identities": {
+                "Clinton Sawyer": [],
+                "Mickey Brantley": [],
+                "Rosa Logsdon": []
+            },
+            "source_urls": [
+                "https://www.cityofamherst.com/city_government/mayor___city_council.php",
+                "https://www.cityofamherst.com/city_government/index.php"
+            ],
+            "notes": null,
+            "origin_source": "existing"
+        },
+        "preprocess_page_content_step": {
+            "elapsed_times": [
+                2,
+                0,
+                0,
+                0,
+                2,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "total_elapsed_time_seconds": 4,
+            "average_elapsed_time_seconds": 0
+        },
+        "process_page_content_step": {
+            "raw_records_by_llm": {
+                "open_router": {
+                    "Clinton Sawyer": [
+                        {
+                            "name": "Clinton Sawyer",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofamherst.com/city_government/mayor___city_council.php"
+                        },
+                        {
+                            "name": "Clinton Sawyer",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "8062463421",
+                            "email": "admin@cityofamherst.com",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2026",
+                            "image": null,
+                            "source_url": "https://www.cityofamherst.com/city_government/index.php"
+                        }
+                    ],
+                    "Mickey Brantley": [
+                        {
+                            "name": "Mickey Brantley",
+                            "roles": [
+                                "Commissioner",
+                                "Mayor Pro-tem"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofamherst.com/city_government/mayor___city_council.php"
+                        },
+                        {
+                            "name": "Mickey Brantley",
+                            "roles": [
+                                "Commissioner"
+                            ],
+                            "designations": [],
+                            "phone": "8062463421",
+                            "email": "admin@cityofamherst.com",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2026",
+                            "image": null,
+                            "source_url": "https://www.cityofamherst.com/city_government/index.php"
+                        }
+                    ],
+                    "Rosa L. Logsdon": [
+                        {
+                            "name": "Rosa L. Logsdon",
+                            "roles": [
+                                "Commissioner"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofamherst.com/city_government/mayor___city_council.php"
+                        }
+                    ],
+                    "Rosa Logsdon": [
+                        {
+                            "name": "Rosa Logsdon",
+                            "roles": [
+                                "Commissioner"
+                            ],
+                            "designations": [],
+                            "phone": "8062463421",
+                            "email": "admin@cityofamherst.com",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2026",
+                            "image": null,
+                            "source_url": "https://www.cityofamherst.com/city_government/index.php"
+                        }
+                    ]
+                }
+            },
+            "records_by_llm": {
+                "open_router": {
+                    "Clinton Sawyer": [
+                        {
+                            "name": "Clinton Sawyer",
+                            "roles": [
+                                "mayor"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofamherst.com/city_government/mayor___city_council.php"
+                        },
+                        {
+                            "name": "Clinton Sawyer",
+                            "roles": [
+                                "mayor"
+                            ],
+                            "designations": [],
+                            "phone": "(806) 246-3421",
+                            "email": "admin@cityofamherst.com",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2026",
+                            "image": null,
+                            "source_url": "https://www.cityofamherst.com/city_government/index.php"
+                        }
+                    ],
+                    "Mickey Brantley": [
+                        {
+                            "name": "Mickey Brantley",
+                            "roles": [
+                                "commissioner",
+                                "mayor pro tempore"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofamherst.com/city_government/mayor___city_council.php"
+                        },
+                        {
+                            "name": "Mickey Brantley",
+                            "roles": [
+                                "commissioner"
+                            ],
+                            "designations": [],
+                            "phone": "(806) 246-3421",
+                            "email": "admin@cityofamherst.com",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2026",
+                            "image": null,
+                            "source_url": "https://www.cityofamherst.com/city_government/index.php"
+                        }
+                    ],
+                    "Rosa L. Logsdon": [
+                        {
+                            "name": "Rosa L. Logsdon",
+                            "roles": [
+                                "commissioner"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofamherst.com/city_government/mayor___city_council.php"
+                        }
+                    ],
+                    "Rosa Logsdon": [
+                        {
+                            "name": "Rosa Logsdon",
+                            "roles": [
+                                "commissioner"
+                            ],
+                            "designations": [],
+                            "phone": "(806) 246-3421",
+                            "email": "admin@cityofamherst.com",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2026",
+                            "image": null,
+                            "source_url": "https://www.cityofamherst.com/city_government/index.php"
+                        }
+                    ]
+                }
+            },
+            "progress": {
+                "required_data": 5,
+                "current_data": 0,
+                "has_target_role": true,
+                "has_target_designations": true
+            }
+        },
+        "merge_records_within_llm_step": {
+            "people_by_llm": {
+                "open_router": [
+                    {
+                        "name": "Clinton Sawyer",
+                        "other_names": [],
+                        "roles": [
+                            "mayor"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(806) 246-3421"
+                        ],
+                        "emails": [
+                            "admin@cityofamherst.com"
+                        ],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "2026",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:amherst/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.cityofamherst.com/city_government/mayor___city_council.php",
+                            "https://www.cityofamherst.com/city_government/index.php"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Mickey Brantley",
+                        "other_names": [],
+                        "roles": [
+                            "commissioner",
+                            "mayor pro tempore"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(806) 246-3421"
+                        ],
+                        "emails": [
+                            "admin@cityofamherst.com"
+                        ],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "2026",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:amherst/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.cityofamherst.com/city_government/mayor___city_council.php",
+                            "https://www.cityofamherst.com/city_government/index.php"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Rosa Logsdon",
+                        "other_names": [
+                            "Rosa L. Logsdon"
+                        ],
+                        "roles": [
+                            "commissioner"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(806) 246-3421"
+                        ],
+                        "emails": [
+                            "admin@cityofamherst.com"
+                        ],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "2026",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:amherst/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.cityofamherst.com/city_government/mayor___city_council.php",
+                            "https://www.cityofamherst.com/city_government/index.php"
+                        ],
+                        "updated_at": ""
+                    }
+                ]
+            },
+            "unrecognized_roles": [],
+            "excluded_people": []
+        },
+        "merge_records_across_llms_step": {
+            "people": [
+                {
+                    "name": "Clinton Sawyer",
+                    "other_names": [],
+                    "roles": [
+                        "mayor"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(806) 246-3421"
+                    ],
+                    "emails": [
+                        "admin@cityofamherst.com"
+                    ],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "2026",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:amherst/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.cityofamherst.com/city_government/mayor___city_council.php",
+                        "https://www.cityofamherst.com/city_government/index.php"
+                    ],
+                    "updated_at": "2026-06-04T19:35:40+00:00"
+                },
+                {
+                    "name": "Mickey Brantley",
+                    "other_names": [],
+                    "roles": [
+                        "commissioner",
+                        "mayor pro tempore"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(806) 246-3421"
+                    ],
+                    "emails": [
+                        "admin@cityofamherst.com"
+                    ],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "2026",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:amherst/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.cityofamherst.com/city_government/mayor___city_council.php",
+                        "https://www.cityofamherst.com/city_government/index.php"
+                    ],
+                    "updated_at": "2026-06-04T19:35:40+00:00"
+                },
+                {
+                    "name": "Rosa Logsdon",
+                    "other_names": [
+                        "Rosa L. Logsdon"
+                    ],
+                    "roles": [
+                        "commissioner"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(806) 246-3421"
+                    ],
+                    "emails": [
+                        "admin@cityofamherst.com"
+                    ],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "2026",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:amherst/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.cityofamherst.com/city_government/mayor___city_council.php",
+                        "https://www.cityofamherst.com/city_government/index.php"
+                    ],
+                    "updated_at": "2026-06-04T19:35:40+00:00"
+                }
+            ]
+        },
+        "format_output_step": {
+            "officials": [
+                {
+                    "name": "Clinton Sawyer",
+                    "other_names": [],
+                    "phones": [
+                        "(806) 246-3421"
+                    ],
+                    "emails": [
+                        "admin@cityofamherst.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofamherst.com/city_government/mayor___city_council.php"
+                    ],
+                    "start_date": null,
+                    "end_date": "2026",
+                    "office": {
+                        "name": "Mayor",
+                        "division_ocdid": "ocd-division/country:us/state:tx/place:amherst"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:amherst/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.cityofamherst.com/city_government/mayor___city_council.php",
+                        "https://www.cityofamherst.com/city_government/index.php"
+                    ],
+                    "updated_at": "2026-06-04T19:35:40+00:00",
+                    "id": "60c7a808-8164-45e9-b23d-3bbd6d8548bb"
+                },
+                {
+                    "name": "Mickey Brantley",
+                    "other_names": [],
+                    "phones": [
+                        "(806) 246-3421"
+                    ],
+                    "emails": [
+                        "admin@cityofamherst.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofamherst.com/city_government/mayor___city_council.php"
+                    ],
+                    "start_date": null,
+                    "end_date": "2026",
+                    "office": {
+                        "name": "Commissioner - Mayor Pro Tempore",
+                        "division_ocdid": "ocd-division/country:us/state:tx/place:amherst"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:amherst/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.cityofamherst.com/city_government/mayor___city_council.php",
+                        "https://www.cityofamherst.com/city_government/index.php"
+                    ],
+                    "updated_at": "2026-06-04T19:35:40+00:00",
+                    "id": "652ff694-5cab-4e94-8f2c-8744cf0fae2b"
+                },
+                {
+                    "name": "Rosa Logsdon",
+                    "other_names": [
+                        "Rosa L. Logsdon"
+                    ],
+                    "phones": [
+                        "(806) 246-3421"
+                    ],
+                    "emails": [
+                        "admin@cityofamherst.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofamherst.com/city_government/mayor___city_council.php"
+                    ],
+                    "start_date": null,
+                    "end_date": "2026",
+                    "office": {
+                        "name": "Commissioner",
+                        "division_ocdid": "ocd-division/country:us/state:tx/place:amherst"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:amherst/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.cityofamherst.com/city_government/mayor___city_council.php",
+                        "https://www.cityofamherst.com/city_government/index.php"
+                    ],
+                    "updated_at": "2026-06-04T19:35:40+00:00",
+                    "id": "b39449a3-7f63-4cb7-ae94-e9e91dc396eb"
+                }
+            ]
+        },
+        "review_output_step": {
+            "issues": [],
+            "people_by_source": [
+                {
+                    "name": "Clinton Sawyer",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Mickey Brantley",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Rosa Logsdon",
+                    "in_research": true,
+                    "in_data": true
+                }
+            ],
+            "origin_source": "existing"
+        },
+        "find_jurisdiction_url_step": null,
+        "send_success_step": null,
+        "send_error_step": null,
+        "issues": [],
+        "error_step": null,
+        "error_detail": null
+    },
+    "current_state": "SEND_SUCCESS",
+    "request_id": "b8896e76-5fd2-418f-9153-089387510935",
+    "created_at": 1780601453.2304685,
+    "updated_at": 1780601740.5689952,
+    "progress": 27
+}
