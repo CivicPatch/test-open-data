@@ -1,0 +1,1650 @@
+{
+    "data": {
+        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:abilene/government",
+        "config": {
+            "url": "https://abilenetx.gov/",
+            "name": "Abilene city",
+            "source_urls": null
+        },
+        "frontier": {
+            "links": {
+                "https://abilenetx.gov": {
+                    "url": "https://abilenetx.gov/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "abilenetx_gov_",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 1
+                },
+                "https://abilenetx.gov/directory.aspx?did=124": {
+                    "url": "https://abilenetx.gov/Directory.aspx?DID=124",
+                    "status": "done",
+                    "folder_name": "abilenetx_gov_directory_aspx?did=124",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 10
+                },
+                "https://abilenetx.gov/27/government": {
+                    "url": "https://abilenetx.gov/27/Government",
+                    "status": "processed_irrelevant",
+                    "folder_name": "abilenetx_gov_27_government",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 3
+                },
+                "https://abilenetx.gov/directory.aspx": {
+                    "url": "https://abilenetx.gov/directory.aspx",
+                    "status": "processed_irrelevant",
+                    "folder_name": "abilenetx_gov_directory_aspx",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 2
+                },
+                "https://abilenetx.gov/561/live-archived-video": {
+                    "url": "https://abilenetx.gov/561/Live-Archived-Video",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 7,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://abilenetx.gov/275/municipal-court": {
+                    "url": "https://abilenetx.gov/275/Municipal-Court",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://abilenetx.gov/647/pay-online": {
+                    "url": "https://abilenetx.gov/647/Pay-Online",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://abilenetx.gov/426/solid-waste-recycling": {
+                    "url": "https://abilenetx.gov/426/Solid-Waste-Recycling",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://abilenetx.gov/414/citylink": {
+                    "url": "https://abilenetx.gov/414/CityLink",
+                    "status": "processed_irrelevant",
+                    "folder_name": "abilenetx_gov_414_citylink",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 9
+                },
+                "https://abilenetx.gov/450/job-opportunities": {
+                    "url": "https://abilenetx.gov/450/Job-Opportunities",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://abilenetx.gov/730/seeclickfix": {
+                    "url": "https://abilenetx.gov/730/SeeClickFix",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://abilenetx.gov/2418/library": {
+                    "url": "https://abilenetx.gov/2418/Library",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://abilenetx.gov/2427/water": {
+                    "url": "https://abilenetx.gov/2427/Water",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://abilenetx.gov/2450/title-vi": {
+                    "url": "https://abilenetx.gov/2450/Title-VI",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://abilenetx.gov/sitemap": {
+                    "url": "https://abilenetx.gov/SiteMap",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://abilenetx.gov/accessibility": {
+                    "url": "https://abilenetx.gov/Accessibility",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://abilenetx.gov/site/privacy": {
+                    "url": "https://abilenetx.gov/site/privacy",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://abilenetx.gov/copyright": {
+                    "url": "https://abilenetx.gov/Copyright",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://abilenetx.gov/153/departments": {
+                    "url": "https://abilenetx.gov/153/Departments",
+                    "status": "processed_irrelevant",
+                    "folder_name": "abilenetx_gov_153_departments",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 6
+                },
+                "https://abilenetx.gov/31/communications": {
+                    "url": "https://abilenetx.gov/31/Communications",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://abilenetx.gov/526/city-council": {
+                    "url": "https://abilenetx.gov/526/City-Council",
+                    "status": "done",
+                    "folder_name": "abilenetx_gov_526_city-council",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 4
+                },
+                "https://abilenetx.gov/351/city-officials": {
+                    "url": "https://abilenetx.gov/351/City-Officials",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://abilenetx.gov/590/city-manager": {
+                    "url": "https://abilenetx.gov/590/City-Manager",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://abilenetx.gov/596/city-management-team": {
+                    "url": "https://abilenetx.gov/596/City-Management-Team",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://abilenetx.gov/636/about-the-city": {
+                    "url": "https://abilenetx.gov/636/About-the-City",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://abilenetx.gov/495/boards-commissions": {
+                    "url": "https://abilenetx.gov/495/Boards-Commissions",
+                    "status": "processed_irrelevant",
+                    "folder_name": "abilenetx_gov_495_boards-commissions",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 7
+                },
+                "https://abilenetx.gov/511/boards-commissions-listing": {
+                    "url": "https://abilenetx.gov/511/Boards-Commissions-Listing",
+                    "status": "processed_irrelevant",
+                    "folder_name": "abilenetx_gov_511_boards-commissions-listing",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 8
+                },
+                "https://abilenetx.gov/309/elections": {
+                    "url": "https://abilenetx.gov/309/Elections",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://abilenetx.gov/714/agendas-minutes": {
+                    "url": "https://abilenetx.gov/714/Agendas-Minutes",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://abilenetx.gov/561/atn-live-archived-video": {
+                    "url": "https://abilenetx.gov/561/ATN-Live-Archived-Video",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://abilenetx.gov/771/watch-a-meeting": {
+                    "url": "https://abilenetx.gov/771/Watch-a-Meeting",
+                    "status": "processed_irrelevant",
+                    "folder_name": "abilenetx_gov_771_watch-a-meeting",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 5
+                },
+                "https://abilenetx.gov/307/city-secretary": {
+                    "url": "https://abilenetx.gov/307/City-Secretary",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://abilenetx.gov/984/proclamations-requests-for-mayoral-appea": {
+                    "url": "https://abilenetx.gov/984/Proclamations-Requests-for-Mayoral-Appea",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://abilenetx.gov/348/public-information-request": {
+                    "url": "https://abilenetx.gov/348/Public-Information-Request",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://abilenetx.gov/directory.aspx?did=75": {
+                    "url": "https://abilenetx.gov/directory.aspx?did=75",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                }
+            },
+            "queue": [
+                "https://abilenetx.gov/351/city-officials",
+                "https://abilenetx.gov/590/city-manager",
+                "https://abilenetx.gov/596/city-management-team",
+                "https://abilenetx.gov/636/about-the-city",
+                "https://abilenetx.gov/307/city-secretary",
+                "https://abilenetx.gov/directory.aspx?did=75",
+                "https://abilenetx.gov/984/proclamations-requests-for-mayoral-appea",
+                "https://abilenetx.gov/561/live-archived-video",
+                "https://abilenetx.gov/sitemap",
+                "https://abilenetx.gov/accessibility",
+                "https://abilenetx.gov/copyright",
+                "https://abilenetx.gov/309/elections",
+                "https://abilenetx.gov/275/municipal-court",
+                "https://abilenetx.gov/647/pay-online",
+                "https://abilenetx.gov/426/solid-waste-recycling",
+                "https://abilenetx.gov/2450/title-vi",
+                "https://abilenetx.gov/714/agendas-minutes",
+                "https://abilenetx.gov/450/job-opportunities",
+                "https://abilenetx.gov/730/seeclickfix",
+                "https://abilenetx.gov/2418/library",
+                "https://abilenetx.gov/2427/water",
+                "https://abilenetx.gov/site/privacy",
+                "https://abilenetx.gov/31/communications",
+                "https://abilenetx.gov/561/atn-live-archived-video",
+                "https://abilenetx.gov/348/public-information-request"
+            ]
+        },
+        "research_municipality_step": {
+            "expected_count": 7,
+            "target_designations": [],
+            "known_roles": [
+                "Mayor",
+                "Council Member"
+            ],
+            "identities": {
+                "Weldon W. Hurt": [],
+                "Shane Price": [],
+                "Lynn Beard": [],
+                "Blaise Regan": [],
+                "Brian Yates": [],
+                "Miguel Espinoza": [],
+                "Travis Craver": []
+            },
+            "source_urls": [
+                "https://abilenetx.gov/Directory.aspx?DID=124"
+            ],
+            "notes": null,
+            "origin_source": "existing"
+        },
+        "preprocess_page_content_step": {
+            "elapsed_times": [
+                3,
+                2,
+                1,
+                1,
+                10,
+                2,
+                1,
+                1,
+                2,
+                1
+            ],
+            "total_elapsed_time_seconds": 24,
+            "average_elapsed_time_seconds": 2
+        },
+        "process_page_content_step": {
+            "raw_records_by_llm": {
+                "open_router": {
+                    "Weldon W. Hurt": [
+                        {
+                            "name": "Weldon W. Hurt",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "weldon.hurt@abilenetx.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://d53ecd7750fc.png",
+                            "source_url": "https://abilenetx.gov/526/City-Council"
+                        }
+                    ],
+                    "Shane Price": [
+                        {
+                            "name": "Shane Price",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Place 1"
+                            ],
+                            "phone": null,
+                            "email": "shane.price@abilenetx.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://1685e344b78d.png",
+                            "source_url": "https://abilenetx.gov/526/City-Council"
+                        }
+                    ],
+                    "Lynn Beard": [
+                        {
+                            "name": "Lynn Beard",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Place 2"
+                            ],
+                            "phone": null,
+                            "email": "lynn.beard@abilenetx.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://b9b6afcbfbb9.png",
+                            "source_url": "https://abilenetx.gov/526/City-Council"
+                        }
+                    ],
+                    "Jay Patterson": [
+                        {
+                            "name": "Jay Patterson",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Place 3"
+                            ],
+                            "phone": null,
+                            "email": "jay.patterson@abilenetx.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://051b16d76dc7.png",
+                            "source_url": "https://abilenetx.gov/526/City-Council"
+                        }
+                    ],
+                    "Brian Yates": [
+                        {
+                            "name": "Brian Yates",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Place 4"
+                            ],
+                            "phone": null,
+                            "email": "brian.yates@abilenetx.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://d9cb2fb197e8.png",
+                            "source_url": "https://abilenetx.gov/526/City-Council"
+                        }
+                    ],
+                    "Miguel Espinoza": [
+                        {
+                            "name": "Miguel Espinoza",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Place 5"
+                            ],
+                            "phone": null,
+                            "email": "miguel.espinoza@abilenetx.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://6d33d7f42cc3.png",
+                            "source_url": "https://abilenetx.gov/526/City-Council"
+                        }
+                    ],
+                    "Travis Craver": [
+                        {
+                            "name": "Travis Craver",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Place 6"
+                            ],
+                            "phone": null,
+                            "email": "travis.craver@abilenetx.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://e5d36c08f64c.png",
+                            "source_url": "https://abilenetx.gov/526/City-Council"
+                        }
+                    ],
+                    "Hurt, Weldon W.": [
+                        {
+                            "name": "Hurt, Weldon W.",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "(325) 676-6200",
+                            "email": "weldon.hurt@abilenetx.gov",
+                            "url": "https://abilenetx.gov/directory.aspx?EID=181",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://abilenetx.gov/Directory.aspx?DID=124"
+                        }
+                    ],
+                    "Price, Shane": [
+                        {
+                            "name": "Price, Shane",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Place 1"
+                            ],
+                            "phone": "(325) 676-6200",
+                            "email": "shane.price@abilenetx.gov",
+                            "url": "https://abilenetx.gov/directory.aspx?EID=182",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://abilenetx.gov/Directory.aspx?DID=124"
+                        }
+                    ],
+                    "Beard, Lynn": [
+                        {
+                            "name": "Beard, Lynn",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Place 2"
+                            ],
+                            "phone": "(325) 676-6200",
+                            "email": "lynn.beard@abilenetx.gov",
+                            "url": "https://abilenetx.gov/directory.aspx?EID=183",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://abilenetx.gov/Directory.aspx?DID=124"
+                        }
+                    ],
+                    "Patterson, Jay": [
+                        {
+                            "name": "Patterson, Jay",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Place 3"
+                            ],
+                            "phone": "(325) 676-6200",
+                            "email": "jay.patterson@abilenetx.gov",
+                            "url": "https://abilenetx.gov/directory.aspx?EID=186",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://abilenetx.gov/Directory.aspx?DID=124"
+                        }
+                    ],
+                    "Yates, Brian": [
+                        {
+                            "name": "Yates, Brian",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Place 4"
+                            ],
+                            "phone": "(325) 676-6200",
+                            "email": "brian.yates@abilenetx.gov",
+                            "url": "https://abilenetx.gov/directory.aspx?EID=187",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://abilenetx.gov/Directory.aspx?DID=124"
+                        }
+                    ],
+                    "Espinoza, Miguel": [
+                        {
+                            "name": "Espinoza, Miguel",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Place 5"
+                            ],
+                            "phone": "(325) 676-6200",
+                            "email": "miguel.espinoza@abilenetx.gov",
+                            "url": "https://abilenetx.gov/directory.aspx?EID=188",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://abilenetx.gov/Directory.aspx?DID=124"
+                        }
+                    ],
+                    "Craver, Travis": [
+                        {
+                            "name": "Craver, Travis",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Place 6"
+                            ],
+                            "phone": "(325) 676-6200",
+                            "email": "travis.craver@abilenetx.gov",
+                            "url": "https://abilenetx.gov/directory.aspx?EID=189",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://abilenetx.gov/Directory.aspx?DID=124"
+                        }
+                    ]
+                }
+            },
+            "records_by_llm": {
+                "open_router": {
+                    "Weldon W. Hurt": [
+                        {
+                            "name": "Weldon W. Hurt",
+                            "roles": [
+                                "mayor"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": "weldon.hurt@abilenetx.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://d53ecd7750fc.png",
+                            "source_url": "https://abilenetx.gov/526/City-Council"
+                        }
+                    ],
+                    "Shane Price": [
+                        {
+                            "name": "Shane Price",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Place 1"
+                            ],
+                            "phone": null,
+                            "email": "shane.price@abilenetx.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://1685e344b78d.png",
+                            "source_url": "https://abilenetx.gov/526/City-Council"
+                        }
+                    ],
+                    "Lynn Beard": [
+                        {
+                            "name": "Lynn Beard",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Place 2"
+                            ],
+                            "phone": null,
+                            "email": "lynn.beard@abilenetx.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://b9b6afcbfbb9.png",
+                            "source_url": "https://abilenetx.gov/526/City-Council"
+                        }
+                    ],
+                    "Jay Patterson": [
+                        {
+                            "name": "Jay Patterson",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Place 3"
+                            ],
+                            "phone": null,
+                            "email": "jay.patterson@abilenetx.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://051b16d76dc7.png",
+                            "source_url": "https://abilenetx.gov/526/City-Council"
+                        }
+                    ],
+                    "Brian Yates": [
+                        {
+                            "name": "Brian Yates",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Place 4"
+                            ],
+                            "phone": null,
+                            "email": "brian.yates@abilenetx.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://d9cb2fb197e8.png",
+                            "source_url": "https://abilenetx.gov/526/City-Council"
+                        }
+                    ],
+                    "Miguel Espinoza": [
+                        {
+                            "name": "Miguel Espinoza",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Place 5"
+                            ],
+                            "phone": null,
+                            "email": "miguel.espinoza@abilenetx.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://6d33d7f42cc3.png",
+                            "source_url": "https://abilenetx.gov/526/City-Council"
+                        }
+                    ],
+                    "Travis Craver": [
+                        {
+                            "name": "Travis Craver",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Place 6"
+                            ],
+                            "phone": null,
+                            "email": "travis.craver@abilenetx.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://e5d36c08f64c.png",
+                            "source_url": "https://abilenetx.gov/526/City-Council"
+                        }
+                    ],
+                    "Hurt, Weldon W.": [
+                        {
+                            "name": "Weldon W. Hurt",
+                            "roles": [
+                                "mayor"
+                            ],
+                            "designations": [],
+                            "phone": "(325) 676-6200",
+                            "email": "weldon.hurt@abilenetx.gov",
+                            "url": "https://abilenetx.gov/directory.aspx?EID=181",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://abilenetx.gov/Directory.aspx?DID=124"
+                        }
+                    ],
+                    "Price, Shane": [
+                        {
+                            "name": "Shane Price",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Place 1"
+                            ],
+                            "phone": "(325) 676-6200",
+                            "email": "shane.price@abilenetx.gov",
+                            "url": "https://abilenetx.gov/directory.aspx?EID=182",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://abilenetx.gov/Directory.aspx?DID=124"
+                        }
+                    ],
+                    "Beard, Lynn": [
+                        {
+                            "name": "Lynn Beard",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Place 2"
+                            ],
+                            "phone": "(325) 676-6200",
+                            "email": "lynn.beard@abilenetx.gov",
+                            "url": "https://abilenetx.gov/directory.aspx?EID=183",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://abilenetx.gov/Directory.aspx?DID=124"
+                        }
+                    ],
+                    "Patterson, Jay": [
+                        {
+                            "name": "Jay Patterson",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Place 3"
+                            ],
+                            "phone": "(325) 676-6200",
+                            "email": "jay.patterson@abilenetx.gov",
+                            "url": "https://abilenetx.gov/directory.aspx?EID=186",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://abilenetx.gov/Directory.aspx?DID=124"
+                        }
+                    ],
+                    "Yates, Brian": [
+                        {
+                            "name": "Brian Yates",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Place 4"
+                            ],
+                            "phone": "(325) 676-6200",
+                            "email": "brian.yates@abilenetx.gov",
+                            "url": "https://abilenetx.gov/directory.aspx?EID=187",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://abilenetx.gov/Directory.aspx?DID=124"
+                        }
+                    ],
+                    "Espinoza, Miguel": [
+                        {
+                            "name": "Miguel Espinoza",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Place 5"
+                            ],
+                            "phone": "(325) 676-6200",
+                            "email": "miguel.espinoza@abilenetx.gov",
+                            "url": "https://abilenetx.gov/directory.aspx?EID=188",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://abilenetx.gov/Directory.aspx?DID=124"
+                        }
+                    ],
+                    "Craver, Travis": [
+                        {
+                            "name": "Travis Craver",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Place 6"
+                            ],
+                            "phone": "(325) 676-6200",
+                            "email": "travis.craver@abilenetx.gov",
+                            "url": "https://abilenetx.gov/directory.aspx?EID=189",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://abilenetx.gov/Directory.aspx?DID=124"
+                        }
+                    ]
+                }
+            },
+            "progress": {
+                "required_data": 7,
+                "current_data": 7,
+                "has_target_role": true,
+                "has_target_designations": true
+            }
+        },
+        "merge_records_within_llm_step": {
+            "people_by_llm": {
+                "open_router": [
+                    {
+                        "name": "Weldon W. Hurt",
+                        "other_names": [],
+                        "roles": [
+                            "mayor"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(325) 676-6200"
+                        ],
+                        "emails": [
+                            "weldon.hurt@abilenetx.gov"
+                        ],
+                        "urls": [
+                            "https://abilenetx.gov/directory.aspx?EID=181"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "local://d53ecd7750fc.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:abilene/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://abilenetx.gov/526/City-Council",
+                            "https://abilenetx.gov/Directory.aspx?DID=124"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Shane Price",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Place 1"
+                        ],
+                        "phones": [
+                            "(325) 676-6200"
+                        ],
+                        "emails": [
+                            "shane.price@abilenetx.gov"
+                        ],
+                        "urls": [
+                            "https://abilenetx.gov/directory.aspx?EID=182"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "local://1685e344b78d.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:abilene/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://abilenetx.gov/526/City-Council",
+                            "https://abilenetx.gov/Directory.aspx?DID=124"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Lynn Beard",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Place 2"
+                        ],
+                        "phones": [
+                            "(325) 676-6200"
+                        ],
+                        "emails": [
+                            "lynn.beard@abilenetx.gov"
+                        ],
+                        "urls": [
+                            "https://abilenetx.gov/directory.aspx?EID=183"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "local://b9b6afcbfbb9.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:abilene/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://abilenetx.gov/526/City-Council",
+                            "https://abilenetx.gov/Directory.aspx?DID=124"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Jay Patterson",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Place 3"
+                        ],
+                        "phones": [
+                            "(325) 676-6200"
+                        ],
+                        "emails": [
+                            "jay.patterson@abilenetx.gov"
+                        ],
+                        "urls": [
+                            "https://abilenetx.gov/directory.aspx?EID=186"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "local://051b16d76dc7.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:abilene/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://abilenetx.gov/526/City-Council",
+                            "https://abilenetx.gov/Directory.aspx?DID=124"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Brian Yates",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Place 4"
+                        ],
+                        "phones": [
+                            "(325) 676-6200"
+                        ],
+                        "emails": [
+                            "brian.yates@abilenetx.gov"
+                        ],
+                        "urls": [
+                            "https://abilenetx.gov/directory.aspx?EID=187"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "local://d9cb2fb197e8.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:abilene/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://abilenetx.gov/526/City-Council",
+                            "https://abilenetx.gov/Directory.aspx?DID=124"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Miguel Espinoza",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Place 5"
+                        ],
+                        "phones": [
+                            "(325) 676-6200"
+                        ],
+                        "emails": [
+                            "miguel.espinoza@abilenetx.gov"
+                        ],
+                        "urls": [
+                            "https://abilenetx.gov/directory.aspx?EID=188"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "local://6d33d7f42cc3.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:abilene/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://abilenetx.gov/526/City-Council",
+                            "https://abilenetx.gov/Directory.aspx?DID=124"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Travis Craver",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Place 6"
+                        ],
+                        "phones": [
+                            "(325) 676-6200"
+                        ],
+                        "emails": [
+                            "travis.craver@abilenetx.gov"
+                        ],
+                        "urls": [
+                            "https://abilenetx.gov/directory.aspx?EID=189"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "local://e5d36c08f64c.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:abilene/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://abilenetx.gov/526/City-Council",
+                            "https://abilenetx.gov/Directory.aspx?DID=124"
+                        ],
+                        "updated_at": ""
+                    }
+                ]
+            },
+            "unrecognized_roles": [],
+            "excluded_people": []
+        },
+        "merge_records_across_llms_step": {
+            "people": [
+                {
+                    "name": "Weldon W. Hurt",
+                    "other_names": [],
+                    "roles": [
+                        "mayor"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(325) 676-6200"
+                    ],
+                    "emails": [
+                        "weldon.hurt@abilenetx.gov"
+                    ],
+                    "urls": [
+                        "https://abilenetx.gov/directory.aspx?EID=181"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "local://d53ecd7750fc.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:abilene/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://abilenetx.gov/526/City-Council",
+                        "https://abilenetx.gov/Directory.aspx?DID=124"
+                    ],
+                    "updated_at": "2026-06-04T05:24:56+00:00"
+                },
+                {
+                    "name": "Shane Price",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "place 1"
+                    ],
+                    "phones": [
+                        "(325) 676-6200"
+                    ],
+                    "emails": [
+                        "shane.price@abilenetx.gov"
+                    ],
+                    "urls": [
+                        "https://abilenetx.gov/directory.aspx?EID=182"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "local://1685e344b78d.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:abilene/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://abilenetx.gov/526/City-Council",
+                        "https://abilenetx.gov/Directory.aspx?DID=124"
+                    ],
+                    "updated_at": "2026-06-04T05:24:56+00:00"
+                },
+                {
+                    "name": "Lynn Beard",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "place 2"
+                    ],
+                    "phones": [
+                        "(325) 676-6200"
+                    ],
+                    "emails": [
+                        "lynn.beard@abilenetx.gov"
+                    ],
+                    "urls": [
+                        "https://abilenetx.gov/directory.aspx?EID=183"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "local://b9b6afcbfbb9.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:abilene/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://abilenetx.gov/526/City-Council",
+                        "https://abilenetx.gov/Directory.aspx?DID=124"
+                    ],
+                    "updated_at": "2026-06-04T05:24:56+00:00"
+                },
+                {
+                    "name": "Jay Patterson",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "place 3"
+                    ],
+                    "phones": [
+                        "(325) 676-6200"
+                    ],
+                    "emails": [
+                        "jay.patterson@abilenetx.gov"
+                    ],
+                    "urls": [
+                        "https://abilenetx.gov/directory.aspx?EID=186"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "local://051b16d76dc7.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:abilene/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://abilenetx.gov/526/City-Council",
+                        "https://abilenetx.gov/Directory.aspx?DID=124"
+                    ],
+                    "updated_at": "2026-06-04T05:24:56+00:00"
+                },
+                {
+                    "name": "Brian Yates",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "place 4"
+                    ],
+                    "phones": [
+                        "(325) 676-6200"
+                    ],
+                    "emails": [
+                        "brian.yates@abilenetx.gov"
+                    ],
+                    "urls": [
+                        "https://abilenetx.gov/directory.aspx?EID=187"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "local://d9cb2fb197e8.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:abilene/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://abilenetx.gov/526/City-Council",
+                        "https://abilenetx.gov/Directory.aspx?DID=124"
+                    ],
+                    "updated_at": "2026-06-04T05:24:56+00:00"
+                },
+                {
+                    "name": "Miguel Espinoza",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "place 5"
+                    ],
+                    "phones": [
+                        "(325) 676-6200"
+                    ],
+                    "emails": [
+                        "miguel.espinoza@abilenetx.gov"
+                    ],
+                    "urls": [
+                        "https://abilenetx.gov/directory.aspx?EID=188"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "local://6d33d7f42cc3.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:abilene/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://abilenetx.gov/526/City-Council",
+                        "https://abilenetx.gov/Directory.aspx?DID=124"
+                    ],
+                    "updated_at": "2026-06-04T05:24:56+00:00"
+                },
+                {
+                    "name": "Travis Craver",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "place 6"
+                    ],
+                    "phones": [
+                        "(325) 676-6200"
+                    ],
+                    "emails": [
+                        "travis.craver@abilenetx.gov"
+                    ],
+                    "urls": [
+                        "https://abilenetx.gov/directory.aspx?EID=189"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "local://e5d36c08f64c.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:abilene/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://abilenetx.gov/526/City-Council",
+                        "https://abilenetx.gov/Directory.aspx?DID=124"
+                    ],
+                    "updated_at": "2026-06-04T05:24:56+00:00"
+                }
+            ]
+        },
+        "format_output_step": {
+            "officials": [
+                {
+                    "name": "Weldon W. Hurt",
+                    "other_names": [],
+                    "phones": [
+                        "(325) 676-6200"
+                    ],
+                    "emails": [
+                        "weldon.hurt@abilenetx.gov"
+                    ],
+                    "urls": [
+                        "https://abilenetx.gov/directory.aspx?EID=181"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Mayor",
+                        "division_ocdid": "ocd-division/country:us/state:tx/place:abilene"
+                    },
+                    "image": "https://abilenetx.gov/ImageRepository/Document?documentID=4648",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:abilene/government",
+                    "cdn_image": "local://d53ecd7750fc.png",
+                    "source_urls": [
+                        "https://abilenetx.gov/526/City-Council",
+                        "https://abilenetx.gov/Directory.aspx?DID=124"
+                    ],
+                    "updated_at": "2026-06-04T05:24:56+00:00",
+                    "id": "d8a50787-4b54-443f-953c-b995f0714a01"
+                },
+                {
+                    "name": "Shane Price",
+                    "other_names": [],
+                    "phones": [
+                        "(325) 676-6200"
+                    ],
+                    "emails": [
+                        "shane.price@abilenetx.gov"
+                    ],
+                    "urls": [
+                        "https://abilenetx.gov/directory.aspx?EID=182"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Place 1",
+                        "division_ocdid": "ocd-division/country:us/state:tx/place:abilene"
+                    },
+                    "image": "https://abilenetx.gov/ImageRepository/Document?documentID=4646",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:abilene/government",
+                    "cdn_image": "local://1685e344b78d.png",
+                    "source_urls": [
+                        "https://abilenetx.gov/526/City-Council",
+                        "https://abilenetx.gov/Directory.aspx?DID=124"
+                    ],
+                    "updated_at": "2026-06-04T05:24:56+00:00",
+                    "id": "527ee72f-6bae-4936-88da-71656279dbea"
+                },
+                {
+                    "name": "Lynn Beard",
+                    "other_names": [],
+                    "phones": [
+                        "(325) 676-6200"
+                    ],
+                    "emails": [
+                        "lynn.beard@abilenetx.gov"
+                    ],
+                    "urls": [
+                        "https://abilenetx.gov/directory.aspx?EID=183"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Place 2",
+                        "division_ocdid": "ocd-division/country:us/state:tx/place:abilene"
+                    },
+                    "image": "https://abilenetx.gov/ImageRepository/Document?documentID=13999",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:abilene/government",
+                    "cdn_image": "local://b9b6afcbfbb9.png",
+                    "source_urls": [
+                        "https://abilenetx.gov/526/City-Council",
+                        "https://abilenetx.gov/Directory.aspx?DID=124"
+                    ],
+                    "updated_at": "2026-06-04T05:24:56+00:00",
+                    "id": "9d386e22-fdc8-45aa-a0ae-f1a919713d6e"
+                },
+                {
+                    "name": "Jay Patterson",
+                    "other_names": [],
+                    "phones": [
+                        "(325) 676-6200"
+                    ],
+                    "emails": [
+                        "jay.patterson@abilenetx.gov"
+                    ],
+                    "urls": [
+                        "https://abilenetx.gov/directory.aspx?EID=186"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Place 3",
+                        "division_ocdid": "ocd-division/country:us/state:tx/place:abilene"
+                    },
+                    "image": "https://abilenetx.gov/ImageRepository/Document?documentID=41160",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:abilene/government",
+                    "cdn_image": "local://051b16d76dc7.png",
+                    "source_urls": [
+                        "https://abilenetx.gov/526/City-Council",
+                        "https://abilenetx.gov/Directory.aspx?DID=124"
+                    ],
+                    "updated_at": "2026-06-04T05:24:56+00:00",
+                    "id": "8f1d814d-793b-44e1-abe0-448fa35b2052"
+                },
+                {
+                    "name": "Brian Yates",
+                    "other_names": [],
+                    "phones": [
+                        "(325) 676-6200"
+                    ],
+                    "emails": [
+                        "brian.yates@abilenetx.gov"
+                    ],
+                    "urls": [
+                        "https://abilenetx.gov/directory.aspx?EID=187"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Place 4",
+                        "division_ocdid": "ocd-division/country:us/state:tx/place:abilene"
+                    },
+                    "image": "https://abilenetx.gov/ImageRepository/Document?documentID=22555",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:abilene/government",
+                    "cdn_image": "local://d9cb2fb197e8.png",
+                    "source_urls": [
+                        "https://abilenetx.gov/526/City-Council",
+                        "https://abilenetx.gov/Directory.aspx?DID=124"
+                    ],
+                    "updated_at": "2026-06-04T05:24:56+00:00",
+                    "id": "fbc13e0f-7542-4ea3-9908-8a2fee44e286"
+                },
+                {
+                    "name": "Miguel Espinoza",
+                    "other_names": [],
+                    "phones": [
+                        "(325) 676-6200"
+                    ],
+                    "emails": [
+                        "miguel.espinoza@abilenetx.gov"
+                    ],
+                    "urls": [
+                        "https://abilenetx.gov/directory.aspx?EID=188"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Place 5",
+                        "division_ocdid": "ocd-division/country:us/state:tx/place:abilene"
+                    },
+                    "image": "https://abilenetx.gov/ImageRepository/Document?documentID=36395",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:abilene/government",
+                    "cdn_image": "local://6d33d7f42cc3.png",
+                    "source_urls": [
+                        "https://abilenetx.gov/526/City-Council",
+                        "https://abilenetx.gov/Directory.aspx?DID=124"
+                    ],
+                    "updated_at": "2026-06-04T05:24:56+00:00",
+                    "id": "60e2d12b-2a8d-4240-bad9-2d5008aa4fb7"
+                },
+                {
+                    "name": "Travis Craver",
+                    "other_names": [],
+                    "phones": [
+                        "(325) 676-6200"
+                    ],
+                    "emails": [
+                        "travis.craver@abilenetx.gov"
+                    ],
+                    "urls": [
+                        "https://abilenetx.gov/directory.aspx?EID=189"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Place 6",
+                        "division_ocdid": "ocd-division/country:us/state:tx/place:abilene"
+                    },
+                    "image": "https://abilenetx.gov/ImageRepository/Document?documentID=4647",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:abilene/government",
+                    "cdn_image": "local://e5d36c08f64c.png",
+                    "source_urls": [
+                        "https://abilenetx.gov/526/City-Council",
+                        "https://abilenetx.gov/Directory.aspx?DID=124"
+                    ],
+                    "updated_at": "2026-06-04T05:24:56+00:00",
+                    "id": "60386ae1-48ab-4994-926c-0a0e7076dec8"
+                }
+            ]
+        },
+        "review_output_step": {
+            "issues": [
+                "Extra official: Jay Patterson",
+                "Missing official: Blaise Regan"
+            ],
+            "people_by_source": [
+                {
+                    "name": "Blaise Regan",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Brian Yates",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Jay Patterson",
+                    "in_research": false,
+                    "in_data": true
+                },
+                {
+                    "name": "Lynn Beard",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Miguel Espinoza",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Shane Price",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Travis Craver",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Weldon W. Hurt",
+                    "in_research": true,
+                    "in_data": true
+                }
+            ],
+            "origin_source": "existing"
+        },
+        "find_jurisdiction_url_step": null,
+        "send_success_step": null,
+        "send_error_step": null,
+        "issues": [],
+        "error_step": null,
+        "error_detail": null
+    },
+    "current_state": "SEND_SUCCESS",
+    "request_id": "27434bae-4713-465d-a380-d0e5a4e50a0a",
+    "created_at": 1780550436.4997082,
+    "updated_at": 1780550696.7710073,
+    "progress": 97
+}
