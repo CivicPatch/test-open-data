@@ -1,0 +1,1598 @@
+{
+    "data": {
+        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:ames/government",
+        "config": {
+            "url": "https://www.cityofamestexas.com",
+            "name": "Ames city",
+            "source_urls": null
+        },
+        "frontier": {
+            "links": {
+                "https://cityofamestexas.com": {
+                    "url": "https://www.cityofamestexas.com",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofamestexas_com",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 1
+                },
+                "https://cityofamestexas.com/directory.aspx?did=9": {
+                    "url": "https://www.cityofamestexas.com/Directory.aspx?did=9",
+                    "status": "done",
+                    "folder_name": "www_cityofamestexas_com_directory_aspx?did=9",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 7
+                },
+                "https://cityofamestexas.com/195/city-council": {
+                    "url": "https://www.cityofamestexas.com/195/City-Council",
+                    "status": "done",
+                    "folder_name": "www_cityofamestexas_com_195_city-council",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 4
+                },
+                "https://cityofamestexas.com/27/government": {
+                    "url": "https://www.cityofamestexas.com/27/Government",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofamestexas_com_27_government",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 3
+                },
+                "https://cityofamestexas.com/agendacenter": {
+                    "url": "https://www.cityofamestexas.com/AgendaCenter",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofamestexas_com_agendacenter",
+                    "num_references": 11,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 15
+                },
+                "https://cityofamestexas.com/directory.aspx": {
+                    "url": "https://www.cityofamestexas.com/directory.aspx",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofamestexas_com_directory_aspx",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 2
+                },
+                "https://cityofamestexas.com/177/boards-commissions": {
+                    "url": "https://www.cityofamestexas.com/177/Boards-Commissions",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofamestexas_com_177_boards-commissions",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 10
+                },
+                "https://cityofamestexas.com/176/city-hall": {
+                    "url": "https://www.cityofamestexas.com/176/City-Hall",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofamestexas_com_176_city-hall",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 8
+                },
+                "https://cityofamestexas.com/174/elections": {
+                    "url": "https://www.cityofamestexas.com/174/Elections",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofamestexas.com/171/mayor-council": {
+                    "url": "https://www.cityofamestexas.com/171/Mayor-Council",
+                    "status": "done",
+                    "folder_name": "www_cityofamestexas_com_171_mayor-council",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 5
+                },
+                "https://cityofamestexas.com/194/mayor": {
+                    "url": "https://www.cityofamestexas.com/194/Mayor",
+                    "status": "done",
+                    "folder_name": "www_cityofamestexas_com_194_mayor",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 6
+                },
+                "https://cityofamestexas.com/sitemap": {
+                    "url": "https://www.cityofamestexas.com/sitemap",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofamestexas_com_sitemap",
+                    "num_references": 6,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 16
+                },
+                "https://cityofamestexas.com/site/accessibility": {
+                    "url": "https://www.cityofamestexas.com/site/accessibility",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofamestexas_com_site_accessibility",
+                    "num_references": 6,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 19
+                },
+                "https://cityofamestexas.com/copyright": {
+                    "url": "https://www.cityofamestexas.com/copyright",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofamestexas_com_copyright",
+                    "num_references": 6,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 18
+                },
+                "https://cityofamestexas.com/205/payment-options": {
+                    "url": "https://www.cityofamestexas.com/205/Payment-Options",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofamestexas.com/206/new-resident-resources": {
+                    "url": "https://www.cityofamestexas.com/206/New-Resident-Resources",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofamestexas.com/199/forms": {
+                    "url": "https://www.cityofamestexas.com/199/Forms",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofamestexas_com_199_forms",
+                    "num_references": 5,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 21
+                },
+                "https://cityofamestexas.com/list.aspx": {
+                    "url": "https://www.cityofamestexas.com/list.aspx",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofamestexas_com_list_aspx",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 20
+                },
+                "https://cityofamestexas.com/208/faq": {
+                    "url": "https://www.cityofamestexas.com/208/FAQ",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 5,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofamestexas.com/180/city-clerk": {
+                    "url": "https://www.cityofamestexas.com/180/City-Clerk",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofamestexas_com_180_city-clerk",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 12
+                },
+                "https://cityofamestexas.com/179/city-secretary": {
+                    "url": "https://www.cityofamestexas.com/179/City-Secretary",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofamestexas_com_179_city-secretary",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 13
+                },
+                "https://cityofamestexas.com/directory.aspx?did=7": {
+                    "url": "https://www.cityofamestexas.com/directory.aspx?did=7",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofamestexas_com_directory_aspx?did=7",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 9
+                },
+                "https://cityofamestexas.com/directory.aspx?did=11": {
+                    "url": "https://www.cityofamestexas.com/directory.aspx?did=11",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofamestexas_com_directory_aspx?did=11",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 11
+                },
+                "https://cityofamestexas.com/directory.aspx?did=8": {
+                    "url": "https://www.cityofamestexas.com/directory.aspx?did=8",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofamestexas_com_directory_aspx?did=8",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 14
+                },
+                "https://cityofamestexas.com/129/agendas-minutes": {
+                    "url": "https://www.cityofamestexas.com/129/Agendas-Minutes",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofamestexas.com/173/financial-reports-budgets": {
+                    "url": "https://www.cityofamestexas.com/173/Financial-Reports-Budgets",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofamestexas.com/172/human-resources": {
+                    "url": "https://www.cityofamestexas.com/172/Human-Resources",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofamestexas.com/170/municipal-court": {
+                    "url": "https://www.cityofamestexas.com/170/Municipal-Court",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofamestexas.com/169/open-records": {
+                    "url": "https://www.cityofamestexas.com/169/Open-Records",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofamestexas.com/209/departments": {
+                    "url": "https://www.cityofamestexas.com/209/Departments",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_cityofamestexas_com_209_departments",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 17
+                },
+                "https://cityofamestexas.com/200/contact-us": {
+                    "url": "https://www.cityofamestexas.com/200/Contact-Us",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofamestexas.com/contactus": {
+                    "url": "https://www.cityofamestexas.com/contactus",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cityofamestexas.com/202/about-us": {
+                    "url": "https://www.cityofamestexas.com/202/About-Us",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                }
+            },
+            "queue": [
+                "https://cityofamestexas.com/202/about-us",
+                "https://cityofamestexas.com/208/faq",
+                "https://cityofamestexas.com/205/payment-options",
+                "https://cityofamestexas.com/206/new-resident-resources",
+                "https://cityofamestexas.com/174/elections",
+                "https://cityofamestexas.com/200/contact-us",
+                "https://cityofamestexas.com/contactus",
+                "https://cityofamestexas.com/129/agendas-minutes",
+                "https://cityofamestexas.com/173/financial-reports-budgets",
+                "https://cityofamestexas.com/172/human-resources",
+                "https://cityofamestexas.com/170/municipal-court",
+                "https://cityofamestexas.com/169/open-records"
+            ]
+        },
+        "research_municipality_step": {
+            "expected_count": 6,
+            "target_designations": [],
+            "known_roles": [
+                "Mayor",
+                "Mayor Pro Tempore",
+                "Council Member"
+            ],
+            "identities": {
+                "Barbara Domain": [
+                    "Barbara L. Domain"
+                ],
+                "Michael Trahan": [],
+                "Elizabeth Hardy": [
+                    "Elizabeth Hardy (Liz)",
+                    "Elizabeth \"Liz\" Hardy"
+                ],
+                "Eddie G. White": [
+                    "Eddie White"
+                ],
+                "Alfred Freeman, Jr.": [
+                    "Alfred Freeman Jr.",
+                    "Jr. Freeman Alfred"
+                ],
+                "Tiffany Burgos": []
+            },
+            "source_urls": [
+                "https://www.cityofamestexas.com/Directory.aspx?did=9",
+                "https://www.cityofamestexas.com/195/City-Council"
+            ],
+            "notes": null,
+            "origin_source": "existing"
+        },
+        "preprocess_page_content_step": {
+            "elapsed_times": [
+                2,
+                1,
+                1,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1,
+                0,
+                0,
+                0,
+                1,
+                0
+            ],
+            "total_elapsed_time_seconds": 8,
+            "average_elapsed_time_seconds": 0
+        },
+        "process_page_content_step": {
+            "raw_records_by_llm": {
+                "open_router": {
+                    "Michael Trahan": [
+                        {
+                            "name": "Michael Trahan",
+                            "roles": [
+                                "Council Member",
+                                "Mayor Pro-Tem"
+                            ],
+                            "designations": [
+                                "Position 1"
+                            ],
+                            "phone": null,
+                            "email": "mtrahan@cityofamestexas.com",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://b1f6f4008383.png",
+                            "source_url": "https://www.cityofamestexas.com/195/City-Council"
+                        }
+                    ],
+                    "Elizabeth Hardy": [
+                        {
+                            "name": "Elizabeth \"Liz\" Hardy",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 2"
+                            ],
+                            "phone": null,
+                            "email": "ehardy@cityofamestexas.com",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://042462d098b5.png",
+                            "source_url": "https://www.cityofamestexas.com/195/City-Council"
+                        }
+                    ],
+                    "Eddie G. White": [
+                        {
+                            "name": "Eddie White",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 3"
+                            ],
+                            "phone": null,
+                            "email": "ewhite@cityofamestexas.com",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://e22ba9fc948e.png",
+                            "source_url": "https://www.cityofamestexas.com/195/City-Council"
+                        }
+                    ],
+                    "Alfred Freeman, Jr.": [
+                        {
+                            "name": "Alfred Freeman, Jr.",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 4"
+                            ],
+                            "phone": null,
+                            "email": "afreeman@cityofamestexas.com",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://139cc790c258.png",
+                            "source_url": "https://www.cityofamestexas.com/195/City-Council"
+                        }
+                    ],
+                    "Tiffany Burgos": [
+                        {
+                            "name": "Tiffany Burgos",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 5"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://f14b22cf82ef.png",
+                            "source_url": "https://www.cityofamestexas.com/195/City-Council"
+                        }
+                    ],
+                    "Barbara Domain": [
+                        {
+                            "name": "Barbara L. Domain",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "936-391-1311",
+                            "email": "bdomain@cityofamestexas.com",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://4f7d52cdfcde.png",
+                            "source_url": "https://www.cityofamestexas.com/171/Mayor-Council"
+                        },
+                        {
+                            "name": "Barbara L. Domain",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "936-391-1311",
+                            "email": "bdomain@cityofamestexas.com",
+                            "url": "https://www.cityofamestexas.com/194/Mayor",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://4f7d52cdfcde.png",
+                            "source_url": "https://www.cityofamestexas.com/194/Mayor"
+                        }
+                    ],
+                    "Burgos, Tiffany": [
+                        {
+                            "name": "Burgos, Tiffany",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 5"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.cityofamestexas.com/directory.aspx?EID=15",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofamestexas.com/Directory.aspx?did=9"
+                        }
+                    ],
+                    "Domain, Barbara L.": [
+                        {
+                            "name": "Domain, Barbara L.",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "936-391-1311",
+                            "email": "bdomain@cityofamestexas.com",
+                            "url": "https://www.cityofamestexas.com/directory.aspx?EID=9",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofamestexas.com/Directory.aspx?did=9"
+                        }
+                    ],
+                    "Freeman, Jr., Alfred": [
+                        {
+                            "name": "Freeman, Jr., Alfred",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 4"
+                            ],
+                            "phone": null,
+                            "email": "afreeman@cityofamestexas.com",
+                            "url": "https://www.cityofamestexas.com/directory.aspx?EID=13",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofamestexas.com/Directory.aspx?did=9"
+                        }
+                    ],
+                    "Harrison, Audrey": [
+                        {
+                            "name": "Harrison, Audrey",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 5"
+                            ],
+                            "phone": null,
+                            "email": "aharrison@cityofamestexas.com",
+                            "url": "https://www.cityofamestexas.com/directory.aspx?EID=14",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofamestexas.com/Directory.aspx?did=9"
+                        }
+                    ],
+                    "\"Liz\" Hardy, Elizabeth": [
+                        {
+                            "name": "\"Liz\" Hardy, Elizabeth",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 2"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.cityofamestexas.com/directory.aspx?EID=11",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofamestexas.com/Directory.aspx?did=9"
+                        }
+                    ],
+                    "Trahan, Michael": [
+                        {
+                            "name": "Trahan, Michael",
+                            "roles": [
+                                "Council Member",
+                                "Mayor Pro-Tem"
+                            ],
+                            "designations": [
+                                "Position 1"
+                            ],
+                            "phone": null,
+                            "email": "mtrahan@cityofamestexas.com",
+                            "url": "https://www.cityofamestexas.com/directory.aspx?EID=10",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofamestexas.com/Directory.aspx?did=9"
+                        }
+                    ],
+                    "White, Eddie": [
+                        {
+                            "name": "White, Eddie",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 3"
+                            ],
+                            "phone": null,
+                            "email": "ewhite@cityofamestexas.com",
+                            "url": "https://www.cityofamestexas.com/directory.aspx?EID=12",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofamestexas.com/Directory.aspx?did=9"
+                        }
+                    ]
+                }
+            },
+            "records_by_llm": {
+                "open_router": {
+                    "Michael Trahan": [
+                        {
+                            "name": "Michael Trahan",
+                            "roles": [
+                                "council member",
+                                "mayor pro tempore"
+                            ],
+                            "designations": [
+                                "Position 1"
+                            ],
+                            "phone": null,
+                            "email": "mtrahan@cityofamestexas.com",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://b1f6f4008383.png",
+                            "source_url": "https://www.cityofamestexas.com/195/City-Council"
+                        }
+                    ],
+                    "Elizabeth Hardy": [
+                        {
+                            "name": "Elizabeth \"Liz\" Hardy",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Position 2"
+                            ],
+                            "phone": null,
+                            "email": "ehardy@cityofamestexas.com",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://042462d098b5.png",
+                            "source_url": "https://www.cityofamestexas.com/195/City-Council"
+                        }
+                    ],
+                    "Eddie G. White": [
+                        {
+                            "name": "Eddie White",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Position 3"
+                            ],
+                            "phone": null,
+                            "email": "ewhite@cityofamestexas.com",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://e22ba9fc948e.png",
+                            "source_url": "https://www.cityofamestexas.com/195/City-Council"
+                        }
+                    ],
+                    "Alfred Freeman, Jr.": [
+                        {
+                            "name": "Alfred Freeman Jr.",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Position 4"
+                            ],
+                            "phone": null,
+                            "email": "afreeman@cityofamestexas.com",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://139cc790c258.png",
+                            "source_url": "https://www.cityofamestexas.com/195/City-Council"
+                        }
+                    ],
+                    "Tiffany Burgos": [
+                        {
+                            "name": "Tiffany Burgos",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Position 5"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://f14b22cf82ef.png",
+                            "source_url": "https://www.cityofamestexas.com/195/City-Council"
+                        }
+                    ],
+                    "Barbara Domain": [
+                        {
+                            "name": "Barbara L. Domain",
+                            "roles": [
+                                "mayor"
+                            ],
+                            "designations": [],
+                            "phone": "(936) 391-1311",
+                            "email": "bdomain@cityofamestexas.com",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://4f7d52cdfcde.png",
+                            "source_url": "https://www.cityofamestexas.com/171/Mayor-Council"
+                        },
+                        {
+                            "name": "Barbara L. Domain",
+                            "roles": [
+                                "mayor"
+                            ],
+                            "designations": [],
+                            "phone": "(936) 391-1311",
+                            "email": "bdomain@cityofamestexas.com",
+                            "url": "https://www.cityofamestexas.com/194/Mayor",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://4f7d52cdfcde.png",
+                            "source_url": "https://www.cityofamestexas.com/194/Mayor"
+                        }
+                    ],
+                    "Burgos, Tiffany": [
+                        {
+                            "name": "Tiffany Burgos",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Position 5"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.cityofamestexas.com/directory.aspx?EID=15",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofamestexas.com/Directory.aspx?did=9"
+                        }
+                    ],
+                    "Domain, Barbara L.": [
+                        {
+                            "name": "Barbara L. Domain",
+                            "roles": [
+                                "mayor"
+                            ],
+                            "designations": [],
+                            "phone": "(936) 391-1311",
+                            "email": "bdomain@cityofamestexas.com",
+                            "url": "https://www.cityofamestexas.com/directory.aspx?EID=9",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofamestexas.com/Directory.aspx?did=9"
+                        }
+                    ],
+                    "Freeman, Jr., Alfred": [
+                        {
+                            "name": "Jr. Freeman Alfred",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Position 4"
+                            ],
+                            "phone": null,
+                            "email": "afreeman@cityofamestexas.com",
+                            "url": "https://www.cityofamestexas.com/directory.aspx?EID=13",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofamestexas.com/Directory.aspx?did=9"
+                        }
+                    ],
+                    "Harrison, Audrey": [
+                        {
+                            "name": "Audrey Harrison",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Position 5"
+                            ],
+                            "phone": null,
+                            "email": "aharrison@cityofamestexas.com",
+                            "url": "https://www.cityofamestexas.com/directory.aspx?EID=14",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofamestexas.com/Directory.aspx?did=9"
+                        }
+                    ],
+                    "\"Liz\" Hardy, Elizabeth": [
+                        {
+                            "name": "Elizabeth Hardy (Liz)",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Position 2"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.cityofamestexas.com/directory.aspx?EID=11",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofamestexas.com/Directory.aspx?did=9"
+                        }
+                    ],
+                    "Trahan, Michael": [
+                        {
+                            "name": "Michael Trahan",
+                            "roles": [
+                                "council member",
+                                "mayor pro tempore"
+                            ],
+                            "designations": [
+                                "Position 1"
+                            ],
+                            "phone": null,
+                            "email": "mtrahan@cityofamestexas.com",
+                            "url": "https://www.cityofamestexas.com/directory.aspx?EID=10",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofamestexas.com/Directory.aspx?did=9"
+                        }
+                    ],
+                    "White, Eddie": [
+                        {
+                            "name": "Eddie White",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Position 3"
+                            ],
+                            "phone": null,
+                            "email": "ewhite@cityofamestexas.com",
+                            "url": "https://www.cityofamestexas.com/directory.aspx?EID=12",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.cityofamestexas.com/Directory.aspx?did=9"
+                        }
+                    ]
+                }
+            },
+            "progress": {
+                "required_data": 6,
+                "current_data": 2,
+                "has_target_role": true,
+                "has_target_designations": true
+            }
+        },
+        "merge_records_within_llm_step": {
+            "people_by_llm": {
+                "open_router": [
+                    {
+                        "name": "Michael Trahan",
+                        "other_names": [],
+                        "roles": [
+                            "council member",
+                            "mayor pro tempore"
+                        ],
+                        "designations": [
+                            "Position 1"
+                        ],
+                        "phones": [],
+                        "emails": [
+                            "mtrahan@cityofamestexas.com"
+                        ],
+                        "urls": [
+                            "https://www.cityofamestexas.com/directory.aspx?EID=10"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "local://b1f6f4008383.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:ames/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.cityofamestexas.com/195/City-Council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Elizabeth Hardy",
+                        "other_names": [
+                            "Elizabeth \"Liz\" Hardy",
+                            "Elizabeth Hardy (Liz)"
+                        ],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Position 2"
+                        ],
+                        "phones": [],
+                        "emails": [
+                            "ehardy@cityofamestexas.com"
+                        ],
+                        "urls": [
+                            "https://www.cityofamestexas.com/directory.aspx?EID=11"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "local://042462d098b5.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:ames/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.cityofamestexas.com/195/City-Council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Eddie G. White",
+                        "other_names": [
+                            "Eddie White"
+                        ],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Position 3"
+                        ],
+                        "phones": [],
+                        "emails": [
+                            "ewhite@cityofamestexas.com"
+                        ],
+                        "urls": [
+                            "https://www.cityofamestexas.com/directory.aspx?EID=12"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "local://e22ba9fc948e.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:ames/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.cityofamestexas.com/195/City-Council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Alfred Freeman, Jr.",
+                        "other_names": [
+                            "Alfred Freeman Jr.",
+                            "Jr. Freeman Alfred"
+                        ],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Position 4"
+                        ],
+                        "phones": [],
+                        "emails": [
+                            "afreeman@cityofamestexas.com"
+                        ],
+                        "urls": [
+                            "https://www.cityofamestexas.com/directory.aspx?EID=13"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "local://139cc790c258.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:ames/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.cityofamestexas.com/195/City-Council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Tiffany Burgos",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Position 5"
+                        ],
+                        "phones": [],
+                        "emails": [],
+                        "urls": [
+                            "https://www.cityofamestexas.com/directory.aspx?EID=15"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "local://f14b22cf82ef.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:ames/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.cityofamestexas.com/195/City-Council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Barbara Domain",
+                        "other_names": [
+                            "Barbara L. Domain"
+                        ],
+                        "roles": [
+                            "mayor"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(936) 391-1311"
+                        ],
+                        "emails": [
+                            "bdomain@cityofamestexas.com"
+                        ],
+                        "urls": [
+                            "https://www.cityofamestexas.com/194/Mayor",
+                            "https://www.cityofamestexas.com/directory.aspx?EID=9"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "local://4f7d52cdfcde.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:ames/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.cityofamestexas.com/171/Mayor-Council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Audrey Harrison",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Position 5"
+                        ],
+                        "phones": [],
+                        "emails": [
+                            "aharrison@cityofamestexas.com"
+                        ],
+                        "urls": [
+                            "https://www.cityofamestexas.com/directory.aspx?EID=14"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:ames/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.cityofamestexas.com/Directory.aspx?did=9"
+                        ],
+                        "updated_at": ""
+                    }
+                ]
+            },
+            "unrecognized_roles": [],
+            "excluded_people": []
+        },
+        "merge_records_across_llms_step": {
+            "people": [
+                {
+                    "name": "Barbara Domain",
+                    "other_names": [
+                        "Barbara L. Domain"
+                    ],
+                    "roles": [
+                        "mayor"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(936) 391-1311"
+                    ],
+                    "emails": [
+                        "bdomain@cityofamestexas.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofamestexas.com/194/Mayor"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "local://4f7d52cdfcde.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:ames/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.cityofamestexas.com/171/Mayor-Council"
+                    ],
+                    "updated_at": "2026-06-03T18:46:36+00:00"
+                },
+                {
+                    "name": "Michael Trahan",
+                    "other_names": [],
+                    "roles": [
+                        "council member",
+                        "mayor pro tempore"
+                    ],
+                    "designations": [
+                        "position 1"
+                    ],
+                    "phones": [],
+                    "emails": [
+                        "mtrahan@cityofamestexas.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofamestexas.com/directory.aspx?EID=10"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "local://b1f6f4008383.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:ames/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.cityofamestexas.com/195/City-Council"
+                    ],
+                    "updated_at": "2026-06-03T18:46:36+00:00"
+                },
+                {
+                    "name": "Elizabeth Hardy",
+                    "other_names": [
+                        "Elizabeth \"Liz\" Hardy",
+                        "Elizabeth Hardy (Liz)"
+                    ],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 2"
+                    ],
+                    "phones": [],
+                    "emails": [
+                        "ehardy@cityofamestexas.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofamestexas.com/directory.aspx?EID=11"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "local://042462d098b5.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:ames/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.cityofamestexas.com/195/City-Council"
+                    ],
+                    "updated_at": "2026-06-03T18:46:36+00:00"
+                },
+                {
+                    "name": "Eddie G. White",
+                    "other_names": [
+                        "Eddie White"
+                    ],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 3"
+                    ],
+                    "phones": [],
+                    "emails": [
+                        "ewhite@cityofamestexas.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofamestexas.com/directory.aspx?EID=12"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "local://e22ba9fc948e.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:ames/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.cityofamestexas.com/195/City-Council"
+                    ],
+                    "updated_at": "2026-06-03T18:46:36+00:00"
+                },
+                {
+                    "name": "Alfred Freeman, Jr.",
+                    "other_names": [
+                        "Jr. Freeman Alfred",
+                        "Alfred Freeman Jr."
+                    ],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 4"
+                    ],
+                    "phones": [],
+                    "emails": [
+                        "afreeman@cityofamestexas.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofamestexas.com/directory.aspx?EID=13"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "local://139cc790c258.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:ames/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.cityofamestexas.com/195/City-Council"
+                    ],
+                    "updated_at": "2026-06-03T18:46:36+00:00"
+                },
+                {
+                    "name": "Tiffany Burgos",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 5"
+                    ],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://www.cityofamestexas.com/directory.aspx?EID=15"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "local://f14b22cf82ef.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:ames/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.cityofamestexas.com/195/City-Council"
+                    ],
+                    "updated_at": "2026-06-03T18:46:36+00:00"
+                },
+                {
+                    "name": "Audrey Harrison",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 5"
+                    ],
+                    "phones": [],
+                    "emails": [
+                        "aharrison@cityofamestexas.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofamestexas.com/directory.aspx?EID=14"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:ames/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.cityofamestexas.com/Directory.aspx?did=9"
+                    ],
+                    "updated_at": "2026-06-03T18:46:36+00:00"
+                }
+            ]
+        },
+        "format_output_step": {
+            "officials": [
+                {
+                    "name": "Barbara Domain",
+                    "other_names": [
+                        "Barbara L. Domain"
+                    ],
+                    "phones": [
+                        "(936) 391-1311"
+                    ],
+                    "emails": [
+                        "bdomain@cityofamestexas.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofamestexas.com/194/Mayor"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Mayor",
+                        "division_ocdid": "ocd-division/country:us/state:tx/place:ames"
+                    },
+                    "image": "https://www.cityofamestexas.com/ImageRepository/Document?documentID=168",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:ames/government",
+                    "cdn_image": "local://4f7d52cdfcde.png",
+                    "source_urls": [
+                        "https://www.cityofamestexas.com/171/Mayor-Council"
+                    ],
+                    "updated_at": "2026-06-03T18:46:36+00:00",
+                    "id": "9674723b-3418-46f0-84e2-ceef41a6224c"
+                },
+                {
+                    "name": "Michael Trahan",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [
+                        "mtrahan@cityofamestexas.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofamestexas.com/directory.aspx?EID=10"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Mayor Pro Tempore - Position 1",
+                        "division_ocdid": "ocd-division/country:us/state:tx/place:ames"
+                    },
+                    "image": "https://www.cityofamestexas.com/ImageRepository/Document?documentID=172",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:ames/government",
+                    "cdn_image": "local://b1f6f4008383.png",
+                    "source_urls": [
+                        "https://www.cityofamestexas.com/195/City-Council"
+                    ],
+                    "updated_at": "2026-06-03T18:46:36+00:00",
+                    "id": "da4eebf4-982d-47da-8c30-7b7ebb5bcc16"
+                },
+                {
+                    "name": "Elizabeth Hardy",
+                    "other_names": [
+                        "Elizabeth \"Liz\" Hardy",
+                        "Elizabeth Hardy (Liz)"
+                    ],
+                    "phones": [],
+                    "emails": [
+                        "ehardy@cityofamestexas.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofamestexas.com/directory.aspx?EID=11"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Position 2",
+                        "division_ocdid": "ocd-division/country:us/state:tx/place:ames"
+                    },
+                    "image": "https://www.cityofamestexas.com/ImageRepository/Document?documentID=173",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:ames/government",
+                    "cdn_image": "local://042462d098b5.png",
+                    "source_urls": [
+                        "https://www.cityofamestexas.com/195/City-Council"
+                    ],
+                    "updated_at": "2026-06-03T18:46:36+00:00",
+                    "id": "e14a3269-b32f-43ea-9104-ce7ae6c6e967"
+                },
+                {
+                    "name": "Eddie G. White",
+                    "other_names": [
+                        "Eddie White"
+                    ],
+                    "phones": [],
+                    "emails": [
+                        "ewhite@cityofamestexas.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofamestexas.com/directory.aspx?EID=12"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Position 3",
+                        "division_ocdid": "ocd-division/country:us/state:tx/place:ames"
+                    },
+                    "image": "https://www.cityofamestexas.com/ImageRepository/Document?documentID=169",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:ames/government",
+                    "cdn_image": "local://e22ba9fc948e.png",
+                    "source_urls": [
+                        "https://www.cityofamestexas.com/195/City-Council"
+                    ],
+                    "updated_at": "2026-06-03T18:46:36+00:00",
+                    "id": "5494e2e6-85db-43c6-ae4c-a30fa54a4784"
+                },
+                {
+                    "name": "Alfred Freeman, Jr.",
+                    "other_names": [
+                        "Jr. Freeman Alfred",
+                        "Alfred Freeman Jr."
+                    ],
+                    "phones": [],
+                    "emails": [
+                        "afreeman@cityofamestexas.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofamestexas.com/directory.aspx?EID=13"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Position 4",
+                        "division_ocdid": "ocd-division/country:us/state:tx/place:ames"
+                    },
+                    "image": "https://www.cityofamestexas.com/ImageRepository/Document?documentID=170",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:ames/government",
+                    "cdn_image": "local://139cc790c258.png",
+                    "source_urls": [
+                        "https://www.cityofamestexas.com/195/City-Council"
+                    ],
+                    "updated_at": "2026-06-03T18:46:36+00:00",
+                    "id": "f488f758-5d77-4310-92d7-bbcb2f2058ef"
+                },
+                {
+                    "name": "Tiffany Burgos",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://www.cityofamestexas.com/directory.aspx?EID=15"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Position 5",
+                        "division_ocdid": "ocd-division/country:us/state:tx/place:ames"
+                    },
+                    "image": "https://www.cityofamestexas.com/ImageRepository/Document?documentID=171",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:ames/government",
+                    "cdn_image": "local://f14b22cf82ef.png",
+                    "source_urls": [
+                        "https://www.cityofamestexas.com/195/City-Council"
+                    ],
+                    "updated_at": "2026-06-03T18:46:36+00:00",
+                    "id": "d5a57e2c-b15f-444d-bda0-ef75641b5e75"
+                },
+                {
+                    "name": "Audrey Harrison",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [
+                        "aharrison@cityofamestexas.com"
+                    ],
+                    "urls": [
+                        "https://www.cityofamestexas.com/directory.aspx?EID=14"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Position 5",
+                        "division_ocdid": "ocd-division/country:us/state:tx/place:ames"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:tx/place:ames/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.cityofamestexas.com/Directory.aspx?did=9"
+                    ],
+                    "updated_at": "2026-06-03T18:46:36+00:00",
+                    "id": "c7835c8c-efa3-444d-89f6-1536ca7860f2"
+                }
+            ]
+        },
+        "review_output_step": {
+            "issues": [
+                "Extra official: Audrey Harrison",
+                "Position 5 has 2 official(s) (expected 1)"
+            ],
+            "people_by_source": [
+                {
+                    "name": "Alfred Freeman, Jr.",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Audrey Harrison",
+                    "in_research": false,
+                    "in_data": true
+                },
+                {
+                    "name": "Barbara Domain",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Eddie G. White",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Elizabeth Hardy",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Michael Trahan",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Tiffany Burgos",
+                    "in_research": true,
+                    "in_data": true
+                }
+            ],
+            "origin_source": "existing"
+        },
+        "find_jurisdiction_url_step": null,
+        "send_success_step": null,
+        "send_error_step": null,
+        "issues": [],
+        "error_step": null,
+        "error_detail": null
+    },
+    "current_state": "SEND_SUCCESS",
+    "request_id": "4c51b079-174a-47c6-bde3-2442d1f87590",
+    "created_at": 1780512099.9568477,
+    "updated_at": 1780512396.1606333,
+    "progress": 51
+}
