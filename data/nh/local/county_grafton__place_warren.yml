@@ -1,0 +1,54 @@
+- name: Charles Sackett Jr.
+  other_names: []
+  phones: []
+  emails: []
+  urls:
+  - https://www.warren-nh.com/departments/administrator
+  start_date: null
+  end_date: '2028'
+  office:
+    name: Select Board Member
+    division_ocdid: ocd-division/country:us/state:nh/county:grafton/place:warren
+  image: ''
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:nh/county:grafton/place:warren/government
+  cdn_image: ''
+  source_urls:
+  - https://www.warren-nh.com/departments/administrator
+  updated_at: '2026-06-02T05:41:51+00:00'
+  id: f5bce9e4-efef-4cbd-b529-fd6c24398290
+- name: Shirley McCartin
+  other_names: []
+  phones: []
+  emails: []
+  urls:
+  - https://www.warren-nh.com/departments/administrator
+  start_date: null
+  end_date: '2029'
+  office:
+    name: Select Board Member
+    division_ocdid: ocd-division/country:us/state:nh/county:grafton/place:warren
+  image: ''
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:nh/county:grafton/place:warren/government
+  cdn_image: ''
+  source_urls:
+  - https://www.warren-nh.com/departments/administrator
+  updated_at: '2026-06-02T05:41:51+00:00'
+  id: 55c1ae67-a4bf-4add-b511-1ea32953a6e1
+- name: Jeremy Hair
+  other_names: []
+  phones: []
+  emails: []
+  urls:
+  - https://www.warren-nh.com/departments/administrator
+  start_date: null
+  end_date: '2027'
+  office:
+    name: Select Board Member
+    division_ocdid: ocd-division/country:us/state:nh/county:grafton/place:warren
+  image: ''
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:nh/county:grafton/place:warren/government
+  cdn_image: ''
+  source_urls:
+  - https://www.warren-nh.com/departments/administrator
+  updated_at: '2026-06-02T05:41:51+00:00'
+  id: f3c03db9-01f5-4997-bd0d-d79db6ce5883

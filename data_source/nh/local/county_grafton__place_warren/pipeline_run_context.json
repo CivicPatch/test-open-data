@@ -1,0 +1,1016 @@
+{
+    "data": {
+        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:nh/county:grafton/place:warren/government",
+        "config": {
+            "url": "http://warren-nh.com",
+            "name": "Warren town",
+            "source_urls": null
+        },
+        "frontier": {
+            "links": {
+                "https://warren-nh.com": {
+                    "url": "http://warren-nh.com",
+                    "status": "processed_irrelevant",
+                    "folder_name": "warren-nh_com",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 1
+                },
+                "https://warren-nh.com/departments/administrator": {
+                    "url": "https://www.warren-nh.com/departments/administrator",
+                    "status": "done",
+                    "folder_name": "www_warren-nh_com_departments_administrator",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 3
+                },
+                "https://warren-nh.com/meetingdashboard": {
+                    "url": "https://www.warren-nh.com/meetingdashboard",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_warren-nh_com_meetingdashboard",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 2
+                },
+                "https://warren-nh.com/meetingarchives": {
+                    "url": "https://www.warren-nh.com/MeetingArchives",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_warren-nh_com_meetingarchives",
+                    "num_references": 5,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 10
+                },
+                "https://warren-nh.com/procurement-and-surplus-property": {
+                    "url": "https://www.warren-nh.com/procurement-and-surplus-property",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 11,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://warren-nh.com/departments/supervisors": {
+                    "url": "https://www.warren-nh.com/departments/supervisors",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_warren-nh_com_departments_supervisors",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 4
+                },
+                "https://warren-nh.com/departments/taxcollector": {
+                    "url": "https://www.warren-nh.com/departments/taxcollector",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_warren-nh_com_departments_taxcollector",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 5
+                },
+                "https://warren-nh.com/departments/clerk": {
+                    "url": "https://www.warren-nh.com/departments/clerk",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_warren-nh_com_departments_clerk",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 6
+                },
+                "https://warren-nh.com/departments/treasurer": {
+                    "url": "https://www.warren-nh.com/departments/treasurer",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_warren-nh_com_departments_treasurer",
+                    "num_references": 5,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 7
+                },
+                "https://warren-nh.com/departments/trustee": {
+                    "url": "https://www.warren-nh.com/departments/trustee",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_warren-nh_com_departments_trustee",
+                    "num_references": 6,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 8
+                },
+                "https://warren-nh.com/contact": {
+                    "url": "https://www.warren-nh.com/contact",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://warren-nh.com/meetings": {
+                    "url": "https://www.warren-nh.com/meetings",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_warren-nh_com_meetings",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 16
+                },
+                "https://warren-nh.com/calendar": {
+                    "url": "https://www.warren-nh.com/calendar",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 9,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://warren-nh.com/doglicensing": {
+                    "url": "https://www.warren-nh.com/DogLicensing",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://warren-nh.com/sitemap": {
+                    "url": "https://www.warren-nh.com/sitemap",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 5,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://warren-nh.com/contactwarren,nh": {
+                    "url": "https://www.warren-nh.com/ContactWarren,NH",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 10,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://warren-nh.com/aboutwarren": {
+                    "url": "https://www.warren-nh.com/aboutwarren",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_warren-nh_com_aboutwarren",
+                    "num_references": 6,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 9
+                },
+                "https://warren-nh.com/departments/staff_directory/administrator": {
+                    "url": "https://www.warren-nh.com/departments/staff_directory/administrator/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_warren-nh_com_departments_staff_directory_administrator_",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 12
+                },
+                "https://warren-nh.com/departments/administrator/meetingarchives": {
+                    "url": "https://www.warren-nh.com/departments/administrator/MeetingArchives",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_warren-nh_com_departments_administrator_meetingarchives",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 13
+                },
+                "https://warren-nh.com/departments/administrator/procurement-and-surplus-property": {
+                    "url": "https://www.warren-nh.com/departments/administrator/procurement-and-surplus-property",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_warren-nh_com_departments_administrator_procurement-and-surplus-property",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 14
+                },
+                "https://warren-nh.com/clubspublicinterest": {
+                    "url": "https://www.warren-nh.com/ClubsPublicInterest",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 7,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://warren-nh.com/schools": {
+                    "url": "https://www.warren-nh.com/Schools",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 7,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://warren-nh.com/warrensopenairmarket": {
+                    "url": "https://www.warren-nh.com/WarrensOpenAirMarket",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 7,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://warren-nh.com/oldhomeday": {
+                    "url": "https://www.warren-nh.com/oldhomeday",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 7,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://warren-nh.com/business": {
+                    "url": "https://www.warren-nh.com/business",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://warren-nh.com/media/forms/subdivision regulations": {
+                    "url": "https://www.warren-nh.com/media/Forms/Subdivision Regulations",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://warren-nh.com/tax-maps": {
+                    "url": "https://www.warren-nh.com/tax-maps",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://warren-nh.com/departments/staff_directory/supervisors": {
+                    "url": "https://www.warren-nh.com/departments/staff_directory/supervisors/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://warren-nh.com/departments": {
+                    "url": "https://www.warren-nh.com/departments/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_warren-nh_com_departments_",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 11
+                },
+                "https://warren-nh.com/departments/staff_directory/taxcollector": {
+                    "url": "https://www.warren-nh.com/departments/staff_directory/taxcollector/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://warren-nh.com/departments/staff_directory/clerk": {
+                    "url": "https://www.warren-nh.com/departments/staff_directory/clerk/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://warren-nh.com/departments/fire": {
+                    "url": "https://www.warren-nh.com/departments/fire",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_warren-nh_com_departments_fire",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 17
+                },
+                "https://warren-nh.com/departments/highway": {
+                    "url": "https://www.warren-nh.com/departments/highway",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_warren-nh_com_departments_highway",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 15
+                },
+                "https://warren-nh.com/departments/library": {
+                    "url": "https://www.warren-nh.com/departments/library",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_warren-nh_com_departments_library",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 18
+                },
+                "https://warren-nh.com/departments/police": {
+                    "url": "https://www.warren-nh.com/departments/police",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_warren-nh_com_departments_police",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 19
+                },
+                "https://warren-nh.com/departments/transfer-station": {
+                    "url": "https://www.warren-nh.com/departments/transfer-station",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_warren-nh_com_departments_transfer-station",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 20
+                },
+                "https://warren-nh.com/departments/staff_directory/treasurer": {
+                    "url": "https://www.warren-nh.com/departments/staff_directory/treasurer/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://warren-nh.com/departments/staff_directory/trustee": {
+                    "url": "https://www.warren-nh.com/departments/staff_directory/trustee/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://warren-nh.com/departments/staff_directory/highway": {
+                    "url": "https://www.warren-nh.com/departments/staff_directory/highway/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://warren-nh.com/meetings/168": {
+                    "url": "https://www.warren-nh.com/meetings/168/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://warren-nh.com/meetings/167": {
+                    "url": "https://www.warren-nh.com/meetings/167/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://warren-nh.com/meetings/178": {
+                    "url": "https://www.warren-nh.com/meetings/178/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://warren-nh.com/departments/staff_directory/fire": {
+                    "url": "https://www.warren-nh.com/departments/staff_directory/fire/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://warren-nh.com/departments/staff_directory/library": {
+                    "url": "https://www.warren-nh.com/departments/staff_directory/library/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://warren-nh.com/departments/staff_directory/police": {
+                    "url": "https://www.warren-nh.com/departments/staff_directory/police/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://warren-nh.com/departments/staff_directory/transfer-station": {
+                    "url": "https://www.warren-nh.com/departments/staff_directory/transfer-station/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                }
+            },
+            "queue": [
+                "https://warren-nh.com/meetings/168",
+                "https://warren-nh.com/meetings/167",
+                "https://warren-nh.com/meetings/178",
+                "https://warren-nh.com/departments/staff_directory/supervisors",
+                "https://warren-nh.com/departments/staff_directory/taxcollector",
+                "https://warren-nh.com/departments/staff_directory/clerk",
+                "https://warren-nh.com/departments/staff_directory/treasurer",
+                "https://warren-nh.com/departments/staff_directory/trustee",
+                "https://warren-nh.com/departments/staff_directory/highway",
+                "https://warren-nh.com/departments/staff_directory/fire",
+                "https://warren-nh.com/departments/staff_directory/library",
+                "https://warren-nh.com/departments/staff_directory/police",
+                "https://warren-nh.com/departments/staff_directory/transfer-station",
+                "https://warren-nh.com/procurement-and-surplus-property",
+                "https://warren-nh.com/contactwarren,nh",
+                "https://warren-nh.com/calendar",
+                "https://warren-nh.com/clubspublicinterest",
+                "https://warren-nh.com/schools",
+                "https://warren-nh.com/warrensopenairmarket",
+                "https://warren-nh.com/oldhomeday",
+                "https://warren-nh.com/sitemap",
+                "https://warren-nh.com/doglicensing",
+                "https://warren-nh.com/business",
+                "https://warren-nh.com/tax-maps",
+                "https://warren-nh.com/media/forms/subdivision regulations",
+                "https://warren-nh.com/contact"
+            ]
+        },
+        "research_municipality_step": {
+            "expected_count": 3,
+            "target_designations": [],
+            "known_roles": [
+                "Selectman"
+            ],
+            "identities": {
+                "Shirley McCartin": [],
+                "Charles Sackett Jr.": [],
+                "Jeremy Hair": [],
+                "John Semertgakis": [],
+                "Donna Campbell": [],
+                "Charles Chandler": [],
+                "Jay Johnson": [],
+                "Tom McGuy": [],
+                "Heather Sackett": [],
+                "Sheila Foote": [],
+                "Marlene Wright": [],
+                "Maria Sanders": [],
+                "Kathleen Benassi": [],
+                "Suzanne Flagg": []
+            },
+            "source_urls": [],
+            "notes": null,
+            "origin_source": "google_gemini"
+        },
+        "preprocess_page_content_step": {
+            "elapsed_times": [
+                31,
+                24,
+                24,
+                24,
+                23,
+                23,
+                23,
+                23,
+                21,
+                23,
+                23,
+                24,
+                25,
+                24,
+                23,
+                24,
+                24,
+                23,
+                23,
+                23
+            ],
+            "total_elapsed_time_seconds": 475,
+            "average_elapsed_time_seconds": 23
+        },
+        "process_page_content_step": {
+            "raw_records_by_llm": {
+                "open_router": {
+                    "Charles Sackett Jr.": [
+                        {
+                            "name": "Charles Sackett Jr.",
+                            "roles": [
+                                "Selectman"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2028",
+                            "image": null,
+                            "source_url": "https://www.warren-nh.com/departments/administrator"
+                        }
+                    ],
+                    "Shirley McCartin": [
+                        {
+                            "name": "Shirley McCartin",
+                            "roles": [
+                                "Selectman"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2029",
+                            "image": null,
+                            "source_url": "https://www.warren-nh.com/departments/administrator"
+                        }
+                    ],
+                    "Jeremy Hair": [
+                        {
+                            "name": "Jeremy Hair",
+                            "roles": [
+                                "Selectman"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2027",
+                            "image": null,
+                            "source_url": "https://www.warren-nh.com/departments/administrator"
+                        }
+                    ]
+                }
+            },
+            "records_by_llm": {
+                "open_router": {
+                    "Charles Sackett Jr.": [
+                        {
+                            "name": "Charles Sackett Jr.",
+                            "roles": [
+                                "select board member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2028",
+                            "image": null,
+                            "source_url": "https://www.warren-nh.com/departments/administrator"
+                        }
+                    ],
+                    "Shirley McCartin": [
+                        {
+                            "name": "Shirley McCartin",
+                            "roles": [
+                                "select board member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2029",
+                            "image": null,
+                            "source_url": "https://www.warren-nh.com/departments/administrator"
+                        }
+                    ],
+                    "Jeremy Hair": [
+                        {
+                            "name": "Jeremy Hair",
+                            "roles": [
+                                "select board member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2027",
+                            "image": null,
+                            "source_url": "https://www.warren-nh.com/departments/administrator"
+                        }
+                    ]
+                }
+            },
+            "progress": {
+                "required_data": 5,
+                "current_data": 0,
+                "has_target_role": true,
+                "has_target_designations": true
+            }
+        },
+        "merge_records_within_llm_step": {
+            "people_by_llm": {
+                "open_router": [
+                    {
+                        "name": "Charles Sackett Jr.",
+                        "other_names": [],
+                        "roles": [
+                            "select board member"
+                        ],
+                        "designations": [],
+                        "phones": [],
+                        "emails": [],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "2028",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:nh/county:grafton/place:warren/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.warren-nh.com/departments/administrator"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Shirley McCartin",
+                        "other_names": [],
+                        "roles": [
+                            "select board member"
+                        ],
+                        "designations": [],
+                        "phones": [],
+                        "emails": [],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "2029",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:nh/county:grafton/place:warren/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.warren-nh.com/departments/administrator"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Jeremy Hair",
+                        "other_names": [],
+                        "roles": [
+                            "select board member"
+                        ],
+                        "designations": [],
+                        "phones": [],
+                        "emails": [],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "2027",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:nh/county:grafton/place:warren/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.warren-nh.com/departments/administrator"
+                        ],
+                        "updated_at": ""
+                    }
+                ]
+            },
+            "unrecognized_roles": [],
+            "excluded_people": []
+        },
+        "merge_records_across_llms_step": {
+            "people": [
+                {
+                    "name": "Charles Sackett Jr.",
+                    "other_names": [],
+                    "roles": [
+                        "select board member"
+                    ],
+                    "designations": [],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "2028",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:nh/county:grafton/place:warren/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.warren-nh.com/departments/administrator"
+                    ],
+                    "updated_at": "2026-06-02T05:41:51+00:00"
+                },
+                {
+                    "name": "Shirley McCartin",
+                    "other_names": [],
+                    "roles": [
+                        "select board member"
+                    ],
+                    "designations": [],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "2029",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:nh/county:grafton/place:warren/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.warren-nh.com/departments/administrator"
+                    ],
+                    "updated_at": "2026-06-02T05:41:51+00:00"
+                },
+                {
+                    "name": "Jeremy Hair",
+                    "other_names": [],
+                    "roles": [
+                        "select board member"
+                    ],
+                    "designations": [],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "2027",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:nh/county:grafton/place:warren/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.warren-nh.com/departments/administrator"
+                    ],
+                    "updated_at": "2026-06-02T05:41:51+00:00"
+                }
+            ]
+        },
+        "format_output_step": {
+            "officials": [
+                {
+                    "name": "Charles Sackett Jr.",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://www.warren-nh.com/departments/administrator"
+                    ],
+                    "start_date": null,
+                    "end_date": "2028",
+                    "office": {
+                        "name": "Select Board Member",
+                        "division_ocdid": "ocd-division/country:us/state:nh/county:grafton/place:warren"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:nh/county:grafton/place:warren/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.warren-nh.com/departments/administrator"
+                    ],
+                    "updated_at": "2026-06-02T05:41:51+00:00",
+                    "id": "f5bce9e4-efef-4cbd-b529-fd6c24398290"
+                },
+                {
+                    "name": "Shirley McCartin",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://www.warren-nh.com/departments/administrator"
+                    ],
+                    "start_date": null,
+                    "end_date": "2029",
+                    "office": {
+                        "name": "Select Board Member",
+                        "division_ocdid": "ocd-division/country:us/state:nh/county:grafton/place:warren"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:nh/county:grafton/place:warren/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.warren-nh.com/departments/administrator"
+                    ],
+                    "updated_at": "2026-06-02T05:41:51+00:00",
+                    "id": "55c1ae67-a4bf-4add-b511-1ea32953a6e1"
+                },
+                {
+                    "name": "Jeremy Hair",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://www.warren-nh.com/departments/administrator"
+                    ],
+                    "start_date": null,
+                    "end_date": "2027",
+                    "office": {
+                        "name": "Select Board Member",
+                        "division_ocdid": "ocd-division/country:us/state:nh/county:grafton/place:warren"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:nh/county:grafton/place:warren/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.warren-nh.com/departments/administrator"
+                    ],
+                    "updated_at": "2026-06-02T05:41:51+00:00",
+                    "id": "f3c03db9-01f5-4997-bd0d-d79db6ce5883"
+                }
+            ]
+        },
+        "review_output_step": {
+            "issues": [
+                "Missing official: Charles Chandler",
+                "Missing official: Donna Campbell",
+                "Missing official: Heather Sackett",
+                "Missing official: Jay Johnson",
+                "Missing official: John Semertgakis",
+                "Missing official: Kathleen Benassi",
+                "Missing official: Maria Sanders",
+                "Missing official: Marlene Wright",
+                "Missing official: Sheila Foote",
+                "Missing official: Suzanne Flagg",
+                "Missing official: Tom McGuy"
+            ],
+            "people_by_source": [
+                {
+                    "name": "Charles Chandler",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Charles Sackett Jr.",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Donna Campbell",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Heather Sackett",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Jay Johnson",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Jeremy Hair",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "John Semertgakis",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Kathleen Benassi",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Maria Sanders",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Marlene Wright",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Sheila Foote",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Shirley McCartin",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Suzanne Flagg",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Tom McGuy",
+                    "in_research": true,
+                    "in_data": false
+                }
+            ],
+            "origin_source": "google_gemini"
+        },
+        "find_jurisdiction_url_step": null,
+        "send_success_step": null,
+        "send_error_step": null,
+        "issues": [],
+        "error_step": null,
+        "error_detail": null
+    },
+    "current_state": "SEND_SUCCESS",
+    "request_id": "b5c83907-68c8-4bf4-85a7-fe87de4a122d",
+    "created_at": 1780378091.6953914,
+    "updated_at": 1780378911.9950752,
+    "progress": 27
+}
