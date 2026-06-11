@@ -3567,7 +3567,7 @@ jurisdictions:
   - geoid_mismatch
 - id: ocd-jurisdiction/country:us/state:me/county:aroostook/place:crystal/government
   name: Crystal town
-  url: ''
+  url: 'https://www.islandfallsme.us/crystal-officers'
   population: 247
   geoid: '2300315395'
   wiki_url: https://en.wikipedia.org/wiki/Crystal,_Maine
