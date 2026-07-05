@@ -1,0 +1,1492 @@
+{
+    "data": {
+        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:anacortes/government",
+        "config": {
+            "url": "https://www.anacorteswa.gov/",
+            "name": "Anacortes city",
+            "source_urls": null
+        },
+        "frontier": {
+            "links": {
+                "https://anacorteswa.gov": {
+                    "url": "https://www.anacorteswa.gov/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_anacorteswa_gov_",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 1
+                },
+                "https://cityofanacortes.org/818/city-council-members": {
+                    "url": "https://www.cityofanacortes.org/818/City-Council-Members",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://anacorteswa.gov/27/government": {
+                    "url": "https://www.anacorteswa.gov/27/Government",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_anacorteswa_gov_27_government",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 3
+                },
+                "https://anacorteswa.gov/700/meeting-documents-and-video": {
+                    "url": "https://www.anacorteswa.gov/700/Meeting-Documents-and-Video",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_anacorteswa_gov_700_meeting-documents-and-video",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 4
+                },
+                "https://anacorteswa.gov/directory": {
+                    "url": "https://www.anacorteswa.gov/directory",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_anacorteswa_gov_directory",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 2
+                },
+                "https://anacorteswa.gov/directory.aspx?did=31": {
+                    "url": "https://www.anacorteswa.gov/Directory.aspx?did=31",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://anacorteswa.gov/directory.aspx?did=32": {
+                    "url": "https://www.anacorteswa.gov/Directory.aspx?did=32",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://anacorteswa.gov/520/about-anacortes": {
+                    "url": "https://www.anacorteswa.gov/520/About-Anacortes",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://anacorteswa.gov/756/mayor": {
+                    "url": "https://www.anacorteswa.gov/756/Mayor",
+                    "status": "done",
+                    "folder_name": "www_anacorteswa_gov_756_mayor",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 7
+                },
+                "https://anacorteswa.gov/697/city-council": {
+                    "url": "https://www.anacorteswa.gov/697/City-Council",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_anacorteswa_gov_697_city-council",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 5
+                },
+                "https://anacorteswa.gov/818/councilmembers": {
+                    "url": "https://www.anacorteswa.gov/818/Councilmembers",
+                    "status": "done",
+                    "folder_name": "www_anacorteswa_gov_818_councilmembers",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 6
+                },
+                "https://anacorteswa.gov/2071/marcia-hunt": {
+                    "url": "https://www.anacorteswa.gov/2071/Marcia-Hunt",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://anacorteswa.gov/1162/christine-cleland-mcgrath": {
+                    "url": "https://www.anacorteswa.gov/1162/Christine-Cleland-McGrath",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://anacorteswa.gov/2067/tj-fantini": {
+                    "url": "https://www.anacorteswa.gov/2067/TJ-Fantini",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://anacorteswa.gov/2068/luke-currier": {
+                    "url": "https://www.anacorteswa.gov/2068/Luke-Currier",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://anacorteswa.gov/708/bruce-mcdougall": {
+                    "url": "https://www.anacorteswa.gov/708/Bruce-McDougall",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://anacorteswa.gov/2070/carolyn-moulton": {
+                    "url": "https://www.anacorteswa.gov/2070/Carolyn-Moulton",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://anacorteswa.gov/930/anthony-young": {
+                    "url": "https://www.anacorteswa.gov/930/Anthony-Young",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://anacorteswa.gov/2012/form-of-government": {
+                    "url": "https://www.anacorteswa.gov/2012/Form-of-Government",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://anacorteswa.gov/760/about-the-mayor": {
+                    "url": "https://www.anacorteswa.gov/760/About-the-Mayor",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://anacorteswa.gov/1940/committees": {
+                    "url": "https://www.anacorteswa.gov/1940/Committees",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://anacorteswa.gov/1948/public-comment": {
+                    "url": "https://www.anacorteswa.gov/1948/Public-Comment",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://anacorteswa.gov/1929/legislative-priorities": {
+                    "url": "https://www.anacorteswa.gov/1929/Legislative-Priorities",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://anacorteswa.gov/148/departments": {
+                    "url": "https://www.anacorteswa.gov/148/Departments",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://anacorteswa.gov/160/boards-commissions": {
+                    "url": "https://www.anacorteswa.gov/160/Boards-Commissions",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://anacorteswa.gov/694/tv10": {
+                    "url": "https://www.anacorteswa.gov/694/TV10",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://anacorteswa.gov/635/gis-mapping": {
+                    "url": "https://www.anacorteswa.gov/635/GIS-Mapping",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://anacorteswa.gov/890/public-records": {
+                    "url": "https://www.anacorteswa.gov/890/Public-Records",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://anacorteswa.gov/818/councilmembers#mainwrapts": {
+                    "url": "https://www.anacorteswa.gov/818/Councilmembers#mainWrapTS",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:council",
+                    "text": "Skip To Main Content",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://anacorteswa.gov/818/councilmembers#cca3a83609-58dc-4a2f-bb9e-1bb0a0d854d5": {
+                    "url": "https://www.anacorteswa.gov/818/Councilmembers#cca3a83609-58dc-4a2f-bb9e-1bb0a0d854d5",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:council",
+                    "text": "Skip to Main Content",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://anacorteswa.gov/directory.aspx": {
+                    "url": "https://www.anacorteswa.gov/Directory.aspx",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:directory",
+                    "text": "Contact Us",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://anacorteswa.gov/directory.aspx?eid=211": {
+                    "url": "https://www.anacorteswa.gov/directory.aspx?eid=211",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:directory",
+                    "text": "More Information",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://anacorteswa.gov/779/past-mayors-pdf": {
+                    "url": "https://www.anacorteswa.gov/779/Past-Mayors-PDF",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://anacorteswa.gov/160": {
+                    "url": "https://www.anacorteswa.gov/160",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                }
+            },
+            "queue": [
+                "https://anacorteswa.gov/760/about-the-mayor",
+                "https://anacorteswa.gov/directory.aspx",
+                "https://anacorteswa.gov/818/councilmembers#mainwrapts",
+                "https://anacorteswa.gov/818/councilmembers#cca3a83609-58dc-4a2f-bb9e-1bb0a0d854d5",
+                "https://anacorteswa.gov/directory.aspx?did=31",
+                "https://anacorteswa.gov/directory.aspx?did=32",
+                "https://anacorteswa.gov/directory.aspx?eid=211",
+                "https://anacorteswa.gov/520/about-anacortes",
+                "https://anacorteswa.gov/2012/form-of-government",
+                "https://anacorteswa.gov/148/departments",
+                "https://anacorteswa.gov/160/boards-commissions",
+                "https://anacorteswa.gov/779/past-mayors-pdf",
+                "https://cityofanacortes.org/818/city-council-members",
+                "https://anacorteswa.gov/635/gis-mapping",
+                "https://anacorteswa.gov/2071/marcia-hunt",
+                "https://anacorteswa.gov/1162/christine-cleland-mcgrath",
+                "https://anacorteswa.gov/2067/tj-fantini",
+                "https://anacorteswa.gov/2068/luke-currier",
+                "https://anacorteswa.gov/708/bruce-mcdougall",
+                "https://anacorteswa.gov/2070/carolyn-moulton",
+                "https://anacorteswa.gov/930/anthony-young",
+                "https://anacorteswa.gov/1948/public-comment",
+                "https://anacorteswa.gov/1940/committees",
+                "https://anacorteswa.gov/890/public-records",
+                "https://anacorteswa.gov/160",
+                "https://anacorteswa.gov/1929/legislative-priorities",
+                "https://anacorteswa.gov/694/tv10"
+            ]
+        },
+        "research_municipality_step": {
+            "expected_count": 8,
+            "target_designations": [
+                "Ward 1",
+                "Ward 2",
+                "Ward 3"
+            ],
+            "known_roles": [
+                "Mayor",
+                "Mayor Pro Tempore",
+                "Council Member"
+            ],
+            "identities": {
+                "Matt Miller": [],
+                "Carolyn Moulton": [],
+                "Amanda Hubik": [],
+                "Bruce McDougall": [],
+                "Anthony Young": [],
+                "Ryan Walters": [],
+                "Christine Cleland-McGrath": [],
+                "TJ Fantini": []
+            },
+            "source_urls": [
+                "https://www.cityofanacortes.org/818/City-Council-Members"
+            ],
+            "notes": null,
+            "origin_source": "existing"
+        },
+        "preprocess_page_content_step": {
+            "elapsed_times": [
+                4,
+                1,
+                1,
+                4,
+                1,
+                1,
+                1
+            ],
+            "total_elapsed_time_seconds": 13,
+            "average_elapsed_time_seconds": 1
+        },
+        "process_page_content_step": {
+            "raw_records_by_llm": {
+                "open_router": {
+                    "Marcia Hunt": [
+                        {
+                            "name": "Marcia Hunt",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Ward 1"
+                            ],
+                            "phone": "360-293-1900",
+                            "email": null,
+                            "url": "https://www.anacorteswa.gov/2071/Marcia-Hunt",
+                            "start_date": "2026",
+                            "end_date": "2027-11-02",
+                            "image": "local://c5ef4eaea373.png",
+                            "source_url": "https://www.anacorteswa.gov/818/Councilmembers"
+                        }
+                    ],
+                    "Christine Cleland-McGrath": [
+                        {
+                            "name": "Christine Cleland-McGrath",
+                            "roles": [
+                                "Council Member",
+                                "Mayor Pro Tempore"
+                            ],
+                            "designations": [
+                                "Ward 2"
+                            ],
+                            "phone": "360-293-1900",
+                            "email": null,
+                            "url": "https://www.anacorteswa.gov/1162/Christine-Cleland-McGrath",
+                            "start_date": "2019",
+                            "end_date": "2027-12-31",
+                            "image": "local://7a1c8aa268b1.png",
+                            "source_url": "https://www.anacorteswa.gov/818/Councilmembers"
+                        }
+                    ],
+                    "TJ Fantini": [
+                        {
+                            "name": "TJ Fantini",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Ward 3"
+                            ],
+                            "phone": "360-293-1900",
+                            "email": null,
+                            "url": "https://www.anacorteswa.gov/2067/TJ-Fantini",
+                            "start_date": "2023",
+                            "end_date": "2027-12-31",
+                            "image": "local://79b02812b683.png",
+                            "source_url": "https://www.anacorteswa.gov/818/Councilmembers"
+                        }
+                    ],
+                    "Luke Currier": [
+                        {
+                            "name": "Luke Currier",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 4"
+                            ],
+                            "phone": "360-293-1900",
+                            "email": null,
+                            "url": "https://www.anacorteswa.gov/2068/Luke-Currier",
+                            "start_date": "2025",
+                            "end_date": "2029-12-31",
+                            "image": "local://9af0e19aef93.png",
+                            "source_url": "https://www.anacorteswa.gov/818/Councilmembers"
+                        }
+                    ],
+                    "Bruce McDougall": [
+                        {
+                            "name": "Bruce McDougall",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 5"
+                            ],
+                            "phone": "360-293-1900",
+                            "email": null,
+                            "url": "https://www.anacorteswa.gov/708/Bruce-McDougall",
+                            "start_date": "2018",
+                            "end_date": "2029-12-31",
+                            "image": "local://22493e6a1e53.png",
+                            "source_url": "https://www.anacorteswa.gov/818/Councilmembers"
+                        }
+                    ],
+                    "Carolyn Moulton": [
+                        {
+                            "name": "Carolyn Moulton",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 6"
+                            ],
+                            "phone": "360-293-1900",
+                            "email": null,
+                            "url": "https://www.anacorteswa.gov/2070/Carolyn-Moulton",
+                            "start_date": "2019",
+                            "end_date": "2029-12-31",
+                            "image": "local://f6289d77bb7e.png",
+                            "source_url": "https://www.anacorteswa.gov/818/Councilmembers"
+                        }
+                    ],
+                    "Anthony Young": [
+                        {
+                            "name": "Anthony Young",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 7"
+                            ],
+                            "phone": "360-293-1900",
+                            "email": null,
+                            "url": "https://www.anacorteswa.gov/930/Anthony-Young",
+                            "start_date": "2018",
+                            "end_date": "2029-12-31",
+                            "image": "local://46b7748f0374.png",
+                            "source_url": "https://www.anacorteswa.gov/818/Councilmembers"
+                        }
+                    ],
+                    "Ryan Walters": [
+                        {
+                            "name": "Ryan Walters",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "360-299-1950",
+                            "email": "ryanw@anacorteswa.gov",
+                            "url": "https://www.anacorteswa.gov/760",
+                            "start_date": "2026-01-01",
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.anacorteswa.gov/756/Mayor"
+                        }
+                    ]
+                }
+            },
+            "records_by_llm": {
+                "open_router": {
+                    "Marcia Hunt": [
+                        {
+                            "name": "Marcia Hunt",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Ward 1"
+                            ],
+                            "phone": "(360) 293-1900",
+                            "email": null,
+                            "url": "https://www.anacorteswa.gov/2071/Marcia-Hunt",
+                            "start_date": "2026",
+                            "end_date": "2027-11-02",
+                            "image": "local://c5ef4eaea373.png",
+                            "source_url": "https://www.anacorteswa.gov/818/Councilmembers"
+                        }
+                    ],
+                    "Christine Cleland-McGrath": [
+                        {
+                            "name": "Christine Cleland-McGrath",
+                            "roles": [
+                                "council member",
+                                "mayor pro tempore"
+                            ],
+                            "designations": [
+                                "Ward 2"
+                            ],
+                            "phone": "(360) 293-1900",
+                            "email": null,
+                            "url": "https://www.anacorteswa.gov/1162/Christine-Cleland-McGrath",
+                            "start_date": "2019",
+                            "end_date": "2027-12-31",
+                            "image": "local://7a1c8aa268b1.png",
+                            "source_url": "https://www.anacorteswa.gov/818/Councilmembers"
+                        }
+                    ],
+                    "TJ Fantini": [
+                        {
+                            "name": "TJ Fantini",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Ward 3"
+                            ],
+                            "phone": "(360) 293-1900",
+                            "email": null,
+                            "url": "https://www.anacorteswa.gov/2067/TJ-Fantini",
+                            "start_date": "2023",
+                            "end_date": "2027-12-31",
+                            "image": "local://79b02812b683.png",
+                            "source_url": "https://www.anacorteswa.gov/818/Councilmembers"
+                        }
+                    ],
+                    "Luke Currier": [
+                        {
+                            "name": "Luke Currier",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Position 4"
+                            ],
+                            "phone": "(360) 293-1900",
+                            "email": null,
+                            "url": "https://www.anacorteswa.gov/2068/Luke-Currier",
+                            "start_date": "2025",
+                            "end_date": "2029-12-31",
+                            "image": "local://9af0e19aef93.png",
+                            "source_url": "https://www.anacorteswa.gov/818/Councilmembers"
+                        }
+                    ],
+                    "Bruce McDougall": [
+                        {
+                            "name": "Bruce McDougall",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Position 5"
+                            ],
+                            "phone": "(360) 293-1900",
+                            "email": null,
+                            "url": "https://www.anacorteswa.gov/708/Bruce-McDougall",
+                            "start_date": "2018",
+                            "end_date": "2029-12-31",
+                            "image": "local://22493e6a1e53.png",
+                            "source_url": "https://www.anacorteswa.gov/818/Councilmembers"
+                        }
+                    ],
+                    "Carolyn Moulton": [
+                        {
+                            "name": "Carolyn Moulton",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Position 6"
+                            ],
+                            "phone": "(360) 293-1900",
+                            "email": null,
+                            "url": "https://www.anacorteswa.gov/2070/Carolyn-Moulton",
+                            "start_date": "2019",
+                            "end_date": "2029-12-31",
+                            "image": "local://f6289d77bb7e.png",
+                            "source_url": "https://www.anacorteswa.gov/818/Councilmembers"
+                        }
+                    ],
+                    "Anthony Young": [
+                        {
+                            "name": "Anthony Young",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Position 7"
+                            ],
+                            "phone": "(360) 293-1900",
+                            "email": null,
+                            "url": "https://www.anacorteswa.gov/930/Anthony-Young",
+                            "start_date": "2018",
+                            "end_date": "2029-12-31",
+                            "image": "local://46b7748f0374.png",
+                            "source_url": "https://www.anacorteswa.gov/818/Councilmembers"
+                        }
+                    ],
+                    "Ryan Walters": [
+                        {
+                            "name": "Ryan Walters",
+                            "roles": [
+                                "mayor"
+                            ],
+                            "designations": [],
+                            "phone": "(360) 299-1950",
+                            "email": "ryanw@anacorteswa.gov",
+                            "url": "https://www.anacorteswa.gov/760",
+                            "start_date": "2026-01-01",
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.anacorteswa.gov/756/Mayor"
+                        }
+                    ]
+                }
+            },
+            "progress": {
+                "required_data": 8,
+                "current_data": 8,
+                "has_target_role": true,
+                "has_target_designations": true
+            }
+        },
+        "merge_records_within_llm_step": {
+            "people_by_llm": {
+                "open_router": [
+                    {
+                        "name": "Marcia Hunt",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Ward 1"
+                        ],
+                        "phones": [
+                            "(360) 293-1900"
+                        ],
+                        "emails": [],
+                        "urls": [
+                            "https://www.anacorteswa.gov/2071/Marcia-Hunt"
+                        ],
+                        "start_date": "2026",
+                        "end_date": "2027-11-02",
+                        "image": "local://c5ef4eaea373.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:anacortes/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.anacorteswa.gov/818/Councilmembers"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Christine Cleland-McGrath",
+                        "other_names": [],
+                        "roles": [
+                            "council member",
+                            "mayor pro tempore"
+                        ],
+                        "designations": [
+                            "Ward 2"
+                        ],
+                        "phones": [
+                            "(360) 293-1900"
+                        ],
+                        "emails": [],
+                        "urls": [
+                            "https://www.anacorteswa.gov/1162/Christine-Cleland-McGrath"
+                        ],
+                        "start_date": "2019",
+                        "end_date": "2027-12-31",
+                        "image": "local://7a1c8aa268b1.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:anacortes/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.anacorteswa.gov/818/Councilmembers"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "TJ Fantini",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Ward 3"
+                        ],
+                        "phones": [
+                            "(360) 293-1900"
+                        ],
+                        "emails": [],
+                        "urls": [
+                            "https://www.anacorteswa.gov/2067/TJ-Fantini"
+                        ],
+                        "start_date": "2023",
+                        "end_date": "2027-12-31",
+                        "image": "local://79b02812b683.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:anacortes/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.anacorteswa.gov/818/Councilmembers"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Luke Currier",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Position 4"
+                        ],
+                        "phones": [
+                            "(360) 293-1900"
+                        ],
+                        "emails": [],
+                        "urls": [
+                            "https://www.anacorteswa.gov/2068/Luke-Currier"
+                        ],
+                        "start_date": "2025",
+                        "end_date": "2029-12-31",
+                        "image": "local://9af0e19aef93.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:anacortes/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.anacorteswa.gov/818/Councilmembers"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Bruce McDougall",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Position 5"
+                        ],
+                        "phones": [
+                            "(360) 293-1900"
+                        ],
+                        "emails": [],
+                        "urls": [
+                            "https://www.anacorteswa.gov/708/Bruce-McDougall"
+                        ],
+                        "start_date": "2018",
+                        "end_date": "2029-12-31",
+                        "image": "local://22493e6a1e53.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:anacortes/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.anacorteswa.gov/818/Councilmembers"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Carolyn Moulton",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Position 6"
+                        ],
+                        "phones": [
+                            "(360) 293-1900"
+                        ],
+                        "emails": [],
+                        "urls": [
+                            "https://www.anacorteswa.gov/2070/Carolyn-Moulton"
+                        ],
+                        "start_date": "2019",
+                        "end_date": "2029-12-31",
+                        "image": "local://f6289d77bb7e.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:anacortes/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.anacorteswa.gov/818/Councilmembers"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Anthony Young",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Position 7"
+                        ],
+                        "phones": [
+                            "(360) 293-1900"
+                        ],
+                        "emails": [],
+                        "urls": [
+                            "https://www.anacorteswa.gov/930/Anthony-Young"
+                        ],
+                        "start_date": "2018",
+                        "end_date": "2029-12-31",
+                        "image": "local://46b7748f0374.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:anacortes/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.anacorteswa.gov/818/Councilmembers"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Ryan Walters",
+                        "other_names": [],
+                        "roles": [
+                            "mayor"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(360) 299-1950"
+                        ],
+                        "emails": [
+                            "ryanw@anacorteswa.gov"
+                        ],
+                        "urls": [
+                            "https://www.anacorteswa.gov/760"
+                        ],
+                        "start_date": "2026-01-01",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:anacortes/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.anacorteswa.gov/756/Mayor"
+                        ],
+                        "updated_at": ""
+                    }
+                ]
+            },
+            "unrecognized_roles": [],
+            "excluded_people": []
+        },
+        "merge_records_across_llms_step": {
+            "people": [
+                {
+                    "name": "Ryan Walters",
+                    "other_names": [],
+                    "roles": [
+                        "mayor"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(360) 299-1950"
+                    ],
+                    "emails": [
+                        "ryanw@anacorteswa.gov"
+                    ],
+                    "urls": [
+                        "https://www.anacorteswa.gov/760"
+                    ],
+                    "start_date": "2026-01-01",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:anacortes/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.anacorteswa.gov/756/Mayor"
+                    ],
+                    "updated_at": "2026-07-05T19:06:11+00:00"
+                },
+                {
+                    "name": "Marcia Hunt",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "ward 1"
+                    ],
+                    "phones": [
+                        "(360) 293-1900"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.anacorteswa.gov/2071/Marcia-Hunt"
+                    ],
+                    "start_date": "2026",
+                    "end_date": "2027-11-02",
+                    "image": "local://c5ef4eaea373.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:anacortes/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.anacorteswa.gov/818/Councilmembers"
+                    ],
+                    "updated_at": "2026-07-05T19:06:11+00:00"
+                },
+                {
+                    "name": "Christine Cleland-McGrath",
+                    "other_names": [],
+                    "roles": [
+                        "council member",
+                        "mayor pro tempore"
+                    ],
+                    "designations": [
+                        "ward 2"
+                    ],
+                    "phones": [
+                        "(360) 293-1900"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.anacorteswa.gov/1162/Christine-Cleland-McGrath"
+                    ],
+                    "start_date": "2019",
+                    "end_date": "2027-12-31",
+                    "image": "local://7a1c8aa268b1.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:anacortes/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.anacorteswa.gov/818/Councilmembers"
+                    ],
+                    "updated_at": "2026-07-05T19:06:11+00:00"
+                },
+                {
+                    "name": "TJ Fantini",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "ward 3"
+                    ],
+                    "phones": [
+                        "(360) 293-1900"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.anacorteswa.gov/2067/TJ-Fantini"
+                    ],
+                    "start_date": "2023",
+                    "end_date": "2027-12-31",
+                    "image": "local://79b02812b683.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:anacortes/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.anacorteswa.gov/818/Councilmembers"
+                    ],
+                    "updated_at": "2026-07-05T19:06:11+00:00"
+                },
+                {
+                    "name": "Luke Currier",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 4"
+                    ],
+                    "phones": [
+                        "(360) 293-1900"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.anacorteswa.gov/2068/Luke-Currier"
+                    ],
+                    "start_date": "2025",
+                    "end_date": "2029-12-31",
+                    "image": "local://9af0e19aef93.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:anacortes/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.anacorteswa.gov/818/Councilmembers"
+                    ],
+                    "updated_at": "2026-07-05T19:06:11+00:00"
+                },
+                {
+                    "name": "Bruce McDougall",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 5"
+                    ],
+                    "phones": [
+                        "(360) 293-1900"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.anacorteswa.gov/708/Bruce-McDougall"
+                    ],
+                    "start_date": "2018",
+                    "end_date": "2029-12-31",
+                    "image": "local://22493e6a1e53.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:anacortes/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.anacorteswa.gov/818/Councilmembers"
+                    ],
+                    "updated_at": "2026-07-05T19:06:11+00:00"
+                },
+                {
+                    "name": "Carolyn Moulton",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 6"
+                    ],
+                    "phones": [
+                        "(360) 293-1900"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.anacorteswa.gov/2070/Carolyn-Moulton"
+                    ],
+                    "start_date": "2019",
+                    "end_date": "2029-12-31",
+                    "image": "local://f6289d77bb7e.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:anacortes/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.anacorteswa.gov/818/Councilmembers"
+                    ],
+                    "updated_at": "2026-07-05T19:06:11+00:00"
+                },
+                {
+                    "name": "Anthony Young",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 7"
+                    ],
+                    "phones": [
+                        "(360) 293-1900"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.anacorteswa.gov/930/Anthony-Young"
+                    ],
+                    "start_date": "2018",
+                    "end_date": "2029-12-31",
+                    "image": "local://46b7748f0374.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:anacortes/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.anacorteswa.gov/818/Councilmembers"
+                    ],
+                    "updated_at": "2026-07-05T19:06:11+00:00"
+                }
+            ]
+        },
+        "format_output_step": {
+            "officials": [
+                {
+                    "name": "Ryan Walters",
+                    "other_names": [],
+                    "phones": [
+                        "(360) 299-1950"
+                    ],
+                    "emails": [
+                        "ryanw@anacorteswa.gov"
+                    ],
+                    "urls": [
+                        "https://www.anacorteswa.gov/760"
+                    ],
+                    "start_date": "2026-01-01",
+                    "end_date": null,
+                    "office": {
+                        "name": "Mayor",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:anacortes"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:anacortes/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.anacorteswa.gov/756/Mayor"
+                    ],
+                    "updated_at": "2026-07-05T19:06:11+00:00",
+                    "id": "0729bd08-217e-49dd-931e-8ec71f6a40d5"
+                },
+                {
+                    "name": "Marcia Hunt",
+                    "other_names": [],
+                    "phones": [
+                        "(360) 293-1900"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.anacorteswa.gov/2071/Marcia-Hunt"
+                    ],
+                    "start_date": "2026",
+                    "end_date": "2027-11-02",
+                    "office": {
+                        "name": "Council Member",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:anacortes/ward:1"
+                    },
+                    "image": "https://www.anacorteswa.gov/ImageRepository/Document?documentID=35305&thumbnailSize=2",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:anacortes/government",
+                    "cdn_image": "local://c5ef4eaea373.png",
+                    "source_urls": [
+                        "https://www.anacorteswa.gov/818/Councilmembers"
+                    ],
+                    "updated_at": "2026-07-05T19:06:11+00:00",
+                    "id": "227bcde5-b3b2-40fd-a26c-36ab48ce3fdd"
+                },
+                {
+                    "name": "Christine Cleland-McGrath",
+                    "other_names": [],
+                    "phones": [
+                        "(360) 293-1900"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.anacorteswa.gov/1162/Christine-Cleland-McGrath"
+                    ],
+                    "start_date": "2019",
+                    "end_date": "2027-12-31",
+                    "office": {
+                        "name": "Council Member - Mayor Pro Tempore",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:anacortes/ward:2"
+                    },
+                    "image": "https://www.anacorteswa.gov/ImageRepository/Document?documentID=17856&thumbnailSize=2",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:anacortes/government",
+                    "cdn_image": "local://7a1c8aa268b1.png",
+                    "source_urls": [
+                        "https://www.anacorteswa.gov/818/Councilmembers"
+                    ],
+                    "updated_at": "2026-07-05T19:06:11+00:00",
+                    "id": "40ad6f5f-a4b4-44c3-ad0f-a38a5c2d1a36"
+                },
+                {
+                    "name": "TJ Fantini",
+                    "other_names": [],
+                    "phones": [
+                        "(360) 293-1900"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.anacorteswa.gov/2067/TJ-Fantini"
+                    ],
+                    "start_date": "2023",
+                    "end_date": "2027-12-31",
+                    "office": {
+                        "name": "Council Member",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:anacortes/ward:3"
+                    },
+                    "image": "https://www.anacorteswa.gov/ImageRepository/Document?documentID=25672&thumbnailSize=2",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:anacortes/government",
+                    "cdn_image": "local://79b02812b683.png",
+                    "source_urls": [
+                        "https://www.anacorteswa.gov/818/Councilmembers"
+                    ],
+                    "updated_at": "2026-07-05T19:06:11+00:00",
+                    "id": "97ead513-7809-496c-9aea-5e3013e237f5"
+                },
+                {
+                    "name": "Luke Currier",
+                    "other_names": [],
+                    "phones": [
+                        "(360) 293-1900"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.anacorteswa.gov/2068/Luke-Currier"
+                    ],
+                    "start_date": "2025",
+                    "end_date": "2029-12-31",
+                    "office": {
+                        "name": "Council Member - Position 4",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:anacortes"
+                    },
+                    "image": "https://www.anacorteswa.gov/ImageRepository/Document?documentID=35306&thumbnailSize=2",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:anacortes/government",
+                    "cdn_image": "local://9af0e19aef93.png",
+                    "source_urls": [
+                        "https://www.anacorteswa.gov/818/Councilmembers"
+                    ],
+                    "updated_at": "2026-07-05T19:06:11+00:00",
+                    "id": "3ad5e8d4-cce0-4cd1-9d4b-aa8d74803445"
+                },
+                {
+                    "name": "Bruce McDougall",
+                    "other_names": [],
+                    "phones": [
+                        "(360) 293-1900"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.anacorteswa.gov/708/Bruce-McDougall"
+                    ],
+                    "start_date": "2018",
+                    "end_date": "2029-12-31",
+                    "office": {
+                        "name": "Council Member - Position 5",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:anacortes"
+                    },
+                    "image": "https://www.anacorteswa.gov/ImageRepository/Document?documentID=35472&thumbnailSize=2",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:anacortes/government",
+                    "cdn_image": "local://22493e6a1e53.png",
+                    "source_urls": [
+                        "https://www.anacorteswa.gov/818/Councilmembers"
+                    ],
+                    "updated_at": "2026-07-05T19:06:11+00:00",
+                    "id": "2013dc8a-8677-4145-9581-d4af9d270d70"
+                },
+                {
+                    "name": "Carolyn Moulton",
+                    "other_names": [],
+                    "phones": [
+                        "(360) 293-1900"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.anacorteswa.gov/2070/Carolyn-Moulton"
+                    ],
+                    "start_date": "2019",
+                    "end_date": "2029-12-31",
+                    "office": {
+                        "name": "Council Member - Position 6",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:anacortes"
+                    },
+                    "image": "https://www.anacorteswa.gov/ImageRepository/Document?documentID=14711&thumbnailSize=2",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:anacortes/government",
+                    "cdn_image": "local://f6289d77bb7e.png",
+                    "source_urls": [
+                        "https://www.anacorteswa.gov/818/Councilmembers"
+                    ],
+                    "updated_at": "2026-07-05T19:06:11+00:00",
+                    "id": "f473756b-b173-4c87-a61d-eaa0a1c72475"
+                },
+                {
+                    "name": "Anthony Young",
+                    "other_names": [],
+                    "phones": [
+                        "(360) 293-1900"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://www.anacorteswa.gov/930/Anthony-Young"
+                    ],
+                    "start_date": "2018",
+                    "end_date": "2029-12-31",
+                    "office": {
+                        "name": "Council Member - Position 7",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:anacortes"
+                    },
+                    "image": "https://www.anacorteswa.gov/ImageRepository/Document?documentID=22415&thumbnailSize=2",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:anacortes/government",
+                    "cdn_image": "local://46b7748f0374.png",
+                    "source_urls": [
+                        "https://www.anacorteswa.gov/818/Councilmembers"
+                    ],
+                    "updated_at": "2026-07-05T19:06:11+00:00",
+                    "id": "ffe81f5d-897b-45b4-a90c-7ea95a07a6d9"
+                }
+            ]
+        },
+        "review_output_step": {
+            "issues": [
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: Amanda Hubik",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: Matt Miller",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "extra_official",
+                    "message": "Extra official: Marcia Hunt",
+                    "person_ids": [
+                        "227bcde5-b3b2-40fd-a26c-36ab48ce3fdd"
+                    ],
+                    "field": null
+                },
+                {
+                    "code": "extra_official",
+                    "message": "Extra official: Luke Currier",
+                    "person_ids": [
+                        "3ad5e8d4-cce0-4cd1-9d4b-aa8d74803445"
+                    ],
+                    "field": null
+                }
+            ],
+            "people_by_source": [
+                {
+                    "name": "Amanda Hubik",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Anthony Young",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Bruce McDougall",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Carolyn Moulton",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Christine Cleland-McGrath",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Luke Currier",
+                    "in_research": false,
+                    "in_data": true
+                },
+                {
+                    "name": "Marcia Hunt",
+                    "in_research": false,
+                    "in_data": true
+                },
+                {
+                    "name": "Matt Miller",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Ryan Walters",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "TJ Fantini",
+                    "in_research": true,
+                    "in_data": true
+                }
+            ],
+            "origin_source": "existing"
+        },
+        "find_jurisdiction_url_step": null,
+        "send_success_step": null,
+        "send_error_step": null,
+        "issues": [],
+        "error_step": null,
+        "error_detail": null
+    },
+    "current_state": "SEND_SUCCESS",
+    "request_id": "9d4f270d-4217-4285-98f8-c9e913cb896e",
+    "created_at": 1783278228.9471974,
+    "updated_at": 1783278371.4535162,
+    "progress": 97
+}
