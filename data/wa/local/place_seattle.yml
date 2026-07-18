@@ -11,7 +11,7 @@
   end_date: null
   office:
     name: Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:seattle
+    division_ocdid: ocd-division/country:us/state:wa/place:seattle/council_district:test
   image: https://www.seattle.gov/images//images/MayorWilson/CitywideHomePage/mayor_wilson_citywide_154x154.jpg
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:seattle/government
   cdn_image: https://civicpatch-artifacts.civicpatch.org/2026-03-04-9312/data_source/wa/local/place_seattle/images/929d52bb1694.png
