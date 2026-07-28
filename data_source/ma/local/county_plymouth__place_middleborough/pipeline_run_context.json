@@ -1,0 +1,1985 @@
+{
+    "data": {
+        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:ma/county:plymouth/place:middleborough/government",
+        "config": {
+            "url": "https://www.middleboroughma.gov/",
+            "name": "Middleborough town",
+            "source_urls": null
+        },
+        "frontier": {
+            "links": {
+                "https://middleboroughma.gov": {
+                    "url": "https://www.middleboroughma.gov/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_middleboroughma_gov_",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 1
+                },
+                "https://middleboroughma.gov/228/government": {
+                    "url": "https://www.middleboroughma.gov/228/Government",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_middleboroughma_gov_228_government",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 3
+                },
+                "https://middleboroughma.gov/directory.aspx": {
+                    "url": "https://www.middleboroughma.gov/Directory.aspx",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_middleboroughma_gov_directory_aspx",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 2
+                },
+                "https://middleboroughma.gov/149/departments": {
+                    "url": "https://www.middleboroughma.gov/149/Departments",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_middleboroughma_gov_149_departments",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 4
+                },
+                "https://middleboroughma.gov/156/election-information": {
+                    "url": "https://www.middleboroughma.gov/156/Election-Information",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://middleboroughma.gov/153/town-clerk": {
+                    "url": "https://www.middleboroughma.gov/153/Town-Clerk",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://middleboroughma.gov/agendacenter": {
+                    "url": "https://www.middleboroughma.gov/AgendaCenter",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 10,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://middleboroughma.gov/jobs.aspx": {
+                    "url": "https://www.middleboroughma.gov/Jobs.aspx",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 9,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://middleboroughma.gov/131/online-payments": {
+                    "url": "https://www.middleboroughma.gov/131/Online-Payments",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 13,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://middleboroughma.gov/528/online-permitting": {
+                    "url": "https://www.middleboroughma.gov/528/Online-Permitting",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 5,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://middleboroughma.gov/1117/2026-state-elections": {
+                    "url": "https://www.middleboroughma.gov/1117/2026-State-Elections",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://middleboroughma.gov/961/intranet---2024": {
+                    "url": "https://www.middleboroughma.gov/961/Intranet---2024",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 5,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://middleboroughma.gov/directory.aspx?did=28": {
+                    "url": "https://www.middleboroughma.gov/Directory.aspx?did=28",
+                    "status": "done",
+                    "folder_name": "www_middleboroughma_gov_directory_aspx?did=28",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 11
+                },
+                "https://middleboroughma.gov/directory.aspx?did=31": {
+                    "url": "https://www.middleboroughma.gov/Directory.aspx?did=31",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://middleboroughma.gov/directory.aspx?did=8": {
+                    "url": "https://www.middleboroughma.gov/Directory.aspx?did=8",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://middleboroughma.gov/directory.aspx?did=9": {
+                    "url": "https://www.middleboroughma.gov/Directory.aspx?did=9",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://middleboroughma.gov/257/select-board": {
+                    "url": "https://www.middleboroughma.gov/257/Select-Board",
+                    "status": "done",
+                    "folder_name": "www_middleboroughma_gov_257_select-board",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 5
+                },
+                "https://middleboroughma.gov/165/board-of-assessors": {
+                    "url": "https://www.middleboroughma.gov/165/Board-of-Assessors",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_middleboroughma_gov_165_board-of-assessors",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 20
+                },
+                "https://middleboroughma.gov/284/finance-committee": {
+                    "url": "https://www.middleboroughma.gov/284/Finance-Committee",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://middleboroughma.gov/862/school-committee": {
+                    "url": "https://www.middleboroughma.gov/862/School-Committee",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://middleboroughma.gov/287/zoning-board-of-appeals": {
+                    "url": "https://www.middleboroughma.gov/287/Zoning-Board-of-Appeals",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://middleboroughma.gov/851/zoning-board-members": {
+                    "url": "https://www.middleboroughma.gov/851/ZONING-BOARD-MEMBERS",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://middleboroughma.gov/490/contact-us": {
+                    "url": "https://www.middleboroughma.gov/490/Contact-Us",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://middleboroughma.gov/953/town-clerk": {
+                    "url": "https://www.middleboroughma.gov/953/Town-Clerk",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://middleboroughma.gov/169/town-manager": {
+                    "url": "https://www.middleboroughma.gov/169/Town-Manager",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://middleboroughma.gov/124/privacy-policy": {
+                    "url": "https://www.middleboroughma.gov/124/Privacy-Policy",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://middleboroughma.gov/sitemap": {
+                    "url": "https://www.middleboroughma.gov/SiteMap",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://middleboroughma.gov/257/select-board#mainwrapts": {
+                    "url": "https://www.middleboroughma.gov/257/Select-Board#mainWrapTS",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:board, designation:select",
+                    "text": "Skip To Main Content",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://middleboroughma.gov/257/select-board#cc89692c82-7bbf-4553-9af2-8491a6442911": {
+                    "url": "https://www.middleboroughma.gov/257/Select-Board#cc89692c82-7bbf-4553-9af2-8491a6442911",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:board, designation:select",
+                    "text": "Skip to Main Content",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://middleboroughma.gov/183/board-of-health-regulations": {
+                    "url": "https://www.middleboroughma.gov/183/Board-of-Health-Regulations",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:board, designation:board",
+                    "text": "Board of Health Regulations",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://middleboroughma.gov/agendacenter/board-of-selectmen-3": {
+                    "url": "https://www.middleboroughma.gov/AgendaCenter/Board-of-Selectmen-3",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:board, designation:board",
+                    "text": "View Most Recent Agendas and Minutes",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://middleboroughma.gov/formcenter/selectmen-forms-5/contact-us-form-select-board-teresa-farl-109": {
+                    "url": "https://www.middleboroughma.gov/formcenter/Selectmen-Forms-5/Contact-Us-Form-Select-Board-Teresa-Farl-109",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_middleboroughma_gov_formcenter_selectmen-forms-5_contact-us-form-select-board-teresa-farl-109",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:board, designation:select",
+                    "text": "Email",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 6
+                },
+                "https://middleboroughma.gov/formcenter/selectmen-forms-5/contact-us-form-select-board-thomas-whit-111": {
+                    "url": "https://www.middleboroughma.gov/formcenter/Selectmen-Forms-5/Contact-Us-Form-Select-Board-Thomas-Whit-111",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_middleboroughma_gov_formcenter_selectmen-forms-5_contact-us-form-select-board-thomas-whit-111",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:board, designation:select",
+                    "text": "Email",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 7
+                },
+                "https://middleboroughma.gov/formcenter/selectmen-forms-5/contact-us-form-select-board-brian-giova-153": {
+                    "url": "https://www.middleboroughma.gov/formcenter/Selectmen-Forms-5/Contact-Us-Form-Select-Board-Brian-Giova-153",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_middleboroughma_gov_formcenter_selectmen-forms-5_contact-us-form-select-board-brian-giova-153",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:board, designation:select",
+                    "text": "Email",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 8
+                },
+                "https://middleboroughma.gov/formcenter/selectmen-forms-5/contact-us-form-select-board-bill-pike-j-180": {
+                    "url": "https://www.middleboroughma.gov/formcenter/Selectmen-Forms-5/Contact-Us-Form-Select-Board-Bill-Pike-J-180",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_middleboroughma_gov_formcenter_selectmen-forms-5_contact-us-form-select-board-bill-pike-j-180",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:board, designation:select",
+                    "text": "Email",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 9
+                },
+                "https://middleboroughma.gov/formcenter/selectmen-forms-5/contact-us-form-select-board-tracie-crai-235": {
+                    "url": "https://www.middleboroughma.gov/formcenter/Selectmen-Forms-5/Contact-Us-Form-Select-Board-Tracie-Crai-235",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_middleboroughma_gov_formcenter_selectmen-forms-5_contact-us-form-select-board-tracie-crai-235",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:board, designation:select",
+                    "text": "Email",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 10
+                },
+                "https://middleboroughma.gov/formcenter/selectmen-forms-5/contact-us-form-select-board-all-101": {
+                    "url": "https://www.middleboroughma.gov/formcenter/Selectmen-Forms-5/Contact-Us-Form-Select-Board-All-101",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:board, designation:select",
+                    "text": "Select Board",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://middleboroughma.gov/faq.aspx?qid=144": {
+                    "url": "https://www.middleboroughma.gov/Faq.aspx?QID=144",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:town, role:town",
+                    "text": "If I am having a wedding or a party at my home or at a function hall within the Town of Middleborough, do I need a One-day Liquor license in order to serve alcoholic beverages?",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://middleboroughma.gov/faq.aspx?qid=146": {
+                    "url": "https://www.middleboroughma.gov/Faq.aspx?QID=146",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:meet",
+                    "text": "How do I get a copy of a particular document or minutes of a meeting?",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://middleboroughma.gov/formcenter/selectmen-forms-5/contact-us-form-select-board-teresa-farl-109#mainwrapts": {
+                    "url": "https://www.middleboroughma.gov/formcenter/Selectmen-Forms-5/Contact-Us-Form-Select-Board-Teresa-Farl-109#mainWrapTS",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_middleboroughma_gov_formcenter_selectmen-forms-5_contact-us-form-select-board-teresa-farl-109#mainwrapts",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:board, designation:select",
+                    "text": "Skip To Main Content",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 12
+                },
+                "https://middleboroughma.gov/formcenter/selectmen-forms-5/contact-us-form-select-board-teresa-farl-109#contentarea": {
+                    "url": "https://www.middleboroughma.gov/formcenter/Selectmen-Forms-5/Contact-Us-Form-Select-Board-Teresa-Farl-109#contentarea",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_middleboroughma_gov_formcenter_selectmen-forms-5_contact-us-form-select-board-teresa-farl-109#contentarea",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:board, designation:select",
+                    "text": "Skip to Main Content",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 13
+                },
+                "https://middleboroughma.gov/formcenter/selectmen-forms-5/contact-us-form-select-board-thomas-whit-111#mainwrapts": {
+                    "url": "https://www.middleboroughma.gov/formcenter/Selectmen-Forms-5/Contact-Us-Form-Select-Board-Thomas-Whit-111#mainWrapTS",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_middleboroughma_gov_formcenter_selectmen-forms-5_contact-us-form-select-board-thomas-whit-111#mainwrapts",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:board, designation:select",
+                    "text": "Skip To Main Content",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 14
+                },
+                "https://middleboroughma.gov/formcenter/selectmen-forms-5/contact-us-form-select-board-thomas-whit-111#contentarea": {
+                    "url": "https://www.middleboroughma.gov/formcenter/Selectmen-Forms-5/Contact-Us-Form-Select-Board-Thomas-Whit-111#contentarea",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_middleboroughma_gov_formcenter_selectmen-forms-5_contact-us-form-select-board-thomas-whit-111#contentarea",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:board, designation:select",
+                    "text": "Skip to Main Content",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 15
+                },
+                "https://middleboroughma.gov/formcenter/selectmen-forms-5/contact-us-form-select-board-brian-giova-153#mainwrapts": {
+                    "url": "https://www.middleboroughma.gov/formcenter/Selectmen-Forms-5/Contact-Us-Form-Select-Board-Brian-Giova-153#mainWrapTS",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_middleboroughma_gov_formcenter_selectmen-forms-5_contact-us-form-select-board-brian-giova-153#mainwrapts",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:board, designation:select",
+                    "text": "Skip To Main Content",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 16
+                },
+                "https://middleboroughma.gov/formcenter/selectmen-forms-5/contact-us-form-select-board-brian-giova-153#contentarea": {
+                    "url": "https://www.middleboroughma.gov/formcenter/Selectmen-Forms-5/Contact-Us-Form-Select-Board-Brian-Giova-153#contentarea",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_middleboroughma_gov_formcenter_selectmen-forms-5_contact-us-form-select-board-brian-giova-153#contentarea",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:board, designation:select",
+                    "text": "Skip to Main Content",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 17
+                },
+                "https://middleboroughma.gov/formcenter/selectmen-forms-5/contact-us-form-select-board-bill-pike-j-180#mainwrapts": {
+                    "url": "https://www.middleboroughma.gov/formcenter/Selectmen-Forms-5/Contact-Us-Form-Select-Board-Bill-Pike-J-180#mainWrapTS",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_middleboroughma_gov_formcenter_selectmen-forms-5_contact-us-form-select-board-bill-pike-j-180#mainwrapts",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:board, designation:select",
+                    "text": "Skip To Main Content",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 18
+                },
+                "https://middleboroughma.gov/formcenter/selectmen-forms-5/contact-us-form-select-board-bill-pike-j-180#contentarea": {
+                    "url": "https://www.middleboroughma.gov/formcenter/Selectmen-Forms-5/Contact-Us-Form-Select-Board-Bill-Pike-J-180#contentarea",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_middleboroughma_gov_formcenter_selectmen-forms-5_contact-us-form-select-board-bill-pike-j-180#contentarea",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:board, designation:select",
+                    "text": "Skip to Main Content",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 19
+                },
+                "https://middleboroughma.gov/79/social-networking": {
+                    "url": "https://www.middleboroughma.gov/79/Social-Networking",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://middleboroughma.gov/accessibility": {
+                    "url": "https://www.middleboroughma.gov/accessibility",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://middleboroughma.gov/copyright": {
+                    "url": "https://www.middleboroughma.gov/copyright",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://middleboroughma.gov/489/stay-connected": {
+                    "url": "https://www.middleboroughma.gov/489/Stay-Connected",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://middleboroughma.gov/1024/how-do-i": {
+                    "url": "https://www.middleboroughma.gov/1024/How-Do-I",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://middleboroughma.gov/31/community": {
+                    "url": "https://www.middleboroughma.gov/31/Community",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                }
+            },
+            "queue": [
+                "https://middleboroughma.gov/287/zoning-board-of-appeals",
+                "https://middleboroughma.gov/851/zoning-board-members",
+                "https://middleboroughma.gov/257/select-board#mainwrapts",
+                "https://middleboroughma.gov/257/select-board#cc89692c82-7bbf-4553-9af2-8491a6442911",
+                "https://middleboroughma.gov/183/board-of-health-regulations",
+                "https://middleboroughma.gov/agendacenter/board-of-selectmen-3",
+                "https://middleboroughma.gov/formcenter/selectmen-forms-5/contact-us-form-select-board-all-101",
+                "https://middleboroughma.gov/faq.aspx?qid=144",
+                "https://middleboroughma.gov/directory.aspx?did=31",
+                "https://middleboroughma.gov/directory.aspx?did=8",
+                "https://middleboroughma.gov/directory.aspx?did=9",
+                "https://middleboroughma.gov/faq.aspx?qid=146",
+                "https://middleboroughma.gov/153/town-clerk",
+                "https://middleboroughma.gov/953/town-clerk",
+                "https://middleboroughma.gov/169/town-manager",
+                "https://middleboroughma.gov/131/online-payments",
+                "https://middleboroughma.gov/agendacenter",
+                "https://middleboroughma.gov/jobs.aspx",
+                "https://middleboroughma.gov/528/online-permitting",
+                "https://middleboroughma.gov/961/intranet---2024",
+                "https://middleboroughma.gov/156/election-information",
+                "https://middleboroughma.gov/sitemap",
+                "https://middleboroughma.gov/124/privacy-policy",
+                "https://middleboroughma.gov/accessibility",
+                "https://middleboroughma.gov/copyright",
+                "https://middleboroughma.gov/79/social-networking",
+                "https://middleboroughma.gov/489/stay-connected",
+                "https://middleboroughma.gov/1024/how-do-i",
+                "https://middleboroughma.gov/284/finance-committee",
+                "https://middleboroughma.gov/862/school-committee",
+                "https://middleboroughma.gov/1117/2026-state-elections",
+                "https://middleboroughma.gov/490/contact-us",
+                "https://middleboroughma.gov/31/community"
+            ]
+        },
+        "research_municipality_step": {
+            "expected_count": 5,
+            "target_designations": [],
+            "known_roles": [
+                "Select Board Member"
+            ],
+            "identities": {
+                "Teresa Kelly Farley": [],
+                "Thomas White": [],
+                "Brian P. Giovanoni": [],
+                "William C. Pike Jr.": [],
+                "Tracie Craig-McGee": [],
+                "Pamela Menconi": [],
+                "Kimberly Anne Redlon": [],
+                "Christopher W. Benson": [],
+                "Shannon Breen": [],
+                "Leah K. Machado": [],
+                "Sean Mokeler": [],
+                "Susan W. Pennini": [],
+                "Krysten Nicole Phillips": [],
+                "Paula M. Burdick": [],
+                "Barbara J. Erickson": [],
+                "Robin M. Perry": [],
+                "David J. Cavanaugh": [],
+                "Eric Viera Machado": [],
+                "John Anthony Barrella, III": [],
+                "Michael R. Croatti": [],
+                "Nathan P. Demers": [],
+                "Alan R. Kirschner": [],
+                "Matthew D. Phillips": [],
+                "Robert M. Sullivan": [],
+                "Allin J. Frawley": [],
+                "Tracie L. Craig-McGee": [],
+                "William B. Garceau": [],
+                "Nancy Kefalis": [],
+                "Anders Martenson, IV": [],
+                "David Dias": [],
+                "Garrett D. Perry": [],
+                "Judith A. Bigelow-Costa": [],
+                "William J. Ferdinand": [],
+                "Dawn Mariann Savery": [],
+                "Gregory D. Thomas": [],
+                "Sarah Person": [],
+                "Richard Young": [],
+                "Scott MacDonald Bernard": [],
+                "Maureen Nicholson": [],
+                "Thomas S. White": [],
+                "Ellen M. Farley Wylie": [],
+                "Daniel E. Farley": [],
+                "John F. Healey": [],
+                "Thomas E. Murphy": [],
+                "William E. Taylor": []
+            },
+            "source_urls": [],
+            "notes": null,
+            "origin_source": "google_gemini"
+        },
+        "preprocess_page_content_step": {
+            "elapsed_times": [
+                7,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2
+            ],
+            "total_elapsed_time_seconds": 45,
+            "average_elapsed_time_seconds": 2
+        },
+        "process_page_content_step": {
+            "raw_records_by_llm": {
+                "open_router": {
+                    "Teresa Kelly Farley": [
+                        {
+                            "name": "Teresa Kelly Farley",
+                            "roles": [
+                                "Chair"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.middleboroughma.gov/formcenter/Selectmen-Forms-5/Contact-Us-Form-Select-Board-Teresa-Farl-109",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.middleboroughma.gov/257/Select-Board"
+                        }
+                    ],
+                    "Thomas White": [
+                        {
+                            "name": "Thomas White",
+                            "roles": [
+                                "Vice Chair"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.middleboroughma.gov/formcenter/Selectmen-Forms-5/Contact-Us-Form-Select-Board-Thomas-Whit-111",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.middleboroughma.gov/257/Select-Board"
+                        }
+                    ],
+                    "Brian P. Giovanoni": [
+                        {
+                            "name": "Brian P. Giovanoni",
+                            "roles": [
+                                "Select Board Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.middleboroughma.gov/formcenter/Selectmen-Forms-5/Contact-Us-Form-Select-Board-Brian-Giova-153",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.middleboroughma.gov/257/Select-Board"
+                        }
+                    ],
+                    "William C. Pike Jr.": [
+                        {
+                            "name": "William C. Pike Jr.",
+                            "roles": [
+                                "Select Board Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.middleboroughma.gov/formcenter/Selectmen-Forms-5/Contact-Us-Form-Select-Board-Bill-Pike-J-180",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.middleboroughma.gov/257/Select-Board"
+                        }
+                    ],
+                    "Tracie Craig-McGee": [
+                        {
+                            "name": "Tracie Craig-McGee",
+                            "roles": [
+                                "Select Board Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.middleboroughma.gov/formcenter/Selectmen-Forms-5/Contact-Us-Form-Select-Board-Tracie-Crai-235",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.middleboroughma.gov/257/Select-Board"
+                        }
+                    ],
+                    "Pike Jr., Bill": [
+                        {
+                            "name": "Pike Jr., Bill",
+                            "roles": [
+                                "Select Board Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.middleboroughma.gov/directory.aspx?EID=61",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.middleboroughma.gov/Directory.aspx?did=28"
+                        }
+                    ],
+                    "White, Thomas": [
+                        {
+                            "name": "White, Thomas",
+                            "roles": [
+                                "Select Board Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.middleboroughma.gov/directory.aspx?EID=63",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.middleboroughma.gov/Directory.aspx?did=28"
+                        }
+                    ],
+                    "Farley, Teresa": [
+                        {
+                            "name": "Farley, Teresa",
+                            "roles": [
+                                "Select Board Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.middleboroughma.gov/directory.aspx?EID=64",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.middleboroughma.gov/Directory.aspx?did=28"
+                        }
+                    ],
+                    "Giovanoni, Brian P.": [
+                        {
+                            "name": "Giovanoni, Brian P.",
+                            "roles": [
+                                "Select Board Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.middleboroughma.gov/directory.aspx?EID=95",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.middleboroughma.gov/Directory.aspx?did=28"
+                        }
+                    ],
+                    "Craig-McGee, Tracie": [
+                        {
+                            "name": "Craig-McGee, Tracie",
+                            "roles": [
+                                "Select Board Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.middleboroughma.gov/directory.aspx?EID=270",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.middleboroughma.gov/Directory.aspx?did=28"
+                        }
+                    ]
+                }
+            },
+            "records_by_llm": {
+                "open_router": {
+                    "Teresa Kelly Farley": [
+                        {
+                            "name": "Teresa Kelly Farley",
+                            "roles": [
+                                "chair"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.middleboroughma.gov/formcenter/Selectmen-Forms-5/Contact-Us-Form-Select-Board-Teresa-Farl-109",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.middleboroughma.gov/257/Select-Board"
+                        }
+                    ],
+                    "Thomas White": [
+                        {
+                            "name": "Thomas White",
+                            "roles": [
+                                "vice chair"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.middleboroughma.gov/formcenter/Selectmen-Forms-5/Contact-Us-Form-Select-Board-Thomas-Whit-111",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.middleboroughma.gov/257/Select-Board"
+                        }
+                    ],
+                    "Brian P. Giovanoni": [
+                        {
+                            "name": "Brian P. Giovanoni",
+                            "roles": [
+                                "select board member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.middleboroughma.gov/formcenter/Selectmen-Forms-5/Contact-Us-Form-Select-Board-Brian-Giova-153",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.middleboroughma.gov/257/Select-Board"
+                        }
+                    ],
+                    "William C. Pike Jr.": [
+                        {
+                            "name": "William C. Pike Jr.",
+                            "roles": [
+                                "select board member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.middleboroughma.gov/formcenter/Selectmen-Forms-5/Contact-Us-Form-Select-Board-Bill-Pike-J-180",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.middleboroughma.gov/257/Select-Board"
+                        }
+                    ],
+                    "Tracie Craig-McGee": [
+                        {
+                            "name": "Tracie Craig-McGee",
+                            "roles": [
+                                "select board member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.middleboroughma.gov/formcenter/Selectmen-Forms-5/Contact-Us-Form-Select-Board-Tracie-Crai-235",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.middleboroughma.gov/257/Select-Board"
+                        }
+                    ],
+                    "Pike Jr., Bill": [
+                        {
+                            "name": "Bill Pike Jr.",
+                            "roles": [
+                                "select board member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.middleboroughma.gov/directory.aspx?EID=61",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.middleboroughma.gov/Directory.aspx?did=28"
+                        }
+                    ],
+                    "White, Thomas": [
+                        {
+                            "name": "Thomas White",
+                            "roles": [
+                                "select board member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.middleboroughma.gov/directory.aspx?EID=63",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.middleboroughma.gov/Directory.aspx?did=28"
+                        }
+                    ],
+                    "Farley, Teresa": [
+                        {
+                            "name": "Teresa Farley",
+                            "roles": [
+                                "select board member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.middleboroughma.gov/directory.aspx?EID=64",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.middleboroughma.gov/Directory.aspx?did=28"
+                        }
+                    ],
+                    "Giovanoni, Brian P.": [
+                        {
+                            "name": "Brian P. Giovanoni",
+                            "roles": [
+                                "select board member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.middleboroughma.gov/directory.aspx?EID=95",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.middleboroughma.gov/Directory.aspx?did=28"
+                        }
+                    ],
+                    "Craig-McGee, Tracie": [
+                        {
+                            "name": "Tracie Craig-McGee",
+                            "roles": [
+                                "select board member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://www.middleboroughma.gov/directory.aspx?EID=270",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.middleboroughma.gov/Directory.aspx?did=28"
+                        }
+                    ]
+                }
+            },
+            "progress": {
+                "required_data": 5,
+                "current_data": 0,
+                "has_target_role": true,
+                "has_target_designations": true
+            }
+        },
+        "merge_records_within_llm_step": {
+            "people_by_llm": {
+                "open_router": [
+                    {
+                        "name": "Teresa Kelly Farley",
+                        "other_names": [
+                            "Teresa Farley"
+                        ],
+                        "roles": [
+                            "select board member",
+                            "chair"
+                        ],
+                        "designations": [],
+                        "phones": [],
+                        "emails": [],
+                        "urls": [
+                            "https://www.middleboroughma.gov/directory.aspx?EID=64",
+                            "https://www.middleboroughma.gov/formcenter/Selectmen-Forms-5/Contact-Us-Form-Select-Board-Teresa-Farl-109"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:ma/county:plymouth/place:middleborough/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.middleboroughma.gov/257/Select-Board",
+                            "https://www.middleboroughma.gov/Directory.aspx?did=28"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Thomas White",
+                        "other_names": [],
+                        "roles": [
+                            "vice chair",
+                            "select board member"
+                        ],
+                        "designations": [],
+                        "phones": [],
+                        "emails": [],
+                        "urls": [
+                            "https://www.middleboroughma.gov/formcenter/Selectmen-Forms-5/Contact-Us-Form-Select-Board-Thomas-Whit-111",
+                            "https://www.middleboroughma.gov/directory.aspx?EID=63"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:ma/county:plymouth/place:middleborough/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.middleboroughma.gov/257/Select-Board",
+                            "https://www.middleboroughma.gov/Directory.aspx?did=28"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Brian P. Giovanoni",
+                        "other_names": [],
+                        "roles": [
+                            "select board member"
+                        ],
+                        "designations": [],
+                        "phones": [],
+                        "emails": [],
+                        "urls": [
+                            "https://www.middleboroughma.gov/directory.aspx?EID=95",
+                            "https://www.middleboroughma.gov/formcenter/Selectmen-Forms-5/Contact-Us-Form-Select-Board-Brian-Giova-153"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:ma/county:plymouth/place:middleborough/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.middleboroughma.gov/257/Select-Board"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "William C. Pike Jr.",
+                        "other_names": [],
+                        "roles": [
+                            "select board member"
+                        ],
+                        "designations": [],
+                        "phones": [],
+                        "emails": [],
+                        "urls": [
+                            "https://www.middleboroughma.gov/formcenter/Selectmen-Forms-5/Contact-Us-Form-Select-Board-Bill-Pike-J-180"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:ma/county:plymouth/place:middleborough/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.middleboroughma.gov/257/Select-Board"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Tracie Craig-McGee",
+                        "other_names": [],
+                        "roles": [
+                            "select board member"
+                        ],
+                        "designations": [],
+                        "phones": [],
+                        "emails": [],
+                        "urls": [
+                            "https://www.middleboroughma.gov/directory.aspx?EID=270",
+                            "https://www.middleboroughma.gov/formcenter/Selectmen-Forms-5/Contact-Us-Form-Select-Board-Tracie-Crai-235"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:ma/county:plymouth/place:middleborough/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.middleboroughma.gov/257/Select-Board"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Bill Pike Jr.",
+                        "other_names": [],
+                        "roles": [
+                            "select board member"
+                        ],
+                        "designations": [],
+                        "phones": [],
+                        "emails": [],
+                        "urls": [
+                            "https://www.middleboroughma.gov/directory.aspx?EID=61"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:ma/county:plymouth/place:middleborough/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.middleboroughma.gov/Directory.aspx?did=28"
+                        ],
+                        "updated_at": ""
+                    }
+                ]
+            },
+            "unrecognized_roles": [],
+            "excluded_people": []
+        },
+        "merge_records_across_llms_step": {
+            "people": [
+                {
+                    "name": "Teresa Kelly Farley",
+                    "other_names": [
+                        "Teresa Farley"
+                    ],
+                    "roles": [
+                        "select board member",
+                        "chair"
+                    ],
+                    "designations": [],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://www.middleboroughma.gov/directory.aspx?EID=64"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:ma/county:plymouth/place:middleborough/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.middleboroughma.gov/257/Select-Board",
+                        "https://www.middleboroughma.gov/Directory.aspx?did=28"
+                    ],
+                    "updated_at": "2026-07-25T13:54:00+00:00"
+                },
+                {
+                    "name": "Thomas White",
+                    "other_names": [],
+                    "roles": [
+                        "vice chair",
+                        "select board member"
+                    ],
+                    "designations": [],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://www.middleboroughma.gov/formcenter/Selectmen-Forms-5/Contact-Us-Form-Select-Board-Thomas-Whit-111"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:ma/county:plymouth/place:middleborough/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.middleboroughma.gov/257/Select-Board",
+                        "https://www.middleboroughma.gov/Directory.aspx?did=28"
+                    ],
+                    "updated_at": "2026-07-25T13:54:00+00:00"
+                },
+                {
+                    "name": "Brian P. Giovanoni",
+                    "other_names": [],
+                    "roles": [
+                        "select board member"
+                    ],
+                    "designations": [],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://www.middleboroughma.gov/directory.aspx?EID=95"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:ma/county:plymouth/place:middleborough/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.middleboroughma.gov/257/Select-Board"
+                    ],
+                    "updated_at": "2026-07-25T13:54:00+00:00"
+                },
+                {
+                    "name": "William C. Pike Jr.",
+                    "other_names": [],
+                    "roles": [
+                        "select board member"
+                    ],
+                    "designations": [],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://www.middleboroughma.gov/formcenter/Selectmen-Forms-5/Contact-Us-Form-Select-Board-Bill-Pike-J-180"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:ma/county:plymouth/place:middleborough/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.middleboroughma.gov/257/Select-Board"
+                    ],
+                    "updated_at": "2026-07-25T13:54:00+00:00"
+                },
+                {
+                    "name": "Tracie Craig-McGee",
+                    "other_names": [],
+                    "roles": [
+                        "select board member"
+                    ],
+                    "designations": [],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://www.middleboroughma.gov/directory.aspx?EID=270"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:ma/county:plymouth/place:middleborough/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.middleboroughma.gov/257/Select-Board"
+                    ],
+                    "updated_at": "2026-07-25T13:54:00+00:00"
+                },
+                {
+                    "name": "Bill Pike Jr.",
+                    "other_names": [],
+                    "roles": [
+                        "select board member"
+                    ],
+                    "designations": [],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://www.middleboroughma.gov/directory.aspx?EID=61"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:ma/county:plymouth/place:middleborough/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.middleboroughma.gov/Directory.aspx?did=28"
+                    ],
+                    "updated_at": "2026-07-25T13:54:00+00:00"
+                }
+            ]
+        },
+        "format_output_step": {
+            "officials": [
+                {
+                    "name": "Teresa Kelly Farley",
+                    "other_names": [
+                        "Teresa Farley"
+                    ],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://www.middleboroughma.gov/directory.aspx?EID=64"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Select Board Member - Chair",
+                        "division_ocdid": "ocd-division/country:us/state:ma/county:plymouth/place:middleborough"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:ma/county:plymouth/place:middleborough/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.middleboroughma.gov/257/Select-Board",
+                        "https://www.middleboroughma.gov/Directory.aspx?did=28"
+                    ],
+                    "updated_at": "2026-07-25T13:54:00+00:00",
+                    "id": "bb930912-34d3-43cb-9c35-bd2d7bab6004"
+                },
+                {
+                    "name": "Thomas White",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://www.middleboroughma.gov/formcenter/Selectmen-Forms-5/Contact-Us-Form-Select-Board-Thomas-Whit-111"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Vice Chair - Select Board Member",
+                        "division_ocdid": "ocd-division/country:us/state:ma/county:plymouth/place:middleborough"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:ma/county:plymouth/place:middleborough/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.middleboroughma.gov/257/Select-Board",
+                        "https://www.middleboroughma.gov/Directory.aspx?did=28"
+                    ],
+                    "updated_at": "2026-07-25T13:54:00+00:00",
+                    "id": "408e95aa-67ab-4156-96ab-a271605aac13"
+                },
+                {
+                    "name": "Brian P. Giovanoni",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://www.middleboroughma.gov/directory.aspx?EID=95"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Select Board Member",
+                        "division_ocdid": "ocd-division/country:us/state:ma/county:plymouth/place:middleborough"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:ma/county:plymouth/place:middleborough/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.middleboroughma.gov/257/Select-Board"
+                    ],
+                    "updated_at": "2026-07-25T13:54:00+00:00",
+                    "id": "9213533a-1608-4767-96ef-dd5d1dbb46f9"
+                },
+                {
+                    "name": "William C. Pike Jr.",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://www.middleboroughma.gov/formcenter/Selectmen-Forms-5/Contact-Us-Form-Select-Board-Bill-Pike-J-180"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Select Board Member",
+                        "division_ocdid": "ocd-division/country:us/state:ma/county:plymouth/place:middleborough"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:ma/county:plymouth/place:middleborough/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.middleboroughma.gov/257/Select-Board"
+                    ],
+                    "updated_at": "2026-07-25T13:54:00+00:00",
+                    "id": "3e1f626a-11a3-40d2-bf2c-9b9fd05a4bb2"
+                },
+                {
+                    "name": "Tracie Craig-McGee",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://www.middleboroughma.gov/directory.aspx?EID=270"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Select Board Member",
+                        "division_ocdid": "ocd-division/country:us/state:ma/county:plymouth/place:middleborough"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:ma/county:plymouth/place:middleborough/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.middleboroughma.gov/257/Select-Board"
+                    ],
+                    "updated_at": "2026-07-25T13:54:00+00:00",
+                    "id": "1bb7c0e2-ccd7-470c-bd69-ffedadb8b4f0"
+                },
+                {
+                    "name": "Bill Pike Jr.",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://www.middleboroughma.gov/directory.aspx?EID=61"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Select Board Member",
+                        "division_ocdid": "ocd-division/country:us/state:ma/county:plymouth/place:middleborough"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:ma/county:plymouth/place:middleborough/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.middleboroughma.gov/Directory.aspx?did=28"
+                    ],
+                    "updated_at": "2026-07-25T13:54:00+00:00",
+                    "id": "590112e8-5f11-4129-af44-8bd363650810"
+                }
+            ]
+        },
+        "review_output_step": {
+            "issues": [
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: Alan R. Kirschner",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: Allin J. Frawley",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: Anders Martenson, IV",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: Barbara J. Erickson",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: Christopher W. Benson",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: Daniel E. Farley",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: David Dias",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: David J. Cavanaugh",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: Dawn Mariann Savery",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: Ellen M. Farley Wylie",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: Eric Viera Machado",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: Garrett D. Perry",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: Gregory D. Thomas",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: John Anthony Barrella, III",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: John F. Healey",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: Judith A. Bigelow-Costa",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: Kimberly Anne Redlon",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: Krysten Nicole Phillips",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: Leah K. Machado",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: Matthew D. Phillips",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: Maureen Nicholson",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: Michael R. Croatti",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: Nancy Kefalis",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: Nathan P. Demers",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: Pamela Menconi",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: Paula M. Burdick",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: Richard Young",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: Robert M. Sullivan",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: Robin M. Perry",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: Sarah Person",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: Scott MacDonald Bernard",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: Sean Mokeler",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: Shannon Breen",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: Susan W. Pennini",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: Thomas E. Murphy",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: Thomas S. White",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: Tracie L. Craig-McGee",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: William B. Garceau",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: William E. Taylor",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: William J. Ferdinand",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "extra_official",
+                    "message": "Extra official: Bill Pike Jr.",
+                    "person_ids": [
+                        "590112e8-5f11-4129-af44-8bd363650810"
+                    ],
+                    "field": null
+                }
+            ],
+            "people_by_source": [
+                {
+                    "name": "Alan R. Kirschner",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Allin J. Frawley",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Anders Martenson, IV",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Barbara J. Erickson",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Bill Pike Jr.",
+                    "in_research": false,
+                    "in_data": true
+                },
+                {
+                    "name": "Brian P. Giovanoni",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Christopher W. Benson",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Daniel E. Farley",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "David Dias",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "David J. Cavanaugh",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Dawn Mariann Savery",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Ellen M. Farley Wylie",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Eric Viera Machado",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Garrett D. Perry",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Gregory D. Thomas",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "John Anthony Barrella, III",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "John F. Healey",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Judith A. Bigelow-Costa",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Kimberly Anne Redlon",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Krysten Nicole Phillips",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Leah K. Machado",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Matthew D. Phillips",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Maureen Nicholson",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Michael R. Croatti",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Nancy Kefalis",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Nathan P. Demers",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Pamela Menconi",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Paula M. Burdick",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Richard Young",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Robert M. Sullivan",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Robin M. Perry",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Sarah Person",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Scott MacDonald Bernard",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Sean Mokeler",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Shannon Breen",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Susan W. Pennini",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Teresa Kelly Farley",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Thomas E. Murphy",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Thomas S. White",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Thomas White",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Tracie Craig-McGee",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Tracie L. Craig-McGee",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "William B. Garceau",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "William C. Pike Jr.",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "William E. Taylor",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "William J. Ferdinand",
+                    "in_research": true,
+                    "in_data": false
+                }
+            ],
+            "origin_source": "google_gemini"
+        },
+        "find_jurisdiction_url_step": null,
+        "send_success_step": null,
+        "send_error_step": null,
+        "issues": [],
+        "error_step": null,
+        "error_detail": null
+    },
+    "current_state": "SEND_SUCCESS",
+    "request_id": "98ec7ad0-4766-4e4e-8a46-957105184757",
+    "created_at": 1784987348.5987864,
+    "updated_at": 1784987640.6650138,
+    "progress": 27
+}
