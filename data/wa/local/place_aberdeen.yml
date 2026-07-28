@@ -1,233 +1,263 @@
 - name: Douglas Orr
+  other_names: []
   phones:
   - (360) 537-3227
   emails:
   - dorr@aberdeenwa.gov
-  urls: []
+  urls:
+  - https://www.aberdeenwa.gov/367/Mayor-Orr
+  start_date: null
+  end_date: null
   office:
     name: Mayor
     division_ocdid: ocd-division/country:us/state:wa/place:aberdeen
   image: https://www.aberdeenwa.gov/ImageRepository/Document?documentID=2232
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:aberdeen/government
-  cdn_image: null
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/189fc109-fff8-489c-bcdd-be109a90e8fb/data_source/wa/local/place_aberdeen/images/40f48fbfcf18.png
   source_urls:
   - https://www.aberdeenwa.gov/367/Mayor-Orr
-  updated_at: '2025-11-18T20:15:07+00:00'
-  start_date: null
-  end_date: null
-  other_names: []
+  updated_at: '2026-07-28T00:36:26+00:00'
   id: 7a75c974-0b4f-4ff2-a822-649128cdc69f
-- name: Kacey Morrison
-  phones: []
-  emails: []
-  urls:
-  - https://www.aberdeenwa.gov/directory.aspx?eid=93
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:aberdeen/ward:1
-  image: https://www.aberdeenwa.gov/ImageRepository/Document?documentId=2567
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:aberdeen/government
-  cdn_image: https://cdn.civicpatch.org//app/data_source/wa/place_aberdeen/images/3198878e673d.png
-  source_urls:
-  - https://www.aberdeenwa.gov/275/City-Council
-  updated_at: '2025-11-18T20:15:07+00:00'
-  start_date: null
-  end_date: null
-  other_names: []
-  id: 8a87718f-24b4-4c9e-b331-3119b682a9ab
 - name: Melvin Taylor
-  phones: []
-  emails: []
+  other_names:
+  - Melvin taylor
+  phones:
+  - (360) 533-4100 ext. 7201
+  emails:
+  - mtaylor@aberdeenwa.gov
   urls:
-  - https://www.aberdeenwa.gov/directory.aspx?eid=61
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:aberdeen/ward:1
-  image: https://www.aberdeenwa.gov/ImageRepository/Document?documentId=2569
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:aberdeen/government
-  cdn_image: https://cdn.civicpatch.org//app/data_source/wa/place_aberdeen/images/5210f987437a.png
-  source_urls:
   - https://www.aberdeenwa.gov/275/City-Council
-  updated_at: '2025-11-18T20:15:07+00:00'
   start_date: null
   end_date: null
-  other_names: []
-  id: 7e12a022-b8e4-4fd2-95e5-ddd88e73b355
-- name: David Gakin
-  phones: []
-  emails: []
-  urls:
-  - https://www.aberdeenwa.gov/directory.aspx?eid=84
   office:
-    name: Council Member
+    name: Council Member - Position 1
+    division_ocdid: ocd-division/country:us/state:wa/place:aberdeen/ward:1
+  image: https://www.aberdeenwa.gov/ImageRepository/Document?documentId=2876
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:aberdeen/government
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/189fc109-fff8-489c-bcdd-be109a90e8fb/data_source/wa/local/place_aberdeen/images/5cd34e867f3a.png
+  source_urls:
+  - https://www.aberdeenwa.gov/275/City-Council
+  updated_at: '2026-07-28T00:36:26+00:00'
+  id: 7e12a022-b8e4-4fd2-95e5-ddd88e73b355
+- name: Deb Wilson
+  other_names: []
+  phones:
+  - (360) 533-4100 ext. 2318
+  emails:
+  - dwilson@aberdeenwa.gov
+  urls:
+  - https://www.aberdeenwa.gov/275/City-Council
+  start_date: null
+  end_date: null
+  office:
+    name: Council Member - Position 2
+    division_ocdid: ocd-division/country:us/state:wa/place:aberdeen/ward:1
+  image: https://www.aberdeenwa.gov/ImageRepository/Document?documentId=2869
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:aberdeen/government
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/189fc109-fff8-489c-bcdd-be109a90e8fb/data_source/wa/local/place_aberdeen/images/f0eeed5a6eef.png
+  source_urls:
+  - https://www.aberdeenwa.gov/275/City-Council
+  updated_at: '2026-07-28T00:36:26+00:00'
+  id: e9c60270-3b6d-49b8-8f65-c817b3afee99
+- name: David Gakin
+  other_names: []
+  phones:
+  - (360) 533-4100 ext. 7202
+  emails:
+  - dgakin@aberdeenwa.gov
+  urls:
+  - https://www.aberdeenwa.gov/275/City-Council
+  start_date: null
+  end_date: null
+  office:
+    name: Council Member - Position 3
     division_ocdid: ocd-division/country:us/state:wa/place:aberdeen/ward:2
   image: https://www.aberdeenwa.gov/ImageRepository/Document?documentId=2570
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:aberdeen/government
-  cdn_image: https://cdn.civicpatch.org//app/data_source/wa/place_aberdeen/images/2186440f83e3.png
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/189fc109-fff8-489c-bcdd-be109a90e8fb/data_source/wa/local/place_aberdeen/images/2186440f83e3.png
   source_urls:
   - https://www.aberdeenwa.gov/275/City-Council
-  updated_at: '2025-11-18T20:15:07+00:00'
-  start_date: null
-  end_date: null
-  other_names: []
+  updated_at: '2026-07-28T00:36:26+00:00'
   id: aefbae35-87bc-4a5a-a676-80e1986fb84e
-- name: John Maki
-  phones: []
-  emails: []
+- name: Jerry W. Rajcich
+  other_names: []
+  phones:
+  - (360) 533-4100 ext. 2319
+  emails:
+  - jrajcich@aberdeenwa.gov
   urls:
-  - https://www.aberdeenwa.gov/283/john-maki
+  - https://www.aberdeenwa.gov/275/City-Council
+  start_date: null
+  end_date: null
   office:
-    name: Council Member
+    name: Council Member - Position 4
     division_ocdid: ocd-division/country:us/state:wa/place:aberdeen/ward:2
-  image: https://www.aberdeenwa.gov/ImageRepository/Document?documentId=1117
+  image: https://www.aberdeenwa.gov/ImageRepository/Document?documentId=2870
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:aberdeen/government
-  cdn_image: https://cdn.civicpatch.org//app/data_source/wa/place_aberdeen/images/e00d3b01e945.png
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/189fc109-fff8-489c-bcdd-be109a90e8fb/data_source/wa/local/place_aberdeen/images/b744b9c28377.png
   source_urls:
   - https://www.aberdeenwa.gov/275/City-Council
-  updated_at: '2025-11-18T20:15:07+00:00'
-  start_date: null
-  end_date: null
+  updated_at: '2026-07-28T00:36:26+00:00'
+  id: 9ce7dd53-65c9-4036-baef-769a702325dd
+- name: Kevin moynihan
   other_names: []
-  id: dc6e3f0b-0c81-448f-bcdc-e5e3f6b1d0f4
-- name: Liz Ellis
-  phones: []
-  emails: []
+  phones:
+  - (360) 533-4100 ext. 2321
+  emails:
+  - kmoynihan@aberdeenwa.gov
   urls:
-  - https://aberdeenwa.gov/388/liz-elizabeth-ellis
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:aberdeen/ward:3
-  image: https://www.aberdeenwa.gov/ImageRepository/Document?documentId=2562
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:aberdeen/government
-  cdn_image: https://cdn.civicpatch.org//app/data_source/wa/place_aberdeen/images/4f4ae5967eea.png
-  source_urls:
   - https://www.aberdeenwa.gov/275/City-Council
-  updated_at: '2025-11-18T20:15:07+00:00'
   start_date: null
   end_date: null
-  other_names: []
-  id: 1e08afac-bc24-44c0-8adb-427974634f19
+  office:
+    name: Council Member - Position 5
+    division_ocdid: ocd-division/country:us/state:wa/place:aberdeen/ward:3
+  image: https://www.aberdeenwa.gov/ImageRepository/Document?documentId=2875
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:aberdeen/government
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/189fc109-fff8-489c-bcdd-be109a90e8fb/data_source/wa/local/place_aberdeen/images/14404ef298d1.png
+  source_urls:
+  - https://www.aberdeenwa.gov/275/City-Council
+  updated_at: '2026-07-28T00:36:26+00:00'
+  id: 578da828-9aea-48b6-8ad3-ee94d8b0ed3f
 - name: Scott Prato
-  phones: []
-  emails: []
+  other_names: []
+  phones:
+  - (360) 533-4100 ext. 7203
+  emails:
+  - sprato@aberdeenwa.gov
   urls:
-  - https://www.aberdeenwa.gov/directory.aspx?eid=86
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:aberdeen/ward:3
-  image: https://www.aberdeenwa.gov/ImageRepository/Document?documentId=2334
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:aberdeen/government
-  cdn_image: https://cdn.civicpatch.org//app/data_source/wa/place_aberdeen/images/95a4c8e86596.png
-  source_urls:
   - https://www.aberdeenwa.gov/275/City-Council
-  updated_at: '2025-11-18T20:15:07+00:00'
   start_date: null
   end_date: null
-  other_names: []
+  office:
+    name: Council Member - Position 6
+    division_ocdid: ocd-division/country:us/state:wa/place:aberdeen/ward:3
+  image: https://www.aberdeenwa.gov/ImageRepository/Document?documentId=2878
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:aberdeen/government
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/189fc109-fff8-489c-bcdd-be109a90e8fb/data_source/wa/local/place_aberdeen/images/7c778d675f69.png
+  source_urls:
+  - https://www.aberdeenwa.gov/275/City-Council
+  updated_at: '2026-07-28T00:36:26+00:00'
   id: 5beb3f7d-540b-4704-ac4e-d3577d23518b
 - name: Carrie Hubbard
-  phones: []
-  emails: []
-  urls: []
+  other_names:
+  - CARRIE HUBBARD
+  phones:
+  - (360) 533-4100 ext. 2324
+  emails:
+  - cahubbard@aberdeenwa.gov
+  urls:
+  - https://www.aberdeenwa.gov/275/City-Council
+  start_date: null
+  end_date: null
   office:
-    name: Council Member
+    name: Council Member - Position 7
     division_ocdid: ocd-division/country:us/state:wa/place:aberdeen/ward:4
   image: https://www.aberdeenwa.gov/ImageRepository/Document?documentId=2561
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:aberdeen/government
-  cdn_image: https://cdn.civicpatch.org//app/data_source/wa/place_aberdeen/images/6f0279e3e3f9.png
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/189fc109-fff8-489c-bcdd-be109a90e8fb/data_source/wa/local/place_aberdeen/images/6f0279e3e3f9.png
   source_urls:
   - https://www.aberdeenwa.gov/275/City-Council
-  updated_at: '2025-11-18T20:15:07+00:00'
-  start_date: null
-  end_date: null
-  other_names: []
+  updated_at: '2026-07-28T00:36:26+00:00'
   id: 011a86b5-7292-4e39-a045-a630d9838a7c
 - name: Deb Hodgkin
-  phones: []
-  emails: []
-  urls: []
+  other_names: []
+  phones:
+  - (360) 533-4100 ext. 7204
+  emails:
+  - dhodgkin@aberdeenwa.gov
+  urls:
+  - https://www.aberdeenwa.gov/275/City-Council
+  start_date: null
+  end_date: null
   office:
-    name: Council Member
+    name: Council Member - Position 8
     division_ocdid: ocd-division/country:us/state:wa/place:aberdeen/ward:4
-  image: https://www.aberdeenwa.gov/ImageRepository/Document?documentId=2313
+  image: https://www.aberdeenwa.gov/ImageRepository/Document?documentId=2868
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:aberdeen/government
-  cdn_image: https://cdn.civicpatch.org//app/data_source/wa/place_aberdeen/images/705bdf339ccf.png
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/189fc109-fff8-489c-bcdd-be109a90e8fb/data_source/wa/local/place_aberdeen/images/b25460cbdaf3.png
   source_urls:
   - https://www.aberdeenwa.gov/275/City-Council
-  updated_at: '2025-11-18T20:15:07+00:00'
-  start_date: null
-  end_date: null
-  other_names: []
+  updated_at: '2026-07-28T00:36:26+00:00'
   id: ddd68126-1a78-4160-b175-8f2f050fbc1c
-- name: Debi Pieraccini
-  phones: []
-  emails: []
+- name: michele nipper
+  other_names: []
+  phones:
+  - (360) 533-4100 ext. 7208
+  emails:
+  - mnipper@aberdeenwa.gov
   urls:
-  - https://www.aberdeenwa.gov/directory.aspx?eid=95
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:aberdeen/ward:5
-  image: https://www.aberdeenwa.gov/ImageRepository/Document?documentId=2574
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:aberdeen/government
-  cdn_image: https://cdn.civicpatch.org//app/data_source/wa/place_aberdeen/images/7547bb3797b4.png
-  source_urls:
   - https://www.aberdeenwa.gov/275/City-Council
-  updated_at: '2025-11-18T20:15:07+00:00'
   start_date: null
   end_date: null
-  other_names: []
-  id: d156528c-afab-4d9e-8f55-d881d9cef421
-- name: Joshua Francy
-  phones: []
-  emails: []
-  urls:
-  - https://www.aberdeenwa.gov/directory.aspx?eid=88
   office:
-    name: Council Member
+    name: Council Member - Position 9
+    division_ocdid: ocd-division/country:us/state:wa/place:aberdeen/ward:5
+  image: https://www.aberdeenwa.gov/ImageRepository/Document?documentId=2871
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:aberdeen/government
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/189fc109-fff8-489c-bcdd-be109a90e8fb/data_source/wa/local/place_aberdeen/images/5696d90d5b01.png
+  source_urls:
+  - https://www.aberdeenwa.gov/275/City-Council
+  updated_at: '2026-07-28T00:36:26+00:00'
+  id: 2b0a8ec7-be64-48f8-a46d-e9e851d1d48e
+- name: Joshua Francy
+  other_names:
+  - joshua francy
+  phones:
+  - (360) 533-4100 ext. 2326
+  emails:
+  - jfrancy@aberdeenwa.gov
+  urls:
+  - https://www.aberdeenwa.gov/275/City-Council
+  start_date: null
+  end_date: null
+  office:
+    name: Council Member - Position 10
     division_ocdid: ocd-division/country:us/state:wa/place:aberdeen/ward:5
   image: https://www.aberdeenwa.gov/ImageRepository/Document?documentId=2572
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:aberdeen/government
-  cdn_image: https://cdn.civicpatch.org//app/data_source/wa/place_aberdeen/images/7537f8d35f81.png
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/189fc109-fff8-489c-bcdd-be109a90e8fb/data_source/wa/local/place_aberdeen/images/7537f8d35f81.png
   source_urls:
   - https://www.aberdeenwa.gov/275/City-Council
-  updated_at: '2025-11-18T20:15:07+00:00'
-  start_date: null
-  end_date: null
-  other_names: []
+  updated_at: '2026-07-28T00:36:26+00:00'
   id: 7eff395c-8920-4569-b483-a3b050804973
-- name: David Lawrence
-  phones: []
-  emails: []
+- name: John Shaw
+  other_names: []
+  phones:
+  - (360) 533-4100 ext. 7207
+  emails:
+  - jtshaw@aberdeenwa.gov
   urls:
-  - https://www.aberdeenwa.gov/directory.aspx?eid=96
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:aberdeen/ward:6
-  image: https://www.aberdeenwa.gov/ImageRepository/Document?documentId=2575
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:aberdeen/government
-  cdn_image: https://cdn.civicpatch.org//app/data_source/wa/place_aberdeen/images/9b89ae49b3c2.png
-  source_urls:
   - https://www.aberdeenwa.gov/275/City-Council
-  updated_at: '2025-11-18T20:15:07+00:00'
   start_date: null
   end_date: null
-  other_names: []
-  id: ec7e2d86-6e9b-48df-b80b-86f5d9d996b4
+  office:
+    name: Council Member - Position 11
+    division_ocdid: ocd-division/country:us/state:wa/place:aberdeen/ward:6
+  image: https://www.aberdeenwa.gov/ImageRepository/Document?documentId=2873
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:aberdeen/government
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/189fc109-fff8-489c-bcdd-be109a90e8fb/data_source/wa/local/place_aberdeen/images/4f7340d9546f.png
+  source_urls:
+  - https://www.aberdeenwa.gov/275/City-Council
+  updated_at: '2026-07-28T00:36:26+00:00'
+  id: 568ee7f1-d33e-418d-b169-1ded392b9938
 - name: Sydney Swor
-  phones: []
-  emails: []
+  other_names: []
+  phones:
+  - (360) 533-4100 ext. 7206
+  emails:
+  - sswor@aberdeenwa.gov
   urls:
-  - https://www.aberdeenwa.gov/directory.aspx?eid=69
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:aberdeen/ward:6
-  image: https://www.aberdeenwa.gov/ImageRepository/Document?documentId=2320
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:aberdeen/government
-  cdn_image: https://cdn.civicpatch.org//app/data_source/wa/place_aberdeen/images/044abaa89913.png
-  source_urls:
   - https://www.aberdeenwa.gov/275/City-Council
-  updated_at: '2025-11-18T20:15:07+00:00'
   start_date: null
   end_date: null
-  other_names: []
+  office:
+    name: Council Member - Position 12
+    division_ocdid: ocd-division/country:us/state:wa/place:aberdeen/ward:6
+  image: https://www.aberdeenwa.gov/ImageRepository/Document?documentId=2872
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:aberdeen/government
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/189fc109-fff8-489c-bcdd-be109a90e8fb/data_source/wa/local/place_aberdeen/images/dad7a4a57584.png
+  source_urls:
+  - https://www.aberdeenwa.gov/275/City-Council
+  updated_at: '2026-07-28T00:36:26+00:00'
   id: 47801a3c-0de5-4e82-a7d6-122fff6d3589
