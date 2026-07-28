@@ -1,177 +1,147 @@
-- name: Eric Onisko
-  phones:
-  - (360) 490-6173
-  emails:
-  - eric.onisko@sheltonwa.gov
-  urls:
-  - https://sheltonwa.gov/government/city_council/mayor_eric_onisko.php
-  office:
-    name: Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:shelton
-  image: null
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:shelton/government
-  cdn_image: null
-  source_urls:
-  - https://sheltonwa.gov/government/city_council/mayor_eric_onisko.php
-  - https://sheltonwa.gov/government/city_council/index.php
-  - https://sheltonwa.gov/government/city_council/city_council_members/councilmember_george_blush.php
-  - https://sheltonwa.gov/government/city_council/city_council_members/councilmember_melissa_stearns.php
-  - https://sheltonwa.gov/government/city_council/city_council_members/deputy_mayor_sharon_schirman.php
-  - https://sheltonwa.gov/government/city_council/city_council_members/councilmember_tom_gilmore.php
-  updated_at: '2025-06-23T01:09:41+00:00'
-  start_date: null
-  end_date: '2025-12-31'
-  other_names: []
-  id: 9d7a2797-2dd3-49e8-870c-05061d262723
 - name: Sharon Schirman
+  other_names: []
   phones:
   - (360) 490-8164
   emails:
   - sharon.schirman@sheltonwa.gov
   urls:
-  - https://sheltonwa.gov/government/city_council/city_council_members/deputy_mayor_sharon_schirman.php
-  office:
-    name: Deputy Mayor - Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:shelton
-  image: null
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:shelton/government
-  cdn_image: null
-  source_urls:
-  - https://sheltonwa.gov/government/city_council/mayor_eric_onisko.php
-  - https://sheltonwa.gov/government/city_council/index.php
-  - https://sheltonwa.gov/government/city_council/city_council_members/councilmember_george_blush.php
-  - https://sheltonwa.gov/government/city_council/city_council_members/councilmember_melissa_stearns.php
-  - https://sheltonwa.gov/government/city_council/city_council_members/deputy_mayor_sharon_schirman.php
-  - https://sheltonwa.gov/government/city_council/city_council_members/councilmember_tom_gilmore.php
-  updated_at: '2025-06-23T01:09:41+00:00'
+  - https://sheltonwa.gov/government/city_council/city_council_members/mayor_sharon_schirman.php
   start_date: null
-  end_date: '2025-12-31'
-  other_names: []
+  end_date: '2029-12-31'
+  office:
+    name: Mayor - Seat 3
+    division_ocdid: ocd-division/country:us/state:wa/place:shelton
+  image: https://sheltonwa.gov/government/city%20council/photos/Schirman,%20Sharon.png?t=202601071857370
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:shelton/government
+  cdn_image: ''
+  source_urls:
+  - https://sheltonwa.gov/government/city_council/index.php
+  - https://sheltonwa.gov/government/city_council/city_council_members/mayor_sharon_schirman.php
+  updated_at: '2026-07-28T00:06:46+00:00'
   id: a61d9a04-755d-4eb2-b838-1bc3f55edcbf
+- name: Lyndsey Sapp
+  other_names: []
+  phones:
+  - (360) 968-3020
+  emails:
+  - lyndsey.sapp@sheltonwa.gov
+  urls:
+  - https://sheltonwa.gov/government/city_council/city_council_members/deputy_mayor_lyndsey_sapp.php
+  start_date: null
+  end_date: '2029-12-31'
+  office:
+    name: Deputy Mayor - Seat 6
+    division_ocdid: ocd-division/country:us/state:wa/place:shelton
+  image: https://sheltonwa.gov/government/city%20council/photos/Sapp,%20Lyndsey.png?t=202601071901440
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:shelton/government
+  cdn_image: ''
+  source_urls:
+  - https://sheltonwa.gov/government/city_council/index.php
+  - https://sheltonwa.gov/government/city_council/city_council_members/deputy_mayor_lyndsey_sapp.php
+  updated_at: '2026-07-28T00:06:46+00:00'
+  id: 052d93b8-a50f-48ec-a9e3-1c2f7c46e17b
 - name: George Blush
+  other_names: []
   phones:
   - (360) 545-5503
   emails:
   - george.blush@sheltonwa.gov
   urls:
   - https://sheltonwa.gov/government/city_council/city_council_members/councilmember_george_blush.php
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:shelton
-  image: null
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:shelton/government
-  cdn_image: null
-  source_urls:
-  - https://sheltonwa.gov/government/city_council/mayor_eric_onisko.php
-  - https://sheltonwa.gov/government/city_council/index.php
-  - https://sheltonwa.gov/government/city_council/city_council_members/councilmember_george_blush.php
-  - https://sheltonwa.gov/government/city_council/city_council_members/councilmember_melissa_stearns.php
-  - https://sheltonwa.gov/government/city_council/city_council_members/deputy_mayor_sharon_schirman.php
-  - https://sheltonwa.gov/government/city_council/city_council_members/councilmember_tom_gilmore.php
-  updated_at: '2025-06-23T01:09:41+00:00'
   start_date: null
   end_date: '2027-12-31'
-  other_names: []
+  office:
+    name: Council Member - Seat 1
+    division_ocdid: ocd-division/country:us/state:wa/place:shelton
+  image: https://sheltonwa.gov/government/city%20council/photos/CM%20Blush%20-%20Web%20.png?t=202405221652450
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:shelton/government
+  cdn_image: ''
+  source_urls:
+  - https://sheltonwa.gov/government/city_council/city_council_members/councilmember_george_blush.php
+  - https://sheltonwa.gov/government/city_council/index.php
+  updated_at: '2026-07-28T00:06:46+00:00'
   id: 5205f0d4-e6c6-4646-9d17-6b6aed987c88
 - name: Melissa Stearns
+  other_names: []
   phones:
   - (360) 545-5505
   emails:
   - melissa.stearns@sheltonwa.gov
   urls:
   - https://sheltonwa.gov/government/city_council/city_council_members/councilmember_melissa_stearns.php
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:shelton
-  image: null
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:shelton/government
-  cdn_image: null
-  source_urls:
-  - https://sheltonwa.gov/government/city_council/mayor_eric_onisko.php
-  - https://sheltonwa.gov/government/city_council/index.php
-  - https://sheltonwa.gov/government/city_council/city_council_members/councilmember_george_blush.php
-  - https://sheltonwa.gov/government/city_council/city_council_members/councilmember_melissa_stearns.php
-  - https://sheltonwa.gov/government/city_council/city_council_members/deputy_mayor_sharon_schirman.php
-  - https://sheltonwa.gov/government/city_council/city_council_members/councilmember_tom_gilmore.php
-  updated_at: '2025-06-23T01:09:41+00:00'
   start_date: null
   end_date: '2027-12-31'
-  other_names: []
+  office:
+    name: Council Member - Seat 2
+    division_ocdid: ocd-division/country:us/state:wa/place:shelton
+  image: https://sheltonwa.gov/government/city%20council/photos/Stearns,%20Melissa.png?t=202412171810240
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:shelton/government
+  cdn_image: ''
+  source_urls:
+  - https://sheltonwa.gov/government/city_council/city_council_members/councilmember_melissa_stearns.php
+  - https://sheltonwa.gov/government/city_council/index.php
+  updated_at: '2026-07-28T00:06:46+00:00'
   id: 12f82923-b574-4360-9c94-e6c29ea0931b
+- name: Eric Onisko
+  other_names: []
+  phones:
+  - (360) 490-6173
+  emails:
+  - eric.onisko@sheltonwa.gov
+  urls:
+  - https://sheltonwa.gov/government/city_council/city_council_members/councilmember_eric_onisko.php
+  start_date: null
+  end_date: '2029-12-31'
+  office:
+    name: Council Member - Seat 4
+    division_ocdid: ocd-division/country:us/state:wa/place:shelton
+  image: https://sheltonwa.gov/government/city%20council/photos/Onisko,%20Eric.png?t=202601071854080
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:shelton/government
+  cdn_image: ''
+  source_urls:
+  - https://sheltonwa.gov/government/city_council/city_council_members/councilmember_eric_onisko.php
+  - https://sheltonwa.gov/government/city_council/index.php
+  updated_at: '2026-07-28T00:06:46+00:00'
+  id: 9d7a2797-2dd3-49e8-870c-05061d262723
 - name: Tom Gilmore
+  other_names: []
   phones:
   - (360) 545-2556
   emails:
   - tom.gilmore@sheltonwa.gov
   urls:
   - https://sheltonwa.gov/government/city_council/city_council_members/councilmember_tom_gilmore.php
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:shelton
-  image: null
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:shelton/government
-  cdn_image: null
-  source_urls:
-  - https://sheltonwa.gov/government/city_council/mayor_eric_onisko.php
-  - https://sheltonwa.gov/government/city_council/index.php
-  - https://sheltonwa.gov/government/city_council/city_council_members/councilmember_george_blush.php
-  - https://sheltonwa.gov/government/city_council/city_council_members/councilmember_melissa_stearns.php
-  - https://sheltonwa.gov/government/city_council/city_council_members/deputy_mayor_sharon_schirman.php
-  - https://sheltonwa.gov/government/city_council/city_council_members/councilmember_tom_gilmore.php
-  updated_at: '2025-06-23T01:09:41+00:00'
   start_date: null
   end_date: '2027-12-31'
-  other_names: []
-  id: 309a75de-de74-4616-821f-ec85279d9f84
-- name: Lyndsey Sapp
-  phones:
-  - (360) 968-3020
-  emails:
-  - lyndsey.sapp@sheltonwa.gov
-  urls:
-  - https://sheltonwa.gov/government/city_council/city_council_members/councilmember_lyndsey_sapp.php
   office:
-    name: Council Member
+    name: Council Member - Seat 5
     division_ocdid: ocd-division/country:us/state:wa/place:shelton
-  image: null
+  image: https://sheltonwa.gov/government/city%20council/photos/Gilmore,%20Tom.png?t=202601071839040
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:shelton/government
-  cdn_image: null
+  cdn_image: ''
   source_urls:
-  - https://sheltonwa.gov/government/city_council/mayor_eric_onisko.php
-  - https://sheltonwa.gov/government/city_council/index.php
-  - https://sheltonwa.gov/government/city_council/city_council_members/councilmember_george_blush.php
-  - https://sheltonwa.gov/government/city_council/city_council_members/councilmember_melissa_stearns.php
-  - https://sheltonwa.gov/government/city_council/city_council_members/deputy_mayor_sharon_schirman.php
   - https://sheltonwa.gov/government/city_council/city_council_members/councilmember_tom_gilmore.php
-  - https://sheltonwa.gov/government/city_council/city_council_members/councilmember_lyndsey_sapp.php
-  updated_at: '2025-06-23T01:09:41+00:00'
-  start_date: null
-  end_date: '2025-11-25'
-  other_names: []
-  id: 052d93b8-a50f-48ec-a9e3-1c2f7c46e17b
+  - https://sheltonwa.gov/government/city_council/index.php
+  updated_at: '2026-07-28T00:06:46+00:00'
+  id: 309a75de-de74-4616-821f-ec85279d9f84
 - name: Miguel Gutierrez
+  other_names: []
   phones:
   - (360) 490-6394
   emails:
   - miguel.gutierrez@sheltonwa.gov
   urls:
   - https://sheltonwa.gov/government/city_council/councilmember_miguel_gutierrez.php
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:shelton
-  image: null
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:shelton/government
-  cdn_image: null
-  source_urls:
-  - https://sheltonwa.gov/government/city_council/mayor_eric_onisko.php
-  - https://sheltonwa.gov/government/city_council/index.php
-  - https://sheltonwa.gov/government/city_council/city_council_members/councilmember_george_blush.php
-  - https://sheltonwa.gov/government/city_council/city_council_members/councilmember_melissa_stearns.php
-  - https://sheltonwa.gov/government/city_council/city_council_members/deputy_mayor_sharon_schirman.php
-  - https://sheltonwa.gov/government/city_council/city_council_members/councilmember_tom_gilmore.php
-  - https://sheltonwa.gov/government/city_council/councilmember_miguel_gutierrez.php
-  updated_at: '2025-06-23T01:09:41+00:00'
   start_date: null
-  end_date: '2025-12-31'
-  other_names: []
+  end_date: '2029-12-31'
+  office:
+    name: Council Member - Seat 7
+    division_ocdid: ocd-division/country:us/state:wa/place:shelton
+  image: https://sheltonwa.gov/government/city%20council/photos/Gutierrez,%20Miguel.png?t=202601071844460
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:shelton/government
+  cdn_image: ''
+  source_urls:
+  - https://sheltonwa.gov/government/city_council/index.php
+  - https://sheltonwa.gov/government/city_council/councilmember_miguel_gutierrez.php
+  updated_at: '2026-07-28T00:06:46+00:00'
   id: f6023c99-6079-407f-9966-fadfb40316ec
