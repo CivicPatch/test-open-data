@@ -1,0 +1,1408 @@
+{
+    "data": {
+        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:algona/government",
+        "config": {
+            "url": "https://algonawa.gov/",
+            "name": "Algona city",
+            "source_urls": null
+        },
+        "frontier": {
+            "links": {
+                "https://algonawa.gov": {
+                    "url": "https://algonawa.gov/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "algonawa_gov_",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 1
+                },
+                "https://algonawa.gov/government/city_council": {
+                    "url": "https://www.algonawa.gov/government/city_council",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://algonawa.gov/government/index.php": {
+                    "url": "https://algonawa.gov/government/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://algonawa.gov/government/city_council/index.php": {
+                    "url": "https://algonawa.gov/government/city_council/index.php",
+                    "status": "done",
+                    "folder_name": "algonawa_gov_government_city_council_index_php",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 2
+                },
+                "https://algonawa.gov/government/mayor/index.php": {
+                    "url": "https://algonawa.gov/government/mayor/index.php",
+                    "status": "done",
+                    "folder_name": "algonawa_gov_government_mayor_index_php",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 3
+                },
+                "https://algonawa.gov/services/administration/staff.php": {
+                    "url": "https://algonawa.gov/services/administration/staff.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://algonawa.gov/services/public_works/staff_directory.php": {
+                    "url": "https://algonawa.gov/services/public_works/staff_directory.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://algonawa.gov/index.php": {
+                    "url": "https://algonawa.gov/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:index",
+                    "text": "Home",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://algonawa.gov/community/index.php": {
+                    "url": "https://algonawa.gov/community/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:index",
+                    "text": "Community",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://algonawa.gov/community/advisory_boards_and_commissions/index.php": {
+                    "url": "https://algonawa.gov/community/advisory_boards_and_commissions/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:board",
+                    "text": "Advisory Boards and Commissions",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://algonawa.gov/community/advisory_boards_and_commissions/algona_day_committee.php": {
+                    "url": "https://algonawa.gov/community/advisory_boards_and_commissions/algona_day_committee.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:board",
+                    "text": "Algona Day Committee",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://algonawa.gov/community/advisory_boards_and_commissions/civil_service_commission/index.php": {
+                    "url": "https://algonawa.gov/community/advisory_boards_and_commissions/civil_service_commission/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:board",
+                    "text": "Civil Service Commission",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://algonawa.gov/community/advisory_boards_and_commissions/community_center_advisory_board/index.php": {
+                    "url": "https://algonawa.gov/community/advisory_boards_and_commissions/community_center_advisory_board/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:board",
+                    "text": "Community Center Advisory Board",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://algonawa.gov/community/advisory_boards_and_commissions/junior_council/index.php": {
+                    "url": "https://algonawa.gov/community/advisory_boards_and_commissions/junior_council/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:council, designation:council",
+                    "text": "Junior Ambassadors",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://algonawa.gov/community/advisory_boards_and_commissions/planning_commission/index.php": {
+                    "url": "https://algonawa.gov/community/advisory_boards_and_commissions/planning_commission/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:board",
+                    "text": "Planning Commission",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://algonawa.gov/community/advisory_boards_and_commissions/salary_commission/index.php": {
+                    "url": "https://algonawa.gov/community/advisory_boards_and_commissions/salary_commission/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:board",
+                    "text": "Salary Commission",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://algonawa.gov/community/community_transportation/index.php": {
+                    "url": "https://algonawa.gov/community/community_transportation/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:index",
+                    "text": "Community Transportation",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://algonawa.gov/community/stay_informed/index.php": {
+                    "url": "https://algonawa.gov/community/stay_informed/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:index",
+                    "text": "Stay Informed",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://algonawa.gov/government/bids_rfps.php": {
+                    "url": "https://algonawa.gov/government/bids_rfps.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:government",
+                    "text": "Bids RFPs",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://algonawa.gov/government/building_permits/index.php": {
+                    "url": "https://algonawa.gov/government/building_permits/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:government",
+                    "text": "Building Permits",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://algonawa.gov/government/forms_permits_and_applications.php#outer-556": {
+                    "url": "https://algonawa.gov/government/forms_permits_and_applications.php#outer-556",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:government",
+                    "text": "Algona Downloadable Building Forms and Permits",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://algonawa.gov/government/news.php#outer-577": {
+                    "url": "https://algonawa.gov/government/news.php#outer-577",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:government",
+                    "text": "Agendas, Minutes, & Videos",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://algonawa.gov/government/documents_reports_presentations.php": {
+                    "url": "https://algonawa.gov/government/documents_reports_presentations.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:government",
+                    "text": "Documents, Reports, & Presentations",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://algonawa.gov/government/employment_opportunities.php": {
+                    "url": "https://algonawa.gov/government/employment_opportunities.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:government",
+                    "text": "Find Job Openings",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://algonawa.gov/government/forms_permits_and_applications.php": {
+                    "url": "https://algonawa.gov/government/forms_permits_and_applications.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:government",
+                    "text": "Forms & Permits",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://algonawa.gov/government/mayor/message_from_the_mayor.php": {
+                    "url": "https://algonawa.gov/government/mayor/message_from_the_mayor.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:government, designation:mayor",
+                    "text": "Message from the Mayor",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://algonawa.gov/government/news.php": {
+                    "url": "https://algonawa.gov/government/news.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:government",
+                    "text": "News",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://algonawa.gov/services/index.php": {
+                    "url": "https://algonawa.gov/services/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:index",
+                    "text": "Services",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://algonawa.gov/services/administration/index.php": {
+                    "url": "https://algonawa.gov/services/administration/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:index",
+                    "text": "Administration",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://algonawa.gov/services/administration/city_licenses/index.php": {
+                    "url": "https://algonawa.gov/services/administration/city_licenses/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "City Licenses",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://algonawa.gov/services/code_enforcement/index.php": {
+                    "url": "https://algonawa.gov/services/code_enforcement/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:index",
+                    "text": "Code Enforcement",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://algonawa.gov/services/community_center/index.php": {
+                    "url": "https://algonawa.gov/services/community_center/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:index",
+                    "text": "Community Center",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://algonawa.gov/services/court_services/index.php": {
+                    "url": "https://algonawa.gov/services/court_services/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:index",
+                    "text": "Court Services",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://algonawa.gov/services/fire_department/index.php": {
+                    "url": "https://algonawa.gov/services/fire_department/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:index",
+                    "text": "Fire Department",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://algonawa.gov/services/utilities/index.php": {
+                    "url": "https://algonawa.gov/services/utilities/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:index",
+                    "text": "Utilities",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://algonawa.gov/services/utilities/garbage/index.php": {
+                    "url": "https://algonawa.gov/services/utilities/garbage/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:index",
+                    "text": "Garbage",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://algonawa.gov/services/utilities/low_income_senior_disabled_utility_rates/index.php": {
+                    "url": "https://algonawa.gov/services/utilities/low_income_senior_disabled_utility_rates/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:index",
+                    "text": "Low-Income Senior/Disabled Utility Rates",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://algonawa.gov/services/planning_and_permitting/index.php": {
+                    "url": "https://algonawa.gov/services/planning_and_permitting/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:index",
+                    "text": "Planning and Permitting",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://algonawa.gov/services/planning_and_permitting/city_code.php": {
+                    "url": "https://algonawa.gov/services/planning_and_permitting/city_code.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "City Code",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://algonawa.gov/services/police/index.php": {
+                    "url": "https://algonawa.gov/services/police/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:index",
+                    "text": "Police",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://algonawa.gov/services/police/concealed_pistol_licensing/index.php": {
+                    "url": "https://algonawa.gov/services/police/concealed_pistol_licensing/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:index",
+                    "text": "Concealed Pistol Licensing",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://algonawa.gov/services/police/public_disclosure_request/index.php": {
+                    "url": "https://algonawa.gov/services/police/public_disclosure_request/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:index",
+                    "text": "Public Disclosure Request",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://algonawa.gov/services/public_works/index.php": {
+                    "url": "https://algonawa.gov/services/public_works/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:index",
+                    "text": "Public Works",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://algonawa.gov/services/public_works/small_works_roster/index.php": {
+                    "url": "https://algonawa.gov/services/public_works/small_works_roster/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:index",
+                    "text": "Small Works Roster",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://algonawa.gov/business/index.php": {
+                    "url": "https://algonawa.gov/business/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:index",
+                    "text": "Business",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://algonawa.gov/how_do_i/index.php": {
+                    "url": "https://algonawa.gov/how_do_i/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:index",
+                    "text": "How Do I",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://algonawa.gov/enotify/index.php": {
+                    "url": "https://algonawa.gov/enotify/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:index",
+                    "text": "Subscribe to E-Notify",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://algonawa.gov/images/government/mayor/mayor_linnell.jpg": {
+                    "url": "https://algonawa.gov/Images/Government/Mayor/mayor_linnell.jpg",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:government, designation:mayor",
+                    "text": "![mayor_linnell",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                }
+            },
+            "queue": [
+                "https://algonawa.gov/government/index.php",
+                "https://algonawa.gov/services/public_works/staff_directory.php",
+                "https://algonawa.gov/government/mayor/message_from_the_mayor.php",
+                "https://algonawa.gov/community/advisory_boards_and_commissions/algona_day_committee.php",
+                "https://algonawa.gov/services/planning_and_permitting/city_code.php",
+                "https://algonawa.gov/community/advisory_boards_and_commissions/junior_council/index.php",
+                "https://algonawa.gov/community/advisory_boards_and_commissions/civil_service_commission/index.php",
+                "https://algonawa.gov/community/advisory_boards_and_commissions/community_center_advisory_board/index.php",
+                "https://algonawa.gov/community/advisory_boards_and_commissions/planning_commission/index.php",
+                "https://algonawa.gov/community/advisory_boards_and_commissions/salary_commission/index.php",
+                "https://algonawa.gov/services/administration/city_licenses/index.php",
+                "https://algonawa.gov/index.php",
+                "https://algonawa.gov/community/index.php",
+                "https://algonawa.gov/government/bids_rfps.php",
+                "https://algonawa.gov/government/forms_permits_and_applications.php#outer-556",
+                "https://algonawa.gov/government/news.php#outer-577",
+                "https://algonawa.gov/government/documents_reports_presentations.php",
+                "https://algonawa.gov/government/employment_opportunities.php",
+                "https://algonawa.gov/government/forms_permits_and_applications.php",
+                "https://algonawa.gov/government/news.php",
+                "https://algonawa.gov/services/index.php",
+                "https://algonawa.gov/business/index.php",
+                "https://algonawa.gov/how_do_i/index.php",
+                "https://algonawa.gov/enotify/index.php",
+                "https://algonawa.gov/community/advisory_boards_and_commissions/index.php",
+                "https://algonawa.gov/community/community_transportation/index.php",
+                "https://algonawa.gov/community/stay_informed/index.php",
+                "https://algonawa.gov/government/building_permits/index.php",
+                "https://algonawa.gov/services/administration/index.php",
+                "https://algonawa.gov/services/code_enforcement/index.php",
+                "https://algonawa.gov/services/community_center/index.php",
+                "https://algonawa.gov/services/court_services/index.php",
+                "https://algonawa.gov/services/fire_department/index.php",
+                "https://algonawa.gov/services/utilities/index.php",
+                "https://algonawa.gov/services/planning_and_permitting/index.php",
+                "https://algonawa.gov/services/police/index.php",
+                "https://algonawa.gov/services/public_works/index.php",
+                "https://algonawa.gov/services/utilities/garbage/index.php",
+                "https://algonawa.gov/services/utilities/low_income_senior_disabled_utility_rates/index.php",
+                "https://algonawa.gov/services/police/concealed_pistol_licensing/index.php",
+                "https://algonawa.gov/services/police/public_disclosure_request/index.php",
+                "https://algonawa.gov/services/public_works/small_works_roster/index.php",
+                "https://algonawa.gov/images/government/mayor/mayor_linnell.jpg",
+                "https://algonawa.gov/government/city_council",
+                "https://algonawa.gov/services/administration/staff.php"
+            ]
+        },
+        "research_municipality_step": {
+            "expected_count": 6,
+            "target_designations": [],
+            "known_roles": [
+                "Mayor",
+                "Mayor Pro Tempore",
+                "Council Member"
+            ],
+            "identities": {
+                "Troy Linnell": [],
+                "David White": [],
+                "Bill Thomas": [],
+                "Lynda Osborn": [],
+                "Tim Fairley": [],
+                "Gordon Cook": []
+            },
+            "source_urls": [
+                "https://www.algonawa.gov/government/city_council"
+            ],
+            "notes": null,
+            "origin_source": "existing"
+        },
+        "preprocess_page_content_step": {
+            "elapsed_times": [
+                7,
+                0,
+                1
+            ],
+            "total_elapsed_time_seconds": 8,
+            "average_elapsed_time_seconds": 2
+        },
+        "process_page_content_step": {
+            "raw_records_by_llm": {
+                "open_router": {
+                    "Bill Thomas": [
+                        {
+                            "name": "Bill Thomas",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 1"
+                            ],
+                            "phone": null,
+                            "email": "williamt@algonawa.gov",
+                            "url": "https://algonawa.gov/business_detail_T7_R2.php",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "https://algonawa.gov/bus-directory/City%20Council/dsc_7739%20-%20Copy.jpg?t=202408131258020",
+                            "source_url": "https://algonawa.gov/government/city_council/index.php"
+                        }
+                    ],
+                    "Jessica Parker": [
+                        {
+                            "name": "Jessica Parker",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 2"
+                            ],
+                            "phone": null,
+                            "email": "jessicap@algonawa.gov",
+                            "url": "https://algonawa.gov/business_detail_T7_R7.php",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "https://algonawa.gov/bus-directory/City%20Council/newalgonalogo.jpg?t=202601071152270",
+                            "source_url": "https://algonawa.gov/government/city_council/index.php"
+                        }
+                    ],
+                    "Tim Fairley": [
+                        {
+                            "name": "Tim Fairley",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 3"
+                            ],
+                            "phone": null,
+                            "email": "timf@algonawa.gov",
+                            "url": "https://algonawa.gov/business_detail_T7_R6.php",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "https://algonawa.gov/bus-directory/City%20Council/newalgonalogo.jpg?t=202601071152270",
+                            "source_url": "https://algonawa.gov/government/city_council/index.php"
+                        }
+                    ],
+                    "Jennifer Freeberg": [
+                        {
+                            "name": "Jennifer Freeberg",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 4"
+                            ],
+                            "phone": null,
+                            "email": "jenniferf@algonawa.gov",
+                            "url": "https://algonawa.gov/business_detail_T7_R4.php",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "https://algonawa.gov/bus-directory/City%20Council/newalgonalogo.jpg?t=202601071152270",
+                            "source_url": "https://algonawa.gov/government/city_council/index.php"
+                        }
+                    ],
+                    "David White": [
+                        {
+                            "name": "David White",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 5"
+                            ],
+                            "phone": null,
+                            "email": "davidw@algonawa.gov",
+                            "url": "https://algonawa.gov/business_detail_T7_R5.php",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "https://algonawa.gov/bus-directory/City%20Council/newalgonalogo.jpg?t=202601071152270",
+                            "source_url": "https://algonawa.gov/government/city_council/index.php"
+                        }
+                    ],
+                    "Troy Linnell": [
+                        {
+                            "name": "Troy Linnell",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "(253) 736-6241",
+                            "email": null,
+                            "url": "https://algonawa.gov/government/mayor/index.php",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "https://algonawa.gov/Images/Government/Mayor/mayor_linnell.jpg",
+                            "source_url": "https://algonawa.gov/government/mayor/index.php"
+                        }
+                    ]
+                }
+            },
+            "records_by_llm": {
+                "open_router": {
+                    "Bill Thomas": [
+                        {
+                            "name": "Bill Thomas",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Position 1"
+                            ],
+                            "phone": null,
+                            "email": "williamt@algonawa.gov",
+                            "url": "https://algonawa.gov/business_detail_T7_R2.php",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "https://algonawa.gov/bus-directory/City%20Council/dsc_7739%20-%20Copy.jpg?t=202408131258020",
+                            "source_url": "https://algonawa.gov/government/city_council/index.php"
+                        }
+                    ],
+                    "Jessica Parker": [
+                        {
+                            "name": "Jessica Parker",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Position 2"
+                            ],
+                            "phone": null,
+                            "email": "jessicap@algonawa.gov",
+                            "url": "https://algonawa.gov/business_detail_T7_R7.php",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "https://algonawa.gov/bus-directory/City%20Council/newalgonalogo.jpg?t=202601071152270",
+                            "source_url": "https://algonawa.gov/government/city_council/index.php"
+                        }
+                    ],
+                    "Tim Fairley": [
+                        {
+                            "name": "Tim Fairley",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Position 3"
+                            ],
+                            "phone": null,
+                            "email": "timf@algonawa.gov",
+                            "url": "https://algonawa.gov/business_detail_T7_R6.php",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "https://algonawa.gov/bus-directory/City%20Council/newalgonalogo.jpg?t=202601071152270",
+                            "source_url": "https://algonawa.gov/government/city_council/index.php"
+                        }
+                    ],
+                    "Jennifer Freeberg": [
+                        {
+                            "name": "Jennifer Freeberg",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Position 4"
+                            ],
+                            "phone": null,
+                            "email": "jenniferf@algonawa.gov",
+                            "url": "https://algonawa.gov/business_detail_T7_R4.php",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "https://algonawa.gov/bus-directory/City%20Council/newalgonalogo.jpg?t=202601071152270",
+                            "source_url": "https://algonawa.gov/government/city_council/index.php"
+                        }
+                    ],
+                    "David White": [
+                        {
+                            "name": "David White",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Position 5"
+                            ],
+                            "phone": null,
+                            "email": "davidw@algonawa.gov",
+                            "url": "https://algonawa.gov/business_detail_T7_R5.php",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "https://algonawa.gov/bus-directory/City%20Council/newalgonalogo.jpg?t=202601071152270",
+                            "source_url": "https://algonawa.gov/government/city_council/index.php"
+                        }
+                    ],
+                    "Troy Linnell": [
+                        {
+                            "name": "Troy Linnell",
+                            "roles": [
+                                "mayor"
+                            ],
+                            "designations": [],
+                            "phone": "(253) 736-6241",
+                            "email": null,
+                            "url": "https://algonawa.gov/government/mayor/index.php",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "https://algonawa.gov/Images/Government/Mayor/mayor_linnell.jpg",
+                            "source_url": "https://algonawa.gov/government/mayor/index.php"
+                        }
+                    ]
+                }
+            },
+            "progress": {
+                "required_data": 6,
+                "current_data": 6,
+                "has_target_role": true,
+                "has_target_designations": true
+            }
+        },
+        "merge_records_within_llm_step": {
+            "people_by_llm": {
+                "open_router": [
+                    {
+                        "name": "Bill Thomas",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Position 1"
+                        ],
+                        "phones": [],
+                        "emails": [
+                            "williamt@algonawa.gov"
+                        ],
+                        "urls": [
+                            "https://algonawa.gov/business_detail_T7_R2.php"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "https://algonawa.gov/bus-directory/City%20Council/dsc_7739%20-%20Copy.jpg?t=202408131258020",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:algona/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://algonawa.gov/government/city_council/index.php"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Jessica Parker",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Position 2"
+                        ],
+                        "phones": [],
+                        "emails": [
+                            "jessicap@algonawa.gov"
+                        ],
+                        "urls": [
+                            "https://algonawa.gov/business_detail_T7_R7.php"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "https://algonawa.gov/bus-directory/City%20Council/newalgonalogo.jpg?t=202601071152270",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:algona/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://algonawa.gov/government/city_council/index.php"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Tim Fairley",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Position 3"
+                        ],
+                        "phones": [],
+                        "emails": [
+                            "timf@algonawa.gov"
+                        ],
+                        "urls": [
+                            "https://algonawa.gov/business_detail_T7_R6.php"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "https://algonawa.gov/bus-directory/City%20Council/newalgonalogo.jpg?t=202601071152270",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:algona/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://algonawa.gov/government/city_council/index.php"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Jennifer Freeberg",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Position 4"
+                        ],
+                        "phones": [],
+                        "emails": [
+                            "jenniferf@algonawa.gov"
+                        ],
+                        "urls": [
+                            "https://algonawa.gov/business_detail_T7_R4.php"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "https://algonawa.gov/bus-directory/City%20Council/newalgonalogo.jpg?t=202601071152270",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:algona/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://algonawa.gov/government/city_council/index.php"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "David White",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Position 5"
+                        ],
+                        "phones": [],
+                        "emails": [
+                            "davidw@algonawa.gov"
+                        ],
+                        "urls": [
+                            "https://algonawa.gov/business_detail_T7_R5.php"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "https://algonawa.gov/bus-directory/City%20Council/newalgonalogo.jpg?t=202601071152270",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:algona/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://algonawa.gov/government/city_council/index.php"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Troy Linnell",
+                        "other_names": [],
+                        "roles": [
+                            "mayor"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(253) 736-6241"
+                        ],
+                        "emails": [],
+                        "urls": [
+                            "https://algonawa.gov/government/mayor/index.php"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "https://algonawa.gov/Images/Government/Mayor/mayor_linnell.jpg",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:algona/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://algonawa.gov/government/mayor/index.php"
+                        ],
+                        "updated_at": ""
+                    }
+                ]
+            },
+            "unrecognized_roles": [],
+            "excluded_people": []
+        },
+        "merge_records_across_llms_step": {
+            "people": [
+                {
+                    "name": "Troy Linnell",
+                    "other_names": [],
+                    "roles": [
+                        "mayor"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(253) 736-6241"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://algonawa.gov/government/mayor/index.php"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "https://algonawa.gov/Images/Government/Mayor/mayor_linnell.jpg",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:algona/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://algonawa.gov/government/mayor/index.php"
+                    ],
+                    "updated_at": "2026-07-30T23:05:20+00:00"
+                },
+                {
+                    "name": "Bill Thomas",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 1"
+                    ],
+                    "phones": [],
+                    "emails": [
+                        "williamt@algonawa.gov"
+                    ],
+                    "urls": [
+                        "https://algonawa.gov/business_detail_T7_R2.php"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "https://algonawa.gov/bus-directory/City%20Council/dsc_7739%20-%20Copy.jpg?t=202408131258020",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:algona/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://algonawa.gov/government/city_council/index.php"
+                    ],
+                    "updated_at": "2026-07-30T23:05:20+00:00"
+                },
+                {
+                    "name": "Jessica Parker",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 2"
+                    ],
+                    "phones": [],
+                    "emails": [
+                        "jessicap@algonawa.gov"
+                    ],
+                    "urls": [
+                        "https://algonawa.gov/business_detail_T7_R7.php"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "https://algonawa.gov/bus-directory/City%20Council/newalgonalogo.jpg?t=202601071152270",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:algona/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://algonawa.gov/government/city_council/index.php"
+                    ],
+                    "updated_at": "2026-07-30T23:05:20+00:00"
+                },
+                {
+                    "name": "Tim Fairley",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 3"
+                    ],
+                    "phones": [],
+                    "emails": [
+                        "timf@algonawa.gov"
+                    ],
+                    "urls": [
+                        "https://algonawa.gov/business_detail_T7_R6.php"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "https://algonawa.gov/bus-directory/City%20Council/newalgonalogo.jpg?t=202601071152270",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:algona/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://algonawa.gov/government/city_council/index.php"
+                    ],
+                    "updated_at": "2026-07-30T23:05:20+00:00"
+                },
+                {
+                    "name": "Jennifer Freeberg",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 4"
+                    ],
+                    "phones": [],
+                    "emails": [
+                        "jenniferf@algonawa.gov"
+                    ],
+                    "urls": [
+                        "https://algonawa.gov/business_detail_T7_R4.php"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "https://algonawa.gov/bus-directory/City%20Council/newalgonalogo.jpg?t=202601071152270",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:algona/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://algonawa.gov/government/city_council/index.php"
+                    ],
+                    "updated_at": "2026-07-30T23:05:20+00:00"
+                },
+                {
+                    "name": "David White",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 5"
+                    ],
+                    "phones": [],
+                    "emails": [
+                        "davidw@algonawa.gov"
+                    ],
+                    "urls": [
+                        "https://algonawa.gov/business_detail_T7_R5.php"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "https://algonawa.gov/bus-directory/City%20Council/newalgonalogo.jpg?t=202601071152270",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:algona/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://algonawa.gov/government/city_council/index.php"
+                    ],
+                    "updated_at": "2026-07-30T23:05:20+00:00"
+                }
+            ]
+        },
+        "format_output_step": {
+            "officials": [
+                {
+                    "name": "Troy Linnell",
+                    "other_names": [],
+                    "phones": [
+                        "(253) 736-6241"
+                    ],
+                    "emails": [],
+                    "urls": [
+                        "https://algonawa.gov/government/mayor/index.php"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Mayor",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:algona"
+                    },
+                    "image": "https://algonawa.gov/Images/Government/Mayor/mayor_linnell.jpg",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:algona/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://algonawa.gov/government/mayor/index.php"
+                    ],
+                    "updated_at": "2026-07-30T23:05:20+00:00",
+                    "id": "402f60ff-78bc-4a4a-b668-ce2d62fe8abb"
+                },
+                {
+                    "name": "Bill Thomas",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [
+                        "williamt@algonawa.gov"
+                    ],
+                    "urls": [
+                        "https://algonawa.gov/business_detail_T7_R2.php"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Position 1",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:algona"
+                    },
+                    "image": "https://algonawa.gov/bus-directory/City%20Council/dsc_7739%20-%20Copy.jpg?t=202408131258020",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:algona/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://algonawa.gov/government/city_council/index.php"
+                    ],
+                    "updated_at": "2026-07-30T23:05:20+00:00",
+                    "id": "b5968f49-ca60-45cc-ba22-02696acc17b2"
+                },
+                {
+                    "name": "Jessica Parker",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [
+                        "jessicap@algonawa.gov"
+                    ],
+                    "urls": [
+                        "https://algonawa.gov/business_detail_T7_R7.php"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Position 2",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:algona"
+                    },
+                    "image": "https://algonawa.gov/bus-directory/City%20Council/newalgonalogo.jpg?t=202601071152270",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:algona/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://algonawa.gov/government/city_council/index.php"
+                    ],
+                    "updated_at": "2026-07-30T23:05:20+00:00",
+                    "id": "35de486f-7b70-46f7-a72b-da3ebfa6cd8a"
+                },
+                {
+                    "name": "Tim Fairley",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [
+                        "timf@algonawa.gov"
+                    ],
+                    "urls": [
+                        "https://algonawa.gov/business_detail_T7_R6.php"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Position 3",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:algona"
+                    },
+                    "image": "https://algonawa.gov/bus-directory/City%20Council/newalgonalogo.jpg?t=202601071152270",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:algona/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://algonawa.gov/government/city_council/index.php"
+                    ],
+                    "updated_at": "2026-07-30T23:05:20+00:00",
+                    "id": "bcc234f8-0491-4641-a75c-b60af15805ef"
+                },
+                {
+                    "name": "Jennifer Freeberg",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [
+                        "jenniferf@algonawa.gov"
+                    ],
+                    "urls": [
+                        "https://algonawa.gov/business_detail_T7_R4.php"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Position 4",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:algona"
+                    },
+                    "image": "https://algonawa.gov/bus-directory/City%20Council/newalgonalogo.jpg?t=202601071152270",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:algona/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://algonawa.gov/government/city_council/index.php"
+                    ],
+                    "updated_at": "2026-07-30T23:05:20+00:00",
+                    "id": "45dca9b0-8c73-4eb9-a5ad-a3150b93a8c6"
+                },
+                {
+                    "name": "David White",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [
+                        "davidw@algonawa.gov"
+                    ],
+                    "urls": [
+                        "https://algonawa.gov/business_detail_T7_R5.php"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Position 5",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:algona"
+                    },
+                    "image": "https://algonawa.gov/bus-directory/City%20Council/newalgonalogo.jpg?t=202601071152270",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:algona/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://algonawa.gov/government/city_council/index.php"
+                    ],
+                    "updated_at": "2026-07-30T23:05:20+00:00",
+                    "id": "dfeb1de4-53ac-4b09-8d67-01ca6743c8a3"
+                }
+            ]
+        },
+        "review_output_step": {
+            "issues": [
+                {
+                    "code": "missing_official",
+                    "message": "Dropped official: Gordon Cook",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Dropped official: Lynda Osborn",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "extra_official",
+                    "message": "Extra official: Jessica Parker",
+                    "person_ids": [
+                        "35de486f-7b70-46f7-a72b-da3ebfa6cd8a"
+                    ],
+                    "field": null
+                },
+                {
+                    "code": "extra_official",
+                    "message": "Extra official: Jennifer Freeberg",
+                    "person_ids": [
+                        "45dca9b0-8c73-4eb9-a5ad-a3150b93a8c6"
+                    ],
+                    "field": null
+                }
+            ],
+            "people_by_source": [
+                {
+                    "name": "Bill Thomas",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "David White",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Gordon Cook",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Jennifer Freeberg",
+                    "in_research": false,
+                    "in_data": true
+                },
+                {
+                    "name": "Jessica Parker",
+                    "in_research": false,
+                    "in_data": true
+                },
+                {
+                    "name": "Lynda Osborn",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Tim Fairley",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Troy Linnell",
+                    "in_research": true,
+                    "in_data": true
+                }
+            ],
+            "origin_source": "existing"
+        },
+        "find_jurisdiction_url_step": null,
+        "send_success_step": null,
+        "send_error_step": null,
+        "issues": [],
+        "error_step": null,
+        "error_detail": null
+    },
+    "current_state": "SEND_SUCCESS",
+    "request_id": "bf14cab3-cfe5-48ec-8137-e3bee33f6dd6",
+    "created_at": 1785452551.2867572,
+    "updated_at": 1785452720.3414912,
+    "progress": 97
+}
