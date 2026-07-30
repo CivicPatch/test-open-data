@@ -1,0 +1,1521 @@
+{
+    "data": {
+        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:airway_heights/government",
+        "config": {
+            "url": "http://cawh.org/",
+            "name": "Airway Heights city",
+            "source_urls": null
+        },
+        "frontier": {
+            "links": {
+                "https://cawh.org": {
+                    "url": "http://cawh.org/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "cawh_org_",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 1
+                },
+                "https://cawh.org/city-council-members": {
+                    "url": "https://cawh.org/city-council-members",
+                    "status": "done",
+                    "folder_name": "cawh_org_city-council-members",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 2
+                },
+                "https://cawh.org/city-manager": {
+                    "url": "https://cawh.org/city-manager/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "cawh_org_city-manager_",
+                    "num_references": 7,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 8
+                },
+                "https://cawh.org/staff-directory": {
+                    "url": "https://cawh.org/staff-directory/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "cawh_org_staff-directory_",
+                    "num_references": 9,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 10
+                },
+                "https://cawh.org/boards-and-commissions": {
+                    "url": "https://cawh.org/boards-and-commissions/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "cawh_org_boards-and-commissions_",
+                    "num_references": 10,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 11
+                },
+                "https://cawh.org/city-council-minutes-2": {
+                    "url": "https://cawh.org/city-council-minutes-2/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "cawh_org_city-council-minutes-2_",
+                    "num_references": 5,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 6
+                },
+                "https://cawh.org/council-committees": {
+                    "url": "https://cawh.org/council-committees/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "cawh_org_council-committees_",
+                    "num_references": 6,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 7
+                },
+                "https://cawh.org/city-attorney": {
+                    "url": "https://cawh.org/city-attorney/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "cawh_org_city-attorney_",
+                    "num_references": 8,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 9
+                },
+                "https://cawh.org/form-of-government": {
+                    "url": "https://cawh.org/form-of-government/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "cawh_org_form-of-government_",
+                    "num_references": 11,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 12
+                },
+                "https://cawh.org/city-council-members/council-chair-larry-bowman": {
+                    "url": "https://cawh.org/city-council-members/council-chair-larry-bowman/",
+                    "status": "done",
+                    "folder_name": "cawh_org_city-council-members_council-chair-larry-bowman_",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 3
+                },
+                "https://cawh.org/city-council-members/councilmember-davin-perry": {
+                    "url": "https://cawh.org/city-council-members/councilmember-davin-perry/",
+                    "status": "done",
+                    "folder_name": "cawh_org_city-council-members_councilmember-davin-perry_",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 4
+                },
+                "https://cawh.org/city-council-members/councilmember-jennifer-morton": {
+                    "url": "https://cawh.org/city-council-members/councilmember-jennifer-morton/",
+                    "status": "done",
+                    "folder_name": "cawh_org_city-council-members_councilmember-jennifer-morton_",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 5
+                },
+                "https://cawh.org/council-meeting-stream": {
+                    "url": "https://cawh.org/council-meeting-stream/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "cawh_org_council-meeting-stream_",
+                    "num_references": 7,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 13
+                },
+                "https://cawh.org/progress-report": {
+                    "url": "https://cawh.org/progress-report/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cawh.org/city-strategic-plan": {
+                    "url": "https://cawh.org/city-strategic-plan/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "cawh_org_city-strategic-plan_",
+                    "num_references": 7,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 14
+                },
+                "https://cawh.org/state-legislative-agendas": {
+                    "url": "https://cawh.org/state-legislative-agendas/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cawh.org/city-manager/finance": {
+                    "url": "https://cawh.org/city-manager/finance/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "cawh_org_city-manager_finance_",
+                    "num_references": 8,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 20
+                },
+                "https://cawh.org/employment-opportunities": {
+                    "url": "https://cawh.org/employment-opportunities/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cawh.org/on-the-ballot": {
+                    "url": "https://cawh.org/on-the-ballot/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cawh.org/make-a-public-records-request": {
+                    "url": "https://cawh.org/make-a-public-records-request/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cawh.org/pay-your-utility-bill": {
+                    "url": "https://cawh.org/pay-your-utility-bill/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cawh.org/file-a-utility-dispute": {
+                    "url": "https://cawh.org/file-a-utility-dispute/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cawh.org/new-utility-account-information": {
+                    "url": "https://cawh.org/new-utility-account-information/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cawh.org/business-license": {
+                    "url": "https://cawh.org/business-license/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cawh.org/apply-for-the-vendor-list": {
+                    "url": "https://cawh.org/apply-for-the-vendor-list/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cawh.org/city-council-members/councilmember-davin-perry/#content": {
+                    "url": "https://cawh.org/city-council-members/councilmember-davin-perry/#content",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:council, role:city, designation:council",
+                    "text": "Skip to content",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cawh.org/wp-content/uploads/2022/08/cawh_logo_color.svg": {
+                    "url": "https://cawh.org/wp-content/uploads/2022/08/CAWH_Logo_Color.svg",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 8,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "![City of Airway Heights Logo.",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cawh.org/planning-commission": {
+                    "url": "https://cawh.org/planning-commission/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "cawh_org_planning-commission_",
+                    "num_references": 8,
+                    "comment": "heuristic backfill: keyword:commission",
+                    "text": "Planning Commission",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 15
+                },
+                "https://cawh.org/civil-service-commission": {
+                    "url": "https://cawh.org/civil-service-commission/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "cawh_org_civil-service-commission_",
+                    "num_references": 9,
+                    "comment": "heuristic backfill: keyword:commission",
+                    "text": "Civil Service Commission",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 16
+                },
+                "https://cawh.org/youth-advisory-commission": {
+                    "url": "https://cawh.org/youth-advisory-commission/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "cawh_org_youth-advisory-commission_",
+                    "num_references": 10,
+                    "comment": "heuristic backfill: keyword:commission",
+                    "text": "Youth Advisory Commission",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 17
+                },
+                "https://cawh.org/senior-advisory-commission": {
+                    "url": "https://cawh.org/senior-advisory-commission/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "cawh_org_senior-advisory-commission_",
+                    "num_references": 11,
+                    "comment": "heuristic backfill: keyword:commission",
+                    "text": "Senior Advisory Commission",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 18
+                },
+                "https://cawh.org/arts-commission": {
+                    "url": "https://cawh.org/arts-commission/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "cawh_org_arts-commission_",
+                    "num_references": 12,
+                    "comment": "heuristic backfill: keyword:commission",
+                    "text": "Public Arts Commission",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 19
+                },
+                "https://cawh.org/about-the-fire-department": {
+                    "url": "https://cawh.org/about-the-fire-department/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "cawh_org_about-the-fire-department_",
+                    "num_references": 8,
+                    "comment": "heuristic backfill: keyword:about",
+                    "text": "About the Fire Department",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 22
+                },
+                "https://cawh.org/city-backflow-program": {
+                    "url": "https://cawh.org/city-backflow-program/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "cawh_org_city-backflow-program_",
+                    "num_references": 7,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "City Backflow Program",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 21
+                },
+                "https://cawh.org/us-2-garfield-road-roundabout": {
+                    "url": "https://cawh.org/us-2-garfield-road-roundabout/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 8,
+                    "comment": "heuristic backfill: keyword:about",
+                    "text": "US 2 / Garfield Road Roundabout",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cawh.org/us-2-craig-road-rondabout": {
+                    "url": "https://cawh.org/us-2-craig-road-rondabout/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 8,
+                    "comment": "heuristic backfill: keyword:about",
+                    "text": "US 2 / Craig Road Roundabout",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cawh.org/lodging-tax-advisory-committee": {
+                    "url": "https://cawh.org/lodging-tax-advisory-committee/",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 7,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cawh.org/council-committees/#content": {
+                    "url": "https://cawh.org/council-committees/#content",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:council, designation:council",
+                    "text": "Skip to content",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cawh.org/staff-directory/#content": {
+                    "url": "https://cawh.org/staff-directory/#content",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:directory",
+                    "text": "Skip to content",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cawh.org/boards-and-commissions/#content": {
+                    "url": "https://cawh.org/boards-and-commissions/#content",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:board",
+                    "text": "Skip to content",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cawh.org/city-strategic-plan/#content": {
+                    "url": "https://cawh.org/city-strategic-plan/#content",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "Skip to content",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cawh.org/planning-commission/#content": {
+                    "url": "https://cawh.org/planning-commission/#content",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:commission",
+                    "text": "Skip to content",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cawh.org/city-manager/finance/#content": {
+                    "url": "https://cawh.org/city-manager/finance/#content",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "Skip to content",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://cawh.org/city-backflow-program/#content": {
+                    "url": "https://cawh.org/city-backflow-program/#content",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "Skip to content",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                }
+            },
+            "queue": [
+                "https://cawh.org/us-2-garfield-road-roundabout",
+                "https://cawh.org/us-2-craig-road-rondabout",
+                "https://cawh.org/wp-content/uploads/2022/08/cawh_logo_color.svg",
+                "https://cawh.org/city-council-members/councilmember-davin-perry/#content",
+                "https://cawh.org/council-committees/#content",
+                "https://cawh.org/staff-directory/#content",
+                "https://cawh.org/boards-and-commissions/#content",
+                "https://cawh.org/city-strategic-plan/#content",
+                "https://cawh.org/planning-commission/#content",
+                "https://cawh.org/city-backflow-program/#content",
+                "https://cawh.org/city-manager/finance/#content",
+                "https://cawh.org/lodging-tax-advisory-committee",
+                "https://cawh.org/progress-report",
+                "https://cawh.org/state-legislative-agendas",
+                "https://cawh.org/employment-opportunities",
+                "https://cawh.org/on-the-ballot",
+                "https://cawh.org/make-a-public-records-request",
+                "https://cawh.org/pay-your-utility-bill",
+                "https://cawh.org/file-a-utility-dispute",
+                "https://cawh.org/new-utility-account-information",
+                "https://cawh.org/business-license",
+                "https://cawh.org/apply-for-the-vendor-list"
+            ]
+        },
+        "research_municipality_step": {
+            "expected_count": 7,
+            "target_designations": [],
+            "known_roles": [
+                "Chair",
+                "Council Member"
+            ],
+            "identities": {
+                "Larry Bowman": [],
+                "Hank Bynaker": [],
+                "Jesse Camacho": [],
+                "William Campbell": [],
+                "Dave Malet": [],
+                "Davin Perry": [],
+                "Jennifer Morton": []
+            },
+            "source_urls": [
+                "https://cawh.org/city-council-members"
+            ],
+            "notes": null,
+            "origin_source": "existing"
+        },
+        "preprocess_page_content_step": {
+            "elapsed_times": [
+                12,
+                5,
+                5,
+                5,
+                5,
+                6,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                6,
+                5,
+                6,
+                5,
+                6,
+                5,
+                5,
+                5
+            ],
+            "total_elapsed_time_seconds": 121,
+            "average_elapsed_time_seconds": 5
+        },
+        "process_page_content_step": {
+            "raw_records_by_llm": {
+                "open_router": {
+                    "Casandra Quesnell": [
+                        {
+                            "name": "Casandra Quesnell",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 1"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2029-12-31",
+                            "image": null,
+                            "source_url": "https://cawh.org/city-council-members"
+                        }
+                    ],
+                    "Jesse Camacho": [
+                        {
+                            "name": "Jesse Camacho",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 2"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2029-12-31",
+                            "image": null,
+                            "source_url": "https://cawh.org/city-council-members"
+                        }
+                    ],
+                    "William Campbell": [
+                        {
+                            "name": "William Campbell",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 3"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2027-12-31",
+                            "image": null,
+                            "source_url": "https://cawh.org/city-council-members"
+                        }
+                    ],
+                    "Keri Bro": [
+                        {
+                            "name": "Keri Bro",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 4"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2029-12-31",
+                            "image": null,
+                            "source_url": "https://cawh.org/city-council-members"
+                        }
+                    ],
+                    "Larry Bowman": [
+                        {
+                            "name": "Larry Bowman",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 5"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://cawh.org/city-council-members/council-chair-larry-bowman/",
+                            "start_date": null,
+                            "end_date": "2027-12-31",
+                            "image": null,
+                            "source_url": "https://cawh.org/city-council-members"
+                        },
+                        {
+                            "name": "Larry Bowman",
+                            "roles": [
+                                "Council Chair"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://cawh.org/city-council-members/council-chair-larry-bowman/",
+                            "start_date": "2015-11",
+                            "end_date": null,
+                            "image": "local://b916bd7fa858.png",
+                            "source_url": "https://cawh.org/city-council-members/council-chair-larry-bowman/"
+                        }
+                    ],
+                    "Davin Perry": [
+                        {
+                            "name": "Davin Perry",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 6"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://cawh.org/city-council-members/councilmember-davin-perry/",
+                            "start_date": null,
+                            "end_date": "2029-12-31",
+                            "image": null,
+                            "source_url": "https://cawh.org/city-council-members"
+                        },
+                        {
+                            "name": "Davin Perry",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 6"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://6fa69b40e873.png",
+                            "source_url": "https://cawh.org/city-council-members/councilmember-davin-perry/"
+                        }
+                    ],
+                    "Jennifer Morton": [
+                        {
+                            "name": "Jennifer Morton",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Position 7"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://cawh.org/city-council-members/councilmember-jennifer-morton/",
+                            "start_date": null,
+                            "end_date": "2027-12-31",
+                            "image": null,
+                            "source_url": "https://cawh.org/city-council-members"
+                        },
+                        {
+                            "name": "Jennifer Morton",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://cawh.org/city-council-members/councilmember-jennifer-morton/",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://3899490ff616.png",
+                            "source_url": "https://cawh.org/city-council-members/councilmember-jennifer-morton/"
+                        }
+                    ]
+                }
+            },
+            "records_by_llm": {
+                "open_router": {
+                    "Casandra Quesnell": [
+                        {
+                            "name": "Casandra Quesnell",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Position 1"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2029-12-31",
+                            "image": null,
+                            "source_url": "https://cawh.org/city-council-members"
+                        }
+                    ],
+                    "Jesse Camacho": [
+                        {
+                            "name": "Jesse Camacho",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Position 2"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2029-12-31",
+                            "image": null,
+                            "source_url": "https://cawh.org/city-council-members"
+                        }
+                    ],
+                    "William Campbell": [
+                        {
+                            "name": "William Campbell",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Position 3"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2027-12-31",
+                            "image": null,
+                            "source_url": "https://cawh.org/city-council-members"
+                        }
+                    ],
+                    "Keri Bro": [
+                        {
+                            "name": "Keri Bro",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Position 4"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": "2029-12-31",
+                            "image": null,
+                            "source_url": "https://cawh.org/city-council-members"
+                        }
+                    ],
+                    "Larry Bowman": [
+                        {
+                            "name": "Larry Bowman",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Position 5"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://cawh.org/city-council-members/council-chair-larry-bowman/",
+                            "start_date": null,
+                            "end_date": "2027-12-31",
+                            "image": null,
+                            "source_url": "https://cawh.org/city-council-members"
+                        },
+                        {
+                            "name": "Larry Bowman",
+                            "roles": [
+                                "chair"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://cawh.org/city-council-members/council-chair-larry-bowman/",
+                            "start_date": "2015-11",
+                            "end_date": null,
+                            "image": "local://b916bd7fa858.png",
+                            "source_url": "https://cawh.org/city-council-members/council-chair-larry-bowman/"
+                        }
+                    ],
+                    "Davin Perry": [
+                        {
+                            "name": "Davin Perry",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Position 6"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://cawh.org/city-council-members/councilmember-davin-perry/",
+                            "start_date": null,
+                            "end_date": "2029-12-31",
+                            "image": null,
+                            "source_url": "https://cawh.org/city-council-members"
+                        },
+                        {
+                            "name": "Davin Perry",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Position 6"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://6fa69b40e873.png",
+                            "source_url": "https://cawh.org/city-council-members/councilmember-davin-perry/"
+                        }
+                    ],
+                    "Jennifer Morton": [
+                        {
+                            "name": "Jennifer Morton",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Position 7"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://cawh.org/city-council-members/councilmember-jennifer-morton/",
+                            "start_date": null,
+                            "end_date": "2027-12-31",
+                            "image": null,
+                            "source_url": "https://cawh.org/city-council-members"
+                        },
+                        {
+                            "name": "Jennifer Morton",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://cawh.org/city-council-members/councilmember-jennifer-morton/",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://3899490ff616.png",
+                            "source_url": "https://cawh.org/city-council-members/councilmember-jennifer-morton/"
+                        }
+                    ]
+                }
+            },
+            "progress": {
+                "required_data": 7,
+                "current_data": 0,
+                "has_target_role": true,
+                "has_target_designations": true
+            }
+        },
+        "merge_records_within_llm_step": {
+            "people_by_llm": {
+                "open_router": [
+                    {
+                        "name": "Casandra Quesnell",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Position 1"
+                        ],
+                        "phones": [],
+                        "emails": [],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "2029-12-31",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:airway_heights/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://cawh.org/city-council-members"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Jesse Camacho",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Position 2"
+                        ],
+                        "phones": [],
+                        "emails": [],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "2029-12-31",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:airway_heights/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://cawh.org/city-council-members"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "William Campbell",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Position 3"
+                        ],
+                        "phones": [],
+                        "emails": [],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "2027-12-31",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:airway_heights/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://cawh.org/city-council-members"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Keri Bro",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Position 4"
+                        ],
+                        "phones": [],
+                        "emails": [],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "2029-12-31",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:airway_heights/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://cawh.org/city-council-members"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Larry Bowman",
+                        "other_names": [],
+                        "roles": [
+                            "chair",
+                            "council member"
+                        ],
+                        "designations": [
+                            "Position 5"
+                        ],
+                        "phones": [],
+                        "emails": [],
+                        "urls": [
+                            "https://cawh.org/city-council-members/council-chair-larry-bowman/"
+                        ],
+                        "start_date": "2015-11",
+                        "end_date": "2027-12-31",
+                        "image": "local://b916bd7fa858.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:airway_heights/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://cawh.org/city-council-members",
+                            "https://cawh.org/city-council-members/council-chair-larry-bowman/"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Davin Perry",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Position 6"
+                        ],
+                        "phones": [],
+                        "emails": [],
+                        "urls": [
+                            "https://cawh.org/city-council-members/councilmember-davin-perry/"
+                        ],
+                        "start_date": "",
+                        "end_date": "2029-12-31",
+                        "image": "local://6fa69b40e873.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:airway_heights/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://cawh.org/city-council-members"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Jennifer Morton",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Position 7"
+                        ],
+                        "phones": [],
+                        "emails": [],
+                        "urls": [
+                            "https://cawh.org/city-council-members/councilmember-jennifer-morton/"
+                        ],
+                        "start_date": "",
+                        "end_date": "2027-12-31",
+                        "image": "local://3899490ff616.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:airway_heights/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://cawh.org/city-council-members"
+                        ],
+                        "updated_at": ""
+                    }
+                ]
+            },
+            "unrecognized_roles": [],
+            "excluded_people": []
+        },
+        "merge_records_across_llms_step": {
+            "people": [
+                {
+                    "name": "Casandra Quesnell",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 1"
+                    ],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "2029-12-31",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:airway_heights/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://cawh.org/city-council-members"
+                    ],
+                    "updated_at": "2026-07-30T01:13:17+00:00"
+                },
+                {
+                    "name": "Jesse Camacho",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 2"
+                    ],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "2029-12-31",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:airway_heights/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://cawh.org/city-council-members"
+                    ],
+                    "updated_at": "2026-07-30T01:13:17+00:00"
+                },
+                {
+                    "name": "William Campbell",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 3"
+                    ],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "2027-12-31",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:airway_heights/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://cawh.org/city-council-members"
+                    ],
+                    "updated_at": "2026-07-30T01:13:17+00:00"
+                },
+                {
+                    "name": "Keri Bro",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 4"
+                    ],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "2029-12-31",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:airway_heights/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://cawh.org/city-council-members"
+                    ],
+                    "updated_at": "2026-07-30T01:13:17+00:00"
+                },
+                {
+                    "name": "Larry Bowman",
+                    "other_names": [],
+                    "roles": [
+                        "chair",
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 5"
+                    ],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://cawh.org/city-council-members/council-chair-larry-bowman/"
+                    ],
+                    "start_date": "2015-11",
+                    "end_date": "2027-12-31",
+                    "image": "local://b916bd7fa858.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:airway_heights/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://cawh.org/city-council-members",
+                        "https://cawh.org/city-council-members/council-chair-larry-bowman/"
+                    ],
+                    "updated_at": "2026-07-30T01:13:17+00:00"
+                },
+                {
+                    "name": "Davin Perry",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 6"
+                    ],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://cawh.org/city-council-members/councilmember-davin-perry/"
+                    ],
+                    "start_date": "",
+                    "end_date": "2029-12-31",
+                    "image": "local://6fa69b40e873.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:airway_heights/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://cawh.org/city-council-members"
+                    ],
+                    "updated_at": "2026-07-30T01:13:17+00:00"
+                },
+                {
+                    "name": "Jennifer Morton",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 7"
+                    ],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://cawh.org/city-council-members/councilmember-jennifer-morton/"
+                    ],
+                    "start_date": "",
+                    "end_date": "2027-12-31",
+                    "image": "local://3899490ff616.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:airway_heights/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://cawh.org/city-council-members"
+                    ],
+                    "updated_at": "2026-07-30T01:13:17+00:00"
+                }
+            ]
+        },
+        "format_output_step": {
+            "officials": [
+                {
+                    "name": "Casandra Quesnell",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://cawh.org/city-council-members"
+                    ],
+                    "start_date": null,
+                    "end_date": "2029-12-31",
+                    "office": {
+                        "name": "Council Member - Position 1",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:airway_heights"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:airway_heights/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://cawh.org/city-council-members"
+                    ],
+                    "updated_at": "2026-07-30T01:13:17+00:00",
+                    "id": "4177b090-0077-4b42-8acf-630350a3ce1d"
+                },
+                {
+                    "name": "Jesse Camacho",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://cawh.org/city-council-members"
+                    ],
+                    "start_date": null,
+                    "end_date": "2029-12-31",
+                    "office": {
+                        "name": "Council Member - Position 2",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:airway_heights"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:airway_heights/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://cawh.org/city-council-members"
+                    ],
+                    "updated_at": "2026-07-30T01:13:17+00:00",
+                    "id": "6b25e8c2-f0fd-4daa-a158-7194a65c56c6"
+                },
+                {
+                    "name": "William Campbell",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://cawh.org/city-council-members"
+                    ],
+                    "start_date": null,
+                    "end_date": "2027-12-31",
+                    "office": {
+                        "name": "Council Member - Position 3",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:airway_heights"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:airway_heights/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://cawh.org/city-council-members"
+                    ],
+                    "updated_at": "2026-07-30T01:13:17+00:00",
+                    "id": "5560257c-6b04-429a-9a5d-dce11e19f30d"
+                },
+                {
+                    "name": "Keri Bro",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://cawh.org/city-council-members"
+                    ],
+                    "start_date": null,
+                    "end_date": "2029-12-31",
+                    "office": {
+                        "name": "Council Member - Position 4",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:airway_heights"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:airway_heights/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://cawh.org/city-council-members"
+                    ],
+                    "updated_at": "2026-07-30T01:13:17+00:00",
+                    "id": "88dfd18b-f396-41cd-b588-b55fdd885f61"
+                },
+                {
+                    "name": "Larry Bowman",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://cawh.org/city-council-members/council-chair-larry-bowman/"
+                    ],
+                    "start_date": "2015-11",
+                    "end_date": "2027-12-31",
+                    "office": {
+                        "name": "Chair - Council Member - Position 5",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:airway_heights"
+                    },
+                    "image": "https://cawh.org/wp-content/uploads/2023/03/Larry_Bowman.jpg",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:airway_heights/government",
+                    "cdn_image": "local://b916bd7fa858.png",
+                    "source_urls": [
+                        "https://cawh.org/city-council-members",
+                        "https://cawh.org/city-council-members/council-chair-larry-bowman/"
+                    ],
+                    "updated_at": "2026-07-30T01:13:17+00:00",
+                    "id": "25917c90-6573-4217-80ce-9442c9e6c721"
+                },
+                {
+                    "name": "Davin Perry",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://cawh.org/city-council-members/councilmember-davin-perry/"
+                    ],
+                    "start_date": null,
+                    "end_date": "2029-12-31",
+                    "office": {
+                        "name": "Council Member - Position 6",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:airway_heights"
+                    },
+                    "image": "https://cawh.org/wp-content/uploads/2023/02/Davin_Perry_570.jpg",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:airway_heights/government",
+                    "cdn_image": "local://6fa69b40e873.png",
+                    "source_urls": [
+                        "https://cawh.org/city-council-members"
+                    ],
+                    "updated_at": "2026-07-30T01:13:17+00:00",
+                    "id": "1a79f356-f318-46ce-a040-25258ca8d79d"
+                },
+                {
+                    "name": "Jennifer Morton",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://cawh.org/city-council-members/councilmember-jennifer-morton/"
+                    ],
+                    "start_date": null,
+                    "end_date": "2027-12-31",
+                    "office": {
+                        "name": "Council Member - Position 7",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:airway_heights"
+                    },
+                    "image": "https://cawh.org/wp-content/uploads/2023/02/Jennifer.jpg",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:airway_heights/government",
+                    "cdn_image": "local://3899490ff616.png",
+                    "source_urls": [
+                        "https://cawh.org/city-council-members"
+                    ],
+                    "updated_at": "2026-07-30T01:13:17+00:00",
+                    "id": "c5c047fb-d274-4f8d-9cbf-4e1e6335f284"
+                }
+            ]
+        },
+        "review_output_step": {
+            "issues": [
+                {
+                    "code": "missing_official",
+                    "message": "Dropped official: Dave Malet",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Dropped official: Hank Bynaker",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "extra_official",
+                    "message": "Extra official: Casandra Quesnell",
+                    "person_ids": [
+                        "4177b090-0077-4b42-8acf-630350a3ce1d"
+                    ],
+                    "field": null
+                },
+                {
+                    "code": "extra_official",
+                    "message": "Extra official: Keri Bro",
+                    "person_ids": [
+                        "88dfd18b-f396-41cd-b588-b55fdd885f61"
+                    ],
+                    "field": null
+                }
+            ],
+            "people_by_source": [
+                {
+                    "name": "Casandra Quesnell",
+                    "in_research": false,
+                    "in_data": true
+                },
+                {
+                    "name": "Dave Malet",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Davin Perry",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Hank Bynaker",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Jennifer Morton",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Jesse Camacho",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Keri Bro",
+                    "in_research": false,
+                    "in_data": true
+                },
+                {
+                    "name": "Larry Bowman",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "William Campbell",
+                    "in_research": true,
+                    "in_data": true
+                }
+            ],
+            "origin_source": "existing"
+        },
+        "find_jurisdiction_url_step": null,
+        "send_success_step": null,
+        "send_error_step": null,
+        "issues": [],
+        "error_step": null,
+        "error_detail": null
+    },
+    "current_state": "SEND_SUCCESS",
+    "request_id": "02d13ce7-5a92-4ccd-9728-b0804afa355c",
+    "created_at": 1785373554.345393,
+    "updated_at": 1785373997.334451,
+    "progress": 27
+}
