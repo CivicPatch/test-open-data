@@ -1,0 +1,2309 @@
+{
+    "data": {
+        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:aberdeen/government",
+        "config": {
+            "url": "https://www.aberdeenwa.gov/",
+            "name": "Aberdeen city",
+            "source_urls": null
+        },
+        "frontier": {
+            "links": {
+                "https://aberdeenwa.gov": {
+                    "url": "https://www.aberdeenwa.gov/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_aberdeenwa_gov_",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 1
+                },
+                "https://aberdeenwa.gov/275/city-council": {
+                    "url": "https://www.aberdeenwa.gov/275/City-Council",
+                    "status": "done",
+                    "folder_name": "www_aberdeenwa_gov_275_city-council",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 2
+                },
+                "https://aberdeenwa.gov/27/government": {
+                    "url": "https://www.aberdeenwa.gov/27/Government",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_aberdeenwa_gov_27_government",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 3
+                },
+                "https://aberdeenwa.gov/101/departments": {
+                    "url": "https://www.aberdeenwa.gov/101/Departments",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_aberdeenwa_gov_101_departments",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 4
+                },
+                "https://aberdeenwa.gov/agendacenter": {
+                    "url": "https://www.aberdeenwa.gov/AgendaCenter",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://aberdeenwa.gov/291": {
+                    "url": "https://www.aberdeenwa.gov/291",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://aberdeenwa.gov/formcenter/citizen-action-request-4/citizen-action-request-46": {
+                    "url": "https://www.aberdeenwa.gov/FormCenter/Citizen-Action-Request-4/Citizen-Action-Request-46",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://aberdeenwa.gov/225": {
+                    "url": "https://www.aberdeenwa.gov/225",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://aberdeenwa.gov/330/permit-center": {
+                    "url": "https://www.aberdeenwa.gov/330/Permit-Center",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://aberdeenwa.gov/326/code-compliance-division": {
+                    "url": "https://www.aberdeenwa.gov/326/Code-Compliance-Division",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://aberdeenwa.gov/200": {
+                    "url": "https://www.aberdeenwa.gov/200",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://aberdeenwa.gov/244": {
+                    "url": "https://www.aberdeenwa.gov/244",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://aberdeenwa.gov/221": {
+                    "url": "https://www.aberdeenwa.gov/221",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://aberdeenwa.gov/273": {
+                    "url": "https://www.aberdeenwa.gov/273",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://aberdeenwa.gov/sitemap": {
+                    "url": "https://www.aberdeenwa.gov/sitemap",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://aberdeenwa.gov/accessibility": {
+                    "url": "https://www.aberdeenwa.gov/accessibility",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://aberdeenwa.gov/site/copyright": {
+                    "url": "https://www.aberdeenwa.gov/site/copyright",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://aberdeenwa.gov/privacy": {
+                    "url": "https://www.aberdeenwa.gov/privacy",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://aberdeenwa.gov/myaccount/profilecreate": {
+                    "url": "https://www.aberdeenwa.gov/MyAccount/ProfileCreate",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://aberdeenwa.gov/myaccount": {
+                    "url": "https://www.aberdeenwa.gov/MyAccount",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://aberdeenwa.gov/275/city-council#structuralcontainer7": {
+                    "url": "https://www.aberdeenwa.gov/275/City-Council#structuralContainer7",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:council, role:city, designation:council",
+                    "text": "Skip To Main Content",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://aberdeenwa.gov/275/city-council#cc5f8c90dc-b4cb-431b-90ee-10648f8df655": {
+                    "url": "https://www.aberdeenwa.gov/275/City-Council#cc5f8c90dc-b4cb-431b-90ee-10648f8df655",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:council, role:city, designation:council",
+                    "text": "Skip to Main Content",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://aberdeenwa.gov/alertcenter.aspx?aid=community-outreach-meeting-fry-creek-res-142": {
+                    "url": "https://www.aberdeenwa.gov/AlertCenter.aspx?AID=Community-Outreach-Meeting-Fry-Creek-Res-142",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:meet",
+                    "text": "Community Outreach Meeting - Fry Creek Restoration Project\nRead On...",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://aberdeenwa.gov/213/boards-commissions": {
+                    "url": "https://www.aberdeenwa.gov/213/Boards-Commissions",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:board",
+                    "text": "Boards & Commissions",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://aberdeenwa.gov/253/arts-commission": {
+                    "url": "https://www.aberdeenwa.gov/253/Arts-Commission",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:commission",
+                    "text": "Arts Commission",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://aberdeenwa.gov/241/historic-preservation-commission": {
+                    "url": "https://www.aberdeenwa.gov/241/Historic-Preservation-Commission",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:commission",
+                    "text": "Historic Preservation Commission",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://aberdeenwa.gov/243/planning-commission": {
+                    "url": "https://www.aberdeenwa.gov/243/Planning-Commission",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:commission",
+                    "text": "Planning Commission",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://aberdeenwa.gov/369/museum-board": {
+                    "url": "https://www.aberdeenwa.gov/369/Museum-Board",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:board",
+                    "text": "Museum Board",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://aberdeenwa.gov/370/park-board": {
+                    "url": "https://www.aberdeenwa.gov/370/Park-Board",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:board",
+                    "text": "Park Board",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://aberdeenwa.gov/419/library-board": {
+                    "url": "https://www.aberdeenwa.gov/419/Library-Board",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:board",
+                    "text": "Library Board",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://aberdeenwa.gov/367/mayor-orr": {
+                    "url": "https://www.aberdeenwa.gov/367/Mayor-Orr",
+                    "status": "done",
+                    "folder_name": "www_aberdeenwa_gov_367_mayor-orr",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:mayor, designation:mayor",
+                    "text": "Mayor Orr",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 5
+                },
+                "https://aberdeenwa.gov/31/our-community": {
+                    "url": "https://www.aberdeenwa.gov/31/Our-Community",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://aberdeenwa.gov/9/i-want-to": {
+                    "url": "https://www.aberdeenwa.gov/9/I-Want-To",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://aberdeenwa.gov/search/results": {
+                    "url": "https://www.aberdeenwa.gov/Search/Results",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://aberdeenwa.gov/291/public-records-request": {
+                    "url": "https://www.aberdeenwa.gov/291/Public-Records-Request",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://aberdeenwa.gov/directory.aspx?did=12": {
+                    "url": "https://www.aberdeenwa.gov/directory.aspx?did=12",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://aberdeenwa.gov/240/good-neighbors-revolving-loan-fund": {
+                    "url": "https://www.aberdeenwa.gov/240/Good-Neighbors-Revolving-Loan-Fund",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://aberdeenwa.gov/445/homeless-response-committee": {
+                    "url": "https://www.aberdeenwa.gov/445/Homeless-Response-Committee",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://aberdeenwa.gov/292/lodging-tax-committee": {
+                    "url": "https://www.aberdeenwa.gov/292/Lodging-Tax-Committee",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://aberdeenwa.gov/421/regional-fire-authority-rfa": {
+                    "url": "https://www.aberdeenwa.gov/421/Regional-Fire-Authority-RFA",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                }
+            },
+            "queue": [
+                "https://aberdeenwa.gov/213/boards-commissions",
+                "https://aberdeenwa.gov/253/arts-commission",
+                "https://aberdeenwa.gov/241/historic-preservation-commission",
+                "https://aberdeenwa.gov/243/planning-commission",
+                "https://aberdeenwa.gov/369/museum-board",
+                "https://aberdeenwa.gov/370/park-board",
+                "https://aberdeenwa.gov/419/library-board",
+                "https://aberdeenwa.gov/275/city-council#structuralcontainer7",
+                "https://aberdeenwa.gov/275/city-council#cc5f8c90dc-b4cb-431b-90ee-10648f8df655",
+                "https://aberdeenwa.gov/alertcenter.aspx?aid=community-outreach-meeting-fry-creek-res-142",
+                "https://aberdeenwa.gov/directory.aspx?did=12",
+                "https://aberdeenwa.gov/agendacenter",
+                "https://aberdeenwa.gov/225",
+                "https://aberdeenwa.gov/200",
+                "https://aberdeenwa.gov/244",
+                "https://aberdeenwa.gov/273",
+                "https://aberdeenwa.gov/330/permit-center",
+                "https://aberdeenwa.gov/326/code-compliance-division",
+                "https://aberdeenwa.gov/formcenter/citizen-action-request-4/citizen-action-request-46",
+                "https://aberdeenwa.gov/291",
+                "https://aberdeenwa.gov/myaccount",
+                "https://aberdeenwa.gov/221",
+                "https://aberdeenwa.gov/sitemap",
+                "https://aberdeenwa.gov/accessibility",
+                "https://aberdeenwa.gov/privacy",
+                "https://aberdeenwa.gov/myaccount/profilecreate",
+                "https://aberdeenwa.gov/site/copyright",
+                "https://aberdeenwa.gov/291/public-records-request",
+                "https://aberdeenwa.gov/445/homeless-response-committee",
+                "https://aberdeenwa.gov/292/lodging-tax-committee",
+                "https://aberdeenwa.gov/31/our-community",
+                "https://aberdeenwa.gov/9/i-want-to",
+                "https://aberdeenwa.gov/search/results",
+                "https://aberdeenwa.gov/240/good-neighbors-revolving-loan-fund",
+                "https://aberdeenwa.gov/421/regional-fire-authority-rfa"
+            ]
+        },
+        "research_municipality_step": {
+            "expected_count": 13,
+            "target_designations": [
+                "Ward 5",
+                "Ward 1",
+                "Ward 2",
+                "Ward 6",
+                "Ward 3",
+                "Ward 4"
+            ],
+            "known_roles": [
+                "Mayor",
+                "Council Member"
+            ],
+            "identities": {
+                "Douglas Orr": [],
+                "Kacey Morrison": [],
+                "Melvin Taylor": [],
+                "David Gakin": [],
+                "John Maki": [],
+                "Liz Ellis": [],
+                "Scott Prato": [],
+                "Carrie Hubbard": [],
+                "Deb Hodgkin": [],
+                "Debi Pieraccini": [],
+                "Joshua Francy": [],
+                "David Lawrence": [],
+                "Sydney Swor": []
+            },
+            "source_urls": [
+                "https://www.aberdeenwa.gov/275/City-Council"
+            ],
+            "notes": null,
+            "origin_source": "existing"
+        },
+        "preprocess_page_content_step": {
+            "elapsed_times": [
+                7,
+                8,
+                2,
+                3,
+                8,
+                2,
+                2,
+                1,
+                3,
+                1
+            ],
+            "total_elapsed_time_seconds": 9,
+            "average_elapsed_time_seconds": 0
+        },
+        "process_page_content_step": {
+            "raw_records_by_llm": {
+                "open_router": {
+                    "Melvin taylor": [
+                        {
+                            "name": "Melvin taylor",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Ward 1",
+                                "Position 1"
+                            ],
+                            "phone": "(360) 533-4100 ext. 7201",
+                            "email": "mtaylor@aberdeenwa.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://5cd34e867f3a.png",
+                            "source_url": "https://www.aberdeenwa.gov/275/City-Council"
+                        }
+                    ],
+                    "Deb Wilson": [
+                        {
+                            "name": "Deb Wilson",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Ward 1",
+                                "Position 2"
+                            ],
+                            "phone": "(360) 533-4100 ext. 2318",
+                            "email": "dwilson@aberdeenwa.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://f0eeed5a6eef.png",
+                            "source_url": "https://www.aberdeenwa.gov/275/City-Council"
+                        }
+                    ],
+                    "David Gakin": [
+                        {
+                            "name": "David Gakin",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Ward 2",
+                                "Position 3"
+                            ],
+                            "phone": "(360) 533-4100 ext. 7202",
+                            "email": "dgakin@aberdeenwa.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://2186440f83e3.png",
+                            "source_url": "https://www.aberdeenwa.gov/275/City-Council"
+                        }
+                    ],
+                    "Jerry W. Rajcich": [
+                        {
+                            "name": "Jerry W. Rajcich",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Ward 2",
+                                "Position 4"
+                            ],
+                            "phone": "(360) 533-4100 ext. 2319",
+                            "email": "jrajcich@aberdeenwa.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://b744b9c28377.png",
+                            "source_url": "https://www.aberdeenwa.gov/275/City-Council"
+                        }
+                    ],
+                    "Kevin moynihan": [
+                        {
+                            "name": "Kevin moynihan",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Ward 3",
+                                "Position 5"
+                            ],
+                            "phone": "(360) 533-4100 ext. 2321",
+                            "email": "kmoynihan@aberdeenwa.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://14404ef298d1.png",
+                            "source_url": "https://www.aberdeenwa.gov/275/City-Council"
+                        }
+                    ],
+                    "Scott Prato": [
+                        {
+                            "name": "Scott Prato",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Ward 3",
+                                "Position 6"
+                            ],
+                            "phone": "(360) 533-4100 ext. 7203",
+                            "email": "sprato@aberdeenwa.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://7c778d675f69.png",
+                            "source_url": "https://www.aberdeenwa.gov/275/City-Council"
+                        }
+                    ],
+                    "CARRIE HUBBARD": [
+                        {
+                            "name": "CARRIE HUBBARD",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Ward 4",
+                                "Position 7"
+                            ],
+                            "phone": "(360) 533-4100 ext. 2324",
+                            "email": "cahubbard@aberdeenwa.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://6f0279e3e3f9.png",
+                            "source_url": "https://www.aberdeenwa.gov/275/City-Council"
+                        }
+                    ],
+                    "Deb Hodgkin": [
+                        {
+                            "name": "Deb Hodgkin",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Ward 4",
+                                "Position 8"
+                            ],
+                            "phone": "(360) 533-4100 ext. 7204",
+                            "email": "dhodgkin@aberdeenwa.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://b25460cbdaf3.png",
+                            "source_url": "https://www.aberdeenwa.gov/275/City-Council"
+                        }
+                    ],
+                    "michele nipper": [
+                        {
+                            "name": "michele nipper",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Ward 5",
+                                "Position 9"
+                            ],
+                            "phone": "(360) 533-4100 ext. 7208",
+                            "email": "mnipper@aberdeenwa.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://5696d90d5b01.png",
+                            "source_url": "https://www.aberdeenwa.gov/275/City-Council"
+                        }
+                    ],
+                    "joshua francy": [
+                        {
+                            "name": "joshua francy",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Ward 5",
+                                "Position 10"
+                            ],
+                            "phone": "(360) 533-4100 ext. 2326",
+                            "email": "jfrancy@aberdeenwa.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://7537f8d35f81.png",
+                            "source_url": "https://www.aberdeenwa.gov/275/City-Council"
+                        }
+                    ],
+                    "John Shaw": [
+                        {
+                            "name": "John Shaw",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Ward 6",
+                                "Position 11"
+                            ],
+                            "phone": "(360) 533-4100 ext. 7207",
+                            "email": "jtshaw@aberdeenwa.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://4f7340d9546f.png",
+                            "source_url": "https://www.aberdeenwa.gov/275/City-Council"
+                        }
+                    ],
+                    "Sydney Swor": [
+                        {
+                            "name": "Sydney Swor",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Ward 6",
+                                "Position 12"
+                            ],
+                            "phone": "(360) 533-4100 ext. 7206",
+                            "email": "sswor@aberdeenwa.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://dad7a4a57584.png",
+                            "source_url": "https://www.aberdeenwa.gov/275/City-Council"
+                        }
+                    ],
+                    "Douglas Orr": [
+                        {
+                            "name": "Douglas Orr",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "360-537-3227",
+                            "email": "dorr@aberdeenwa.gov",
+                            "url": "https://www.aberdeenwa.gov/367/Mayor-Orr",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://40f48fbfcf18.png",
+                            "source_url": "https://www.aberdeenwa.gov/367/Mayor-Orr"
+                        }
+                    ]
+                }
+            },
+            "records_by_llm": {
+                "open_router": {
+                    "Melvin taylor": [
+                        {
+                            "name": "Melvin taylor",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Ward 1",
+                                "Position 1"
+                            ],
+                            "phone": "(360) 533-4100 ext. 7201",
+                            "email": "mtaylor@aberdeenwa.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://5cd34e867f3a.png",
+                            "source_url": "https://www.aberdeenwa.gov/275/City-Council"
+                        }
+                    ],
+                    "Deb Wilson": [
+                        {
+                            "name": "Deb Wilson",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Ward 1",
+                                "Position 2"
+                            ],
+                            "phone": "(360) 533-4100 ext. 2318",
+                            "email": "dwilson@aberdeenwa.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://f0eeed5a6eef.png",
+                            "source_url": "https://www.aberdeenwa.gov/275/City-Council"
+                        }
+                    ],
+                    "David Gakin": [
+                        {
+                            "name": "David Gakin",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Ward 2",
+                                "Position 3"
+                            ],
+                            "phone": "(360) 533-4100 ext. 7202",
+                            "email": "dgakin@aberdeenwa.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://2186440f83e3.png",
+                            "source_url": "https://www.aberdeenwa.gov/275/City-Council"
+                        }
+                    ],
+                    "Jerry W. Rajcich": [
+                        {
+                            "name": "Jerry W. Rajcich",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Ward 2",
+                                "Position 4"
+                            ],
+                            "phone": "(360) 533-4100 ext. 2319",
+                            "email": "jrajcich@aberdeenwa.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://b744b9c28377.png",
+                            "source_url": "https://www.aberdeenwa.gov/275/City-Council"
+                        }
+                    ],
+                    "Kevin moynihan": [
+                        {
+                            "name": "Kevin moynihan",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Ward 3",
+                                "Position 5"
+                            ],
+                            "phone": "(360) 533-4100 ext. 2321",
+                            "email": "kmoynihan@aberdeenwa.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://14404ef298d1.png",
+                            "source_url": "https://www.aberdeenwa.gov/275/City-Council"
+                        }
+                    ],
+                    "Scott Prato": [
+                        {
+                            "name": "Scott Prato",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Ward 3",
+                                "Position 6"
+                            ],
+                            "phone": "(360) 533-4100 ext. 7203",
+                            "email": "sprato@aberdeenwa.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://7c778d675f69.png",
+                            "source_url": "https://www.aberdeenwa.gov/275/City-Council"
+                        }
+                    ],
+                    "CARRIE HUBBARD": [
+                        {
+                            "name": "CARRIE HUBBARD",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Ward 4",
+                                "Position 7"
+                            ],
+                            "phone": "(360) 533-4100 ext. 2324",
+                            "email": "cahubbard@aberdeenwa.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://6f0279e3e3f9.png",
+                            "source_url": "https://www.aberdeenwa.gov/275/City-Council"
+                        }
+                    ],
+                    "Deb Hodgkin": [
+                        {
+                            "name": "Deb Hodgkin",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Ward 4",
+                                "Position 8"
+                            ],
+                            "phone": "(360) 533-4100 ext. 7204",
+                            "email": "dhodgkin@aberdeenwa.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://b25460cbdaf3.png",
+                            "source_url": "https://www.aberdeenwa.gov/275/City-Council"
+                        }
+                    ],
+                    "michele nipper": [
+                        {
+                            "name": "michele nipper",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Ward 5",
+                                "Position 9"
+                            ],
+                            "phone": "(360) 533-4100 ext. 7208",
+                            "email": "mnipper@aberdeenwa.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://5696d90d5b01.png",
+                            "source_url": "https://www.aberdeenwa.gov/275/City-Council"
+                        }
+                    ],
+                    "joshua francy": [
+                        {
+                            "name": "joshua francy",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Ward 5",
+                                "Position 10"
+                            ],
+                            "phone": "(360) 533-4100 ext. 2326",
+                            "email": "jfrancy@aberdeenwa.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://7537f8d35f81.png",
+                            "source_url": "https://www.aberdeenwa.gov/275/City-Council"
+                        }
+                    ],
+                    "John Shaw": [
+                        {
+                            "name": "John Shaw",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Ward 6",
+                                "Position 11"
+                            ],
+                            "phone": "(360) 533-4100 ext. 7207",
+                            "email": "jtshaw@aberdeenwa.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://4f7340d9546f.png",
+                            "source_url": "https://www.aberdeenwa.gov/275/City-Council"
+                        }
+                    ],
+                    "Sydney Swor": [
+                        {
+                            "name": "Sydney Swor",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Ward 6",
+                                "Position 12"
+                            ],
+                            "phone": "(360) 533-4100 ext. 7206",
+                            "email": "sswor@aberdeenwa.gov",
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://dad7a4a57584.png",
+                            "source_url": "https://www.aberdeenwa.gov/275/City-Council"
+                        }
+                    ],
+                    "Douglas Orr": [
+                        {
+                            "name": "Douglas Orr",
+                            "roles": [
+                                "mayor"
+                            ],
+                            "designations": [],
+                            "phone": "(360) 537-3227",
+                            "email": "dorr@aberdeenwa.gov",
+                            "url": "https://www.aberdeenwa.gov/367/Mayor-Orr",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://40f48fbfcf18.png",
+                            "source_url": "https://www.aberdeenwa.gov/367/Mayor-Orr"
+                        }
+                    ]
+                }
+            },
+            "progress": {
+                "required_data": 13,
+                "current_data": 13,
+                "has_target_role": true,
+                "has_target_designations": true
+            }
+        },
+        "merge_records_within_llm_step": {
+            "people_by_llm": {
+                "open_router": [
+                    {
+                        "name": "Melvin Taylor",
+                        "other_names": [
+                            "Melvin taylor"
+                        ],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Ward 1",
+                            "Position 1"
+                        ],
+                        "phones": [
+                            "(360) 533-4100 ext. 7201"
+                        ],
+                        "emails": [
+                            "mtaylor@aberdeenwa.gov"
+                        ],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "local://5cd34e867f3a.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:aberdeen/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.aberdeenwa.gov/275/City-Council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Deb Wilson",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Ward 1",
+                            "Position 2"
+                        ],
+                        "phones": [
+                            "(360) 533-4100 ext. 2318"
+                        ],
+                        "emails": [
+                            "dwilson@aberdeenwa.gov"
+                        ],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "local://f0eeed5a6eef.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:aberdeen/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.aberdeenwa.gov/275/City-Council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "David Gakin",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Ward 2",
+                            "Position 3"
+                        ],
+                        "phones": [
+                            "(360) 533-4100 ext. 7202"
+                        ],
+                        "emails": [
+                            "dgakin@aberdeenwa.gov"
+                        ],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "local://2186440f83e3.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:aberdeen/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.aberdeenwa.gov/275/City-Council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Jerry W. Rajcich",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Position 4",
+                            "Ward 2"
+                        ],
+                        "phones": [
+                            "(360) 533-4100 ext. 2319"
+                        ],
+                        "emails": [
+                            "jrajcich@aberdeenwa.gov"
+                        ],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "local://b744b9c28377.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:aberdeen/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.aberdeenwa.gov/275/City-Council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Kevin moynihan",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Position 5",
+                            "Ward 3"
+                        ],
+                        "phones": [
+                            "(360) 533-4100 ext. 2321"
+                        ],
+                        "emails": [
+                            "kmoynihan@aberdeenwa.gov"
+                        ],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "local://14404ef298d1.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:aberdeen/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.aberdeenwa.gov/275/City-Council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Scott Prato",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Position 6",
+                            "Ward 3"
+                        ],
+                        "phones": [
+                            "(360) 533-4100 ext. 7203"
+                        ],
+                        "emails": [
+                            "sprato@aberdeenwa.gov"
+                        ],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "local://7c778d675f69.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:aberdeen/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.aberdeenwa.gov/275/City-Council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Carrie Hubbard",
+                        "other_names": [
+                            "CARRIE HUBBARD"
+                        ],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Position 7",
+                            "Ward 4"
+                        ],
+                        "phones": [
+                            "(360) 533-4100 ext. 2324"
+                        ],
+                        "emails": [
+                            "cahubbard@aberdeenwa.gov"
+                        ],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "local://6f0279e3e3f9.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:aberdeen/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.aberdeenwa.gov/275/City-Council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Deb Hodgkin",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Position 8",
+                            "Ward 4"
+                        ],
+                        "phones": [
+                            "(360) 533-4100 ext. 7204"
+                        ],
+                        "emails": [
+                            "dhodgkin@aberdeenwa.gov"
+                        ],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "local://b25460cbdaf3.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:aberdeen/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.aberdeenwa.gov/275/City-Council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "michele nipper",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Ward 5",
+                            "Position 9"
+                        ],
+                        "phones": [
+                            "(360) 533-4100 ext. 7208"
+                        ],
+                        "emails": [
+                            "mnipper@aberdeenwa.gov"
+                        ],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "local://5696d90d5b01.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:aberdeen/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.aberdeenwa.gov/275/City-Council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Joshua Francy",
+                        "other_names": [
+                            "joshua francy"
+                        ],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Ward 5",
+                            "Position 10"
+                        ],
+                        "phones": [
+                            "(360) 533-4100 ext. 2326"
+                        ],
+                        "emails": [
+                            "jfrancy@aberdeenwa.gov"
+                        ],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "local://7537f8d35f81.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:aberdeen/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.aberdeenwa.gov/275/City-Council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "John Shaw",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Ward 6",
+                            "Position 11"
+                        ],
+                        "phones": [
+                            "(360) 533-4100 ext. 7207"
+                        ],
+                        "emails": [
+                            "jtshaw@aberdeenwa.gov"
+                        ],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "local://4f7340d9546f.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:aberdeen/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.aberdeenwa.gov/275/City-Council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Sydney Swor",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Ward 6",
+                            "Position 12"
+                        ],
+                        "phones": [
+                            "(360) 533-4100 ext. 7206"
+                        ],
+                        "emails": [
+                            "sswor@aberdeenwa.gov"
+                        ],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "local://dad7a4a57584.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:aberdeen/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.aberdeenwa.gov/275/City-Council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Douglas Orr",
+                        "other_names": [],
+                        "roles": [
+                            "mayor"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(360) 537-3227"
+                        ],
+                        "emails": [
+                            "dorr@aberdeenwa.gov"
+                        ],
+                        "urls": [
+                            "https://www.aberdeenwa.gov/367/Mayor-Orr"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "local://40f48fbfcf18.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:aberdeen/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.aberdeenwa.gov/367/Mayor-Orr"
+                        ],
+                        "updated_at": ""
+                    }
+                ]
+            },
+            "unrecognized_roles": [],
+            "excluded_people": []
+        },
+        "merge_records_across_llms_step": {
+            "people": [
+                {
+                    "name": "Douglas Orr",
+                    "other_names": [],
+                    "roles": [
+                        "mayor"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(360) 537-3227"
+                    ],
+                    "emails": [
+                        "dorr@aberdeenwa.gov"
+                    ],
+                    "urls": [
+                        "https://www.aberdeenwa.gov/367/Mayor-Orr"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "local://40f48fbfcf18.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:aberdeen/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.aberdeenwa.gov/367/Mayor-Orr"
+                    ],
+                    "updated_at": "2026-07-28T00:36:26+00:00"
+                },
+                {
+                    "name": "Melvin Taylor",
+                    "other_names": [
+                        "Melvin taylor"
+                    ],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 1",
+                        "ward 1"
+                    ],
+                    "phones": [
+                        "(360) 533-4100 ext. 7201"
+                    ],
+                    "emails": [
+                        "mtaylor@aberdeenwa.gov"
+                    ],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "local://5cd34e867f3a.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:aberdeen/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.aberdeenwa.gov/275/City-Council"
+                    ],
+                    "updated_at": "2026-07-28T00:36:26+00:00"
+                },
+                {
+                    "name": "Deb Wilson",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 2",
+                        "ward 1"
+                    ],
+                    "phones": [
+                        "(360) 533-4100 ext. 2318"
+                    ],
+                    "emails": [
+                        "dwilson@aberdeenwa.gov"
+                    ],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "local://f0eeed5a6eef.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:aberdeen/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.aberdeenwa.gov/275/City-Council"
+                    ],
+                    "updated_at": "2026-07-28T00:36:26+00:00"
+                },
+                {
+                    "name": "David Gakin",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "ward 2",
+                        "position 3"
+                    ],
+                    "phones": [
+                        "(360) 533-4100 ext. 7202"
+                    ],
+                    "emails": [
+                        "dgakin@aberdeenwa.gov"
+                    ],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "local://2186440f83e3.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:aberdeen/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.aberdeenwa.gov/275/City-Council"
+                    ],
+                    "updated_at": "2026-07-28T00:36:26+00:00"
+                },
+                {
+                    "name": "Jerry W. Rajcich",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 4",
+                        "ward 2"
+                    ],
+                    "phones": [
+                        "(360) 533-4100 ext. 2319"
+                    ],
+                    "emails": [
+                        "jrajcich@aberdeenwa.gov"
+                    ],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "local://b744b9c28377.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:aberdeen/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.aberdeenwa.gov/275/City-Council"
+                    ],
+                    "updated_at": "2026-07-28T00:36:26+00:00"
+                },
+                {
+                    "name": "Kevin moynihan",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "ward 3",
+                        "position 5"
+                    ],
+                    "phones": [
+                        "(360) 533-4100 ext. 2321"
+                    ],
+                    "emails": [
+                        "kmoynihan@aberdeenwa.gov"
+                    ],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "local://14404ef298d1.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:aberdeen/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.aberdeenwa.gov/275/City-Council"
+                    ],
+                    "updated_at": "2026-07-28T00:36:26+00:00"
+                },
+                {
+                    "name": "Scott Prato",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "ward 3",
+                        "position 6"
+                    ],
+                    "phones": [
+                        "(360) 533-4100 ext. 7203"
+                    ],
+                    "emails": [
+                        "sprato@aberdeenwa.gov"
+                    ],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "local://7c778d675f69.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:aberdeen/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.aberdeenwa.gov/275/City-Council"
+                    ],
+                    "updated_at": "2026-07-28T00:36:26+00:00"
+                },
+                {
+                    "name": "Carrie Hubbard",
+                    "other_names": [
+                        "CARRIE HUBBARD"
+                    ],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 7",
+                        "ward 4"
+                    ],
+                    "phones": [
+                        "(360) 533-4100 ext. 2324"
+                    ],
+                    "emails": [
+                        "cahubbard@aberdeenwa.gov"
+                    ],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "local://6f0279e3e3f9.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:aberdeen/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.aberdeenwa.gov/275/City-Council"
+                    ],
+                    "updated_at": "2026-07-28T00:36:26+00:00"
+                },
+                {
+                    "name": "Deb Hodgkin",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "ward 4",
+                        "position 8"
+                    ],
+                    "phones": [
+                        "(360) 533-4100 ext. 7204"
+                    ],
+                    "emails": [
+                        "dhodgkin@aberdeenwa.gov"
+                    ],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "local://b25460cbdaf3.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:aberdeen/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.aberdeenwa.gov/275/City-Council"
+                    ],
+                    "updated_at": "2026-07-28T00:36:26+00:00"
+                },
+                {
+                    "name": "michele nipper",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 9",
+                        "ward 5"
+                    ],
+                    "phones": [
+                        "(360) 533-4100 ext. 7208"
+                    ],
+                    "emails": [
+                        "mnipper@aberdeenwa.gov"
+                    ],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "local://5696d90d5b01.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:aberdeen/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.aberdeenwa.gov/275/City-Council"
+                    ],
+                    "updated_at": "2026-07-28T00:36:26+00:00"
+                },
+                {
+                    "name": "Joshua Francy",
+                    "other_names": [
+                        "joshua francy"
+                    ],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 10",
+                        "ward 5"
+                    ],
+                    "phones": [
+                        "(360) 533-4100 ext. 2326"
+                    ],
+                    "emails": [
+                        "jfrancy@aberdeenwa.gov"
+                    ],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "local://7537f8d35f81.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:aberdeen/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.aberdeenwa.gov/275/City-Council"
+                    ],
+                    "updated_at": "2026-07-28T00:36:26+00:00"
+                },
+                {
+                    "name": "John Shaw",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 11",
+                        "ward 6"
+                    ],
+                    "phones": [
+                        "(360) 533-4100 ext. 7207"
+                    ],
+                    "emails": [
+                        "jtshaw@aberdeenwa.gov"
+                    ],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "local://4f7340d9546f.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:aberdeen/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.aberdeenwa.gov/275/City-Council"
+                    ],
+                    "updated_at": "2026-07-28T00:36:26+00:00"
+                },
+                {
+                    "name": "Sydney Swor",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "position 12",
+                        "ward 6"
+                    ],
+                    "phones": [
+                        "(360) 533-4100 ext. 7206"
+                    ],
+                    "emails": [
+                        "sswor@aberdeenwa.gov"
+                    ],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "local://dad7a4a57584.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:aberdeen/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.aberdeenwa.gov/275/City-Council"
+                    ],
+                    "updated_at": "2026-07-28T00:36:26+00:00"
+                }
+            ]
+        },
+        "format_output_step": {
+            "officials": [
+                {
+                    "name": "Douglas Orr",
+                    "other_names": [],
+                    "phones": [
+                        "(360) 537-3227"
+                    ],
+                    "emails": [
+                        "dorr@aberdeenwa.gov"
+                    ],
+                    "urls": [
+                        "https://www.aberdeenwa.gov/367/Mayor-Orr"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Mayor",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:aberdeen"
+                    },
+                    "image": "https://www.aberdeenwa.gov/ImageRepository/Document?documentID=2232",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:aberdeen/government",
+                    "cdn_image": "local://40f48fbfcf18.png",
+                    "source_urls": [
+                        "https://www.aberdeenwa.gov/367/Mayor-Orr"
+                    ],
+                    "updated_at": "2026-07-28T00:36:26+00:00",
+                    "id": "7a75c974-0b4f-4ff2-a822-649128cdc69f"
+                },
+                {
+                    "name": "Melvin Taylor",
+                    "other_names": [
+                        "Melvin taylor"
+                    ],
+                    "phones": [
+                        "(360) 533-4100 ext. 7201"
+                    ],
+                    "emails": [
+                        "mtaylor@aberdeenwa.gov"
+                    ],
+                    "urls": [
+                        "https://www.aberdeenwa.gov/275/City-Council"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Position 1",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:aberdeen/ward:1"
+                    },
+                    "image": "https://www.aberdeenwa.gov/ImageRepository/Document?documentId=2876",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:aberdeen/government",
+                    "cdn_image": "local://5cd34e867f3a.png",
+                    "source_urls": [
+                        "https://www.aberdeenwa.gov/275/City-Council"
+                    ],
+                    "updated_at": "2026-07-28T00:36:26+00:00",
+                    "id": "7e12a022-b8e4-4fd2-95e5-ddd88e73b355"
+                },
+                {
+                    "name": "Deb Wilson",
+                    "other_names": [],
+                    "phones": [
+                        "(360) 533-4100 ext. 2318"
+                    ],
+                    "emails": [
+                        "dwilson@aberdeenwa.gov"
+                    ],
+                    "urls": [
+                        "https://www.aberdeenwa.gov/275/City-Council"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Position 2",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:aberdeen/ward:1"
+                    },
+                    "image": "https://www.aberdeenwa.gov/ImageRepository/Document?documentId=2869",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:aberdeen/government",
+                    "cdn_image": "local://f0eeed5a6eef.png",
+                    "source_urls": [
+                        "https://www.aberdeenwa.gov/275/City-Council"
+                    ],
+                    "updated_at": "2026-07-28T00:36:26+00:00",
+                    "id": "e9c60270-3b6d-49b8-8f65-c817b3afee99"
+                },
+                {
+                    "name": "David Gakin",
+                    "other_names": [],
+                    "phones": [
+                        "(360) 533-4100 ext. 7202"
+                    ],
+                    "emails": [
+                        "dgakin@aberdeenwa.gov"
+                    ],
+                    "urls": [
+                        "https://www.aberdeenwa.gov/275/City-Council"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Position 3",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:aberdeen/ward:2"
+                    },
+                    "image": "https://www.aberdeenwa.gov/ImageRepository/Document?documentId=2570",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:aberdeen/government",
+                    "cdn_image": "local://2186440f83e3.png",
+                    "source_urls": [
+                        "https://www.aberdeenwa.gov/275/City-Council"
+                    ],
+                    "updated_at": "2026-07-28T00:36:26+00:00",
+                    "id": "aefbae35-87bc-4a5a-a676-80e1986fb84e"
+                },
+                {
+                    "name": "Jerry W. Rajcich",
+                    "other_names": [],
+                    "phones": [
+                        "(360) 533-4100 ext. 2319"
+                    ],
+                    "emails": [
+                        "jrajcich@aberdeenwa.gov"
+                    ],
+                    "urls": [
+                        "https://www.aberdeenwa.gov/275/City-Council"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Position 4",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:aberdeen/ward:2"
+                    },
+                    "image": "https://www.aberdeenwa.gov/ImageRepository/Document?documentId=2870",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:aberdeen/government",
+                    "cdn_image": "local://b744b9c28377.png",
+                    "source_urls": [
+                        "https://www.aberdeenwa.gov/275/City-Council"
+                    ],
+                    "updated_at": "2026-07-28T00:36:26+00:00",
+                    "id": "9ce7dd53-65c9-4036-baef-769a702325dd"
+                },
+                {
+                    "name": "Kevin moynihan",
+                    "other_names": [],
+                    "phones": [
+                        "(360) 533-4100 ext. 2321"
+                    ],
+                    "emails": [
+                        "kmoynihan@aberdeenwa.gov"
+                    ],
+                    "urls": [
+                        "https://www.aberdeenwa.gov/275/City-Council"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Position 5",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:aberdeen/ward:3"
+                    },
+                    "image": "https://www.aberdeenwa.gov/ImageRepository/Document?documentId=2875",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:aberdeen/government",
+                    "cdn_image": "local://14404ef298d1.png",
+                    "source_urls": [
+                        "https://www.aberdeenwa.gov/275/City-Council"
+                    ],
+                    "updated_at": "2026-07-28T00:36:26+00:00",
+                    "id": "578da828-9aea-48b6-8ad3-ee94d8b0ed3f"
+                },
+                {
+                    "name": "Scott Prato",
+                    "other_names": [],
+                    "phones": [
+                        "(360) 533-4100 ext. 7203"
+                    ],
+                    "emails": [
+                        "sprato@aberdeenwa.gov"
+                    ],
+                    "urls": [
+                        "https://www.aberdeenwa.gov/275/City-Council"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Position 6",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:aberdeen/ward:3"
+                    },
+                    "image": "https://www.aberdeenwa.gov/ImageRepository/Document?documentId=2878",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:aberdeen/government",
+                    "cdn_image": "local://7c778d675f69.png",
+                    "source_urls": [
+                        "https://www.aberdeenwa.gov/275/City-Council"
+                    ],
+                    "updated_at": "2026-07-28T00:36:26+00:00",
+                    "id": "5beb3f7d-540b-4704-ac4e-d3577d23518b"
+                },
+                {
+                    "name": "Carrie Hubbard",
+                    "other_names": [
+                        "CARRIE HUBBARD"
+                    ],
+                    "phones": [
+                        "(360) 533-4100 ext. 2324"
+                    ],
+                    "emails": [
+                        "cahubbard@aberdeenwa.gov"
+                    ],
+                    "urls": [
+                        "https://www.aberdeenwa.gov/275/City-Council"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Position 7",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:aberdeen/ward:4"
+                    },
+                    "image": "https://www.aberdeenwa.gov/ImageRepository/Document?documentId=2561",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:aberdeen/government",
+                    "cdn_image": "local://6f0279e3e3f9.png",
+                    "source_urls": [
+                        "https://www.aberdeenwa.gov/275/City-Council"
+                    ],
+                    "updated_at": "2026-07-28T00:36:26+00:00",
+                    "id": "011a86b5-7292-4e39-a045-a630d9838a7c"
+                },
+                {
+                    "name": "Deb Hodgkin",
+                    "other_names": [],
+                    "phones": [
+                        "(360) 533-4100 ext. 7204"
+                    ],
+                    "emails": [
+                        "dhodgkin@aberdeenwa.gov"
+                    ],
+                    "urls": [
+                        "https://www.aberdeenwa.gov/275/City-Council"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Position 8",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:aberdeen/ward:4"
+                    },
+                    "image": "https://www.aberdeenwa.gov/ImageRepository/Document?documentId=2868",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:aberdeen/government",
+                    "cdn_image": "local://b25460cbdaf3.png",
+                    "source_urls": [
+                        "https://www.aberdeenwa.gov/275/City-Council"
+                    ],
+                    "updated_at": "2026-07-28T00:36:26+00:00",
+                    "id": "ddd68126-1a78-4160-b175-8f2f050fbc1c"
+                },
+                {
+                    "name": "michele nipper",
+                    "other_names": [],
+                    "phones": [
+                        "(360) 533-4100 ext. 7208"
+                    ],
+                    "emails": [
+                        "mnipper@aberdeenwa.gov"
+                    ],
+                    "urls": [
+                        "https://www.aberdeenwa.gov/275/City-Council"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Position 9",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:aberdeen/ward:5"
+                    },
+                    "image": "https://www.aberdeenwa.gov/ImageRepository/Document?documentId=2871",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:aberdeen/government",
+                    "cdn_image": "local://5696d90d5b01.png",
+                    "source_urls": [
+                        "https://www.aberdeenwa.gov/275/City-Council"
+                    ],
+                    "updated_at": "2026-07-28T00:36:26+00:00",
+                    "id": "2b0a8ec7-be64-48f8-a46d-e9e851d1d48e"
+                },
+                {
+                    "name": "Joshua Francy",
+                    "other_names": [
+                        "joshua francy"
+                    ],
+                    "phones": [
+                        "(360) 533-4100 ext. 2326"
+                    ],
+                    "emails": [
+                        "jfrancy@aberdeenwa.gov"
+                    ],
+                    "urls": [
+                        "https://www.aberdeenwa.gov/275/City-Council"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Position 10",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:aberdeen/ward:5"
+                    },
+                    "image": "https://www.aberdeenwa.gov/ImageRepository/Document?documentId=2572",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:aberdeen/government",
+                    "cdn_image": "local://7537f8d35f81.png",
+                    "source_urls": [
+                        "https://www.aberdeenwa.gov/275/City-Council"
+                    ],
+                    "updated_at": "2026-07-28T00:36:26+00:00",
+                    "id": "7eff395c-8920-4569-b483-a3b050804973"
+                },
+                {
+                    "name": "John Shaw",
+                    "other_names": [],
+                    "phones": [
+                        "(360) 533-4100 ext. 7207"
+                    ],
+                    "emails": [
+                        "jtshaw@aberdeenwa.gov"
+                    ],
+                    "urls": [
+                        "https://www.aberdeenwa.gov/275/City-Council"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Position 11",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:aberdeen/ward:6"
+                    },
+                    "image": "https://www.aberdeenwa.gov/ImageRepository/Document?documentId=2873",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:aberdeen/government",
+                    "cdn_image": "local://4f7340d9546f.png",
+                    "source_urls": [
+                        "https://www.aberdeenwa.gov/275/City-Council"
+                    ],
+                    "updated_at": "2026-07-28T00:36:26+00:00",
+                    "id": "568ee7f1-d33e-418d-b169-1ded392b9938"
+                },
+                {
+                    "name": "Sydney Swor",
+                    "other_names": [],
+                    "phones": [
+                        "(360) 533-4100 ext. 7206"
+                    ],
+                    "emails": [
+                        "sswor@aberdeenwa.gov"
+                    ],
+                    "urls": [
+                        "https://www.aberdeenwa.gov/275/City-Council"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - Position 12",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:aberdeen/ward:6"
+                    },
+                    "image": "https://www.aberdeenwa.gov/ImageRepository/Document?documentId=2872",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:aberdeen/government",
+                    "cdn_image": "local://dad7a4a57584.png",
+                    "source_urls": [
+                        "https://www.aberdeenwa.gov/275/City-Council"
+                    ],
+                    "updated_at": "2026-07-28T00:36:26+00:00",
+                    "id": "47801a3c-0de5-4e82-a7d6-122fff6d3589"
+                }
+            ]
+        },
+        "review_output_step": {
+            "issues": [
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: David Lawrence",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: Debi Pieraccini",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: John Maki",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: Kacey Morrison",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: Liz Ellis",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "extra_official",
+                    "message": "Extra official: Deb Wilson",
+                    "person_ids": [
+                        "e9c60270-3b6d-49b8-8f65-c817b3afee99"
+                    ],
+                    "field": null
+                },
+                {
+                    "code": "extra_official",
+                    "message": "Extra official: Jerry W. Rajcich",
+                    "person_ids": [
+                        "9ce7dd53-65c9-4036-baef-769a702325dd"
+                    ],
+                    "field": null
+                },
+                {
+                    "code": "extra_official",
+                    "message": "Extra official: Kevin moynihan",
+                    "person_ids": [
+                        "578da828-9aea-48b6-8ad3-ee94d8b0ed3f"
+                    ],
+                    "field": null
+                },
+                {
+                    "code": "extra_official",
+                    "message": "Extra official: michele nipper",
+                    "person_ids": [
+                        "2b0a8ec7-be64-48f8-a46d-e9e851d1d48e"
+                    ],
+                    "field": null
+                },
+                {
+                    "code": "extra_official",
+                    "message": "Extra official: John Shaw",
+                    "person_ids": [
+                        "568ee7f1-d33e-418d-b169-1ded392b9938"
+                    ],
+                    "field": null
+                }
+            ],
+            "people_by_source": [
+                {
+                    "name": "Carrie Hubbard",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "David Gakin",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "David Lawrence",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Deb Hodgkin",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Deb Wilson",
+                    "in_research": false,
+                    "in_data": true
+                },
+                {
+                    "name": "Debi Pieraccini",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Douglas Orr",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Jerry W. Rajcich",
+                    "in_research": false,
+                    "in_data": true
+                },
+                {
+                    "name": "John Maki",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "John Shaw",
+                    "in_research": false,
+                    "in_data": true
+                },
+                {
+                    "name": "Joshua Francy",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Kacey Morrison",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Kevin moynihan",
+                    "in_research": false,
+                    "in_data": true
+                },
+                {
+                    "name": "Liz Ellis",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Melvin Taylor",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Scott Prato",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Sydney Swor",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "michele nipper",
+                    "in_research": false,
+                    "in_data": true
+                }
+            ],
+            "origin_source": "existing"
+        },
+        "find_jurisdiction_url_step": null,
+        "send_success_step": null,
+        "send_error_step": null,
+        "issues": [],
+        "error_step": null,
+        "error_detail": null
+    },
+    "current_state": "SEND_SUCCESS",
+    "request_id": "189fc109-fff8-489c-bcdd-be109a90e8fb",
+    "created_at": 1785198845.6559353,
+    "updated_at": 1785198986.5207577,
+    "progress": 97
+}
