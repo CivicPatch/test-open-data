@@ -908,7 +908,7 @@ jurisdictions:
   wiki_url: https://en.wikipedia.org/wiki/Midland,_North_Carolina
 - id: ocd-jurisdiction/country:us/state:nc/place:ahoskie/government
   name: Ahoskie town
-  url: https://www.ahoskienc.gov
+  url: https://www.ahoskienctest.gov
   population: 4764
   geoid: '3700500'
   wiki_url: https://en.wikipedia.org/wiki/Ahoskie,_North_Carolina
