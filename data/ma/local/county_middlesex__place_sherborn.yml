@@ -1,0 +1,105 @@
+- name: Steven L. Tsai
+  other_names: []
+  phones:
+  - (508) 651-7850 ext. 1
+  emails:
+  - steven.tsai@sherbornma.org
+  urls:
+  - https://www.sherbornma.org/Directory.aspx?EID=81
+  start_date: null
+  end_date: null
+  office:
+    name: Select Board Chair
+    division_ocdid: ocd-division/country:us/state:ma/county:middlesex/place:sherborn
+  image: ''
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ma/county:middlesex/place:sherborn/government
+  cdn_image: ''
+  source_urls:
+  - https://www.sherbornma.org/307/Select-Board
+  - https://www.sherbornma.org/Directory.aspx?did=9
+  updated_at: '2026-08-05T02:04:14+00:00'
+  id: 3f597c7d-ef11-451d-8b00-1bbc1640ff0e
+- name: Dan Sichel
+  other_names: []
+  phones:
+  - (508) 651-7850 ext. 1
+  emails:
+  - dsichel@sherbornma.org
+  urls:
+  - https://www.sherbornma.org/directory.aspx?EID=146
+  start_date: null
+  end_date: null
+  office:
+    name: Select Board Clerk - Select Board Vice Chair
+    division_ocdid: ocd-division/country:us/state:ma/county:middlesex/place:sherborn
+  image: ''
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ma/county:middlesex/place:sherborn/government
+  cdn_image: ''
+  source_urls:
+  - https://www.sherbornma.org/307/Select-Board
+  - https://www.sherbornma.org/Directory.aspx?did=9
+  updated_at: '2026-08-05T02:04:14+00:00'
+  id: 5dffd858-5dcc-489d-ae1e-816b77ce2f3c
+- name: Marian Neutra
+  other_names: []
+  phones:
+  - (508) 651-7850 ext. 1
+  emails:
+  - marian.neutra@sherbornma.org
+  urls:
+  - https://www.sherbornma.org/Directory.aspx?EID=83
+  start_date: null
+  end_date: null
+  office:
+    name: Select Board Member - Select Board Vice Chair
+    division_ocdid: ocd-division/country:us/state:ma/county:middlesex/place:sherborn
+  image: ''
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ma/county:middlesex/place:sherborn/government
+  cdn_image: ''
+  source_urls:
+  - https://www.sherbornma.org/307/Select-Board
+  - https://www.sherbornma.org/Directory.aspx?did=9
+  updated_at: '2026-08-05T02:04:14+00:00'
+  id: 81e7ff44-1574-4359-bd16-b4bd84cc9019
+- name: Jeff Waldron
+  other_names: []
+  phones:
+  - (508) 651-7850 ext. 1
+  emails:
+  - jwaldron@sherbornma.org
+  urls:
+  - https://www.sherbornma.org/directory.aspx?EID=79
+  start_date: null
+  end_date: null
+  office:
+    name: Select Board Member - Select Board Clerk
+    division_ocdid: ocd-division/country:us/state:ma/county:middlesex/place:sherborn
+  image: ''
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ma/county:middlesex/place:sherborn/government
+  cdn_image: ''
+  source_urls:
+  - https://www.sherbornma.org/307/Select-Board
+  - https://www.sherbornma.org/Directory.aspx?did=9
+  updated_at: '2026-08-05T02:04:14+00:00'
+  id: e7113180-45d6-4cae-b243-c7a4e8eb1b84
+- name: Paul DeRensis
+  other_names: []
+  phones:
+  - (508) 651-7850 ext. 1
+  emails:
+  - paul.derensis@sherbornma.org
+  urls:
+  - https://www.sherbornma.org/directory.aspx?EID=82
+  start_date: null
+  end_date: null
+  office:
+    name: Select Board Member
+    division_ocdid: ocd-division/country:us/state:ma/county:middlesex/place:sherborn
+  image: ''
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ma/county:middlesex/place:sherborn/government
+  cdn_image: ''
+  source_urls:
+  - https://www.sherbornma.org/307/Select-Board
+  - https://www.sherbornma.org/Directory.aspx?did=9
+  updated_at: '2026-08-05T02:04:14+00:00'
+  id: 55d52e31-78f2-457c-986e-4c9075f6de29
