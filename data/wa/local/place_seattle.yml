@@ -5,44 +5,40 @@
   image: https://www.seattle.gov/images//images/Council/Citywide%20Circle%20Headshots/council_rinck_154x154.jpg
   emails:
   - alexismercedes.rinck@seattle.gov
-  - council@seattle.gov
   office:
-    name: Councilmember Position 8 - Council Member Position 8 (Citywide, Representing All of Seattle)
+    name: Council Member - Position 8 - At-Large
     division_ocdid: ocd-division/country:us/state:wa/place:seattle
   phones:
-  - (206) 684-8888
   - (206) 684-8808
   end_date: null
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/local/place_seattle/images/450881687033.png
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/ba6c06e5-60f2-4ac8-96f0-d39c164403e8/data_source/wa/local/place_seattle/images/450881687033.png
   start_date: null
-  updated_at: '2026-08-17T19:09:59+00:00'
+  updated_at: '2026-04-28T04:03:03+00:00'
   other_names: []
   source_urls:
-  - https://www.seattle.gov/council/members/alexis-mercedes-rinck
   - https://www.seattle.gov/council
+  - https://www.seattle.gov/council/members/alexis-mercedes-rinck
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:seattle/government
 - id: 115ba33c-930d-4e88-a817-6be801b2b1d1
   name: Debora Juarez
   urls:
-  - https://www.seattle.gov/council/members/debora-juarez
+  - https://seattle.gov/council/members/debora-juarez
   image: https://www.seattle.gov/images//images/Council/Citywide%20Circle%20Headshots/council_juarez_154x154.jpg
   emails:
   - debora.juarez@seattle.gov
-  - council@seattle.gov
   office:
-    name: Council Member District 5 - Councilmember District 5
+    name: Council Member
     division_ocdid: ocd-division/country:us/state:wa/place:seattle/council_district:5
   phones:
   - (206) 684-8805
-  - (206) 684-8888
   end_date: null
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/local/place_seattle/images/1eb061401e8f.png
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/ba6c06e5-60f2-4ac8-96f0-d39c164403e8/data_source/wa/local/place_seattle/images/1eb061401e8f.png
   start_date: null
-  updated_at: '2026-08-17T19:09:59+00:00'
+  updated_at: '2026-04-28T04:03:03+00:00'
   other_names: []
   source_urls:
-  - https://www.seattle.gov/council/members/debora-juarez
   - https://www.seattle.gov/council
+  - https://www.seattle.gov/council/members/debora-juarez
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:seattle/government
 - id: a8696c8e-09ed-4593-8144-87844cf4ca1c
   name: Dionne Foster
@@ -51,21 +47,19 @@
   image: https://www.seattle.gov/images//images/Council/Citywide%20Circle%20Headshots/council-foster_154x154.jpg
   emails:
   - dionne.foster@seattle.gov
-  - council@seattle.gov
   office:
-    name: Councilmember Position 9 (Citywide, Representing All of Seattle) - Councilmember Position 9
+    name: Council Member - At-Large - Position 9
     division_ocdid: ocd-division/country:us/state:wa/place:seattle
   phones:
-  - (206) 684-8888
   - (206) 684-8809
   end_date: null
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/local/place_seattle/images/e416c1f5b909.png
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/ba6c06e5-60f2-4ac8-96f0-d39c164403e8/data_source/wa/local/place_seattle/images/e416c1f5b909.png
   start_date: null
-  updated_at: '2026-08-17T19:09:59+00:00'
+  updated_at: '2026-04-28T04:03:03+00:00'
   other_names: []
   source_urls:
-  - https://www.seattle.gov/council/members/dionne-foster
   - https://www.seattle.gov/council
+  - https://www.seattle.gov/council/members/dionne-foster
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:seattle/government
 - id: 585f649c-2e6c-4404-9af8-0a4daacb1086
   name: Dan Strauss
@@ -74,17 +68,15 @@
   image: https://www.seattle.gov/images//images/Council/Citywide%20Circle%20Headshots/council_struass_circle.jpg
   emails:
   - dan.strauss@seattle.gov
-  - council@seattle.gov
   office:
-    name: Councilmember District 6 - Council Member District 6
+    name: Council Member
     division_ocdid: ocd-division/country:us/state:wa/place:seattle/council_district:6
   phones:
-  - (206) 684-8888
   - (206) 684-8806
   end_date: null
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/local/place_seattle/images/bcee73743e70.png
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/ba6c06e5-60f2-4ac8-96f0-d39c164403e8/data_source/wa/local/place_seattle/images/bcee73743e70.png
   start_date: null
-  updated_at: '2026-08-17T19:09:59+00:00'
+  updated_at: '2026-04-28T04:03:03+00:00'
   other_names: []
   source_urls:
   - https://www.seattle.gov/council/members/dan-strauss
@@ -96,69 +88,63 @@
   - https://www.seattle.gov/council/members/bob-kettle
   image: https://www.seattle.gov/images//images/Council/Citywide%20Circle%20Headshots/council_kettle_circle.jpg
   emails:
-  - council@seattle.gov
   - robert.kettle@seattle.gov
   office:
-    name: Councilmember District 7
+    name: Council Member
     division_ocdid: ocd-division/country:us/state:wa/place:seattle/council_district:7
   phones:
   - (206) 684-8807
-  - (206) 684-8888
   end_date: null
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/local/place_seattle/images/f580e51d678b.png
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/ba6c06e5-60f2-4ac8-96f0-d39c164403e8/data_source/wa/local/place_seattle/images/f580e51d678b.png
   start_date: null
-  updated_at: '2026-08-17T19:09:59+00:00'
+  updated_at: '2026-04-28T04:03:03+00:00'
   other_names:
   - Robert Kettle
   source_urls:
-  - https://www.seattle.gov/council/members/bob-kettle
   - https://www.seattle.gov/council
+  - https://www.seattle.gov/council/members/bob-kettle
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:seattle/government
 - id: bedd6a23-e078-4eac-9bbb-6cf1355ac0cf
   name: Joy Hollingsworth
   urls:
-  - https://www.seattle.gov/council/members/joy-hollingsworth
+  - https://seattle.gov/council/members/joy-hollingsworth
   image: https://www.seattle.gov/images//images/Council/Citywide%20Circle%20Headshots/council_hollingsworth_circle.jpg
   emails:
-  - council@seattle.gov
   - joy.hollingsworth@seattle.gov
   office:
-    name: Council Member District 3 (Central Seattle) - Council President District 3
+    name: Council Member - Council President
     division_ocdid: ocd-division/country:us/state:wa/place:seattle/council_district:3
   phones:
   - (206) 684-8803
-  - (206) 684-8888
   end_date: null
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/local/place_seattle/images/3fffe111ac1a.png
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/ba6c06e5-60f2-4ac8-96f0-d39c164403e8/data_source/wa/local/place_seattle/images/3fffe111ac1a.png
   start_date: null
-  updated_at: '2026-08-17T19:09:59+00:00'
+  updated_at: '2026-04-28T04:03:03+00:00'
   other_names: []
   source_urls:
-  - https://www.seattle.gov/council/members/joy-hollingsworth
   - https://www.seattle.gov/council
+  - https://www.seattle.gov/council/members/joy-hollingsworth
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:seattle/government
 - id: 0ae9e2a1-58a9-4003-95bf-144eeb2a18c7
   name: Rob Saka
   urls:
-  - https://www.seattle.gov/council/members/rob-saka
+  - https://seattle.gov/council/members/rob-saka
   image: https://www.seattle.gov/images//images/Council/Citywide%20Circle%20Headshots/council_saka_circle.jpg
   emails:
-  - council@seattle.gov
   - rob.saka@seattle.gov
   office:
-    name: Councilmember District 1
+    name: Council Member
     division_ocdid: ocd-division/country:us/state:wa/place:seattle/council_district:1
   phones:
   - (206) 684-8801
-  - (206) 684-8888
   end_date: null
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/local/place_seattle/images/44109d69c9ec.png
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/ba6c06e5-60f2-4ac8-96f0-d39c164403e8/data_source/wa/local/place_seattle/images/44109d69c9ec.png
   start_date: null
-  updated_at: '2026-08-17T19:09:59+00:00'
+  updated_at: '2026-04-28T04:03:03+00:00'
   other_names: []
   source_urls:
-  - https://www.seattle.gov/council/members/rob-saka
   - https://www.seattle.gov/council
+  - https://www.seattle.gov/council/members/rob-saka
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:seattle/government
 - id: e8805823-9084-4ae9-b479-c88f167a36b6
   name: Eddie Lin
@@ -167,17 +153,15 @@
   image: https://www.seattle.gov/images//images/Council/Citywide%20Circle%20Headshots/council-lin_154x154.jpg
   emails:
   - eddie.lin@seattle.gov
-  - council@seattle.gov
   office:
-    name: Councilmember District 2 - Council Member District 2
+    name: Council Member
     division_ocdid: ocd-division/country:us/state:wa/place:seattle/council_district:2
   phones:
-  - (206) 684-8888
   - (206) 684-8802
   end_date: null
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/local/place_seattle/images/e29141ee0a77.png
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/ba6c06e5-60f2-4ac8-96f0-d39c164403e8/data_source/wa/local/place_seattle/images/e29141ee0a77.png
   start_date: null
-  updated_at: '2026-08-17T19:09:59+00:00'
+  updated_at: '2026-04-28T04:03:03+00:00'
   other_names: []
   source_urls:
   - https://www.seattle.gov/council/members/eddie-lin
@@ -186,31 +170,29 @@
 - id: f6950dea-05b3-435e-91d7-b69353ac3113
   name: Maritza Rivera
   urls:
-  - https://www.seattle.gov/council/members/maritza-rivera
+  - https://seattle.gov/council/members/maritza-rivera
   image: https://www.seattle.gov/images//images/Council/Citywide%20Circle%20Headshots/council_rivera_circle.jpg
   emails:
   - maritza.rivera@seattle.gov
-  - council@seattle.gov
   office:
-    name: Councilmember District 4 - Council Member District 4
+    name: Council Member
     division_ocdid: ocd-division/country:us/state:wa/place:seattle/council_district:4
   phones:
-  - (206) 684-8888
   - (206) 684-8804
   end_date: null
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/local/place_seattle/images/6f719fad59e2.png
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/ba6c06e5-60f2-4ac8-96f0-d39c164403e8/data_source/wa/local/place_seattle/images/6f719fad59e2.png
   start_date: null
-  updated_at: '2026-08-17T19:09:59+00:00'
+  updated_at: '2026-04-28T04:03:03+00:00'
   other_names: []
   source_urls:
-  - https://www.seattle.gov/council/members/maritza-rivera
   - https://www.seattle.gov/council
+  - https://www.seattle.gov/council/members/maritza-rivera
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:seattle/government
 - id: cdec31d6-c02b-4d2a-8682-12092afd9b94
   name: Katie Wilson
   urls:
-  - https://www.seattle.gov/mayor
-  image: https://www.seattle.gov/images/MayorWilson/Katie-Wilson-Headshot-250x250.jpg
+  - https://seattle.gov/mayor
+  image: https://seattle.gov/images//images/MayorWilson/CitywideHomePage/mayor_wilson_citywide_154x154.jpg
   emails: []
   office:
     name: Mayor
@@ -218,11 +200,12 @@
   phones:
   - (206) 684-4000
   end_date: null
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/local/place_seattle/images/3aee7dcbb286.png
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/ba6c06e5-60f2-4ac8-96f0-d39c164403e8/data_source/wa/local/place_seattle/images/74ffed2a5bc1.png
   start_date: null
-  updated_at: '2026-08-17T19:09:59+00:00'
+  updated_at: '2026-04-28T04:03:03+00:00'
   other_names:
   - Katie B. Wilson
   source_urls:
-  - https://www.seattle.gov/mayor
+  - https://seattle.gov/mayor
+  - https://seattle.gov/elected-officials
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:seattle/government
