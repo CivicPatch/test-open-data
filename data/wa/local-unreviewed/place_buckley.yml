@@ -1,0 +1,133 @@
+- id: cbfdf64a-faf8-4a45-a41f-a5d8cf4c4504
+  name: Ron Smith
+  urls:
+  - https://www.cityofbuckley.com/250/City-Council
+  image: https://www.cityofbuckley.com/ImageRepository/Document?documentID=519
+  emails:
+  - rsmith@cityofbuckley.com
+  office:
+    name: Council Member
+    division_ocdid: ocd-division/country:us/state:wa/place:buckley
+  phones: []
+  end_date: null
+  cdn_image: https://civicpatch-artifacts-nonprod.civicpatch.org/6c210ea5-8219-413a-8c81-72139dd11005/data_source/wa/local/place_buckley/images/7cdbcbead85a.png
+  start_date: null
+  updated_at: '2026-08-22T04:34:20+00:00'
+  other_names: []
+  source_urls:
+  - https://www.cityofbuckley.com/250/City-Council
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:buckley/government
+- id: ad962654-866f-4eeb-89d6-78a8dc2c4aef
+  name: Robert Wohlfeil
+  urls:
+  - https://www.cityofbuckley.com/250/City-Council
+  image: https://www.cityofbuckley.com/ImageRepository/Document?documentID=1463
+  emails:
+  - rwohlfeil@cityofbuckley.com
+  office:
+    name: Council Member
+    division_ocdid: ocd-division/country:us/state:wa/place:buckley
+  phones: []
+  end_date: null
+  cdn_image: https://civicpatch-artifacts-nonprod.civicpatch.org/6c210ea5-8219-413a-8c81-72139dd11005/data_source/wa/local/place_buckley/images/7a155c1fe261.png
+  start_date: null
+  updated_at: '2026-08-22T04:34:20+00:00'
+  other_names: []
+  source_urls:
+  - https://www.cityofbuckley.com/250/City-Council
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:buckley/government
+- id: ff3f83ac-d0d2-4a3b-827b-dababbdf2633
+  name: Angelisa Mozzone
+  urls:
+  - https://www.cityofbuckley.com/250/City-Council
+  image: https://www.cityofbuckley.com/ImageRepository/Document?documentID=1558
+  emails:
+  - amozzone@cityofbuckley.com
+  office:
+    name: Council Member
+    division_ocdid: ocd-division/country:us/state:wa/place:buckley
+  phones: []
+  end_date: null
+  cdn_image: https://civicpatch-artifacts-nonprod.civicpatch.org/6c210ea5-8219-413a-8c81-72139dd11005/data_source/wa/local/place_buckley/images/c517294c2302.png
+  start_date: null
+  updated_at: '2026-08-22T04:34:20+00:00'
+  other_names: []
+  source_urls:
+  - https://www.cityofbuckley.com/250/City-Council
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:buckley/government
+- id: 9457a567-b16f-40ab-8c2d-d98a6960156d
+  name: Kenny Arsanto
+  urls:
+  - https://www.cityofbuckley.com/250/City-Council
+  image: https://www.cityofbuckley.com/ImageRepository/Document?documentID=1142
+  emails:
+  - karsanto@cityofbuckley.com
+  office:
+    name: Council Member
+    division_ocdid: ocd-division/country:us/state:wa/place:buckley
+  phones: []
+  end_date: null
+  cdn_image: https://civicpatch-artifacts-nonprod.civicpatch.org/6c210ea5-8219-413a-8c81-72139dd11005/data_source/wa/local/place_buckley/images/d959825dfb68.png
+  start_date: null
+  updated_at: '2026-08-22T04:34:20+00:00'
+  other_names: []
+  source_urls:
+  - https://www.cityofbuckley.com/250/City-Council
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:buckley/government
+- id: 3640ea54-1ce5-4bd9-b990-b9c87d18718a
+  name: Amanda Burbank
+  urls:
+  - https://www.cityofbuckley.com/250/City-Council
+  image: https://www.cityofbuckley.com/ImageRepository/Document?documentID=1140
+  emails:
+  - aburbank@cityofbuckley.com
+  office:
+    name: Council Member
+    division_ocdid: ocd-division/country:us/state:wa/place:buckley
+  phones: []
+  end_date: null
+  cdn_image: https://civicpatch-artifacts-nonprod.civicpatch.org/6c210ea5-8219-413a-8c81-72139dd11005/data_source/wa/local/place_buckley/images/bdae26f2eaad.png
+  start_date: null
+  updated_at: '2026-08-22T04:34:20+00:00'
+  other_names: []
+  source_urls:
+  - https://www.cityofbuckley.com/250/City-Council
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:buckley/government
+- id: 313c72fa-66e4-4f7a-a913-a68224f3fb5e
+  name: Denice Bergerson
+  urls:
+  - https://www.cityofbuckley.com/250/City-Council
+  image: https://www.cityofbuckley.com/ImageRepository/Document?documentID=1134
+  emails:
+  - dbergerson@cityofbuckley.com
+  office:
+    name: Council Member
+    division_ocdid: ocd-division/country:us/state:wa/place:buckley
+  phones: []
+  end_date: null
+  cdn_image: https://civicpatch-artifacts-nonprod.civicpatch.org/6c210ea5-8219-413a-8c81-72139dd11005/data_source/wa/local/place_buckley/images/c93e3a3b9af9.png
+  start_date: null
+  updated_at: '2026-08-22T04:34:20+00:00'
+  other_names: []
+  source_urls:
+  - https://www.cityofbuckley.com/250/City-Council
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:buckley/government
+- id: 82943a84-3cb9-4933-825c-6e700ecf4849
+  name: Brandon Green
+  urls:
+  - https://www.cityofbuckley.com/250/City-Council
+  image: https://www.cityofbuckley.com/ImageRepository/Document?documentID=1136
+  emails:
+  - bgreen@cityofbuckley.com
+  office:
+    name: Council Member
+    division_ocdid: ocd-division/country:us/state:wa/place:buckley
+  phones: []
+  end_date: null
+  cdn_image: https://civicpatch-artifacts-nonprod.civicpatch.org/6c210ea5-8219-413a-8c81-72139dd11005/data_source/wa/local/place_buckley/images/db12480c8a22.png
+  start_date: null
+  updated_at: '2026-08-22T04:34:20+00:00'
+  other_names: []
+  source_urls:
+  - https://www.cityofbuckley.com/250/City-Council
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:buckley/government
