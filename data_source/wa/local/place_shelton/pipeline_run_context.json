@@ -1,0 +1,1962 @@
+{
+    "data": {
+        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:shelton/government",
+        "config": {
+            "url": "https://sheltonwa.gov",
+            "name": "Shelton city",
+            "source_urls": null
+        },
+        "frontier": {
+            "links": {
+                "https://sheltonwa.gov": {
+                    "url": "https://sheltonwa.gov",
+                    "status": "processed_irrelevant",
+                    "folder_name": "sheltonwa_gov",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 1
+                },
+                "https://sheltonwa.gov/government/city_council/mayor_eric_onisko.php": {
+                    "url": "https://sheltonwa.gov/government/city_council/mayor_eric_onisko.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/government/city_council/index.php": {
+                    "url": "https://sheltonwa.gov/government/city_council/index.php",
+                    "status": "done",
+                    "folder_name": "sheltonwa_gov_government_city_council_index_php",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 2
+                },
+                "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_george_blush.php": {
+                    "url": "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_george_blush.php",
+                    "status": "done",
+                    "folder_name": "sheltonwa_gov_government_city_council_city_council_members_councilmember_george_blush_php",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 4
+                },
+                "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_melissa_stearns.php": {
+                    "url": "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_melissa_stearns.php",
+                    "status": "done",
+                    "folder_name": "sheltonwa_gov_government_city_council_city_council_members_councilmember_melissa_stearns_php",
+                    "num_references": 6,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 5
+                },
+                "https://sheltonwa.gov/government/city_council/city_council_members/deputy_mayor_sharon_schirman.php": {
+                    "url": "https://sheltonwa.gov/government/city_council/city_council_members/deputy_mayor_sharon_schirman.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_tom_gilmore.php": {
+                    "url": "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_tom_gilmore.php",
+                    "status": "done",
+                    "folder_name": "sheltonwa_gov_government_city_council_city_council_members_councilmember_tom_gilmore_php",
+                    "num_references": 8,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 6
+                },
+                "https://sheltonwa.gov/index.php": {
+                    "url": "https://sheltonwa.gov/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:index",
+                    "text": "Home",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/government/index.php": {
+                    "url": "https://sheltonwa.gov/government/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 9,
+                    "comment": "heuristic backfill: keyword:government",
+                    "text": "Government",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/government/city_manager/index.php": {
+                    "url": "https://sheltonwa.gov/government/city_manager/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 5,
+                    "comment": "heuristic backfill: keyword:government, role:city",
+                    "text": "City Manager",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/government/city_manager/city_clerk/index.php": {
+                    "url": "https://sheltonwa.gov/government/city_manager/city_clerk/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 4,
+                    "comment": "heuristic backfill: keyword:government, role:city",
+                    "text": "City Clerk",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/government/city_manager/communications/index.php": {
+                    "url": "https://sheltonwa.gov/government/city_manager/communications/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:government, role:city",
+                    "text": "Communications",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/government/city_manager/interlocal_agreements/index.php": {
+                    "url": "https://sheltonwa.gov/government/city_manager/interlocal_agreements/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:government, role:city",
+                    "text": "Interlocal Agreements",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/government/city_council/city_council_members/index.php": {
+                    "url": "https://sheltonwa.gov/government/city_council/city_council_members/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 9,
+                    "comment": "heuristic backfill: keyword:government, role:city, designation:council",
+                    "text": "City Council Members",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/government/city_council/meeting_agendas_packets_minutes_and_videos_2016_2022.php": {
+                    "url": "https://sheltonwa.gov/government/city_council/meeting_agendas_packets_minutes_and_videos_2016_2022.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 6,
+                    "comment": "heuristic backfill: keyword:government, role:city, designation:council",
+                    "text": "Meeting Agendas, Packets, Minutes and Videos (2020 - Present)",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/government/city_council/strategic_goals.php": {
+                    "url": "https://sheltonwa.gov/government/city_council/strategic_goals.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 6,
+                    "comment": "heuristic backfill: keyword:government, role:city, designation:council",
+                    "text": "Strategic Goals",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/government/city_council/joining_a_hybrid_meeting.php": {
+                    "url": "https://sheltonwa.gov/government/city_council/joining_a_hybrid_meeting.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 6,
+                    "comment": "heuristic backfill: keyword:government, role:city, designation:council",
+                    "text": "Joining a Hybrid Meeting",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/government/city_council/shelton_metropolitan_park_district_(smpd": {
+                    "url": "https://sheltonwa.gov/government/city_council/shelton_metropolitan_park_district_(smpd",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:government, role:city, designation:council",
+                    "text": "Shelton Metropolitan Park District (SMPD)",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/government/municipal_court/index.php": {
+                    "url": "https://sheltonwa.gov/government/municipal_court/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 5,
+                    "comment": "heuristic backfill: keyword:government",
+                    "text": "Municipal Court",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/government/municipal_court/criminal_offenses/index.php": {
+                    "url": "https://sheltonwa.gov/government/municipal_court/criminal_offenses/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:government",
+                    "text": "Criminal Offenses",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/government/municipal_court/infractions_-_electronic_hearing_instructions___forms/index.php": {
+                    "url": "https://sheltonwa.gov/government/municipal_court/infractions_-_electronic_hearing_instructions___forms/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:government",
+                    "text": "Infractions",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/government/municipal_court/forms_records_requests___requests_for_ada_accommodation.php": {
+                    "url": "https://sheltonwa.gov/government/municipal_court/forms_records_requests___requests_for_ada_accommodation.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:government",
+                    "text": "Court Forms",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/government/municipal_court/juror_information.php": {
+                    "url": "https://sheltonwa.gov/government/municipal_court/juror_information.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:government",
+                    "text": "Juror Information",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/government/departments/index.php": {
+                    "url": "https://sheltonwa.gov/government/departments/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 5,
+                    "comment": "heuristic backfill: keyword:government",
+                    "text": "Departments",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/government/departments/community_development/index.php": {
+                    "url": "https://sheltonwa.gov/government/departments/community_development/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:government",
+                    "text": "Community and Economic Development",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/government/departments/customer_service/index.php": {
+                    "url": "https://sheltonwa.gov/government/departments/customer_service/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:government",
+                    "text": "Customer Service",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/government/departments/finance/index.php": {
+                    "url": "https://sheltonwa.gov/government/departments/finance/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:government",
+                    "text": "Finance",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/government/departments/human_resources/index.php": {
+                    "url": "https://sheltonwa.gov/government/departments/human_resources/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:government",
+                    "text": "Human Resources",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/government/departments/parks_and_recreation/index.php": {
+                    "url": "https://sheltonwa.gov/government/departments/parks_and_recreation/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:government",
+                    "text": "9p Movies in the Park 2026: Despicable Me 4",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/government/departments/police/index.php": {
+                    "url": "https://sheltonwa.gov/government/departments/police/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:government",
+                    "text": "Police",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/government/departments/public_works/index.php": {
+                    "url": "https://sheltonwa.gov/government/departments/public_works/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:government",
+                    "text": "Public Works",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/residents/index.php": {
+                    "url": "https://sheltonwa.gov/residents/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:index",
+                    "text": "Residents",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/government/departments/customer_service/assistance_programs.php": {
+                    "url": "https://sheltonwa.gov/government/departments/customer_service/assistance_programs.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:government",
+                    "text": "Assistance Programs",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/government/departments/community_development/code_enforcement.php": {
+                    "url": "https://sheltonwa.gov/government/departments/community_development/code_enforcement.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:government",
+                    "text": "Code Enforcement",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/government/city_manager/communications/community_calendar.php": {
+                    "url": "https://sheltonwa.gov/government/city_manager/communications/community_calendar.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:government, role:city",
+                    "text": "Community Calendar",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/residents/emergency_management/index.php": {
+                    "url": "https://sheltonwa.gov/residents/emergency_management/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:index",
+                    "text": "Emergency Management",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/government/departments/public_works/road_construction_and_traffic_impacts.php": {
+                    "url": "https://sheltonwa.gov/government/departments/public_works/road_construction_and_traffic_impacts.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:government",
+                    "text": "Road Construction and Traffic Impacts",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/government/city_manager/city_clerk/special_events.php": {
+                    "url": "https://sheltonwa.gov/government/city_manager/city_clerk/special_events.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:government, role:city",
+                    "text": "Special Events",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/visitors/index.php": {
+                    "url": "https://sheltonwa.gov/visitors/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:index",
+                    "text": "Visitors",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/government/city_manager/communications/app.php": {
+                    "url": "https://sheltonwa.gov/government/city_manager/communications/app.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:government, role:city",
+                    "text": "Download the City App",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/government/departments/parks_and_recreation/city_parks_and_trails.php": {
+                    "url": "https://sheltonwa.gov/government/departments/parks_and_recreation/city_parks_and_trails.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:government, role:city",
+                    "text": "City Parks and Trails",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/business/index.php": {
+                    "url": "https://sheltonwa.gov/business/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:index",
+                    "text": "Business",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/government/departments/finance/business_and_occupation_taxes.php": {
+                    "url": "https://sheltonwa.gov/government/departments/finance/business_and_occupation_taxes.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:government",
+                    "text": "Business and Occupation Taxes",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/government/departments/finance/business_licensing.php": {
+                    "url": "https://sheltonwa.gov/government/departments/finance/business_licensing.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:government",
+                    "text": "Business Licensing",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/government/departments/community_development/planning_and_building_permit_applications_and_forms.php": {
+                    "url": "https://sheltonwa.gov/government/departments/community_development/planning_and_building_permit_applications_and_forms.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:government",
+                    "text": "Apply for a Building Permit",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/how_do_i/index.php": {
+                    "url": "https://sheltonwa.gov/how_do_i/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:index",
+                    "text": "How Do I",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/how_do_i/contact_the_city/index.php": {
+                    "url": "https://sheltonwa.gov/how_do_i/contact_the_city/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 4,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "525 West Cota Street",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/government/departments/customer_service/how_to_pay_my_utility_bill.php": {
+                    "url": "https://sheltonwa.gov/government/departments/customer_service/how_to_pay_my_utility_bill.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:government",
+                    "text": "Pay My Utility Bill",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/government/city_manager/city_clerk/public_records.php": {
+                    "url": "https://sheltonwa.gov/government/city_manager/city_clerk/public_records.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:government, role:city",
+                    "text": "Request Public Records",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/government/city_council/remote_public_comment_sign-up.php": {
+                    "url": "https://sheltonwa.gov/government/city_council/remote_public_comment_sign-up.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 6,
+                    "comment": "heuristic backfill: keyword:government, role:city, designation:council",
+                    "text": "Sign Up for Remote Public Comment",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/#city-events": {
+                    "url": "https://sheltonwa.gov/#city-events",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "city events",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/#city-meetings": {
+                    "url": "https://sheltonwa.gov/#city-meetings",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "city meetings",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/government/departments/parks_and_recreation/shelton_arts_commission.php": {
+                    "url": "https://sheltonwa.gov/government/departments/parks_and_recreation/shelton_arts_commission.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:government",
+                    "text": "4:30p Shelton Arts Commission Meeting",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/government/departments/parks_and_recreation/parks_and_recreation_advisory_committee.php": {
+                    "url": "https://sheltonwa.gov/government/departments/parks_and_recreation/parks_and_recreation_advisory_committee.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:government",
+                    "text": "3:30p Parks and Recreation Advisory Committee Meeting",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/www.sheltonwa.gov/government/departments/community_development/historic_preservation.php": {
+                    "url": "https://sheltonwa.gov/www.sheltonwa.gov/government/departments/community_development/historic_preservation.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:government",
+                    "text": "5:30p Historic Preservation Board Meeting",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/government/city_council/city_council_members/mayor_sharon_schirman.php": {
+                    "url": "https://sheltonwa.gov/government/city_council/city_council_members/mayor_sharon_schirman.php",
+                    "status": "done",
+                    "folder_name": "sheltonwa_gov_government_city_council_city_council_members_mayor_sharon_schirman_php",
+                    "num_references": 10,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 7
+                },
+                "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_eric_onisko.php": {
+                    "url": "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_eric_onisko.php",
+                    "status": "done",
+                    "folder_name": "sheltonwa_gov_government_city_council_city_council_members_councilmember_eric_onisko_php",
+                    "num_references": 12,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 8
+                },
+                "https://sheltonwa.gov/government/city_council/city_council_members/deputy_mayor_lyndsey_sapp.php": {
+                    "url": "https://sheltonwa.gov/government/city_council/city_council_members/deputy_mayor_lyndsey_sapp.php",
+                    "status": "done",
+                    "folder_name": "sheltonwa_gov_government_city_council_city_council_members_deputy_mayor_lyndsey_sapp_php",
+                    "num_references": 14,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 9
+                },
+                "https://sheltonwa.gov/government/city_council/councilmember_miguel_gutierrez.php": {
+                    "url": "https://sheltonwa.gov/government/city_council/councilmember_miguel_gutierrez.php",
+                    "status": "done",
+                    "folder_name": "sheltonwa_gov_government_city_council_councilmember_miguel_gutierrez_php",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 3
+                },
+                "https://sheltonwa.gov/government/city_council/shelton_metropolitan_park_district.php": {
+                    "url": "https://sheltonwa.gov/government/city_council/shelton_metropolitan_park_district.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/government/city_council/shelton_metropolitan_park_district_(smpd).php": {
+                    "url": "https://sheltonwa.gov/government/city_council/shelton_metropolitan_park_district_(smpd).php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/government/city%20council/photos/gilmore,%20tom.png?t=202601071839040": {
+                    "url": "https://sheltonwa.gov/government/city%20council/photos/Gilmore,%20Tom.png?t=202601071839040",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:government, role:city",
+                    "text": "Gilmore, Tom",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sheltonwa.gov/government/city%20council/photos/onisko,%20eric.png?t=202601071854080": {
+                    "url": "https://sheltonwa.gov/government/city%20council/photos/Onisko,%20Eric.png?t=202601071854080",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:government, role:city",
+                    "text": "Eric Onisko",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                }
+            },
+            "queue": [
+                "https://sheltonwa.gov/government/city_council/city_council_members/index.php",
+                "https://sheltonwa.gov/government/index.php",
+                "https://sheltonwa.gov/government/city_council/meeting_agendas_packets_minutes_and_videos_2016_2022.php",
+                "https://sheltonwa.gov/government/city_council/strategic_goals.php",
+                "https://sheltonwa.gov/government/city_council/joining_a_hybrid_meeting.php",
+                "https://sheltonwa.gov/government/city_council/remote_public_comment_sign-up.php",
+                "https://sheltonwa.gov/government/city_manager/index.php",
+                "https://sheltonwa.gov/government/municipal_court/index.php",
+                "https://sheltonwa.gov/government/departments/index.php",
+                "https://sheltonwa.gov/how_do_i/contact_the_city/index.php",
+                "https://sheltonwa.gov/government/city_manager/city_clerk/index.php",
+                "https://sheltonwa.gov/government/city_council/shelton_metropolitan_park_district_(smpd",
+                "https://sheltonwa.gov/government/city_manager/communications/index.php",
+                "https://sheltonwa.gov/government/city_manager/interlocal_agreements/index.php",
+                "https://sheltonwa.gov/government/city_manager/communications/community_calendar.php",
+                "https://sheltonwa.gov/government/city_manager/city_clerk/special_events.php",
+                "https://sheltonwa.gov/government/city_manager/communications/app.php",
+                "https://sheltonwa.gov/government/departments/parks_and_recreation/city_parks_and_trails.php",
+                "https://sheltonwa.gov/government/city_manager/city_clerk/public_records.php",
+                "https://sheltonwa.gov/index.php",
+                "https://sheltonwa.gov/residents/index.php",
+                "https://sheltonwa.gov/visitors/index.php",
+                "https://sheltonwa.gov/business/index.php",
+                "https://sheltonwa.gov/how_do_i/index.php",
+                "https://sheltonwa.gov/government/municipal_court/forms_records_requests___requests_for_ada_accommodation.php",
+                "https://sheltonwa.gov/government/municipal_court/juror_information.php",
+                "https://sheltonwa.gov/residents/emergency_management/index.php",
+                "https://sheltonwa.gov/government/municipal_court/criminal_offenses/index.php",
+                "https://sheltonwa.gov/government/municipal_court/infractions_-_electronic_hearing_instructions___forms/index.php",
+                "https://sheltonwa.gov/government/departments/community_development/index.php",
+                "https://sheltonwa.gov/government/departments/customer_service/index.php",
+                "https://sheltonwa.gov/government/departments/finance/index.php",
+                "https://sheltonwa.gov/government/departments/human_resources/index.php",
+                "https://sheltonwa.gov/government/departments/parks_and_recreation/index.php",
+                "https://sheltonwa.gov/government/departments/police/index.php",
+                "https://sheltonwa.gov/government/departments/public_works/index.php",
+                "https://sheltonwa.gov/government/departments/customer_service/assistance_programs.php",
+                "https://sheltonwa.gov/government/departments/community_development/code_enforcement.php",
+                "https://sheltonwa.gov/government/departments/public_works/road_construction_and_traffic_impacts.php",
+                "https://sheltonwa.gov/government/departments/finance/business_and_occupation_taxes.php",
+                "https://sheltonwa.gov/government/departments/finance/business_licensing.php",
+                "https://sheltonwa.gov/government/departments/community_development/planning_and_building_permit_applications_and_forms.php",
+                "https://sheltonwa.gov/government/departments/customer_service/how_to_pay_my_utility_bill.php",
+                "https://sheltonwa.gov/government/city_council/shelton_metropolitan_park_district.php",
+                "https://sheltonwa.gov/government/city%20council/photos/gilmore,%20tom.png?t=202601071839040",
+                "https://sheltonwa.gov/government/city%20council/photos/onisko,%20eric.png?t=202601071854080",
+                "https://sheltonwa.gov/#city-events",
+                "https://sheltonwa.gov/#city-meetings",
+                "https://sheltonwa.gov/government/city_council/shelton_metropolitan_park_district_(smpd).php",
+                "https://sheltonwa.gov/government/departments/parks_and_recreation/shelton_arts_commission.php",
+                "https://sheltonwa.gov/government/departments/parks_and_recreation/parks_and_recreation_advisory_committee.php",
+                "https://sheltonwa.gov/www.sheltonwa.gov/government/departments/community_development/historic_preservation.php",
+                "https://sheltonwa.gov/government/city_council/mayor_eric_onisko.php",
+                "https://sheltonwa.gov/government/city_council/city_council_members/deputy_mayor_sharon_schirman.php"
+            ]
+        },
+        "research_municipality_step": {
+            "expected_count": 7,
+            "target_designations": [],
+            "known_roles": [
+                "Mayor",
+                "Deputy Mayor",
+                "Council Member"
+            ],
+            "identities": {
+                "Eric Onisko": [],
+                "Sharon Schirman": [],
+                "George Blush": [],
+                "Melissa Stearns": [],
+                "Tom Gilmore": [],
+                "Lyndsey Sapp": [],
+                "Miguel Gutierrez": []
+            },
+            "source_urls": [
+                "https://sheltonwa.gov/government/city_council/mayor_eric_onisko.php",
+                "https://sheltonwa.gov/government/city_council/index.php",
+                "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_george_blush.php",
+                "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_melissa_stearns.php",
+                "https://sheltonwa.gov/government/city_council/city_council_members/deputy_mayor_sharon_schirman.php",
+                "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_tom_gilmore.php"
+            ],
+            "notes": null,
+            "origin_source": "existing"
+        },
+        "preprocess_page_content_step": {
+            "elapsed_times": [
+                7,
+                8,
+                2,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "total_elapsed_time_seconds": 2,
+            "average_elapsed_time_seconds": 0
+        },
+        "process_page_content_step": {
+            "raw_records_by_llm": {
+                "open_router": {
+                    "George Blush": [
+                        {
+                            "name": "George Blush",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Seat 1"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_george_blush.php",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://sheltonwa.gov/government/city_council/index.php"
+                        },
+                        {
+                            "name": "George Blush",
+                            "roles": [
+                                "Councilmember"
+                            ],
+                            "designations": [
+                                "Seat One"
+                            ],
+                            "phone": "360-545-5503",
+                            "email": "george.blush@sheltonwa.gov",
+                            "url": "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_george_blush.php",
+                            "start_date": null,
+                            "end_date": "2027-12-31",
+                            "image": "https://sheltonwa.gov/government/city%20council/photos/CM%20Blush%20-%20Web%20.png?t=202405221652450",
+                            "source_url": "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_george_blush.php"
+                        }
+                    ],
+                    "Melissa Stearns": [
+                        {
+                            "name": "Melissa Stearns",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Seat 2"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_melissa_stearns.php",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://sheltonwa.gov/government/city_council/index.php"
+                        },
+                        {
+                            "name": "Melissa Stearns",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Seat Two"
+                            ],
+                            "phone": "360-545-5505",
+                            "email": "melissa.stearns@sheltonwa.gov",
+                            "url": "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_melissa_stearns.php",
+                            "start_date": null,
+                            "end_date": "2027-12-31",
+                            "image": "https://sheltonwa.gov/government/city%20council/photos/Stearns,%20Melissa.png?t=202412171810240",
+                            "source_url": "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_melissa_stearns.php"
+                        }
+                    ],
+                    "Sharon Schirman": [
+                        {
+                            "name": "Sharon Schirman",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [
+                                "Seat 3"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://sheltonwa.gov/government/city_council/city_council_members/mayor_sharon_schirman.php",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://sheltonwa.gov/government/city_council/index.php"
+                        },
+                        {
+                            "name": "Sharon Schirman",
+                            "roles": [],
+                            "designations": [],
+                            "phone": "360-490-8164",
+                            "email": "sharon.schirman@sheltonwa.gov",
+                            "url": "https://sheltonwa.gov/government/city_council/city_council_members/mayor_sharon_schirman.php",
+                            "start_date": null,
+                            "end_date": "2029-12-31",
+                            "image": "https://sheltonwa.gov/government/city%20council/photos/Schirman,%20Sharon.png?t=202601071857370",
+                            "source_url": "https://sheltonwa.gov/government/city_council/city_council_members/mayor_sharon_schirman.php"
+                        }
+                    ],
+                    "Eric Onisko": [
+                        {
+                            "name": "Eric Onisko",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Seat 4"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_eric_onisko.php",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://sheltonwa.gov/government/city_council/index.php"
+                        },
+                        {
+                            "name": "Eric Onisko",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Seat 4"
+                            ],
+                            "phone": "360-490-6173",
+                            "email": "eric.onisko@sheltonwa.gov",
+                            "url": "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_eric_onisko.php",
+                            "start_date": null,
+                            "end_date": "2029-12-31",
+                            "image": "https://sheltonwa.gov/government/city%20council/photos/Onisko,%20Eric.png?t=202601071854080",
+                            "source_url": "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_eric_onisko.php"
+                        }
+                    ],
+                    "Tom Gilmore": [
+                        {
+                            "name": "Tom Gilmore",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Seat 5"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_tom_gilmore.php",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://sheltonwa.gov/government/city_council/index.php"
+                        },
+                        {
+                            "name": "Tom Gilmore",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Seat Five"
+                            ],
+                            "phone": "360-545-2556",
+                            "email": "tom.gilmore@sheltonwa.gov",
+                            "url": "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_tom_gilmore.php",
+                            "start_date": null,
+                            "end_date": "2027-12-31",
+                            "image": "https://sheltonwa.gov/government/city%20council/photos/Gilmore,%20Tom.png?t=202601071839040",
+                            "source_url": "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_tom_gilmore.php"
+                        }
+                    ],
+                    "Lyndsey Sapp": [
+                        {
+                            "name": "Lyndsey Sapp",
+                            "roles": [
+                                "Deputy Mayor"
+                            ],
+                            "designations": [
+                                "Seat 6"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://sheltonwa.gov/government/city_council/city_council_members/deputy_mayor_lyndsey_sapp.php",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://sheltonwa.gov/government/city_council/index.php"
+                        },
+                        {
+                            "name": "Lyndsey Sapp",
+                            "roles": [
+                                "Deputy Mayor"
+                            ],
+                            "designations": [
+                                "Seat 6"
+                            ],
+                            "phone": "360-968-3020",
+                            "email": "lyndsey.sapp@sheltonwa.gov",
+                            "url": "https://sheltonwa.gov/government/city_council/city_council_members/deputy_mayor_lyndsey_sapp.php",
+                            "start_date": null,
+                            "end_date": "2029-12-31",
+                            "image": "https://sheltonwa.gov/government/city%20council/photos/Sapp,%20Lyndsey.png?t=202601071901440",
+                            "source_url": "https://sheltonwa.gov/government/city_council/city_council_members/deputy_mayor_lyndsey_sapp.php"
+                        }
+                    ],
+                    "Miguel Gutierrez": [
+                        {
+                            "name": "Miguel Gutierrez",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Seat 7"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://sheltonwa.gov/government/city_council/councilmember_miguel_gutierrez.php",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://sheltonwa.gov/government/city_council/index.php"
+                        },
+                        {
+                            "name": "Miguel Gutierrez",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Seat Seven"
+                            ],
+                            "phone": "360-490-6394",
+                            "email": "miguel.gutierrez@sheltonwa.gov",
+                            "url": "https://sheltonwa.gov/government/city_council/councilmember_miguel_gutierrez.php",
+                            "start_date": null,
+                            "end_date": "2029-12-31",
+                            "image": "https://sheltonwa.gov/government/city%20council/photos/Gutierrez,%20Miguel.png?t=202601071844460",
+                            "source_url": "https://sheltonwa.gov/government/city_council/councilmember_miguel_gutierrez.php"
+                        }
+                    ]
+                }
+            },
+            "records_by_llm": {
+                "open_router": {
+                    "George Blush": [
+                        {
+                            "name": "George Blush",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Seat 1"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_george_blush.php",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://sheltonwa.gov/government/city_council/index.php"
+                        },
+                        {
+                            "name": "George Blush",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Seat 1"
+                            ],
+                            "phone": "(360) 545-5503",
+                            "email": "george.blush@sheltonwa.gov",
+                            "url": "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_george_blush.php",
+                            "start_date": null,
+                            "end_date": "2027-12-31",
+                            "image": "https://sheltonwa.gov/government/city%20council/photos/CM%20Blush%20-%20Web%20.png?t=202405221652450",
+                            "source_url": "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_george_blush.php"
+                        }
+                    ],
+                    "Melissa Stearns": [
+                        {
+                            "name": "Melissa Stearns",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Seat 2"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_melissa_stearns.php",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://sheltonwa.gov/government/city_council/index.php"
+                        },
+                        {
+                            "name": "Melissa Stearns",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Seat 2"
+                            ],
+                            "phone": "(360) 545-5505",
+                            "email": "melissa.stearns@sheltonwa.gov",
+                            "url": "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_melissa_stearns.php",
+                            "start_date": null,
+                            "end_date": "2027-12-31",
+                            "image": "https://sheltonwa.gov/government/city%20council/photos/Stearns,%20Melissa.png?t=202412171810240",
+                            "source_url": "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_melissa_stearns.php"
+                        }
+                    ],
+                    "Sharon Schirman": [
+                        {
+                            "name": "Sharon Schirman",
+                            "roles": [
+                                "mayor"
+                            ],
+                            "designations": [
+                                "Seat 3"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://sheltonwa.gov/government/city_council/city_council_members/mayor_sharon_schirman.php",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://sheltonwa.gov/government/city_council/index.php"
+                        },
+                        {
+                            "name": "Sharon Schirman",
+                            "roles": [],
+                            "designations": [],
+                            "phone": "(360) 490-8164",
+                            "email": "sharon.schirman@sheltonwa.gov",
+                            "url": "https://sheltonwa.gov/government/city_council/city_council_members/mayor_sharon_schirman.php",
+                            "start_date": null,
+                            "end_date": "2029-12-31",
+                            "image": "https://sheltonwa.gov/government/city%20council/photos/Schirman,%20Sharon.png?t=202601071857370",
+                            "source_url": "https://sheltonwa.gov/government/city_council/city_council_members/mayor_sharon_schirman.php"
+                        }
+                    ],
+                    "Eric Onisko": [
+                        {
+                            "name": "Eric Onisko",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Seat 4"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_eric_onisko.php",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://sheltonwa.gov/government/city_council/index.php"
+                        },
+                        {
+                            "name": "Eric Onisko",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Seat 4"
+                            ],
+                            "phone": "(360) 490-6173",
+                            "email": "eric.onisko@sheltonwa.gov",
+                            "url": "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_eric_onisko.php",
+                            "start_date": null,
+                            "end_date": "2029-12-31",
+                            "image": "https://sheltonwa.gov/government/city%20council/photos/Onisko,%20Eric.png?t=202601071854080",
+                            "source_url": "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_eric_onisko.php"
+                        }
+                    ],
+                    "Tom Gilmore": [
+                        {
+                            "name": "Tom Gilmore",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Seat 5"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_tom_gilmore.php",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://sheltonwa.gov/government/city_council/index.php"
+                        },
+                        {
+                            "name": "Tom Gilmore",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Seat 5"
+                            ],
+                            "phone": "(360) 545-2556",
+                            "email": "tom.gilmore@sheltonwa.gov",
+                            "url": "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_tom_gilmore.php",
+                            "start_date": null,
+                            "end_date": "2027-12-31",
+                            "image": "https://sheltonwa.gov/government/city%20council/photos/Gilmore,%20Tom.png?t=202601071839040",
+                            "source_url": "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_tom_gilmore.php"
+                        }
+                    ],
+                    "Lyndsey Sapp": [
+                        {
+                            "name": "Lyndsey Sapp",
+                            "roles": [
+                                "deputy mayor"
+                            ],
+                            "designations": [
+                                "Seat 6"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://sheltonwa.gov/government/city_council/city_council_members/deputy_mayor_lyndsey_sapp.php",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://sheltonwa.gov/government/city_council/index.php"
+                        },
+                        {
+                            "name": "Lyndsey Sapp",
+                            "roles": [
+                                "deputy mayor"
+                            ],
+                            "designations": [
+                                "Seat 6"
+                            ],
+                            "phone": "(360) 968-3020",
+                            "email": "lyndsey.sapp@sheltonwa.gov",
+                            "url": "https://sheltonwa.gov/government/city_council/city_council_members/deputy_mayor_lyndsey_sapp.php",
+                            "start_date": null,
+                            "end_date": "2029-12-31",
+                            "image": "https://sheltonwa.gov/government/city%20council/photos/Sapp,%20Lyndsey.png?t=202601071901440",
+                            "source_url": "https://sheltonwa.gov/government/city_council/city_council_members/deputy_mayor_lyndsey_sapp.php"
+                        }
+                    ],
+                    "Miguel Gutierrez": [
+                        {
+                            "name": "Miguel Gutierrez",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Seat 7"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": "https://sheltonwa.gov/government/city_council/councilmember_miguel_gutierrez.php",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://sheltonwa.gov/government/city_council/index.php"
+                        },
+                        {
+                            "name": "Miguel Gutierrez",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Seat 7"
+                            ],
+                            "phone": "(360) 490-6394",
+                            "email": "miguel.gutierrez@sheltonwa.gov",
+                            "url": "https://sheltonwa.gov/government/city_council/councilmember_miguel_gutierrez.php",
+                            "start_date": null,
+                            "end_date": "2029-12-31",
+                            "image": "https://sheltonwa.gov/government/city%20council/photos/Gutierrez,%20Miguel.png?t=202601071844460",
+                            "source_url": "https://sheltonwa.gov/government/city_council/councilmember_miguel_gutierrez.php"
+                        }
+                    ]
+                }
+            },
+            "progress": {
+                "required_data": 7,
+                "current_data": 7,
+                "has_target_role": true,
+                "has_target_designations": true
+            }
+        },
+        "merge_records_within_llm_step": {
+            "people_by_llm": {
+                "open_router": [
+                    {
+                        "name": "George Blush",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Seat 1"
+                        ],
+                        "phones": [
+                            "(360) 545-5503"
+                        ],
+                        "emails": [
+                            "george.blush@sheltonwa.gov"
+                        ],
+                        "urls": [
+                            "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_george_blush.php"
+                        ],
+                        "start_date": "",
+                        "end_date": "2027-12-31",
+                        "image": "https://sheltonwa.gov/government/city%20council/photos/CM%20Blush%20-%20Web%20.png?t=202405221652450",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:shelton/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_george_blush.php",
+                            "https://sheltonwa.gov/government/city_council/index.php"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Melissa Stearns",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Seat 2"
+                        ],
+                        "phones": [
+                            "(360) 545-5505"
+                        ],
+                        "emails": [
+                            "melissa.stearns@sheltonwa.gov"
+                        ],
+                        "urls": [
+                            "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_melissa_stearns.php"
+                        ],
+                        "start_date": "",
+                        "end_date": "2027-12-31",
+                        "image": "https://sheltonwa.gov/government/city%20council/photos/Stearns,%20Melissa.png?t=202412171810240",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:shelton/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_melissa_stearns.php",
+                            "https://sheltonwa.gov/government/city_council/index.php"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Sharon Schirman",
+                        "other_names": [],
+                        "roles": [
+                            "mayor"
+                        ],
+                        "designations": [
+                            "Seat 3"
+                        ],
+                        "phones": [
+                            "(360) 490-8164"
+                        ],
+                        "emails": [
+                            "sharon.schirman@sheltonwa.gov"
+                        ],
+                        "urls": [
+                            "https://sheltonwa.gov/government/city_council/city_council_members/mayor_sharon_schirman.php"
+                        ],
+                        "start_date": "",
+                        "end_date": "2029-12-31",
+                        "image": "https://sheltonwa.gov/government/city%20council/photos/Schirman,%20Sharon.png?t=202601071857370",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:shelton/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://sheltonwa.gov/government/city_council/city_council_members/mayor_sharon_schirman.php",
+                            "https://sheltonwa.gov/government/city_council/index.php"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Eric Onisko",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Seat 4"
+                        ],
+                        "phones": [
+                            "(360) 490-6173"
+                        ],
+                        "emails": [
+                            "eric.onisko@sheltonwa.gov"
+                        ],
+                        "urls": [
+                            "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_eric_onisko.php"
+                        ],
+                        "start_date": "",
+                        "end_date": "2029-12-31",
+                        "image": "https://sheltonwa.gov/government/city%20council/photos/Onisko,%20Eric.png?t=202601071854080",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:shelton/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_eric_onisko.php",
+                            "https://sheltonwa.gov/government/city_council/index.php"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Tom Gilmore",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Seat 5"
+                        ],
+                        "phones": [
+                            "(360) 545-2556"
+                        ],
+                        "emails": [
+                            "tom.gilmore@sheltonwa.gov"
+                        ],
+                        "urls": [
+                            "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_tom_gilmore.php"
+                        ],
+                        "start_date": "",
+                        "end_date": "2027-12-31",
+                        "image": "https://sheltonwa.gov/government/city%20council/photos/Gilmore,%20Tom.png?t=202601071839040",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:shelton/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_tom_gilmore.php",
+                            "https://sheltonwa.gov/government/city_council/index.php"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Lyndsey Sapp",
+                        "other_names": [],
+                        "roles": [
+                            "deputy mayor"
+                        ],
+                        "designations": [
+                            "Seat 6"
+                        ],
+                        "phones": [
+                            "(360) 968-3020"
+                        ],
+                        "emails": [
+                            "lyndsey.sapp@sheltonwa.gov"
+                        ],
+                        "urls": [
+                            "https://sheltonwa.gov/government/city_council/city_council_members/deputy_mayor_lyndsey_sapp.php"
+                        ],
+                        "start_date": "",
+                        "end_date": "2029-12-31",
+                        "image": "https://sheltonwa.gov/government/city%20council/photos/Sapp,%20Lyndsey.png?t=202601071901440",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:shelton/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://sheltonwa.gov/government/city_council/city_council_members/deputy_mayor_lyndsey_sapp.php",
+                            "https://sheltonwa.gov/government/city_council/index.php"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Miguel Gutierrez",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Seat 7"
+                        ],
+                        "phones": [
+                            "(360) 490-6394"
+                        ],
+                        "emails": [
+                            "miguel.gutierrez@sheltonwa.gov"
+                        ],
+                        "urls": [
+                            "https://sheltonwa.gov/government/city_council/councilmember_miguel_gutierrez.php"
+                        ],
+                        "start_date": "",
+                        "end_date": "2029-12-31",
+                        "image": "https://sheltonwa.gov/government/city%20council/photos/Gutierrez,%20Miguel.png?t=202601071844460",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:shelton/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://sheltonwa.gov/government/city_council/index.php",
+                            "https://sheltonwa.gov/government/city_council/councilmember_miguel_gutierrez.php"
+                        ],
+                        "updated_at": ""
+                    }
+                ]
+            },
+            "unrecognized_roles": [],
+            "excluded_people": []
+        },
+        "merge_records_across_llms_step": {
+            "people": [
+                {
+                    "name": "Sharon Schirman",
+                    "other_names": [],
+                    "roles": [
+                        "mayor"
+                    ],
+                    "designations": [
+                        "seat 3"
+                    ],
+                    "phones": [
+                        "(360) 490-8164"
+                    ],
+                    "emails": [
+                        "sharon.schirman@sheltonwa.gov"
+                    ],
+                    "urls": [
+                        "https://sheltonwa.gov/government/city_council/city_council_members/mayor_sharon_schirman.php"
+                    ],
+                    "start_date": "",
+                    "end_date": "2029-12-31",
+                    "image": "https://sheltonwa.gov/government/city%20council/photos/Schirman,%20Sharon.png?t=202601071857370",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:shelton/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://sheltonwa.gov/government/city_council/index.php",
+                        "https://sheltonwa.gov/government/city_council/city_council_members/mayor_sharon_schirman.php"
+                    ],
+                    "updated_at": "2026-07-28T00:06:46+00:00"
+                },
+                {
+                    "name": "Lyndsey Sapp",
+                    "other_names": [],
+                    "roles": [
+                        "deputy mayor"
+                    ],
+                    "designations": [
+                        "seat 6"
+                    ],
+                    "phones": [
+                        "(360) 968-3020"
+                    ],
+                    "emails": [
+                        "lyndsey.sapp@sheltonwa.gov"
+                    ],
+                    "urls": [
+                        "https://sheltonwa.gov/government/city_council/city_council_members/deputy_mayor_lyndsey_sapp.php"
+                    ],
+                    "start_date": "",
+                    "end_date": "2029-12-31",
+                    "image": "https://sheltonwa.gov/government/city%20council/photos/Sapp,%20Lyndsey.png?t=202601071901440",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:shelton/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://sheltonwa.gov/government/city_council/index.php",
+                        "https://sheltonwa.gov/government/city_council/city_council_members/deputy_mayor_lyndsey_sapp.php"
+                    ],
+                    "updated_at": "2026-07-28T00:06:46+00:00"
+                },
+                {
+                    "name": "George Blush",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "seat 1"
+                    ],
+                    "phones": [
+                        "(360) 545-5503"
+                    ],
+                    "emails": [
+                        "george.blush@sheltonwa.gov"
+                    ],
+                    "urls": [
+                        "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_george_blush.php"
+                    ],
+                    "start_date": "",
+                    "end_date": "2027-12-31",
+                    "image": "https://sheltonwa.gov/government/city%20council/photos/CM%20Blush%20-%20Web%20.png?t=202405221652450",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:shelton/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_george_blush.php",
+                        "https://sheltonwa.gov/government/city_council/index.php"
+                    ],
+                    "updated_at": "2026-07-28T00:06:46+00:00"
+                },
+                {
+                    "name": "Melissa Stearns",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "seat 2"
+                    ],
+                    "phones": [
+                        "(360) 545-5505"
+                    ],
+                    "emails": [
+                        "melissa.stearns@sheltonwa.gov"
+                    ],
+                    "urls": [
+                        "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_melissa_stearns.php"
+                    ],
+                    "start_date": "",
+                    "end_date": "2027-12-31",
+                    "image": "https://sheltonwa.gov/government/city%20council/photos/Stearns,%20Melissa.png?t=202412171810240",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:shelton/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_melissa_stearns.php",
+                        "https://sheltonwa.gov/government/city_council/index.php"
+                    ],
+                    "updated_at": "2026-07-28T00:06:46+00:00"
+                },
+                {
+                    "name": "Eric Onisko",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "seat 4"
+                    ],
+                    "phones": [
+                        "(360) 490-6173"
+                    ],
+                    "emails": [
+                        "eric.onisko@sheltonwa.gov"
+                    ],
+                    "urls": [
+                        "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_eric_onisko.php"
+                    ],
+                    "start_date": "",
+                    "end_date": "2029-12-31",
+                    "image": "https://sheltonwa.gov/government/city%20council/photos/Onisko,%20Eric.png?t=202601071854080",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:shelton/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_eric_onisko.php",
+                        "https://sheltonwa.gov/government/city_council/index.php"
+                    ],
+                    "updated_at": "2026-07-28T00:06:46+00:00"
+                },
+                {
+                    "name": "Tom Gilmore",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "seat 5"
+                    ],
+                    "phones": [
+                        "(360) 545-2556"
+                    ],
+                    "emails": [
+                        "tom.gilmore@sheltonwa.gov"
+                    ],
+                    "urls": [
+                        "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_tom_gilmore.php"
+                    ],
+                    "start_date": "",
+                    "end_date": "2027-12-31",
+                    "image": "https://sheltonwa.gov/government/city%20council/photos/Gilmore,%20Tom.png?t=202601071839040",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:shelton/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_tom_gilmore.php",
+                        "https://sheltonwa.gov/government/city_council/index.php"
+                    ],
+                    "updated_at": "2026-07-28T00:06:46+00:00"
+                },
+                {
+                    "name": "Miguel Gutierrez",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "seat 7"
+                    ],
+                    "phones": [
+                        "(360) 490-6394"
+                    ],
+                    "emails": [
+                        "miguel.gutierrez@sheltonwa.gov"
+                    ],
+                    "urls": [
+                        "https://sheltonwa.gov/government/city_council/councilmember_miguel_gutierrez.php"
+                    ],
+                    "start_date": "",
+                    "end_date": "2029-12-31",
+                    "image": "https://sheltonwa.gov/government/city%20council/photos/Gutierrez,%20Miguel.png?t=202601071844460",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:shelton/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://sheltonwa.gov/government/city_council/index.php",
+                        "https://sheltonwa.gov/government/city_council/councilmember_miguel_gutierrez.php"
+                    ],
+                    "updated_at": "2026-07-28T00:06:46+00:00"
+                }
+            ]
+        },
+        "format_output_step": {
+            "officials": [
+                {
+                    "name": "Sharon Schirman",
+                    "other_names": [],
+                    "phones": [
+                        "(360) 490-8164"
+                    ],
+                    "emails": [
+                        "sharon.schirman@sheltonwa.gov"
+                    ],
+                    "urls": [
+                        "https://sheltonwa.gov/government/city_council/city_council_members/mayor_sharon_schirman.php"
+                    ],
+                    "start_date": null,
+                    "end_date": "2029-12-31",
+                    "office": {
+                        "name": "Mayor - Seat 3",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:shelton"
+                    },
+                    "image": "https://sheltonwa.gov/government/city%20council/photos/Schirman,%20Sharon.png?t=202601071857370",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:shelton/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://sheltonwa.gov/government/city_council/index.php",
+                        "https://sheltonwa.gov/government/city_council/city_council_members/mayor_sharon_schirman.php"
+                    ],
+                    "updated_at": "2026-07-28T00:06:46+00:00",
+                    "id": "a61d9a04-755d-4eb2-b838-1bc3f55edcbf"
+                },
+                {
+                    "name": "Lyndsey Sapp",
+                    "other_names": [],
+                    "phones": [
+                        "(360) 968-3020"
+                    ],
+                    "emails": [
+                        "lyndsey.sapp@sheltonwa.gov"
+                    ],
+                    "urls": [
+                        "https://sheltonwa.gov/government/city_council/city_council_members/deputy_mayor_lyndsey_sapp.php"
+                    ],
+                    "start_date": null,
+                    "end_date": "2029-12-31",
+                    "office": {
+                        "name": "Deputy Mayor - Seat 6",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:shelton"
+                    },
+                    "image": "https://sheltonwa.gov/government/city%20council/photos/Sapp,%20Lyndsey.png?t=202601071901440",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:shelton/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://sheltonwa.gov/government/city_council/index.php",
+                        "https://sheltonwa.gov/government/city_council/city_council_members/deputy_mayor_lyndsey_sapp.php"
+                    ],
+                    "updated_at": "2026-07-28T00:06:46+00:00",
+                    "id": "052d93b8-a50f-48ec-a9e3-1c2f7c46e17b"
+                },
+                {
+                    "name": "George Blush",
+                    "other_names": [],
+                    "phones": [
+                        "(360) 545-5503"
+                    ],
+                    "emails": [
+                        "george.blush@sheltonwa.gov"
+                    ],
+                    "urls": [
+                        "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_george_blush.php"
+                    ],
+                    "start_date": null,
+                    "end_date": "2027-12-31",
+                    "office": {
+                        "name": "Council Member - Seat 1",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:shelton"
+                    },
+                    "image": "https://sheltonwa.gov/government/city%20council/photos/CM%20Blush%20-%20Web%20.png?t=202405221652450",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:shelton/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_george_blush.php",
+                        "https://sheltonwa.gov/government/city_council/index.php"
+                    ],
+                    "updated_at": "2026-07-28T00:06:46+00:00",
+                    "id": "5205f0d4-e6c6-4646-9d17-6b6aed987c88"
+                },
+                {
+                    "name": "Melissa Stearns",
+                    "other_names": [],
+                    "phones": [
+                        "(360) 545-5505"
+                    ],
+                    "emails": [
+                        "melissa.stearns@sheltonwa.gov"
+                    ],
+                    "urls": [
+                        "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_melissa_stearns.php"
+                    ],
+                    "start_date": null,
+                    "end_date": "2027-12-31",
+                    "office": {
+                        "name": "Council Member - Seat 2",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:shelton"
+                    },
+                    "image": "https://sheltonwa.gov/government/city%20council/photos/Stearns,%20Melissa.png?t=202412171810240",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:shelton/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_melissa_stearns.php",
+                        "https://sheltonwa.gov/government/city_council/index.php"
+                    ],
+                    "updated_at": "2026-07-28T00:06:46+00:00",
+                    "id": "12f82923-b574-4360-9c94-e6c29ea0931b"
+                },
+                {
+                    "name": "Eric Onisko",
+                    "other_names": [],
+                    "phones": [
+                        "(360) 490-6173"
+                    ],
+                    "emails": [
+                        "eric.onisko@sheltonwa.gov"
+                    ],
+                    "urls": [
+                        "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_eric_onisko.php"
+                    ],
+                    "start_date": null,
+                    "end_date": "2029-12-31",
+                    "office": {
+                        "name": "Council Member - Seat 4",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:shelton"
+                    },
+                    "image": "https://sheltonwa.gov/government/city%20council/photos/Onisko,%20Eric.png?t=202601071854080",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:shelton/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_eric_onisko.php",
+                        "https://sheltonwa.gov/government/city_council/index.php"
+                    ],
+                    "updated_at": "2026-07-28T00:06:46+00:00",
+                    "id": "9d7a2797-2dd3-49e8-870c-05061d262723"
+                },
+                {
+                    "name": "Tom Gilmore",
+                    "other_names": [],
+                    "phones": [
+                        "(360) 545-2556"
+                    ],
+                    "emails": [
+                        "tom.gilmore@sheltonwa.gov"
+                    ],
+                    "urls": [
+                        "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_tom_gilmore.php"
+                    ],
+                    "start_date": null,
+                    "end_date": "2027-12-31",
+                    "office": {
+                        "name": "Council Member - Seat 5",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:shelton"
+                    },
+                    "image": "https://sheltonwa.gov/government/city%20council/photos/Gilmore,%20Tom.png?t=202601071839040",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:shelton/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://sheltonwa.gov/government/city_council/city_council_members/councilmember_tom_gilmore.php",
+                        "https://sheltonwa.gov/government/city_council/index.php"
+                    ],
+                    "updated_at": "2026-07-28T00:06:46+00:00",
+                    "id": "309a75de-de74-4616-821f-ec85279d9f84"
+                },
+                {
+                    "name": "Miguel Gutierrez",
+                    "other_names": [],
+                    "phones": [
+                        "(360) 490-6394"
+                    ],
+                    "emails": [
+                        "miguel.gutierrez@sheltonwa.gov"
+                    ],
+                    "urls": [
+                        "https://sheltonwa.gov/government/city_council/councilmember_miguel_gutierrez.php"
+                    ],
+                    "start_date": null,
+                    "end_date": "2029-12-31",
+                    "office": {
+                        "name": "Council Member - Seat 7",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:shelton"
+                    },
+                    "image": "https://sheltonwa.gov/government/city%20council/photos/Gutierrez,%20Miguel.png?t=202601071844460",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:shelton/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://sheltonwa.gov/government/city_council/index.php",
+                        "https://sheltonwa.gov/government/city_council/councilmember_miguel_gutierrez.php"
+                    ],
+                    "updated_at": "2026-07-28T00:06:46+00:00",
+                    "id": "f6023c99-6079-407f-9966-fadfb40316ec"
+                }
+            ]
+        },
+        "review_output_step": {
+            "issues": [],
+            "people_by_source": [
+                {
+                    "name": "Eric Onisko",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "George Blush",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Lyndsey Sapp",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Melissa Stearns",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Miguel Gutierrez",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Sharon Schirman",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Tom Gilmore",
+                    "in_research": true,
+                    "in_data": true
+                }
+            ],
+            "origin_source": "existing"
+        },
+        "find_jurisdiction_url_step": null,
+        "send_success_step": null,
+        "send_error_step": null,
+        "issues": [],
+        "error_step": null,
+        "error_detail": null
+    },
+    "current_state": "SEND_SUCCESS",
+    "request_id": "85c7bdae-940f-4891-8938-3bc307e6ecb9",
+    "created_at": 1785196562.9437087,
+    "updated_at": 1785197206.4925182,
+    "progress": 97
+}

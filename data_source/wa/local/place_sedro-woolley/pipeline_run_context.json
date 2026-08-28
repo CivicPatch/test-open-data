@@ -1,0 +1,2134 @@
+{
+    "data": {
+        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:sedro-woolley/government",
+        "config": {
+            "url": "https://www.sedro-woolley.gov/",
+            "name": "Sedro-Woolley city",
+            "source_urls": null
+        },
+        "frontier": {
+            "links": {
+                "https://sedro-woolley.gov": {
+                    "url": "https://www.sedro-woolley.gov/",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_sedro-woolley_gov_",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 1
+                },
+                "https://sedro-woolley.gov/governing_bodies/city_council/index.php": {
+                    "url": "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php",
+                    "status": "done",
+                    "folder_name": "www_sedro-woolley_gov_governing_bodies_city_council_index_php",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 2
+                },
+                "https://sedro-woolley.gov/departments/index.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Departments",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/administration/index.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/administration/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Administration",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/administration/mayor.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/administration/mayor.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:mayor, designation:mayor",
+                    "text": "Mayor",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/administration/city_administrator.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/administration/city_administrator.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments, role:city",
+                    "text": "City Administrator",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/index.php": {
+                    "url": "https://www.sedro-woolley.gov/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:index",
+                    "text": "Improve Our Community",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/building/index.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/building/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Building",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/planning/index.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/planning/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Planning",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/finance/index.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/finance/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Finance",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/finance/staff.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/finance/staff.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Staff",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/finance/business_licenses.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/finance/business_licenses.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Business Licenses",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/finance/forms_and_documents.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/finance/forms_and_documents.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Forms & Documents",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/finance/financial_information.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/finance/financial_information.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Financial Information",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/fire_department/index.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/fire_department/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Fire",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/fire_department/staff.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/fire_department/staff.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Staff",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/fire_department/training.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/fire_department/training.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Training",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/fire_department/apparatus.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/fire_department/apparatus.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Apparatus",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/fire_department/prevention.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/fire_department/prevention.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Prevention",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/fire_department/burn_regulations.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/fire_department/burn_regulations.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Burn Regulations",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/fire_department/firefighter_competition/index.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/fire_department/firefighter_competition/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Firefighter Competition",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/fire_department/levy_lid_lift.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/fire_department/levy_lid_lift.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Proposition 1",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/fire_department/faqs.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/fire_department/faqs.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "FAQs",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/municipal_court/index.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/municipal_court/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Municipal Court",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/municipal_court/calendar.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/municipal_court/calendar.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Calendar",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/municipal_court/forms.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/municipal_court/forms.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Forms",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/municipal_court/gr_31_1_administrative_records_request.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/municipal_court/gr_31_1_administrative_records_request.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "GR 31.1 Administrative Records Request",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/municipal_court/payment.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/municipal_court/payment.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Payment",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/municipal_court/prosecutor.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/municipal_court/prosecutor.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Prosecutor",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/municipal_court/public_defender.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/municipal_court/public_defender.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Public Defender",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/municipal_court/resources.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/municipal_court/resources.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Resources",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/municipal_court/recordings.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/municipal_court/recordings.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Recordings",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/municipal_court/state_v_blake.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/municipal_court/state_v_blake.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "State v. Blake",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/police/index.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/police/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Police",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/police/staff.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/police/staff.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Staff",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/police/animal_control.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/police/animal_control.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Animal Control",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/police/code_enforcement.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/police/code_enforcement.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Code Enforcement",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/police/flock_information.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/police/flock_information.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Flock Information",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/police/use_of_force_training_and_policies/policy.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/police/use_of_force_training_and_policies/policy.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Use of Force Training and Policies",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/police/documents.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/police/documents.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Documents",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/police/faq.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/police/faq.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "FAQs",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/public_library/index.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/public_library/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Public Library",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/public_works/index.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/public_works/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Public Works",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/parks_and_recreation/cemetery.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/parks_and_recreation/cemetery.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Cemetery",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/engineering/index.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/engineering/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Engineering",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/maintenance_operations/index.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/maintenance_operations/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Maintenance & Operations",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/parks_and_recreation/index.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/parks_and_recreation/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Parks & Recreation",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/solid_waste/index.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/solid_waste/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Solid Waste",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/stormwater/index.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/stormwater/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Stormwater",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/wastewater/index.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/wastewater/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Wastewater",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/maintenance_operations/staff.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/maintenance_operations/staff.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Staff",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/maintenance_operations/documents.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/maintenance_operations/documents.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Documents",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/maintenance_operations/faqs.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/maintenance_operations/faqs.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "FAQs",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/resources/index.php": {
+                    "url": "https://www.sedro-woolley.gov/resources/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:index",
+                    "text": "Resources",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/resources/doing_business_with_the_city/index.php": {
+                    "url": "https://www.sedro-woolley.gov/resources/doing_business_with_the_city/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "Do Business with the City",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/enotify/index.php": {
+                    "url": "https://www.sedro-woolley.gov/enotify/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:index",
+                    "text": "E-Notifications",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/planning/economic_development/economic_development.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/planning/economic_development/economic_development.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Economic Development",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/resources/employment_opportunities/index.php": {
+                    "url": "https://www.sedro-woolley.gov/resources/employment_opportunities/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:index",
+                    "text": "open positions",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/calendar_app/index.html": {
+                    "url": "https://www.sedro-woolley.gov/calendar_app/index.html",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:index",
+                    "text": "Calendar",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/resources/city_directory.php": {
+                    "url": "https://www.sedro-woolley.gov/resources/city_directory.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:directory, role:city",
+                    "text": "See the City Directory",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/resources/city_facilities_map.php": {
+                    "url": "https://www.sedro-woolley.gov/resources/city_facilities_map.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "See the City Facilities Map",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/resources/social_media/index.php": {
+                    "url": "https://www.sedro-woolley.gov/resources/social_media/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:index",
+                    "text": "Social Media",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/resources/ada_resources/index.php": {
+                    "url": "https://www.sedro-woolley.gov/resources/ada_resources/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:index",
+                    "text": "ADA Resources",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/governing_bodies/index.php": {
+                    "url": "https://www.sedro-woolley.gov/governing_bodies/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:index",
+                    "text": "Governing",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/governing_bodies/city_council/archived_meetings.php": {
+                    "url": "https://www.sedro-woolley.gov/governing_bodies/city_council/archived_meetings.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:council, role:city, designation:council",
+                    "text": "Archived Meetings",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/governing_bodies/city_council/other_information.php": {
+                    "url": "https://www.sedro-woolley.gov/governing_bodies/city_council/other_information.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:council, role:city, designation:council",
+                    "text": "Other Information",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/governing_bodies/city_council/public_comment.php": {
+                    "url": "https://www.sedro-woolley.gov/governing_bodies/city_council/public_comment.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:council, role:city, designation:council",
+                    "text": "Public Comment",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/governing_bodies/city_council/vacant_council_position.php": {
+                    "url": "https://www.sedro-woolley.gov/governing_bodies/city_council/vacant_council_position.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:council, role:city, designation:council",
+                    "text": "Vacant Council Position",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/governing_bodies/civil_service_commission/index.php": {
+                    "url": "https://www.sedro-woolley.gov/governing_bodies/civil_service_commission/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:commission",
+                    "text": "Civil Service Commission",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/planning/hearing_examiner.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/planning/hearing_examiner.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Hearing Examiner",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/governing_bodies/planning_commission/index.php": {
+                    "url": "https://www.sedro-woolley.gov/governing_bodies/planning_commission/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:commission",
+                    "text": "Planning Commission",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/governing_bodies/planning_commission/members.php": {
+                    "url": "https://www.sedro-woolley.gov/governing_bodies/planning_commission/members.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:commission",
+                    "text": "Members",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/governing_bodies/planning_commission/planning_meetings.php": {
+                    "url": "https://www.sedro-woolley.gov/governing_bodies/planning_commission/planning_meetings.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:commission",
+                    "text": "Archived Meetings",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/governing_bodies/library_board/lb_meetings.php": {
+                    "url": "https://www.sedro-woolley.gov/governing_bodies/library_board/LB_Meetings.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:board",
+                    "text": "Library Board (inactive)",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/governing_bodies/tbd_board.php": {
+                    "url": "https://www.sedro-woolley.gov/governing_bodies/tbd_board.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:board",
+                    "text": "TBD Board (inactive)",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/community/index.php": {
+                    "url": "https://www.sedro-woolley.gov/community/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:index",
+                    "text": "Community",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/community/about_our_city.php": {
+                    "url": "https://www.sedro-woolley.gov/community/about_our_city.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "About Our City",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/community/community_bulletin/index.php": {
+                    "url": "https://www.sedro-woolley.gov/community/community_bulletin/index.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:index",
+                    "text": "Community Bulletin",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/parks_and_recreation/community_reader_board.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/parks_and_recreation/community_reader_board.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:board",
+                    "text": "Community Reader Board",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/community/cityscene-magazine.php": {
+                    "url": "https://www.sedro-woolley.gov/community/cityscene-magazine.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "CityScene Magazine Archive",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/building/forms_and_documents.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/building/forms_and_documents.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Find Building Forms & Documents",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/departments/planning/documents.php": {
+                    "url": "https://www.sedro-woolley.gov/departments/planning/documents.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Find Planning Forms & Documents",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://sedro-woolley.gov/calendar.php": {
+                    "url": "https://www.sedro-woolley.gov/calendar.php",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "See the City Calendar",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                }
+            },
+            "queue": [
+                "https://sedro-woolley.gov/resources/city_directory.php",
+                "https://sedro-woolley.gov/departments/administration/mayor.php",
+                "https://sedro-woolley.gov/governing_bodies/city_council/other_information.php",
+                "https://sedro-woolley.gov/governing_bodies/city_council/public_comment.php",
+                "https://sedro-woolley.gov/governing_bodies/city_council/vacant_council_position.php",
+                "https://sedro-woolley.gov/governing_bodies/index.php",
+                "https://sedro-woolley.gov/calendar.php",
+                "https://sedro-woolley.gov/resources/city_facilities_map.php",
+                "https://sedro-woolley.gov/governing_bodies/tbd_board.php",
+                "https://sedro-woolley.gov/community/about_our_city.php",
+                "https://sedro-woolley.gov/governing_bodies/city_council/archived_meetings.php",
+                "https://sedro-woolley.gov/departments/administration/city_administrator.php",
+                "https://sedro-woolley.gov/resources/doing_business_with_the_city/index.php",
+                "https://sedro-woolley.gov/governing_bodies/civil_service_commission/index.php",
+                "https://sedro-woolley.gov/governing_bodies/planning_commission/index.php",
+                "https://sedro-woolley.gov/governing_bodies/planning_commission/members.php",
+                "https://sedro-woolley.gov/governing_bodies/planning_commission/planning_meetings.php",
+                "https://sedro-woolley.gov/governing_bodies/library_board/lb_meetings.php",
+                "https://sedro-woolley.gov/departments/parks_and_recreation/community_reader_board.php",
+                "https://sedro-woolley.gov/index.php",
+                "https://sedro-woolley.gov/departments/index.php",
+                "https://sedro-woolley.gov/resources/index.php",
+                "https://sedro-woolley.gov/enotify/index.php",
+                "https://sedro-woolley.gov/calendar_app/index.html",
+                "https://sedro-woolley.gov/community/index.php",
+                "https://sedro-woolley.gov/community/cityscene-magazine.php",
+                "https://sedro-woolley.gov/departments/administration/index.php",
+                "https://sedro-woolley.gov/departments/building/index.php",
+                "https://sedro-woolley.gov/departments/planning/index.php",
+                "https://sedro-woolley.gov/departments/finance/index.php",
+                "https://sedro-woolley.gov/departments/finance/staff.php",
+                "https://sedro-woolley.gov/departments/finance/business_licenses.php",
+                "https://sedro-woolley.gov/departments/finance/forms_and_documents.php",
+                "https://sedro-woolley.gov/departments/finance/financial_information.php",
+                "https://sedro-woolley.gov/departments/fire_department/index.php",
+                "https://sedro-woolley.gov/departments/fire_department/staff.php",
+                "https://sedro-woolley.gov/departments/fire_department/training.php",
+                "https://sedro-woolley.gov/departments/fire_department/apparatus.php",
+                "https://sedro-woolley.gov/departments/fire_department/prevention.php",
+                "https://sedro-woolley.gov/departments/fire_department/burn_regulations.php",
+                "https://sedro-woolley.gov/departments/fire_department/levy_lid_lift.php",
+                "https://sedro-woolley.gov/departments/fire_department/faqs.php",
+                "https://sedro-woolley.gov/departments/municipal_court/index.php",
+                "https://sedro-woolley.gov/departments/municipal_court/calendar.php",
+                "https://sedro-woolley.gov/departments/municipal_court/forms.php",
+                "https://sedro-woolley.gov/departments/municipal_court/gr_31_1_administrative_records_request.php",
+                "https://sedro-woolley.gov/departments/municipal_court/payment.php",
+                "https://sedro-woolley.gov/departments/municipal_court/prosecutor.php",
+                "https://sedro-woolley.gov/departments/municipal_court/public_defender.php",
+                "https://sedro-woolley.gov/departments/municipal_court/resources.php",
+                "https://sedro-woolley.gov/departments/municipal_court/recordings.php",
+                "https://sedro-woolley.gov/departments/municipal_court/state_v_blake.php",
+                "https://sedro-woolley.gov/departments/police/index.php",
+                "https://sedro-woolley.gov/departments/police/staff.php",
+                "https://sedro-woolley.gov/departments/police/animal_control.php",
+                "https://sedro-woolley.gov/departments/police/code_enforcement.php",
+                "https://sedro-woolley.gov/departments/police/flock_information.php",
+                "https://sedro-woolley.gov/departments/police/documents.php",
+                "https://sedro-woolley.gov/departments/police/faq.php",
+                "https://sedro-woolley.gov/departments/public_library/index.php",
+                "https://sedro-woolley.gov/departments/public_works/index.php",
+                "https://sedro-woolley.gov/departments/parks_and_recreation/cemetery.php",
+                "https://sedro-woolley.gov/departments/engineering/index.php",
+                "https://sedro-woolley.gov/departments/maintenance_operations/index.php",
+                "https://sedro-woolley.gov/departments/parks_and_recreation/index.php",
+                "https://sedro-woolley.gov/departments/solid_waste/index.php",
+                "https://sedro-woolley.gov/departments/stormwater/index.php",
+                "https://sedro-woolley.gov/departments/wastewater/index.php",
+                "https://sedro-woolley.gov/departments/maintenance_operations/staff.php",
+                "https://sedro-woolley.gov/departments/maintenance_operations/documents.php",
+                "https://sedro-woolley.gov/departments/maintenance_operations/faqs.php",
+                "https://sedro-woolley.gov/resources/employment_opportunities/index.php",
+                "https://sedro-woolley.gov/resources/social_media/index.php",
+                "https://sedro-woolley.gov/resources/ada_resources/index.php",
+                "https://sedro-woolley.gov/departments/planning/hearing_examiner.php",
+                "https://sedro-woolley.gov/community/community_bulletin/index.php",
+                "https://sedro-woolley.gov/departments/building/forms_and_documents.php",
+                "https://sedro-woolley.gov/departments/planning/documents.php",
+                "https://sedro-woolley.gov/departments/fire_department/firefighter_competition/index.php",
+                "https://sedro-woolley.gov/departments/police/use_of_force_training_and_policies/policy.php",
+                "https://sedro-woolley.gov/departments/planning/economic_development/economic_development.php"
+            ]
+        },
+        "research_municipality_step": {
+            "expected_count": 8,
+            "target_designations": [
+                "Ward 5",
+                "Ward 1",
+                "Ward 2",
+                "Ward 6",
+                "Ward 3",
+                "Ward 4"
+            ],
+            "known_roles": [
+                "Council Member",
+                "Mayor"
+            ],
+            "identities": {
+                "Nick Lavacca": [],
+                "Kevin Loy": [],
+                "Julia Johnson": [],
+                "JoEllen Kesti": [],
+                "Sarah Diamond": [],
+                "Allan Henderson": [],
+                "Paul Cocke": [],
+                "Joe Burns": []
+            },
+            "source_urls": [
+                "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+            ],
+            "notes": null,
+            "origin_source": "existing"
+        },
+        "preprocess_page_content_step": {
+            "elapsed_times": [
+                7,
+                8,
+                2
+            ],
+            "total_elapsed_time_seconds": 10,
+            "average_elapsed_time_seconds": 3
+        },
+        "process_page_content_step": {
+            "raw_records_by_llm": {
+                "open_router": {
+                    "JoEllen Kesti": [
+                        {
+                            "name": "JoEllen Kesti",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": "360-854-8020",
+                            "email": "swmayor@Sedro-Woolley.gov",
+                            "url": "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php",
+                            "start_date": null,
+                            "end_date": "2027-12-31",
+                            "image": "https://www.sedro-woolley.gov/Governing%20Bodies/Council/Members/MayorKesti.jpg?t=202604101451310",
+                            "source_url": "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                        }
+                    ],
+                    "Kevin Loy": [
+                        {
+                            "name": "Kevin Loy",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Ward 1"
+                            ],
+                            "phone": "360-421-8396",
+                            "email": "ward1@sedro-woolley.gov",
+                            "url": "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php",
+                            "start_date": null,
+                            "end_date": "2027-12-31",
+                            "image": "https://www.sedro-woolley.gov/Governing%20Bodies/Council/Members/Kevin_Loy.png?t=202402151108380",
+                            "source_url": "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                        }
+                    ],
+                    "James Cox": [
+                        {
+                            "name": "James Cox",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Ward 2"
+                            ],
+                            "phone": "360-770-4415",
+                            "email": "ward2@sedro-woolley.gov",
+                            "url": "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php",
+                            "start_date": null,
+                            "end_date": "2027-12-31",
+                            "image": null,
+                            "source_url": "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                        }
+                    ],
+                    "Nora Pederson": [
+                        {
+                            "name": "Nora Pederson",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Ward 3"
+                            ],
+                            "phone": "360-302-5620",
+                            "email": "ward3@sedro-woolley.gov",
+                            "url": "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php",
+                            "start_date": null,
+                            "end_date": "2029-12-31",
+                            "image": "https://www.sedro-woolley.gov/Governing%20Bodies/Council/Members/Nora_Pederson.jpg?t=202601021756440",
+                            "source_url": "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                        }
+                    ],
+                    "Allan Henderson": [
+                        {
+                            "name": "Allan Henderson",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Ward 4"
+                            ],
+                            "phone": "360-540-2708",
+                            "email": "ward4@sedro-woolley.gov",
+                            "url": "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php",
+                            "start_date": null,
+                            "end_date": "2027-12-31",
+                            "image": "https://www.sedro-woolley.gov/Governing%20Bodies/Council/Members/Allan_Henderson.jpg?t=202402151109030",
+                            "source_url": "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                        }
+                    ],
+                    "Paul Cocke": [
+                        {
+                            "name": "Paul Cocke",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Ward 5"
+                            ],
+                            "phone": "360-726-3541",
+                            "email": "ward5@sedro-woolley.gov",
+                            "url": "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php",
+                            "start_date": null,
+                            "end_date": "2027-12-31",
+                            "image": "https://www.sedro-woolley.gov/Governing%20Bodies/Council/Members/Paul_Cocke.jpg?t=202402151109250",
+                            "source_url": "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                        }
+                    ],
+                    "Karl de Jong": [
+                        {
+                            "name": "Karl de Jong",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "Ward 6"
+                            ],
+                            "phone": null,
+                            "email": "ward6@sedro-woolley.gov",
+                            "url": "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://96cf4cd0f501.png",
+                            "source_url": "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                        }
+                    ],
+                    "Nick Lavacca": [
+                        {
+                            "name": "Nick Lavacca",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "At Large"
+                            ],
+                            "phone": "360-298-6543",
+                            "email": "atlarge@sedro-woolley.gov",
+                            "url": "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php",
+                            "start_date": null,
+                            "end_date": "2029-12-31",
+                            "image": "local://2ad78f40aa3d.png",
+                            "source_url": "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                        }
+                    ]
+                }
+            },
+            "records_by_llm": {
+                "open_router": {
+                    "JoEllen Kesti": [
+                        {
+                            "name": "JoEllen Kesti",
+                            "roles": [
+                                "mayor"
+                            ],
+                            "designations": [],
+                            "phone": "(360) 854-8020",
+                            "email": "swmayor@sedro-woolley.gov",
+                            "url": "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php",
+                            "start_date": null,
+                            "end_date": "2027-12-31",
+                            "image": "https://www.sedro-woolley.gov/Governing%20Bodies/Council/Members/MayorKesti.jpg?t=202604101451310",
+                            "source_url": "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                        }
+                    ],
+                    "Kevin Loy": [
+                        {
+                            "name": "Kevin Loy",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Ward 1"
+                            ],
+                            "phone": "(360) 421-8396",
+                            "email": "ward1@sedro-woolley.gov",
+                            "url": "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php",
+                            "start_date": null,
+                            "end_date": "2027-12-31",
+                            "image": "https://www.sedro-woolley.gov/Governing%20Bodies/Council/Members/Kevin_Loy.png?t=202402151108380",
+                            "source_url": "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                        }
+                    ],
+                    "James Cox": [
+                        {
+                            "name": "James Cox",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Ward 2"
+                            ],
+                            "phone": "(360) 770-4415",
+                            "email": "ward2@sedro-woolley.gov",
+                            "url": "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php",
+                            "start_date": null,
+                            "end_date": "2027-12-31",
+                            "image": null,
+                            "source_url": "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                        }
+                    ],
+                    "Nora Pederson": [
+                        {
+                            "name": "Nora Pederson",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Ward 3"
+                            ],
+                            "phone": "(360) 302-5620",
+                            "email": "ward3@sedro-woolley.gov",
+                            "url": "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php",
+                            "start_date": null,
+                            "end_date": "2029-12-31",
+                            "image": "https://www.sedro-woolley.gov/Governing%20Bodies/Council/Members/Nora_Pederson.jpg?t=202601021756440",
+                            "source_url": "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                        }
+                    ],
+                    "Allan Henderson": [
+                        {
+                            "name": "Allan Henderson",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Ward 4"
+                            ],
+                            "phone": "(360) 540-2708",
+                            "email": "ward4@sedro-woolley.gov",
+                            "url": "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php",
+                            "start_date": null,
+                            "end_date": "2027-12-31",
+                            "image": "https://www.sedro-woolley.gov/Governing%20Bodies/Council/Members/Allan_Henderson.jpg?t=202402151109030",
+                            "source_url": "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                        }
+                    ],
+                    "Paul Cocke": [
+                        {
+                            "name": "Paul Cocke",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Ward 5"
+                            ],
+                            "phone": "(360) 726-3541",
+                            "email": "ward5@sedro-woolley.gov",
+                            "url": "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php",
+                            "start_date": null,
+                            "end_date": "2027-12-31",
+                            "image": "https://www.sedro-woolley.gov/Governing%20Bodies/Council/Members/Paul_Cocke.jpg?t=202402151109250",
+                            "source_url": "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                        }
+                    ],
+                    "Karl de Jong": [
+                        {
+                            "name": "Karl de Jong",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "Ward 6"
+                            ],
+                            "phone": null,
+                            "email": "ward6@sedro-woolley.gov",
+                            "url": "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php",
+                            "start_date": null,
+                            "end_date": null,
+                            "image": "local://96cf4cd0f501.png",
+                            "source_url": "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                        }
+                    ],
+                    "Nick Lavacca": [
+                        {
+                            "name": "Nick Lavacca",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "At-Large"
+                            ],
+                            "phone": "(360) 298-6543",
+                            "email": "atlarge@sedro-woolley.gov",
+                            "url": "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php",
+                            "start_date": null,
+                            "end_date": "2029-12-31",
+                            "image": "local://2ad78f40aa3d.png",
+                            "source_url": "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                        }
+                    ]
+                }
+            },
+            "progress": {
+                "required_data": 8,
+                "current_data": 8,
+                "has_target_role": true,
+                "has_target_designations": true
+            }
+        },
+        "merge_records_within_llm_step": {
+            "people_by_llm": {
+                "open_router": [
+                    {
+                        "name": "JoEllen Kesti",
+                        "other_names": [],
+                        "roles": [
+                            "mayor"
+                        ],
+                        "designations": [],
+                        "phones": [
+                            "(360) 854-8020"
+                        ],
+                        "emails": [
+                            "swmayor@sedro-woolley.gov"
+                        ],
+                        "urls": [
+                            "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                        ],
+                        "start_date": "",
+                        "end_date": "2027-12-31",
+                        "image": "https://www.sedro-woolley.gov/Governing%20Bodies/Council/Members/MayorKesti.jpg?t=202604101451310",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:sedro-woolley/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Kevin Loy",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Ward 1"
+                        ],
+                        "phones": [
+                            "(360) 421-8396"
+                        ],
+                        "emails": [
+                            "ward1@sedro-woolley.gov"
+                        ],
+                        "urls": [
+                            "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                        ],
+                        "start_date": "",
+                        "end_date": "2027-12-31",
+                        "image": "https://www.sedro-woolley.gov/Governing%20Bodies/Council/Members/Kevin_Loy.png?t=202402151108380",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:sedro-woolley/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "James Cox",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Ward 2"
+                        ],
+                        "phones": [
+                            "(360) 770-4415"
+                        ],
+                        "emails": [
+                            "ward2@sedro-woolley.gov"
+                        ],
+                        "urls": [
+                            "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                        ],
+                        "start_date": "",
+                        "end_date": "2027-12-31",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:sedro-woolley/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Nora Pederson",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Ward 3"
+                        ],
+                        "phones": [
+                            "(360) 302-5620"
+                        ],
+                        "emails": [
+                            "ward3@sedro-woolley.gov"
+                        ],
+                        "urls": [
+                            "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                        ],
+                        "start_date": "",
+                        "end_date": "2029-12-31",
+                        "image": "https://www.sedro-woolley.gov/Governing%20Bodies/Council/Members/Nora_Pederson.jpg?t=202601021756440",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:sedro-woolley/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Allan Henderson",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Ward 4"
+                        ],
+                        "phones": [
+                            "(360) 540-2708"
+                        ],
+                        "emails": [
+                            "ward4@sedro-woolley.gov"
+                        ],
+                        "urls": [
+                            "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                        ],
+                        "start_date": "",
+                        "end_date": "2027-12-31",
+                        "image": "https://www.sedro-woolley.gov/Governing%20Bodies/Council/Members/Allan_Henderson.jpg?t=202402151109030",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:sedro-woolley/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Paul Cocke",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Ward 5"
+                        ],
+                        "phones": [
+                            "(360) 726-3541"
+                        ],
+                        "emails": [
+                            "ward5@sedro-woolley.gov"
+                        ],
+                        "urls": [
+                            "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                        ],
+                        "start_date": "",
+                        "end_date": "2027-12-31",
+                        "image": "https://www.sedro-woolley.gov/Governing%20Bodies/Council/Members/Paul_Cocke.jpg?t=202402151109250",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:sedro-woolley/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Karl de Jong",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "Ward 6"
+                        ],
+                        "phones": [],
+                        "emails": [
+                            "ward6@sedro-woolley.gov"
+                        ],
+                        "urls": [
+                            "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                        ],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "local://96cf4cd0f501.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:sedro-woolley/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Nick Lavacca",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "At-Large"
+                        ],
+                        "phones": [
+                            "(360) 298-6543"
+                        ],
+                        "emails": [
+                            "atlarge@sedro-woolley.gov"
+                        ],
+                        "urls": [
+                            "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                        ],
+                        "start_date": "",
+                        "end_date": "2029-12-31",
+                        "image": "local://2ad78f40aa3d.png",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:sedro-woolley/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                        ],
+                        "updated_at": ""
+                    }
+                ]
+            },
+            "unrecognized_roles": [],
+            "excluded_people": []
+        },
+        "merge_records_across_llms_step": {
+            "people": [
+                {
+                    "name": "JoEllen Kesti",
+                    "other_names": [],
+                    "roles": [
+                        "mayor"
+                    ],
+                    "designations": [],
+                    "phones": [
+                        "(360) 854-8020"
+                    ],
+                    "emails": [
+                        "swmayor@sedro-woolley.gov"
+                    ],
+                    "urls": [
+                        "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                    ],
+                    "start_date": "",
+                    "end_date": "2027-12-31",
+                    "image": "https://www.sedro-woolley.gov/Governing%20Bodies/Council/Members/MayorKesti.jpg?t=202604101451310",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:sedro-woolley/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                    ],
+                    "updated_at": "2026-07-27T23:57:27+00:00"
+                },
+                {
+                    "name": "Kevin Loy",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "ward 1"
+                    ],
+                    "phones": [
+                        "(360) 421-8396"
+                    ],
+                    "emails": [
+                        "ward1@sedro-woolley.gov"
+                    ],
+                    "urls": [
+                        "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                    ],
+                    "start_date": "",
+                    "end_date": "2027-12-31",
+                    "image": "https://www.sedro-woolley.gov/Governing%20Bodies/Council/Members/Kevin_Loy.png?t=202402151108380",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:sedro-woolley/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                    ],
+                    "updated_at": "2026-07-27T23:57:27+00:00"
+                },
+                {
+                    "name": "James Cox",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "ward 2"
+                    ],
+                    "phones": [
+                        "(360) 770-4415"
+                    ],
+                    "emails": [
+                        "ward2@sedro-woolley.gov"
+                    ],
+                    "urls": [
+                        "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                    ],
+                    "start_date": "",
+                    "end_date": "2027-12-31",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:sedro-woolley/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                    ],
+                    "updated_at": "2026-07-27T23:57:27+00:00"
+                },
+                {
+                    "name": "Nora Pederson",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "ward 3"
+                    ],
+                    "phones": [
+                        "(360) 302-5620"
+                    ],
+                    "emails": [
+                        "ward3@sedro-woolley.gov"
+                    ],
+                    "urls": [
+                        "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                    ],
+                    "start_date": "",
+                    "end_date": "2029-12-31",
+                    "image": "https://www.sedro-woolley.gov/Governing%20Bodies/Council/Members/Nora_Pederson.jpg?t=202601021756440",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:sedro-woolley/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                    ],
+                    "updated_at": "2026-07-27T23:57:27+00:00"
+                },
+                {
+                    "name": "Allan Henderson",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "ward 4"
+                    ],
+                    "phones": [
+                        "(360) 540-2708"
+                    ],
+                    "emails": [
+                        "ward4@sedro-woolley.gov"
+                    ],
+                    "urls": [
+                        "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                    ],
+                    "start_date": "",
+                    "end_date": "2027-12-31",
+                    "image": "https://www.sedro-woolley.gov/Governing%20Bodies/Council/Members/Allan_Henderson.jpg?t=202402151109030",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:sedro-woolley/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                    ],
+                    "updated_at": "2026-07-27T23:57:27+00:00"
+                },
+                {
+                    "name": "Paul Cocke",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "ward 5"
+                    ],
+                    "phones": [
+                        "(360) 726-3541"
+                    ],
+                    "emails": [
+                        "ward5@sedro-woolley.gov"
+                    ],
+                    "urls": [
+                        "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                    ],
+                    "start_date": "",
+                    "end_date": "2027-12-31",
+                    "image": "https://www.sedro-woolley.gov/Governing%20Bodies/Council/Members/Paul_Cocke.jpg?t=202402151109250",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:sedro-woolley/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                    ],
+                    "updated_at": "2026-07-27T23:57:27+00:00"
+                },
+                {
+                    "name": "Karl de Jong",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "ward 6"
+                    ],
+                    "phones": [],
+                    "emails": [
+                        "ward6@sedro-woolley.gov"
+                    ],
+                    "urls": [
+                        "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                    ],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "local://96cf4cd0f501.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:sedro-woolley/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                    ],
+                    "updated_at": "2026-07-27T23:57:27+00:00"
+                },
+                {
+                    "name": "Nick Lavacca",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "at-large"
+                    ],
+                    "phones": [
+                        "(360) 298-6543"
+                    ],
+                    "emails": [
+                        "atlarge@sedro-woolley.gov"
+                    ],
+                    "urls": [
+                        "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                    ],
+                    "start_date": "",
+                    "end_date": "2029-12-31",
+                    "image": "local://2ad78f40aa3d.png",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:sedro-woolley/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                    ],
+                    "updated_at": "2026-07-27T23:57:27+00:00"
+                }
+            ]
+        },
+        "format_output_step": {
+            "officials": [
+                {
+                    "name": "JoEllen Kesti",
+                    "other_names": [],
+                    "phones": [
+                        "(360) 854-8020"
+                    ],
+                    "emails": [
+                        "swmayor@sedro-woolley.gov"
+                    ],
+                    "urls": [
+                        "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                    ],
+                    "start_date": null,
+                    "end_date": "2027-12-31",
+                    "office": {
+                        "name": "Mayor",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:sedro-woolley"
+                    },
+                    "image": "https://www.sedro-woolley.gov/Governing%20Bodies/Council/Members/MayorKesti.jpg?t=202604101451310",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:sedro-woolley/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                    ],
+                    "updated_at": "2026-07-27T23:57:27+00:00",
+                    "id": "9da8c517-0da5-406c-b6ca-0f7f1e9188b4"
+                },
+                {
+                    "name": "Kevin Loy",
+                    "other_names": [],
+                    "phones": [
+                        "(360) 421-8396"
+                    ],
+                    "emails": [
+                        "ward1@sedro-woolley.gov"
+                    ],
+                    "urls": [
+                        "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                    ],
+                    "start_date": null,
+                    "end_date": "2027-12-31",
+                    "office": {
+                        "name": "Council Member",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:sedro-woolley/ward:1"
+                    },
+                    "image": "https://www.sedro-woolley.gov/Governing%20Bodies/Council/Members/Kevin_Loy.png?t=202402151108380",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:sedro-woolley/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                    ],
+                    "updated_at": "2026-07-27T23:57:27+00:00",
+                    "id": "b343fd84-3675-4d1a-bd64-c86fbf3af8aa"
+                },
+                {
+                    "name": "James Cox",
+                    "other_names": [],
+                    "phones": [
+                        "(360) 770-4415"
+                    ],
+                    "emails": [
+                        "ward2@sedro-woolley.gov"
+                    ],
+                    "urls": [
+                        "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                    ],
+                    "start_date": null,
+                    "end_date": "2027-12-31",
+                    "office": {
+                        "name": "Council Member",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:sedro-woolley/ward:2"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:sedro-woolley/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                    ],
+                    "updated_at": "2026-07-27T23:57:27+00:00",
+                    "id": "2ff32da3-700e-406a-a4a7-1ebd97c259ad"
+                },
+                {
+                    "name": "Nora Pederson",
+                    "other_names": [],
+                    "phones": [
+                        "(360) 302-5620"
+                    ],
+                    "emails": [
+                        "ward3@sedro-woolley.gov"
+                    ],
+                    "urls": [
+                        "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                    ],
+                    "start_date": null,
+                    "end_date": "2029-12-31",
+                    "office": {
+                        "name": "Council Member",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:sedro-woolley/ward:3"
+                    },
+                    "image": "https://www.sedro-woolley.gov/Governing%20Bodies/Council/Members/Nora_Pederson.jpg?t=202601021756440",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:sedro-woolley/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                    ],
+                    "updated_at": "2026-07-27T23:57:27+00:00",
+                    "id": "a352ea40-4fb7-433d-8759-69bdbe356484"
+                },
+                {
+                    "name": "Allan Henderson",
+                    "other_names": [],
+                    "phones": [
+                        "(360) 540-2708"
+                    ],
+                    "emails": [
+                        "ward4@sedro-woolley.gov"
+                    ],
+                    "urls": [
+                        "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                    ],
+                    "start_date": null,
+                    "end_date": "2027-12-31",
+                    "office": {
+                        "name": "Council Member",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:sedro-woolley/ward:4"
+                    },
+                    "image": "https://www.sedro-woolley.gov/Governing%20Bodies/Council/Members/Allan_Henderson.jpg?t=202402151109030",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:sedro-woolley/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                    ],
+                    "updated_at": "2026-07-27T23:57:27+00:00",
+                    "id": "5cac07ed-d796-4210-ae50-ea92cbd59042"
+                },
+                {
+                    "name": "Paul Cocke",
+                    "other_names": [],
+                    "phones": [
+                        "(360) 726-3541"
+                    ],
+                    "emails": [
+                        "ward5@sedro-woolley.gov"
+                    ],
+                    "urls": [
+                        "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                    ],
+                    "start_date": null,
+                    "end_date": "2027-12-31",
+                    "office": {
+                        "name": "Council Member",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:sedro-woolley/ward:5"
+                    },
+                    "image": "https://www.sedro-woolley.gov/Governing%20Bodies/Council/Members/Paul_Cocke.jpg?t=202402151109250",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:sedro-woolley/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                    ],
+                    "updated_at": "2026-07-27T23:57:27+00:00",
+                    "id": "3e2cb2b4-d015-4e3e-a18e-d938d89ae6e2"
+                },
+                {
+                    "name": "Karl de Jong",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [
+                        "ward6@sedro-woolley.gov"
+                    ],
+                    "urls": [
+                        "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:sedro-woolley/ward:6"
+                    },
+                    "image": "https://www.sedro-woolley.gov/Governing%20Bodies/Council/Members/KarldeJong.jpg?t=202604061839080",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:sedro-woolley/government",
+                    "cdn_image": "local://96cf4cd0f501.png",
+                    "source_urls": [
+                        "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                    ],
+                    "updated_at": "2026-07-27T23:57:27+00:00",
+                    "id": "4bbc124e-0c5c-4731-ae31-1cd9e3ffee7d"
+                },
+                {
+                    "name": "Nick Lavacca",
+                    "other_names": [],
+                    "phones": [
+                        "(360) 298-6543"
+                    ],
+                    "emails": [
+                        "atlarge@sedro-woolley.gov"
+                    ],
+                    "urls": [
+                        "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                    ],
+                    "start_date": null,
+                    "end_date": "2029-12-31",
+                    "office": {
+                        "name": "Council Member - At-Large",
+                        "division_ocdid": "ocd-division/country:us/state:wa/place:sedro-woolley"
+                    },
+                    "image": "https://www.sedro-woolley.gov/Governing%20Bodies/Council/Members/Nick%20Lavacca%20New%20-%20Copy.jpg?t=202604061244530",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:wa/place:sedro-woolley/government",
+                    "cdn_image": "local://2ad78f40aa3d.png",
+                    "source_urls": [
+                        "https://www.sedro-woolley.gov/governing_bodies/city_council/index.php"
+                    ],
+                    "updated_at": "2026-07-27T23:57:27+00:00",
+                    "id": "411a069a-85ce-4a70-bb12-eb7fd84ad0a4"
+                }
+            ]
+        },
+        "review_output_step": {
+            "issues": [
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: Joe Burns",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: Julia Johnson",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "missing_official",
+                    "message": "Missing official: Sarah Diamond",
+                    "person_ids": [],
+                    "field": null
+                },
+                {
+                    "code": "extra_official",
+                    "message": "Extra official: James Cox",
+                    "person_ids": [
+                        "2ff32da3-700e-406a-a4a7-1ebd97c259ad"
+                    ],
+                    "field": null
+                },
+                {
+                    "code": "extra_official",
+                    "message": "Extra official: Nora Pederson",
+                    "person_ids": [
+                        "a352ea40-4fb7-433d-8759-69bdbe356484"
+                    ],
+                    "field": null
+                },
+                {
+                    "code": "extra_official",
+                    "message": "Extra official: Karl de Jong",
+                    "person_ids": [
+                        "4bbc124e-0c5c-4731-ae31-1cd9e3ffee7d"
+                    ],
+                    "field": null
+                }
+            ],
+            "people_by_source": [
+                {
+                    "name": "Allan Henderson",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "James Cox",
+                    "in_research": false,
+                    "in_data": true
+                },
+                {
+                    "name": "JoEllen Kesti",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Joe Burns",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Julia Johnson",
+                    "in_research": true,
+                    "in_data": false
+                },
+                {
+                    "name": "Karl de Jong",
+                    "in_research": false,
+                    "in_data": true
+                },
+                {
+                    "name": "Kevin Loy",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Nick Lavacca",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Nora Pederson",
+                    "in_research": false,
+                    "in_data": true
+                },
+                {
+                    "name": "Paul Cocke",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Sarah Diamond",
+                    "in_research": true,
+                    "in_data": false
+                }
+            ],
+            "origin_source": "existing"
+        },
+        "find_jurisdiction_url_step": null,
+        "send_success_step": null,
+        "send_error_step": null,
+        "issues": [],
+        "error_step": null,
+        "error_detail": null
+    },
+    "current_state": "SEND_SUCCESS",
+    "request_id": "4fb1c296-e8d6-49df-aa70-e856c9532de4",
+    "created_at": 1785196552.425515,
+    "updated_at": 1785196647.5928333,
+    "progress": 97
+}
