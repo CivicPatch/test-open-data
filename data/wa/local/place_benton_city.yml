@@ -1,114 +1,162 @@
-- name: Len Burton
-  phones:
-  - (509) 588-3322
+- id: 71cf5ffc-1112-431b-bcf5-5a7debf73119
+  name: Camille Aguilar
+  urls:
+  - http://ci.benton-city.wa.us
+  image: ''
   emails:
-  - lburton@ci.benton-city.wa.us
-  urls: []
+  - camille@example.wa.gov
+  labels:
+  - Deputy Mayor / Council Member Position 2
   office:
-    name: Mayor
+    name: Deputy Mayor / Council Member Position 2
     division_ocdid: ocd-division/country:us/state:wa/place:benton_city
-  image: https://www.ci.benton-city.wa.us/files/images/image1751103320010224pm.jpg
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:benton_city/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/benton_city/images/9128d377b726d54414de7f1f6632f9bf7c72c4d832c71622c93a4fbda2b4dbd4.jpg
-  source_urls:
-  - https://www.ci.benton-city.wa.us/pview.aspx?id=21523&catid=669
-  updated_at: '2025-06-25T02:57:10+00:00'
-  start_date: null
-  end_date: '2027-12-31'
-  other_names: []
-  id: 5bc4cfea-7668-4aea-935e-a1592990045d
-- name: William Reed
   phones:
-  - (509) 588-3322
-  emails:
-  - wreed@ci.benton-city.wa.us
-  urls: []
-  office:
-    name: Mayor Pro Tempore
+  - (360) 555-0199
+  end_date: null
+  cdn_image: ''
+  start_date: '2024'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: Position 2
+    post_id: 8710f0df-124b-40a2-9090-e94530528897
+    role_id: deputy-mayor
+    role_label: Deputy Mayor
+    source_labels:
+    - Deputy Mayor / Council Member Position 2
     division_ocdid: ocd-division/country:us/state:wa/place:benton_city
-  image: https://www.ci.benton-city.wa.us/files/images/image1751121626051223PM.jpg
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:benton_city/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/benton_city/images/6bea0b5c96fd4afe0e4c98c204cf9be37bfa40d97be7cf146b9f8de5624be0ca.jpg
-  source_urls:
-  - https://www.ci.benton-city.wa.us/pview.aspx?id=21523&catid=669
-  updated_at: '2025-06-25T02:57:10+00:00'
-  start_date: null
-  end_date: '2025-12-31'
+    post_label: Deputy Mayor
   other_names: []
-  id: dc224805-3bc2-4db3-8fd3-4ce397087461
-- name: Jessica Wadsworth
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:benton_city
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:benton_city/government
+- id: 64c31f30-b76f-4873-a3f5-03da02070a78
+  name: Camille Ferreira
+  urls:
+  - http://ci.benton-city.wa.us
+  image: ''
+  emails: []
+  labels:
+  - Deputy Mayor / Council Member Position 1
+  office:
+    name: Deputy Mayor / Council Member Position 1
+    division_ocdid: ocd-division/country:us/state:wa/place:benton_city
   phones:
-  - (509) 588-3322
-  emails:
-  - jwadsworth@ci.benton-city.wa.us
-  urls: []
-  office:
-    name: Council Member
+  - (360) 555-1234
+  end_date: null
+  cdn_image: ''
+  start_date: '2026'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: Position 1
+    post_id: 8710f0df-124b-40a2-9090-e94530528897
+    role_id: deputy-mayor
+    role_label: Deputy Mayor
+    source_labels:
+    - Deputy Mayor / Council Member Position 1
     division_ocdid: ocd-division/country:us/state:wa/place:benton_city
-  image: https://www.ci.benton-city.wa.us/files/images/image1751111226051623PM.jpg
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:benton_city/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/benton_city/images/99a7bf5794155e95fd9bf94ee7ec312432c262818d1b4bb28e3d65aff21a7854.jpg
-  source_urls:
-  - https://www.ci.benton-city.wa.us/pview.aspx?id=21523&catid=669
-  updated_at: '2025-06-25T02:57:10+00:00'
-  start_date: null
-  end_date: '2025-12-31'
+    post_label: Deputy Mayor
   other_names: []
-  id: 702205aa-6101-4d1c-91c1-9fffc34781fb
-- name: David Sandretto
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:benton_city
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:benton_city/government
+- id: 6508f41e-0f6a-43b8-8485-5553c563a20c
+  name: Carmen Nakamura
+  urls:
+  - http://ci.benton-city.wa.us
+  image: ''
+  emails:
+  - carmen@example.wa.gov
+  labels:
+  - Council Member, Ward 4
+  office:
+    name: Council Member, Ward 4
+    division_ocdid: ocd-division/country:us/state:wa/place:benton_city/ward:4
   phones:
-  - (509) 588-3322
-  emails:
-  - dsandretto@ci.benton-city.wa.us
-  urls: []
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:benton_city
-  image: https://bentoncity.municipalcms.com/files/images/davidsandretto1641043434020816.jpg
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:benton_city/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/benton_city/images/36415e17ee571c37d5ab4575f008ea3c4ff2e1e154194ff9d01f4dbc52c8e90f.jpg
-  source_urls:
-  - https://www.ci.benton-city.wa.us/pview.aspx?id=21523&catid=669
-  updated_at: '2025-06-25T02:57:10+00:00'
-  start_date: null
-  end_date: '2027-12-31'
+  - (360) 555-1234
+  end_date: null
+  cdn_image: ''
+  start_date: '2022-01-01'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: null
+    post_id: 0fbfc3bb-1a08-4d61-aa20-4e6551a2cd12
+    role_id: council-member
+    role_label: Council Member
+    source_labels:
+    - Council Member, Ward 4
+    division_ocdid: ocd-division/country:us/state:wa/place:benton_city/ward:4
+    post_label: Council Member, Ward 4
   other_names: []
-  id: 3245d4e1-8384-48fe-921a-ce130fa17249
-- name: Austin Stephenson
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:benton_city/ward:4
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:benton_city/government
+- id: 246107a1-451d-46bd-8c55-dfd1e9fed127
+  name: Jonas Eze
+  urls:
+  - http://ci.benton-city.wa.us
+  image: ''
+  emails:
+  - jonas@example.wa.gov
+  labels:
+  - Treasurer
+  office:
+    name: Treasurer
+    division_ocdid: ocd-division/country:us/state:wa/place:benton_city
   phones:
-  - (509) 588-3322
-  emails:
-  - astepheson@ci.benton-city.wa.us
-  urls: []
-  office:
-    name: Council Member
+  - (360) 555-0199
+  end_date: null
+  cdn_image: ''
+  start_date: '2025'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: null
+    post_id: dd90d7c3-751a-4f68-9b48-79179b13339e
+    role_id: treasurer
+    role_label: Treasurer
+    source_labels:
+    - Treasurer
     division_ocdid: ocd-division/country:us/state:wa/place:benton_city
-  image: null
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:benton_city/government
-  cdn_image: null
-  source_urls:
-  - https://www.ci.benton-city.wa.us/pview.aspx?id=21523&catid=669
-  updated_at: '2025-06-25T02:57:10+00:00'
-  start_date: null
-  end_date: '2027-12-31'
+    post_label: Treasurer
   other_names: []
-  id: e50aa34c-a3eb-4fa4-a4f0-730b5e83769f
-- name: Dyana Alcazar
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:benton_city
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:benton_city/government
+- id: a193af8b-2554-4a80-b03f-e4451877f23f
+  name: Ursula Kowalczyk
+  urls:
+  - http://ci.benton-city.wa.us
+  image: ''
+  emails:
+  - ursula@example.wa.gov
+  labels:
+  - Council Member At Large
+  - Mayor
+  office:
+    name: Council Member At Large - Mayor
+    division_ocdid: ocd-division/country:us/state:wa/place:benton_city
   phones:
-  - (509) 588-3322
-  emails:
-  - dalcazar@ci.benton-city.wa.us
-  urls: []
-  office:
-    name: Council Member
+  - (360) 555-0177
+  end_date: '2023-11-01'
+  cdn_image: ''
+  start_date: '2022-01-01'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: null
+    post_id: ca299a17-d763-4623-b050-83a73ccc9cbb
+    role_id: mayor
+    role_label: Mayor
+    source_labels:
+    - Council Member At Large
+    - Mayor
     division_ocdid: ocd-division/country:us/state:wa/place:benton_city
-  image: https://www.ci.benton-city.wa.us/files/images/image1750113043010825am.jpg
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:benton_city/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/benton_city/images/86d3e93525213a8023983710d545a72d77eb4b6d10ee96dc7262ef5cb528c6c4.jpg
+    post_label: Mayor
+  other_names:
+  - Ursula Kowalczyk Jr.
   source_urls:
-  - https://www.ci.benton-city.wa.us/pview.aspx?id=21523&catid=669
-  updated_at: '2025-06-25T02:57:10+00:00'
-  start_date: null
-  end_date: '2027-12-31'
-  other_names: []
-  id: 9d51248f-5e6a-4ca3-adae-a69c15acfed5
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:benton_city
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:benton_city/government

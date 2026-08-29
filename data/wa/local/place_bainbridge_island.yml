@@ -1,148 +1,254 @@
-- name: Ashley Mathews
-  phones:
-  - (206) 949-7413
-  emails:
-  - amathews@bainbridgewa.gov
+- id: 4af3aeb8-53d0-49f9-bbd8-7df9f66037a6
+  name: Aoife Gallagher
   urls:
-  - https://www.bainbridgewa.gov/Directory.aspx?EID=338
+  - https://bainbridgewa.gov
+  image: ''
+  emails:
+  - aoife@example.wa.gov
+  labels:
+  - Mayor Pro Tem and Council Member Position 6
+  office:
+    name: Mayor Pro Tem and Council Member Position 6
+    division_ocdid: ocd-division/country:us/state:wa/place:bainbridge_island
+  phones: []
+  end_date: null
+  cdn_image: ''
+  start_date: '2024'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: Position 6, and
+    post_id: 71bfa8d8-0fbe-4894-85f1-e1d868ce6906
+    role_id: mayor-pro-tempore
+    role_label: Mayor Pro Tempore
+    source_labels:
+    - Mayor Pro Tem and Council Member Position 6
+    division_ocdid: ocd-division/country:us/state:wa/place:bainbridge_island
+    post_label: Mayor Pro Tempore
+  other_names: []
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:bainbridge_island
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bainbridge_island/government
+- id: 75bebebe-4ac5-472e-a001-6770ad24e67f
+  name: Bo D'Amico
+  urls:
+  - https://bainbridgewa.gov
+  image: ''
+  emails:
+  - bo@example.wa.gov
+  labels:
+  - Treasurer
+  office:
+    name: Treasurer
+    division_ocdid: ocd-division/country:us/state:wa/place:bainbridge_island
+  phones:
+  - (360) 555-0199
+  end_date: '2022-01-01'
+  cdn_image: ''
+  start_date: '2026'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: null
+    post_id: 6160f955-18fb-4f19-b17d-b42097aac7bb
+    role_id: treasurer
+    role_label: Treasurer
+    source_labels:
+    - Treasurer
+    division_ocdid: ocd-division/country:us/state:wa/place:bainbridge_island
+    post_label: Treasurer
+  other_names: []
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:bainbridge_island
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bainbridge_island/government
+- id: 17a5a2f1-5428-45cc-b71e-f8b991041c30
+  name: Eirik Hoffmann
+  urls:
+  - https://bainbridgewa.gov
+  image: ''
+  emails:
+  - eirik@example.wa.gov
+  labels:
+  - Mayor
   office:
     name: Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:bainbridge_island/council_district:6_-_ward_south
-  image: https://www.bainbridgewa.gov/ImageRepository/Document?documentID=18418
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bainbridge_island/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/bainbridge_island/images/b53b7d2dc65530426ba3c8c65c96c84263fb4a28e57c63835f5af9fdb8f3aa9e.jpg
-  source_urls:
-  - https://bainbridgewa.gov/217/City-Council
-  - https://www.bainbridgewa.gov/Directory.aspx?EID=338
-  updated_at: '2025-06-22T03:31:36+00:00'
-  start_date: null
-  end_date: '2027-12-31'
-  other_names: []
-  id: 2e57bc19-ab85-4d60-b8fe-a5ae104357cd
-- name: Jon Quitslund
-  phones:
-  - (206) 450-6218
-  emails:
-  - jquitslund@bainbridgewa.gov
-  urls:
-  - https://www.bainbridgewa.gov/directory.aspx?EID=293
-  office:
-    name: Deputy Mayor - Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:bainbridge_island/council_district:3_-_ward_south
-  image: https://www.bainbridgewa.gov/ImageRepository/Document?documentID=15697
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bainbridge_island/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/bainbridge_island/images/b49a0c73329eb65b175f8ba00d747e5f5b68e0728b3503f97716ff4c75f0f1ff.jpg
-  source_urls:
-  - https://bainbridgewa.gov/217/City-Council
-  - https://www.bainbridgewa.gov/directory.aspx?EID=293
-  updated_at: '2025-06-22T03:31:36+00:00'
-  start_date: null
-  end_date: '2025-12-31'
-  other_names: []
-  id: a86035d6-82ed-411a-84bd-73d869dd2e88
-- name: Kirsten Hytopoulos
-  phones:
-  - (206) 482-4958
-  emails:
-  - khytopoulos@bainbridgewa.gov
-  urls:
-  - https://www.bainbridgewa.gov/directory.aspx?EID=260
-  office:
-    name: Council Member
     division_ocdid: ocd-division/country:us/state:wa/place:bainbridge_island
-  image: https://www.bainbridgewa.gov/ImageRepository/Document?documentID=18415
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bainbridge_island/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/bainbridge_island/images/42aae6784f544371db8a47d1397e59544533ad87e52be0032856d72e939ee619.jpg
-  source_urls:
-  - https://bainbridgewa.gov/217/City-Council
-  - https://www.bainbridgewa.gov/directory.aspx?EID=260
-  - https://www.bainbridgewa.gov/Directory.aspx?DID=14
-  updated_at: '2025-06-22T03:31:36+00:00'
-  start_date: '2019'
-  end_date: '2027-12-31'
-  other_names: []
-  id: 11ab486b-44bc-4a61-8a7f-9bf10756c9c0
-- name: Brenda Fantroy-Johnson
   phones:
-  - (206) 498-4294
-  emails:
-  - bfantroy-johnson@bainbridgewa.gov
-  urls:
-  - https://www.bainbridgewa.gov/directory.aspx?EID=274
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:bainbridge_island/council_district:2_-_ward_north
-  image: https://www.bainbridgewa.gov/ImageRepository/Document?documentID=18414
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bainbridge_island/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/bainbridge_island/images/981b1af24c91abea5478e38320de1386359c4a441fe88ab55df9f3a58284c3e3.jpg
+  - (360) 555-0177
+  end_date: '2024'
+  cdn_image: ''
+  start_date: '2025'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: null
+    post_id: a2e1a9ff-eaea-4df5-a745-5585c4accfdf
+    role_id: mayor
+    role_label: Mayor
+    source_labels:
+    - Mayor
+    division_ocdid: ocd-division/country:us/state:wa/place:bainbridge_island
+    post_label: Mayor
+  other_names: []
   source_urls:
-  - https://bainbridgewa.gov/217/City-Council
-  - https://www.bainbridgewa.gov/directory.aspx?EID=274
-  updated_at: '2025-06-22T03:31:36+00:00'
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:bainbridge_island
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bainbridge_island/government
+- id: bd964fe4-69cf-46ed-8d69-7181337085da
+  name: Hyun-woo Sørensen
+  urls:
+  - https://bainbridgewa.gov
+  image: ''
+  emails:
+  - hyun-woo@example.wa.gov
+  labels:
+  - Council Member Position 1
+  office:
+    name: Council Member Position 1
+    division_ocdid: ocd-division/country:us/state:wa/place:bainbridge_island
+  phones:
+  - (360) 555-0199
+  end_date: null
+  cdn_image: ''
+  start_date: '2026'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: Position 1
+    post_id: 71765867-4b4e-42e7-afb3-31e8ad7c6314
+    role_id: council-member
+    role_label: Council Member
+    source_labels:
+    - Council Member Position 1
+    division_ocdid: ocd-division/country:us/state:wa/place:bainbridge_island
+    post_label: Council Member
+  other_names: []
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:bainbridge_island
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bainbridge_island/government
+- id: af140264-a19e-406a-939a-a960cb051ff5
+  name: Jonas D'Amico
+  urls:
+  - https://bainbridgewa.gov
+  image: ''
+  emails: []
+  labels:
+  - Treasurer
+  office:
+    name: Treasurer
+    division_ocdid: ocd-division/country:us/state:wa/place:bainbridge_island
+  phones:
+  - (360) 555-0177
+  end_date: null
+  cdn_image: ''
+  start_date: '2023-11-01'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: null
+    post_id: 6160f955-18fb-4f19-b17d-b42097aac7bb
+    role_id: treasurer
+    role_label: Treasurer
+    source_labels:
+    - Treasurer
+    division_ocdid: ocd-division/country:us/state:wa/place:bainbridge_island
+    post_label: Treasurer
+  other_names: []
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:bainbridge_island
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bainbridge_island/government
+- id: 0b098200-a34d-4660-b18f-0891b2e2a01f
+  name: Rosa Aguilar
+  urls:
+  - https://bainbridgewa.gov
+  image: ''
+  emails:
+  - rosa@example.wa.gov
+  labels:
+  - Mayor
+  office:
+    name: Mayor
+    division_ocdid: ocd-division/country:us/state:wa/place:bainbridge_island
+  phones:
+  - (360) 555-0199
+  end_date: '2022-01-01'
+  cdn_image: ''
+  start_date: '2024'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: null
+    post_id: a2e1a9ff-eaea-4df5-a745-5585c4accfdf
+    role_id: mayor
+    role_label: Mayor
+    source_labels:
+    - Mayor
+    division_ocdid: ocd-division/country:us/state:wa/place:bainbridge_island
+    post_label: Mayor
+  other_names: []
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:bainbridge_island
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bainbridge_island/government
+- id: 734606e2-238e-486a-a167-d05dc04f0455
+  name: Sanjay Eze
+  urls:
+  - https://bainbridgewa.gov
+  image: ''
+  emails:
+  - sanjay@example.wa.gov
+  labels:
+  - Council Member Position 3
+  office:
+    name: Council Member Position 3
+    division_ocdid: ocd-division/country:us/state:wa/place:bainbridge_island
+  phones:
+  - (360) 555-1234
+  end_date: null
+  cdn_image: ''
+  start_date: '2024'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: Position 3
+    post_id: 71765867-4b4e-42e7-afb3-31e8ad7c6314
+    role_id: council-member
+    role_label: Council Member
+    source_labels:
+    - Council Member Position 3
+    division_ocdid: ocd-division/country:us/state:wa/place:bainbridge_island
+    post_label: Council Member
+  other_names: []
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:bainbridge_island
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bainbridge_island/government
+- id: 398faaf2-003c-4d51-b4c6-23b4092e9eec
+  name: Zofia Mbeki
+  urls:
+  - https://bainbridgewa.gov
+  image: ''
+  emails:
+  - zofia@example.wa.gov
+  labels:
+  - City Clerk
+  office:
+    name: City Clerk
+    division_ocdid: ocd-division/country:us/state:wa/place:bainbridge_island
+  phones:
+  - (360) 555-0199
+  end_date: null
+  cdn_image: ''
   start_date: null
-  end_date: '2027-12-31'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: null
+    post_id: 3935629e-4b69-4f7d-be4d-0cecbe22d87c
+    role_id: clerk
+    role_label: Clerk
+    source_labels:
+    - City Clerk
+    division_ocdid: ocd-division/country:us/state:wa/place:bainbridge_island
+    post_label: Clerk
   other_names: []
-  id: df769a81-3065-4742-9b8f-bfb3952b2f8d
-- name: Leslie Schneider
-  phones:
-  - (206) 200-4502
-  emails:
-  - lschneider@bainbridgewa.gov
-  urls:
-  - https://www.bainbridgewa.gov/Directory.aspx?EID=250
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:bainbridge_island/council_district:4_-_ward_central
-  image: https://www.bainbridgewa.gov/ImageRepository/Document?documentID=18417
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bainbridge_island/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/bainbridge_island/images/72cbc8b30617bd344ef3dd4bf0221cbd47bd29266203a2b84a90dee33737b181.jpg
   source_urls:
-  - https://bainbridgewa.gov/217/City-Council
-  - https://www.bainbridgewa.gov/Directory.aspx?EID=250
-  updated_at: '2025-06-22T03:31:36+00:00'
-  start_date: '2018'
-  end_date: '2027-12-31'
-  other_names: []
-  id: 694776c4-fb77-4e43-b14e-053c296f8250
-- name: Clarence Moriwaki
-  phones:
-  - (206) 491-6131
-  emails:
-  - cmoriwaki@bainbridgewa.gov
-  urls:
-  - https://www.bainbridgewa.gov/directory.aspx?EID=296
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:bainbridge_island/council_district:5_-_ward_central
-  image: https://www.bainbridgewa.gov/ImageRepository/Document?documentID=15698
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:bainbridge_island
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bainbridge_island/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/bainbridge_island/images/f30124de52b430ac4c80bccf7a90c7b6502e95b8c7b34d805217cb5cf0435163.jpg
-  source_urls:
-  - https://bainbridgewa.gov/217/City-Council
-  - https://www.bainbridgewa.gov/directory.aspx?EID=296
-  updated_at: '2025-06-22T03:31:36+00:00'
-  start_date: null
-  end_date: '2025-12-31'
-  other_names: []
-  id: 7fe08622-7dfb-45c4-8108-90e11500bdcd
-- name: Joe Deets
-  phones:
-  - (206) 473-1864
-  emails:
-  - jdeets@bainbridgewa.gov
-  urls:
-  - https://www.bainbridgewa.gov/directory.aspx?EID=229
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:bainbridge_island/council_district:7_-_ward_north
-  image: https://www.bainbridgewa.gov/ImageRepository/Document?documentID=18376
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bainbridge_island/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/bainbridge_island/images/1997397fe02ec597b38e44381d1e99a210155bc35dfd19378e43335b26b3a37b.jpg
-  source_urls:
-  - https://bainbridgewa.gov/217/City-Council
-  - https://www.bainbridgewa.gov/directory.aspx?EID=229
-  updated_at: '2025-06-22T03:31:36+00:00'
-  start_date: null
-  end_date: '2025-12-31'
-  other_names: []
-  id: 3898574f-38a0-4602-9ccb-4f68ee3f333c

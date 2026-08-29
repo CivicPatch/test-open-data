@@ -1,0 +1,253 @@
+- id: f16aadaa-3013-4fd1-a468-a993eb1652ec
+  name: Eirik Ueda
+  urls:
+  - http://bucoda.us
+  image: ''
+  emails:
+  - eirik@example.wa.gov
+  labels:
+  - Ombudsperson
+  office:
+    name: Ombudsperson
+    division_ocdid: ocd-division/country:us/state:wa/place:bucoda
+  phones:
+  - (360) 555-1234
+  end_date: null
+  cdn_image: ''
+  start_date: '2025'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: Ombudsperson
+    post_id: 21ddaf96-2d0a-41f5-b36b-a5d1c88e6746
+    role_id: unmatched
+    role_label: Unmatched
+    source_labels:
+    - Ombudsperson
+    division_ocdid: ocd-division/country:us/state:wa/place:bucoda
+    post_label: Unmatched
+  other_names: []
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:bucoda
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bucoda/government
+- id: 85abc22b-3482-4278-9019-1c9320fc8591
+  name: Esperanza Nakamura
+  urls:
+  - http://bucoda.us
+  image: ''
+  emails:
+  - esperanza@example.wa.gov
+  labels:
+  - Councilmember Pos. 2
+  office:
+    name: Councilmember Pos. 2
+    division_ocdid: ocd-division/country:us/state:wa/place:bucoda
+  phones:
+  - (360) 555-0199
+  end_date: '2024'
+  cdn_image: ''
+  start_date: '2024-01-01'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: Position 2
+    post_id: 36e7bf9b-0dee-4555-9bd1-3f113512abd1
+    role_id: council-member
+    role_label: Council Member
+    source_labels:
+    - Councilmember Pos. 2
+    division_ocdid: ocd-division/country:us/state:wa/place:bucoda
+    post_label: Council Member
+  other_names: []
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:bucoda
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bucoda/government
+- id: 36186d1d-52f7-41f1-95ae-4f2bc2312d3e
+  name: Jonas Jankowski
+  urls:
+  - http://bucoda.us
+  image: ''
+  emails:
+  - jonas@example.wa.gov
+  labels:
+  - Deputy Mayor / Council Member Position 4
+  office:
+    name: Deputy Mayor / Council Member Position 4
+    division_ocdid: ocd-division/country:us/state:wa/place:bucoda
+  phones:
+  - (360) 555-0199
+  end_date: null
+  cdn_image: ''
+  start_date: '2026'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: Position 4
+    post_id: 577fc168-bac0-4903-b255-8033b90be24d
+    role_id: deputy-mayor
+    role_label: Deputy Mayor
+    source_labels:
+    - Deputy Mayor / Council Member Position 4
+    division_ocdid: ocd-division/country:us/state:wa/place:bucoda
+    post_label: Deputy Mayor
+  other_names: []
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:bucoda
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bucoda/government
+- id: 6b8531b0-2d88-48d6-a591-84e1d8bfea80
+  name: Kwame Quintero
+  urls:
+  - http://bucoda.us
+  image: ''
+  emails:
+  - kwame@example.wa.gov
+  labels:
+  - Mayor
+  office:
+    name: Mayor
+    division_ocdid: ocd-division/country:us/state:wa/place:bucoda
+  phones:
+  - (360) 555-0199
+  end_date: '2023-11-01'
+  cdn_image: ''
+  start_date: '2022-01-01'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: null
+    post_id: 1ac535be-eb9c-4685-892b-1c831bcf8cc8
+    role_id: mayor
+    role_label: Mayor
+    source_labels:
+    - Mayor
+    division_ocdid: ocd-division/country:us/state:wa/place:bucoda
+    post_label: Mayor
+  other_names: []
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:bucoda
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bucoda/government
+- id: 176baeba-ef0d-4693-bc08-aeb9b66a09fd
+  name: Sanjay Sørensen
+  urls:
+  - http://bucoda.us
+  image: ''
+  emails: []
+  labels:
+  - COUNCIL MEMBER WARD 6
+  office:
+    name: COUNCIL MEMBER WARD 6
+    division_ocdid: ocd-division/country:us/state:wa/place:bucoda/ward:6
+  phones:
+  - (360) 555-1234
+  end_date: null
+  cdn_image: ''
+  start_date: null
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: null
+    post_id: 29891480-2505-42fd-b5b5-b8ad78ccccc4
+    role_id: council-member
+    role_label: Council Member
+    source_labels:
+    - COUNCIL MEMBER WARD 6
+    division_ocdid: ocd-division/country:us/state:wa/place:bucoda/ward:6
+    post_label: Council Member, Ward 6
+  other_names: []
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:bucoda/ward:6
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bucoda/government
+- id: 9b7a8ec8-bea3-41ce-897d-0f3b6ebd2ff5
+  name: Tomasz Aguilar
+  urls:
+  - http://bucoda.us
+  image: ''
+  emails: []
+  labels:
+  - COUNCIL MEMBER WARD 5
+  office:
+    name: COUNCIL MEMBER WARD 5
+    division_ocdid: ocd-division/country:us/state:wa/place:bucoda/ward:5
+  phones:
+  - (360) 555-1234
+  end_date: null
+  cdn_image: ''
+  start_date: '2023-11-01'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: null
+    post_id: f08bc9e5-892f-4925-9c99-794c949ef198
+    role_id: council-member
+    role_label: Council Member
+    source_labels:
+    - COUNCIL MEMBER WARD 5
+    division_ocdid: ocd-division/country:us/state:wa/place:bucoda/ward:5
+    post_label: Council Member, Ward 5
+  other_names: []
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:bucoda/ward:5
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bucoda/government
+- id: adab077c-3d2e-498b-8f56-a75c7e49eac3
+  name: Tomasz Kowalczyk
+  urls:
+  - http://bucoda.us
+  image: ''
+  emails:
+  - tomasz@example.wa.gov
+  labels:
+  - Mayor
+  office:
+    name: Mayor
+    division_ocdid: ocd-division/country:us/state:wa/place:bucoda
+  phones:
+  - (360) 555-0177
+  end_date: null
+  cdn_image: ''
+  start_date: '2023-11-01'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: null
+    post_id: 1ac535be-eb9c-4685-892b-1c831bcf8cc8
+    role_id: mayor
+    role_label: Mayor
+    source_labels:
+    - Mayor
+    division_ocdid: ocd-division/country:us/state:wa/place:bucoda
+    post_label: Mayor
+  other_names: []
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:bucoda
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bucoda/government
+- id: 7e2636d2-428d-4b4f-810f-ac7531464538
+  name: Yusuf Nakamura
+  urls:
+  - http://bucoda.us
+  image: ''
+  emails: []
+  labels:
+  - City Clerk
+  office:
+    name: City Clerk
+    division_ocdid: ocd-division/country:us/state:wa/place:bucoda
+  phones:
+  - (360) 555-0177
+  end_date: null
+  cdn_image: ''
+  start_date: null
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: null
+    post_id: bf512df9-9d56-40d4-8732-49a6e3bfcf8a
+    role_id: clerk
+    role_label: Clerk
+    source_labels:
+    - City Clerk
+    division_ocdid: ocd-division/country:us/state:wa/place:bucoda
+    post_label: Clerk
+  other_names: []
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:bucoda
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bucoda/government

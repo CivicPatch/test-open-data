@@ -1,264 +1,219 @@
-- name: Nancy Backus
-  phones:
-  - (253) 931-3041
-  emails:
-  - nbackus@auburnwa.gov
+- id: 83e24e9d-349d-408b-8688-1e299735b084
+  name: Björn Rasmussen
   urls:
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=12521655
+  - https://www.auburnwa.gov/
+  image: ''
+  emails:
+  - björn@example.wa.gov
+  labels:
+  - Deputy Mayor / Council Member Position 3
+  office:
+    name: Deputy Mayor / Council Member Position 3
+    division_ocdid: ocd-division/country:us/state:wa/place:auburn
+  phones: []
+  end_date: null
+  cdn_image: ''
+  start_date: '2022-01-01'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: Position 3
+    post_id: 4e50fffc-96d7-4423-8195-7b1f283d4129
+    role_id: deputy-mayor
+    role_label: Deputy Mayor
+    source_labels:
+    - Deputy Mayor / Council Member Position 3
+    division_ocdid: ocd-division/country:us/state:wa/place:auburn
+    post_label: Deputy Mayor
+  other_names: []
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:auburn
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:auburn/government
+- id: b2ebe579-d78a-43a5-a23c-93f5382a0c9b
+  name: Carmen Sørensen
+  urls:
+  - https://www.auburnwa.gov/
+  image: ''
+  emails:
+  - carmen@example.wa.gov
+  labels:
+  - City Clerk
+  office:
+    name: City Clerk
+    division_ocdid: ocd-division/country:us/state:wa/place:auburn
+  phones:
+  - (360) 555-1234
+  end_date: null
+  cdn_image: ''
+  start_date: '2023-11-01'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: null
+    post_id: 7f58bcc4-c057-4a82-b7e6-4e8edfd8d648
+    role_id: clerk
+    role_label: Clerk
+    source_labels:
+    - City Clerk
+    division_ocdid: ocd-division/country:us/state:wa/place:auburn
+    post_label: Clerk
+  other_names: []
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:auburn
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:auburn/government
+- id: 8cb51870-069a-4e28-9a7e-f7cee4177355
+  name: Grigor Rasmussen
+  urls:
+  - https://www.auburnwa.gov/
+  image: ''
+  emails: []
+  labels:
+  - Councilmember Pos. 4
+  office:
+    name: Councilmember Pos. 4
+    division_ocdid: ocd-division/country:us/state:wa/place:auburn
+  phones:
+  - (360) 555-1234
+  end_date: null
+  cdn_image: ''
+  start_date: '2024'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: Position 4
+    post_id: 48361563-89f7-44c4-b62f-d1e1e25d9fca
+    role_id: council-member
+    role_label: Council Member
+    source_labels:
+    - Councilmember Pos. 4
+    division_ocdid: ocd-division/country:us/state:wa/place:auburn
+    post_label: Council Member
+  other_names: []
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:auburn
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:auburn/government
+- id: 93ddf5d6-6168-42da-8863-996ccd9225c5
+  name: Nadia Kowalczyk
+  urls:
+  - https://www.auburnwa.gov/
+  image: ''
+  emails:
+  - nadia@example.wa.gov
+  labels:
+  - Council Member At Large
+  office:
+    name: Council Member At Large
+    division_ocdid: ocd-division/country:us/state:wa/place:auburn
+  phones: []
+  end_date: null
+  cdn_image: ''
+  start_date: '2024'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: null
+    post_id: 48361563-89f7-44c4-b62f-d1e1e25d9fca
+    role_id: council-member
+    role_label: Council Member
+    source_labels:
+    - Council Member At Large
+    division_ocdid: ocd-division/country:us/state:wa/place:auburn
+    post_label: Council Member
+  other_names: []
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:auburn
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:auburn/government
+- id: 2c97334f-cc63-476e-8943-38f5dd90d611
+  name: Sanjay Kowalczyk
+  urls:
+  - https://www.auburnwa.gov/
+  image: ''
+  emails: []
+  labels:
+  - Poet Laureate
+  office:
+    name: Poet Laureate
+    division_ocdid: ocd-division/country:us/state:wa/place:auburn
+  phones: []
+  end_date: null
+  cdn_image: ''
+  start_date: '2024-01-01'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: Poet Laureate
+    post_id: 9c4d9a8b-993c-489a-a567-ecf010ad52a6
+    role_id: unmatched
+    role_label: Unmatched
+    source_labels:
+    - Poet Laureate
+    division_ocdid: ocd-division/country:us/state:wa/place:auburn
+    post_label: Unmatched
+  other_names: []
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:auburn
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:auburn/government
+- id: b2d86161-76b5-42f6-b7dd-035782eb0b44
+  name: Xiomara Mbeki
+  urls:
+  - https://www.auburnwa.gov/
+  image: ''
+  emails:
+  - xiomara@example.wa.gov
+  labels:
+  - Mayor
   office:
     name: Mayor
     division_ocdid: ocd-division/country:us/state:wa/place:auburn
-  image: https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_11470554/Image/City%20Hall/Mayor/Nancy_Backus_2023_Headshot.jpg
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:auburn/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/auburn/images/a8f4f267ffdc6ee290ca05d3281b927e3fe88332e991c6f14d4da63d8f2653ff.png
-  source_urls:
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=12521708
-  - https://www.auburnwa.gov/cms/one.aspx?portalId=11470638&pageId=19424702
-  - https://www.auburnwa.gov/cms/one.aspx?portalId=11470638&pageId=16316603
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=12521769
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=12521655
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=19424702
-  - https://www.auburnwa.gov/cms/one.aspx?portalId=11470638&pageId=18268118
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=18268118
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=16316603
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=12521755
-  - https://www.auburnwa.gov/cms/one.aspx?portalId=11470638&pageId=16316622
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=16316622
-  - https://www.auburnwa.gov/cms/one.aspx?portalId=11470638&pageId=20799076
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=20799076
-  updated_at: '2025-06-21T03:08:11+00:00'
-  start_date: '2014'
-  end_date: '2025-12-31'
-  other_names: []
-  id: 8ff341dd-f229-4e4b-ad8a-3ee370557ac9
-- name: Cheryl Rakes
   phones:
-  - (253) 259-5531
-  emails:
-  - crakes@auburnwa.gov
-  urls:
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=19424702
-  office:
-    name: Deputy Mayor - Council Member
+  - (360) 555-0199
+  end_date: null
+  cdn_image: ''
+  start_date: '2024'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: null
+    post_id: 9c40e274-aac8-447f-8afd-72c44c3fd7aa
+    role_id: mayor
+    role_label: Mayor
+    source_labels:
+    - Mayor
     division_ocdid: ocd-division/country:us/state:wa/place:auburn
-  image: https://www.auburnwa.gov/UserFiles/Servers/Server_11470554/Image/City%20Hall/City%20Councilmembers/cheryl_vert.jpg
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:auburn/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/auburn/images/6504190e1bf3de698f8bd49f17736b86eefddd233b74cab70789b7350616b417.jpg
-  source_urls:
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=12521708
-  - https://www.auburnwa.gov/cms/one.aspx?portalId=11470638&pageId=16316603
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=12521769
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=12521655
-  - https://www.auburnwa.gov/cms/one.aspx?portalId=11470638&pageId=18268118
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=18268118
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=16316603
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=12521755
-  - https://www.auburnwa.gov/cms/one.aspx?portalId=11470638&pageId=16316622
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=16316622
-  - https://www.auburnwa.gov/cms/one.aspx?portalId=11470638&pageId=20799076
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=20799076
-  - https://www.auburnwa.gov/cms/one.aspx?portalId=11470638&pageId=19424702
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=19424702
-  updated_at: '2025-06-21T03:08:11+00:00'
-  start_date: '2023-02-06'
-  end_date: '2023-12-31'
+    post_label: Mayor
   other_names: []
-  id: 9f5d78db-3469-4a08-990c-e47af9aac57f
-- name: Clinton Taylor
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:auburn
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:auburn/government
+- id: b5d3babe-2070-4b02-b85f-81e3e07f99ad
+  name: Yusuf Gallagher
+  urls:
+  - https://www.auburnwa.gov/
+  image: ''
+  emails:
+  - yusuf@example.wa.gov
+  labels:
+  - Councilmember Pos. 2
+  office:
+    name: Councilmember Pos. 2
+    division_ocdid: ocd-division/country:us/state:wa/place:auburn
   phones:
-  - (253) 308-5204
-  emails:
-  - ctaylor@auburnwa.gov
-  urls:
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=16316622
-  office:
-    name: Council Member
+  - (360) 555-0177
+  end_date: null
+  cdn_image: ''
+  start_date: '2025'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: Position 2
+    post_id: 48361563-89f7-44c4-b62f-d1e1e25d9fca
+    role_id: council-member
+    role_label: Council Member
+    source_labels:
+    - Councilmember Pos. 2
     division_ocdid: ocd-division/country:us/state:wa/place:auburn
-  image: https://www.auburnwa.gov/UserFiles/Servers/Server_11470554/Image/City%20Hall/City%20Councilmembers/Clinton_vert.jpg
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:auburn/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/auburn/images/6de6d3fb2affc5293689ceb25c5a7f91b5ccb4540f05eaa85a7630dbb6d11065.jpg
-  source_urls:
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=12521708
-  - https://www.auburnwa.gov/cms/one.aspx?portalId=11470638&pageId=19424702
-  - https://www.auburnwa.gov/cms/one.aspx?portalId=11470638&pageId=16316603
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=12521769
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=12521655
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=19424702
-  - https://www.auburnwa.gov/cms/one.aspx?portalId=11470638&pageId=18268118
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=18268118
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=16316603
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=12521755
-  - https://www.auburnwa.gov/cms/one.aspx?portalId=11470638&pageId=16316622
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=16316622
-  - https://www.auburnwa.gov/cms/one.aspx?portalId=11470638&pageId=20799076
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=20799076
-  updated_at: '2025-06-21T03:08:11+00:00'
-  start_date: '2024-01-01'
-  end_date: '2027-12-31'
+    post_label: Council Member
   other_names: []
-  id: 34fc90b3-8f96-40d2-9f8b-aa5eb7890eff
-- name: Kate Baldwin
-  phones:
-  - (253) 259-0861
-  emails:
-  - kbaldwin@auburnwa.gov
-  urls:
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=18268118
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:auburn
-  image: https://www.auburnwa.gov/UserFiles/Servers/Server_11470554/Image/City%20Hall/City%20Councilmembers/kate_vert.jpg
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:auburn/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/auburn/images/4ef2a3d4a7354e27644e4ace8ab1c6e8fa8404846d84325414c9df3aedb33d60.png
   source_urls:
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=12521708
-  - https://www.auburnwa.gov/cms/one.aspx?portalId=11470638&pageId=19424702
-  - https://www.auburnwa.gov/cms/one.aspx?portalId=11470638&pageId=16316603
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=12521769
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=12521655
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=19424702
-  - https://www.auburnwa.gov/cms/one.aspx?portalId=11470638&pageId=18268118
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=18268118
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=16316603
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=12521755
-  - https://www.auburnwa.gov/cms/one.aspx?portalId=11470638&pageId=16316622
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=16316622
-  - https://www.auburnwa.gov/cms/one.aspx?portalId=11470638&pageId=20799076
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=20799076
-  updated_at: '2025-06-21T03:08:11+00:00'
-  start_date: '2022-01-01'
-  end_date: '2025-12-31'
-  other_names: []
-  id: 4c1df12e-0bc2-4e50-97d9-43da3f8341fd
-- name: Tracy Taylor-Turner
-  phones:
-  - (253) 308-5171
-  emails:
-  - ttaylor@auburnwa.gov
-  urls:
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=16316603
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:auburn
-  image: https://auburnwa.gov/UserFiles/Servers/Server_11470554/Image/City%20Hall/City%20Councilmembers/Tracy_Vert.jpg
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:auburn
   jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:auburn/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/auburn/images/183e51dc5761eeff0d336567fcd767844015545a689e7af999ad98b196e653a4.png
-  source_urls:
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=12521708
-  - https://www.auburnwa.gov/cms/one.aspx?portalId=11470638&pageId=19424702
-  - https://www.auburnwa.gov/cms/one.aspx?portalId=11470638&pageId=16316603
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=12521769
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=12521655
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=19424702
-  - https://www.auburnwa.gov/cms/one.aspx?portalId=11470638&pageId=18268118
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=18268118
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=16316603
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=12521755
-  - https://www.auburnwa.gov/cms/one.aspx?portalId=11470638&pageId=16316622
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=16316622
-  - https://www.auburnwa.gov/cms/one.aspx?portalId=11470638&pageId=20799076
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=20799076
-  updated_at: '2025-06-21T03:08:11+00:00'
-  start_date: '2024-01-01'
-  end_date: '2027-12-31'
-  other_names: []
-  id: 5895273f-27f9-49ca-992b-9a73bc3b84fd
-- name: Yolanda Trout-Manuel
-  phones:
-  - (253) 288-4310
-  emails:
-  - ytrout@auburnwa.gov
-  urls:
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=12521755
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:auburn
-  image: https://www.auburnwa.gov/UserFiles/Servers/Server_11470554/Image/City%20Hall/City%20Councilmembers/yolanda_vert.jpg
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:auburn/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/auburn/images/debe4e62c74177b151c07f36ff82a39f12c87ed822c938905979477fd3f3764f.jpg
-  source_urls:
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=12521708
-  - https://www.auburnwa.gov/cms/one.aspx?portalId=11470638&pageId=19424702
-  - https://www.auburnwa.gov/cms/one.aspx?portalId=11470638&pageId=16316603
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=12521769
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=12521655
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=19424702
-  - https://www.auburnwa.gov/cms/one.aspx?portalId=11470638&pageId=18268118
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=18268118
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=16316603
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=12521755
-  - https://www.auburnwa.gov/cms/one.aspx?portalId=11470638&pageId=16316622
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=16316622
-  - https://www.auburnwa.gov/cms/one.aspx?portalId=11470638&pageId=20799076
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=20799076
-  updated_at: '2025-06-21T03:08:11+00:00'
-  start_date: '2022-01-01'
-  end_date: '2025-12-31'
-  other_names: []
-  id: 7d7d1b3a-f665-4380-b7e2-f973a92fa681
-- name: Lisa Stirgus
-  phones:
-  - (253) 258-1898
-  emails:
-  - Lstirgus@auburnwa.gov
-  urls:
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=20799076
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:auburn
-  image: https://www.auburnwa.gov/UserFiles/Servers/Server_11470554/Image/City%20Hall/City%20Councilmembers/Stirgus_Vert.jpg
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:auburn/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/auburn/images/254a92f6d5c5642126cdac6f14bdd1a2b0dcebbc9ccf9e350dad0cc2b83b4dcb.jpg
-  source_urls:
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=12521708
-  - https://www.auburnwa.gov/cms/one.aspx?portalId=11470638&pageId=19424702
-  - https://www.auburnwa.gov/cms/one.aspx?portalId=11470638&pageId=16316603
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=12521769
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=12521655
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=19424702
-  - https://www.auburnwa.gov/cms/one.aspx?portalId=11470638&pageId=18268118
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=18268118
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=16316603
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=12521755
-  - https://www.auburnwa.gov/cms/one.aspx?portalId=11470638&pageId=16316622
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=16316622
-  - https://www.auburnwa.gov/cms/one.aspx?portalId=11470638&pageId=20799076
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=20799076
-  updated_at: '2025-06-21T03:08:11+00:00'
-  start_date: '2025-04-15'
-  end_date: '2025-12-31'
-  other_names: []
-  id: 4ad10465-edb2-49ae-a92f-6b39c3dc5b93
-- name: Hanan Amer
-  phones:
-  - (253) 388-3350
-  emails:
-  - hamer@auburnwa.gov
-  urls:
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=12521769
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:auburn
-  image: https://www.auburnwa.gov/UserFiles/Servers/Server_11470554/Image/City%20Hall/City%20Councilmembers/Hanan_vert.jpg
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:auburn/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/auburn/images/e00edbf7108b6843befcc2c173fcdb5008127850d2440101b4159f21915d0288.png
-  source_urls:
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=12521708
-  - https://www.auburnwa.gov/cms/one.aspx?portalId=11470638&pageId=19424702
-  - https://www.auburnwa.gov/cms/one.aspx?portalId=11470638&pageId=16316603
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=12521769
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=12521655
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=19424702
-  - https://www.auburnwa.gov/cms/one.aspx?portalId=11470638&pageId=18268118
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=18268118
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=16316603
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=12521755
-  - https://www.auburnwa.gov/cms/one.aspx?portalId=11470638&pageId=16316622
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=16316622
-  - https://www.auburnwa.gov/cms/one.aspx?portalId=11470638&pageId=20799076
-  - https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=20799076
-  updated_at: '2025-06-21T03:08:11+00:00'
-  start_date: '2024-01-01'
-  end_date: '2027-12-31'
-  other_names: []
-  id: a7e36abb-693a-41d4-a401-4cecceb0051a

@@ -1,0 +1,221 @@
+- id: 5733118a-83dc-472a-a2f6-afe534bf1c9d
+  name: Ada Tanaka
+  urls:
+  - http://www.ci.brier.wa.us/
+  image: ''
+  emails:
+  - ada@example.wa.gov
+  labels:
+  - Sergeant at Arms
+  office:
+    name: Sergeant at Arms
+    division_ocdid: ocd-division/country:us/state:wa/place:brier
+  phones:
+  - (360) 555-0177
+  end_date: null
+  cdn_image: ''
+  start_date: '2025'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: Sergeant at Arms
+    post_id: 776b13ef-2960-4242-82ef-c36785866d41
+    role_id: unmatched
+    role_label: Unmatched
+    source_labels:
+    - Sergeant at Arms
+    division_ocdid: ocd-division/country:us/state:wa/place:brier
+    post_label: Unmatched
+  other_names: []
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:brier
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:brier/government
+- id: 54a37784-d835-475e-ba99-96b091524795
+  name: Deshawn Ibarra
+  urls:
+  - http://www.ci.brier.wa.us/
+  image: ''
+  emails:
+  - deshawn@example.wa.gov
+  labels:
+  - Mayor
+  office:
+    name: Mayor
+    division_ocdid: ocd-division/country:us/state:wa/place:brier
+  phones:
+  - (360) 555-0199
+  end_date: null
+  cdn_image: ''
+  start_date: null
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: null
+    post_id: 71519ff8-6287-415d-9549-d69e34b255d9
+    role_id: mayor
+    role_label: Mayor
+    source_labels:
+    - Mayor
+    division_ocdid: ocd-division/country:us/state:wa/place:brier
+    post_label: Mayor
+  other_names: []
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:brier
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:brier/government
+- id: fbf23f52-4ce2-4f51-83e3-fbc4d0c76825
+  name: Esperanza D'Amico
+  urls:
+  - http://www.ci.brier.wa.us/
+  image: ''
+  emails:
+  - esperanza@example.wa.gov
+  labels:
+  - COUNCIL MEMBER WARD 1
+  office:
+    name: COUNCIL MEMBER WARD 1
+    division_ocdid: ocd-division/country:us/state:wa/place:brier/ward:1
+  phones:
+  - (360) 555-1234
+  end_date: '2023-11-01'
+  cdn_image: ''
+  start_date: '2024-01-01'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: null
+    post_id: d907e3a1-7515-408e-a75c-213978d8d60d
+    role_id: council-member
+    role_label: Council Member
+    source_labels:
+    - COUNCIL MEMBER WARD 1
+    division_ocdid: ocd-division/country:us/state:wa/place:brier/ward:1
+    post_label: Council Member, Ward 1
+  other_names: []
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:brier/ward:1
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:brier/government
+- id: 728144cb-39d4-44f6-81ac-93ea6f117eeb
+  name: Grigor Xu
+  urls:
+  - http://www.ci.brier.wa.us/
+  image: ''
+  emails: []
+  labels:
+  - City Clerk
+  office:
+    name: City Clerk
+    division_ocdid: ocd-division/country:us/state:wa/place:brier
+  phones:
+  - (360) 555-1234
+  end_date: null
+  cdn_image: ''
+  start_date: '2022-01-01'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: null
+    post_id: 5f48529a-54ce-40d9-b79e-c18e1491fafe
+    role_id: clerk
+    role_label: Clerk
+    source_labels:
+    - City Clerk
+    division_ocdid: ocd-division/country:us/state:wa/place:brier
+    post_label: Clerk
+  other_names: []
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:brier
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:brier/government
+- id: 41c8ee52-21b0-4d77-a194-0dffcad6a0f5
+  name: Hana Tanaka
+  urls:
+  - http://www.ci.brier.wa.us/
+  image: ''
+  emails: []
+  labels:
+  - Deputy Mayor / Council Member Position 4
+  office:
+    name: Deputy Mayor / Council Member Position 4
+    division_ocdid: ocd-division/country:us/state:wa/place:brier
+  phones:
+  - (360) 555-0199
+  end_date: null
+  cdn_image: ''
+  start_date: '2025'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: Position 4
+    post_id: c19e9c35-7e52-41cb-9d9a-dd63d2fbad50
+    role_id: deputy-mayor
+    role_label: Deputy Mayor
+    source_labels:
+    - Deputy Mayor / Council Member Position 4
+    division_ocdid: ocd-division/country:us/state:wa/place:brier
+    post_label: Deputy Mayor
+  other_names: []
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:brier
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:brier/government
+- id: a3b1260a-0a5d-4a7e-8961-0aad103f1a8b
+  name: Rosa Kowalczyk
+  urls:
+  - http://www.ci.brier.wa.us/
+  image: ''
+  emails:
+  - rosa@example.wa.gov
+  labels:
+  - Municipal Judge
+  office:
+    name: Municipal Judge
+    division_ocdid: ocd-division/country:us/state:wa/place:brier
+  phones: []
+  end_date: null
+  cdn_image: ''
+  start_date: '2024'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: Municipal Judge
+    post_id: 776b13ef-2960-4242-82ef-c36785866d41
+    role_id: unmatched
+    role_label: Unmatched
+    source_labels:
+    - Municipal Judge
+    division_ocdid: ocd-division/country:us/state:wa/place:brier
+    post_label: Unmatched
+  other_names: []
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:brier
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:brier/government
+- id: 59c25e96-aed5-45c7-9c39-abdb81e437c2
+  name: Yusuf Nakamura
+  urls:
+  - http://www.ci.brier.wa.us/
+  image: ''
+  emails:
+  - yusuf@example.wa.gov
+  labels:
+  - council member position 2
+  office:
+    name: council member position 2
+    division_ocdid: ocd-division/country:us/state:wa/place:brier
+  phones:
+  - (360) 555-0177
+  end_date: null
+  cdn_image: ''
+  start_date: '2026'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: Position 2
+    post_id: ad1b3d2a-e317-40af-b67c-7fb0028f1b85
+    role_id: council-member
+    role_label: Council Member
+    source_labels:
+    - council member position 2
+    division_ocdid: ocd-division/country:us/state:wa/place:brier
+    post_label: Council Member
+  other_names: []
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:brier
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:brier/government

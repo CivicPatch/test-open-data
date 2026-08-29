@@ -1,108 +1,127 @@
-- name: Sergio Orozco
-  phones: []
+- id: ff9d206f-c63d-41f0-bea1-fe987b70cc50
+  name: Giulia D'Amico
+  urls:
+  - http://www.bridgeportwashington.net/
+  image: ''
   emails:
-  - Mayor@BridgeportWA.net
-  urls: []
+  - giulia@example.wa.gov
+  labels:
+  - Dogcatcher
+  office:
+    name: Dogcatcher
+    division_ocdid: ocd-division/country:us/state:wa/place:bridgeport
+  phones:
+  - (360) 555-1234
+  end_date: null
+  cdn_image: ''
+  start_date: '2022-01-01'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: Dogcatcher
+    post_id: 1ca9465c-b005-4677-8cb7-dceaf1033ac8
+    role_id: unmatched
+    role_label: Unmatched
+    source_labels:
+    - Dogcatcher
+    division_ocdid: ocd-division/country:us/state:wa/place:bridgeport
+    post_label: Unmatched
+  other_names: []
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:bridgeport
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bridgeport/government
+- id: 9c817e21-3c81-41b0-99cf-c98311043e39
+  name: Jonas D'Amico
+  urls:
+  - http://www.bridgeportwashington.net/
+  image: ''
+  emails:
+  - jonas@example.wa.gov
+  labels:
+  - Mayor
   office:
     name: Mayor
     division_ocdid: ocd-division/country:us/state:wa/place:bridgeport
-  image: null
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bridgeport/government
-  cdn_image: null
-  source_urls:
-  - https://bridgeportwashington.net/ova_dep/mayors-office
-  updated_at: '2025-06-25T22:14:25+00:00'
-  start_date: 2024-01
+  phones:
+  - (360) 555-1234
   end_date: null
-  other_names: []
-  id: 6191b540-955b-4054-8a1f-17ec45e2465d
-- name: Matthew Schuh
-  phones: []
-  emails:
-  - CouncilSchuh@BridgeportWA.net
-  urls: []
-  office:
-    name: Council Member
+  cdn_image: ''
+  start_date: '2022-01-01'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: null
+    post_id: bf9e59ce-a38f-40ed-96a2-fa2e65b75b85
+    role_id: mayor
+    role_label: Mayor
+    source_labels:
+    - Mayor
     division_ocdid: ocd-division/country:us/state:wa/place:bridgeport
-  image: null
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bridgeport/government
-  cdn_image: null
-  source_urls:
-  - https://bridgeportwashington.net/ova_dep/mayors-office
-  updated_at: '2025-06-25T22:14:25+00:00'
-  start_date: null
-  end_date: 2025-12
+    post_label: Mayor
   other_names: []
-  id: 503862a1-4ea3-4516-85e9-362c6c1ab792
-- name: Mike Bjornstad
-  phones: []
-  emails:
-  - CouncilBjornstad@BridgeportWA.net
-  urls: []
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:bridgeport
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bridgeport/government
+- id: d0ed8b3d-da4d-45c1-83e4-06f0874f79e6
+  name: Viktor Whitfield
+  urls:
+  - http://www.bridgeportwashington.net/
+  image: ''
+  emails: []
+  labels:
+  - Mayor
   office:
-    name: Council Member
+    name: Mayor
     division_ocdid: ocd-division/country:us/state:wa/place:bridgeport
-  image: null
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bridgeport/government
-  cdn_image: null
-  source_urls:
-  - https://bridgeportwashington.net/ova_dep/mayors-office
-  updated_at: '2025-06-25T22:14:25+00:00'
-  start_date: null
-  end_date: 2025-12
+  phones:
+  - (360) 555-1234
+  end_date: null
+  cdn_image: ''
+  start_date: '2024'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: null
+    post_id: bf9e59ce-a38f-40ed-96a2-fa2e65b75b85
+    role_id: mayor
+    role_label: Mayor
+    source_labels:
+    - Mayor
+    division_ocdid: ocd-division/country:us/state:wa/place:bridgeport
+    post_label: Mayor
   other_names: []
-  id: 493bf40f-9740-4fe0-ba4d-53e62597d59b
-- name: Jacqueline Hentges
-  phones: []
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:bridgeport
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bridgeport/government
+- id: 955c964b-fc2d-41c6-bb7b-12e77d7890d9
+  name: Yusuf Ferreira
+  urls:
+  - http://www.bridgeportwashington.net/
+  image: ''
   emails:
-  - CouncilHentges@BridgeportWA.net
-  urls: []
+  - yusuf@example.wa.gov
+  labels:
+  - Mayor
   office:
-    name: Council Member
+    name: Mayor
     division_ocdid: ocd-division/country:us/state:wa/place:bridgeport
-  image: null
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bridgeport/government
-  cdn_image: null
-  source_urls:
-  - https://bridgeportwashington.net/ova_dep/mayors-office
-  updated_at: '2025-06-25T22:14:25+00:00'
-  start_date: null
-  end_date: 2025-12
-  other_names: []
-  id: 62231862-f830-41f1-b424-9f61337b28f0
-- name: Paul Anson
-  phones: []
-  emails:
-  - CouncilAnson@BridgeportWA.net
-  urls: []
-  office:
-    name: Council Member
+  phones:
+  - (360) 555-0199
+  end_date: null
+  cdn_image: ''
+  start_date: '2024'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: null
+    post_id: bf9e59ce-a38f-40ed-96a2-fa2e65b75b85
+    role_id: mayor
+    role_label: Mayor
+    source_labels:
+    - Mayor
     division_ocdid: ocd-division/country:us/state:wa/place:bridgeport
-  image: null
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bridgeport/government
-  cdn_image: null
-  source_urls:
-  - https://bridgeportwashington.net/ova_dep/mayors-office
-  updated_at: '2025-06-25T22:14:25+00:00'
-  start_date: null
-  end_date: 2027-12
+    post_label: Mayor
   other_names: []
-  id: 3c399db0-558e-4c9d-8f13-7f17721fa0c3
-- name: Esiquio Martinez
-  phones: []
-  emails:
-  - CouncilMartinez@BridgeportWA.net
-  urls: []
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:bridgeport
-  image: null
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bridgeport/government
-  cdn_image: null
   source_urls:
-  - https://bridgeportwashington.net/ova_dep/mayors-office
-  updated_at: '2025-06-25T22:14:25+00:00'
-  start_date: null
-  end_date: 2027-12
-  other_names: []
-  id: 65ce3430-64ee-4285-b8a3-70fa7a72e1f2
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:bridgeport
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bridgeport/government

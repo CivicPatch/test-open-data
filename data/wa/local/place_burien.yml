@@ -1,171 +1,190 @@
-- name: Kevin Schilling
-  phones:
-  - (206) 241-4647
-  emails:
-  - kevins@burienwa.gov
+- id: f22ec6b5-4d2d-4959-a229-6b1c1c71fcec
+  name: Dae-ho Whitfield
   urls:
-  - https://www.burienwa.gov/city_hall/city_council/mayor_kevin_schilling
-  office:
-    name: Mayor - Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:burien
-  image: https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_11045935/Image/City%20Hall/City%20Council/Kevin-Schilling-2024.jpg
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:burien/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/burien/images/b7b7e7c03136b6b084e54f36d799117942258dd837c4149c151e2609d7dfde07.jpg
-  source_urls:
-  - https://www.burienwa.gov/city_hall
-  - https://www.burienwa.gov/city_hall/city_council/mayor_kevin_schilling
-  - https://www.burienwa.gov/city_hall/city_council/linda_akey
-  - https://www.burienwa.gov/city_hall/city_council/alex_andrade
-  - https://www.burienwa.gov/city_hall/city_council/deputy_mayor_stephanie_mora
-  updated_at: '2025-06-21T03:01:10+00:00'
-  start_date: '2024-01-01'
-  end_date: '2027-12-31'
-  other_names: []
-  id: 7c0e3c5b-d430-4e11-a87f-36a131be6f81
-- name: Sarah Moore
-  phones:
-  - (206) 241-4647
+  - https://www.burienwa.gov/
+  image: ''
   emails:
-  - sarahm@burienwa.gov
-  urls:
-  - https://www.burienwa.gov/city_hall/city_council/sarah_moore
+  - dae-ho@example.wa.gov
+  labels:
+  - Treasurer
   office:
-    name: Deputy Mayor - Council Member
+    name: Treasurer
     division_ocdid: ocd-division/country:us/state:wa/place:burien
-  image: https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_11045935/Image/City%20Hall/City%20Council/Sarah-Moore-2024.jpg
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:burien/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/burien/images/2fd9f27bcbecae432b04528500b71d8df5eed59134e2492338ecf92d5b55efb4.jpg
-  source_urls:
-  - https://www.burienwa.gov/city_hall
-  - https://www.burienwa.gov/city_hall/city_council/mayor_kevin_schilling
-  - https://www.burienwa.gov/city_hall/city_council/sarah_moore
-  - https://www.burienwa.gov/city_hall/city_council/linda_akey
-  - https://www.burienwa.gov/city_hall/city_council/alex_andrade
-  - https://www.burienwa.gov/city_hall/city_council/deputy_mayor_stephanie_mora
-  updated_at: '2025-06-21T03:01:10+00:00'
-  start_date: '2022-01-01'
-  end_date: '2025-12-31'
-  other_names: []
-  id: cbfe2995-dbd1-42df-b8cd-70c17aca002a
-- name: Stephanie Mora
   phones:
-  - (206) 241-4647
-  emails:
-  - stephaniem@burienwa.gov
-  urls:
-  - https://www.burienwa.gov/city_hall/city_council/deputy_mayor_stephanie_mora
-  office:
-    name: Deputy Mayor - Council Member
+  - (360) 555-0199
+  end_date: null
+  cdn_image: ''
+  start_date: '2023-11-01'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: null
+    post_id: 2a1f61bf-6b32-4583-8696-b09968665800
+    role_id: treasurer
+    role_label: Treasurer
+    source_labels:
+    - Treasurer
     division_ocdid: ocd-division/country:us/state:wa/place:burien
-  image: https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_11045935/Image/City%20Hall/City%20Council/Stephanie-Mora-2024.jpg
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:burien/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/burien/images/440725f766930db19a40f5f7c3b922e27ad36855a02bae7b5e12ae4e4f58be2c.jpg
-  source_urls:
-  - https://www.burienwa.gov/city_hall
-  - https://www.burienwa.gov/city_hall/city_council/mayor_kevin_schilling
-  - https://www.burienwa.gov/city_hall/city_council/linda_akey
-  - https://www.burienwa.gov/city_hall/city_council/alex_andrade
-  - https://www.burienwa.gov/city_hall/city_council/deputy_mayor_stephanie_mora
-  updated_at: '2025-06-21T03:01:10+00:00'
-  start_date: '2022-01-01'
-  end_date: '2025-12-31'
+    post_label: Treasurer
   other_names: []
-  id: 21b4f88b-4285-45bd-a02a-4c331082c504
-- name: Hugo Garcia
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:burien
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:burien/government
+- id: 0078b73a-bcf5-415d-b2ec-acddb1b6b997
+  name: Farida Ibarra
+  urls:
+  - https://www.burienwa.gov/
+  image: ''
+  emails:
+  - farida@example.wa.gov
+  labels:
+  - Mayor
+  office:
+    name: Mayor
+    division_ocdid: ocd-division/country:us/state:wa/place:burien
+  phones: []
+  end_date: null
+  cdn_image: ''
+  start_date: '2024'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: null
+    post_id: 0dff6c58-740a-46d1-8472-d31be79d2e08
+    role_id: mayor
+    role_label: Mayor
+    source_labels:
+    - Mayor
+    division_ocdid: ocd-division/country:us/state:wa/place:burien
+    post_label: Mayor
+  other_names: []
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:burien
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:burien/government
+- id: a3fdb78b-2412-4f6e-8d9b-aea80189fb24
+  name: Giulia Zielinski
+  urls:
+  - https://www.burienwa.gov/
+  image: ''
+  emails:
+  - giulia@example.wa.gov
+  labels:
+  - Mayor
+  office:
+    name: Mayor
+    division_ocdid: ocd-division/country:us/state:wa/place:burien
   phones:
-  - (206) 241-4647
-  emails:
-  - hugog@burienwa.gov
-  urls:
-  - https://www.burienwa.gov/city_hall/city_council/hugo_garcia
-  office:
-    name: Council Member
+  - (360) 555-0199
+  end_date: '2025'
+  cdn_image: ''
+  start_date: '2026'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: null
+    post_id: 0dff6c58-740a-46d1-8472-d31be79d2e08
+    role_id: mayor
+    role_label: Mayor
+    source_labels:
+    - Mayor
     division_ocdid: ocd-division/country:us/state:wa/place:burien
-  image: https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_11045935/Image/City%20Hall/City%20Council/Hugo-Garcia-2024.jpg
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:burien/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/burien/images/f32ddbb03f87d71397b0c61910ccb5ca2b1b8e8bd92bf4bf9660ad66778ac629.jpg
-  source_urls:
-  - https://www.burienwa.gov/city_hall
-  - https://www.burienwa.gov/city_hall/city_council/mayor_kevin_schilling
-  - https://www.burienwa.gov/city_hall/city_council/hugo_garcia
-  - https://www.burienwa.gov/city_hall/city_council/linda_akey
-  - https://www.burienwa.gov/city_hall/city_council/alex_andrade
-  - https://www.burienwa.gov/city_hall/city_council/deputy_mayor_stephanie_mora
-  updated_at: '2025-06-21T03:01:10+00:00'
-  start_date: '2022-01-01'
-  end_date: '2025-12-31'
+    post_label: Mayor
   other_names: []
-  id: 0d7471fa-5ffc-41a2-b46e-aca64d6af91f
-- name: Linda Akey
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:burien
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:burien/government
+- id: e0ad8083-710b-4b3c-bfa3-0807f109b228
+  name: Lucia Eze
+  urls:
+  - https://www.burienwa.gov/
+  image: ''
+  emails: []
+  labels:
+  - Council Member Position 2
+  office:
+    name: Council Member Position 2
+    division_ocdid: ocd-division/country:us/state:wa/place:burien
   phones:
-  - (206) 241-4647
-  emails:
-  - lindaa@burienwa.gov
-  urls:
-  - https://www.burienwa.gov/city_hall/city_council/linda_akey
-  office:
-    name: Council Member
+  - (360) 555-1234
+  end_date: '2022-01-01'
+  cdn_image: ''
+  start_date: null
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: Position 2
+    post_id: 041f9cef-f65b-4bc9-9c8c-ca264976a8d4
+    role_id: council-member
+    role_label: Council Member
+    source_labels:
+    - Council Member Position 2
     division_ocdid: ocd-division/country:us/state:wa/place:burien
-  image: https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_11045935/Image/City%20Hall/City%20Council/Linda-Akey-2024.jpg
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:burien/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/burien/images/dcbe774bae6d8f2f068d7545d28cb5ffc29fb2cb653bcec69303ed0cad0d1faa.jpg
-  source_urls:
-  - https://www.burienwa.gov/city_hall
-  - https://www.burienwa.gov/city_hall/city_council/mayor_kevin_schilling
-  - https://www.burienwa.gov/city_hall/city_council/linda_akey
-  - https://www.burienwa.gov/city_hall/city_council/alex_andrade
-  - https://www.burienwa.gov/city_hall/city_council/deputy_mayor_stephanie_mora
-  updated_at: '2025-06-21T03:01:10+00:00'
-  start_date: '2024-01-01'
-  end_date: '2027-12-31'
+    post_label: Council Member
   other_names: []
-  id: 44f462ce-b1db-4070-acb2-b71322614716
-- name: Jimmy Matta
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:burien
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:burien/government
+- id: abc4d947-d587-426a-bfec-15f3a0564e55
+  name: Ursula Petrov
+  urls:
+  - https://www.burienwa.gov/
+  image: ''
+  emails:
+  - ursula@example.wa.gov
+  labels:
+  - Municipal Judge
+  office:
+    name: Municipal Judge
+    division_ocdid: ocd-division/country:us/state:wa/place:burien
   phones:
-  - (206) 241-4647
-  emails:
-  - Jimmym@burienwa.gov
-  urls:
-  - https://www.burienwa.gov/city_hall/city_council/jimmy_matta
-  office:
-    name: Council Member
+  - (360) 555-0177
+  end_date: null
+  cdn_image: ''
+  start_date: '2024'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: Municipal Judge
+    post_id: 1177312a-19e5-4a4e-9375-bea258ae32fc
+    role_id: unmatched
+    role_label: Unmatched
+    source_labels:
+    - Municipal Judge
     division_ocdid: ocd-division/country:us/state:wa/place:burien
-  image: https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_11045935/Image/City%20Hall/City%20Council/Jimmy-Matta-2024-web.jpg
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:burien/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/burien/images/bc8e093a550e0b082d6973a30be2f04bf445cdfa88ea67cb45522b72cb4f5758.jpg
-  source_urls:
-  - https://www.burienwa.gov/city_hall/city_council/jimmy_matta
-  - https://www.burienwa.gov/city_hall
-  - https://www.burienwa.gov/city_hall/city_council/mayor_kevin_schilling
-  - https://www.burienwa.gov/city_hall/city_council/linda_akey
-  - https://www.burienwa.gov/city_hall/city_council/alex_andrade
-  - https://www.burienwa.gov/city_hall/city_council/deputy_mayor_stephanie_mora
-  updated_at: '2025-06-21T03:01:10+00:00'
-  start_date: '2022-01-01'
-  end_date: '2025-12-31'
+    post_label: Unmatched
   other_names: []
-  id: 0146dd43-d869-4891-9667-4b5c9946aeef
-- name: Alex Andrade
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:burien
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:burien/government
+- id: b25fd043-da75-4b1c-b7c3-72b2cfa8fd7d
+  name: Xiomara Vasquez
+  urls:
+  - https://www.burienwa.gov/
+  image: ''
+  emails:
+  - xiomara@example.wa.gov
+  labels:
+  - Mayor
+  office:
+    name: Mayor
+    division_ocdid: ocd-division/country:us/state:wa/place:burien
   phones:
-  - (206) 241-4647
-  emails:
-  - alexa@burienwa.gov
-  urls:
-  - https://www.burienwa.gov/city_hall/city_council/alex_andrade
-  office:
-    name: Council Member
+  - (360) 555-0199
+  end_date: null
+  cdn_image: ''
+  start_date: '2024'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: null
+    post_id: 0dff6c58-740a-46d1-8472-d31be79d2e08
+    role_id: mayor
+    role_label: Mayor
+    source_labels:
+    - Mayor
     division_ocdid: ocd-division/country:us/state:wa/place:burien
-  image: https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_11045935/Image/City%20Hall/City%20Council/Alex-Andrade-2024.jpg
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:burien/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/burien/images/81b25a471e16417df243ff948ce041277c8c435b864159d26808cadc8383dbb8.png
-  source_urls:
-  - https://www.burienwa.gov/city_hall
-  - https://www.burienwa.gov/city_hall/city_council/mayor_kevin_schilling
-  - https://www.burienwa.gov/city_hall/city_council/linda_akey
-  - https://www.burienwa.gov/city_hall/city_council/alex_andrade
-  - https://www.burienwa.gov/city_hall/city_council/deputy_mayor_stephanie_mora
-  updated_at: '2025-06-21T03:01:10+00:00'
-  start_date: '2024-01-01'
-  end_date: '2027-12-31'
+    post_label: Mayor
   other_names: []
-  id: 9f9fe9d4-ce5e-4fd7-82aa-0657b397fed4
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:burien
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:burien/government

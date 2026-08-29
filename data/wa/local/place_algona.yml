@@ -1,120 +1,154 @@
-- name: Troy Linnell
-  phones:
-  - (253) 736-6241
-  emails: []
+- id: 236b758e-ccc4-4586-9fb3-a3c63e69fa0e
+  name: Camille Kowalczyk
   urls:
-  - https://www.algonawa.gov/government/mayor/index.php
+  - https://algonawa.gov/
+  image: ''
+  emails: []
+  labels:
+  - Mayor
   office:
     name: Mayor
     division_ocdid: ocd-division/country:us/state:wa/place:algona
-  image: https://www.algonawa.gov/Images/Government/Mayor/mayor_linnell.jpg
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:algona/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/algona/images/b24cb4fbf48df1ebadff4b2d59162a3febe5abef4f1d8a1931cf8bde5fe205dc.jpg
-  source_urls:
-  - https://www.algonawa.gov/government/mayor/index.php
-  updated_at: '2025-06-25T03:07:59+00:00'
-  start_date: null
+  phones: []
   end_date: null
-  other_names: []
-  id: 402f60ff-78bc-4a4a-b668-ce2d62fe8abb
-- name: David White
-  phones: []
-  emails:
-  - davidw@algonawa.gov
-  urls:
-  - https://www.algonawa.gov/business_detail_T7_R5.php
-  office:
-    name: Mayor Pro Tempore - Council Member
+  cdn_image: ''
+  start_date: '2024-01-01'
+  updated_at: '2026-08-29T02:41:31+00:00'
+  memberships:
+  - label: null
+    post_id: a282edcd-9288-4b72-81b3-7b141470ef1c
+    role_id: mayor
+    role_label: Mayor
+    source_labels:
+    - Mayor
     division_ocdid: ocd-division/country:us/state:wa/place:algona
-  image: null
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:algona/government
-  cdn_image: null
-  source_urls:
-  - https://www.algonawa.gov/government/city_council
-  - https://www.algonawa.gov/business_detail_T7_R5.php
-  updated_at: '2025-06-25T03:07:59+00:00'
-  start_date: null
-  end_date: '2027-12-31'
+    post_label: Mayor
   other_names: []
-  id: dfeb1de4-53ac-4b09-8d67-01ca6743c8a3
-- name: Bill Thomas
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:algona
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:algona/government
+- id: ff08e887-dbcd-405e-9656-b58a7548e155
+  name: Deshawn Ibarra
+  urls:
+  - https://algonawa.gov/
+  image: ''
+  emails:
+  - deshawn@example.wa.gov
+  labels:
+  - council member position 1
+  office:
+    name: council member position 1
+    division_ocdid: ocd-division/country:us/state:wa/place:algona
   phones:
-  - (253) 833-2897
-  emails:
-  - williamt@algonawa.gov
-  urls:
-  - https://www.algonawa.gov/business_detail_T7_R2.php
-  office:
-    name: Council Member
+  - (360) 555-1234
+  end_date: null
+  cdn_image: ''
+  start_date: '2023-11-01'
+  updated_at: '2026-08-29T02:41:31+00:00'
+  memberships:
+  - label: Position 1
+    post_id: a7d3fc7e-a931-4102-ab28-489e51ccd6d3
+    role_id: council-member
+    role_label: Council Member
+    source_labels:
+    - council member position 1
     division_ocdid: ocd-division/country:us/state:wa/place:algona
-  image: null
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:algona/government
-  cdn_image: null
-  source_urls:
-  - https://www.algonawa.gov/government/city_council
-  - https://www.algonawa.gov/business_detail_T7_R2.php
-  updated_at: '2025-06-25T03:07:59+00:00'
-  start_date: null
-  end_date: '2027-12-31'
+    post_label: Council Member
   other_names: []
-  id: b5968f49-ca60-45cc-ba22-02696acc17b2
-- name: Lynda Osborn
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:algona
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:algona/government
+- id: 4c2d72a8-bc39-477f-ab63-4c88193173ea
+  name: Eirik Ferreira
+  urls:
+  - https://algonawa.gov/
+  image: ''
+  emails: []
+  labels:
+  - Mayor Pro Tem and Council Member Position 2
+  office:
+    name: Mayor Pro Tem and Council Member Position 2
+    division_ocdid: ocd-division/country:us/state:wa/place:algona
   phones: []
-  emails:
-  - lyndao@algonawa.gov
-  urls:
-  - https://www.algonawa.gov/business_detail_T7_R7.php
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:algona
-  image: null
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:algona/government
-  cdn_image: null
-  source_urls:
-  - https://www.algonawa.gov/government/city_council
-  - https://www.algonawa.gov/business_detail_T7_R7.php
-  updated_at: '2025-06-25T03:07:59+00:00'
+  end_date: null
+  cdn_image: ''
   start_date: null
-  end_date: '2027-12-31'
-  other_names: []
-  id: 1aa444d6-ab87-4526-b710-b1c52c0d7a54
-- name: Tim Fairley
-  phones: []
-  emails:
-  - timf@algonawa.gov
-  urls:
-  - https://www.algonawa.gov/business_detail_T7_R6.php
-  office:
-    name: Council Member
+  updated_at: '2026-08-29T02:41:31+00:00'
+  memberships:
+  - label: Position 2, and
+    post_id: cdd84423-3423-47fc-ab47-6435fa15e6e9
+    role_id: mayor-pro-tempore
+    role_label: Mayor Pro Tempore
+    source_labels:
+    - Mayor Pro Tem and Council Member Position 2
     division_ocdid: ocd-division/country:us/state:wa/place:algona
-  image: null
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:algona/government
-  cdn_image: null
-  source_urls:
-  - https://www.algonawa.gov/government/city_council
-  - https://www.algonawa.gov/business_detail_T7_R6.php
-  updated_at: '2025-06-25T03:07:59+00:00'
-  start_date: '2017'
-  end_date: '2025-12-31'
+    post_label: Mayor Pro Tempore
   other_names: []
-  id: bcc234f8-0491-4641-a75c-b60af15805ef
-- name: Gordon Cook
-  phones: []
-  emails:
-  - gordonc@algonawa.gov
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:algona
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:algona/government
+- id: 1b82999f-8537-4d24-9bfd-134a4b721a42
+  name: Ines Eze
   urls:
-  - https://www.algonawa.gov/business_detail_T7_R4.php
+  - https://algonawa.gov/
+  image: ''
+  emails:
+  - ines@example.wa.gov
+  labels:
+  - Council Member At Large
   office:
-    name: Council Member
+    name: Council Member At Large
     division_ocdid: ocd-division/country:us/state:wa/place:algona
-  image: null
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:algona/government
-  cdn_image: null
-  source_urls:
-  - https://www.algonawa.gov/government/city_council
-  - https://www.algonawa.gov/business_detail_T7_R4.php
-  updated_at: '2025-06-25T03:07:59+00:00'
-  start_date: null
-  end_date: '2025-12-31'
+  phones: []
+  end_date: null
+  cdn_image: ''
+  start_date: '2024-01-01'
+  updated_at: '2026-08-29T02:41:31+00:00'
+  memberships:
+  - label: null
+    post_id: a7d3fc7e-a931-4102-ab28-489e51ccd6d3
+    role_id: council-member
+    role_label: Council Member
+    source_labels:
+    - Council Member At Large
+    division_ocdid: ocd-division/country:us/state:wa/place:algona
+    post_label: Council Member
   other_names: []
-  id: 4773d40a-8ff8-4b47-a568-b8879f37b10a
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:algona
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:algona/government
+- id: aeb29d24-220c-408d-bf2f-4d08fdaf8759
+  name: Yusuf Quintero
+  urls:
+  - https://algonawa.gov/
+  image: ''
+  emails: []
+  labels:
+  - Council Member Position 3
+  office:
+    name: Council Member Position 3
+    division_ocdid: ocd-division/country:us/state:wa/place:algona
+  phones:
+  - (360) 555-1234
+  end_date: null
+  cdn_image: ''
+  start_date: '2024'
+  updated_at: '2026-08-29T02:41:31+00:00'
+  memberships:
+  - label: Position 3
+    post_id: a7d3fc7e-a931-4102-ab28-489e51ccd6d3
+    role_id: council-member
+    role_label: Council Member
+    source_labels:
+    - Council Member Position 3
+    division_ocdid: ocd-division/country:us/state:wa/place:algona
+    post_label: Council Member
+  other_names: []
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:algona
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:algona/government

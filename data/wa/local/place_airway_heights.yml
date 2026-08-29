@@ -1,134 +1,286 @@
-- name: Larry Bowman
-  phones: []
-  emails:
-  - LBowman@cawh.org
+- id: b50ab64b-37a8-446a-b41a-a5b3772364d9
+  name: Bo Eze
   urls:
-  - https://cawh.org/city-council-members/council-chair-larry-bowman
-  office:
-    name: Chair
-    division_ocdid: ocd-division/country:us/state:wa/place:airway_heights
-  image: https://cawh.org/wp-content/uploads/2023/03/Larry_Bowman.jpg
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:airway_heights/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/airway_heights/images/b916bd7fa8588a507e0b926bdadc484276f04f8d11a662671bad35ad4f765481.jpg
-  source_urls:
-  - https://cawh.org/city-council-members
-  - https://cawh.org/city-council-members/council-chair-larry-bowman
-  updated_at: '2025-06-23T01:27:40+00:00'
-  start_date: 2015-11
-  end_date: '2027-12-31'
-  other_names: []
-  id: 25917c90-6573-4217-80ce-9442c9e6c721
-- name: Hank Bynaker
-  phones: []
+  - http://cawh.org/
+  image: ''
   emails:
-  - hbynaker@cawh.org
-  urls:
-  - https://cawh.org/city-council-members/councilmember-hank-bynaker
+  - bo@example.wa.gov
+  labels:
+  - Councilmember Pos. 8
   office:
-    name: Council Member
+    name: Councilmember Pos. 8
     division_ocdid: ocd-division/country:us/state:wa/place:airway_heights
-  image: https://cawh.org/wp-content/uploads/2023/02/Hank_Bynaker.jpg
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:airway_heights/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/airway_heights/images/0b16f4118f0e4ad3b42158e7a08ce1696e24fbc66325ae39ac626510b25c3a5f.png
-  source_urls:
-  - https://cawh.org/city-council-members
-  - https://cawh.org/city-council-members/councilmember-hank-bynaker
-  updated_at: '2025-06-23T01:27:40+00:00'
-  start_date: null
-  end_date: '2025-12-31'
+  phones:
+  - (360) 555-0177
+  end_date: null
+  cdn_image: ''
+  start_date: '2026'
+  updated_at: '2026-08-29T02:41:31+00:00'
+  memberships:
+  - label: Position 8
+    post_id: ea23f5c1-74b2-49a8-b329-296f9ee17ba2
+    role_id: council-member
+    role_label: Council Member
+    source_labels:
+    - Councilmember Pos. 8
+    division_ocdid: ocd-division/country:us/state:wa/place:airway_heights
+    post_label: Council Member
   other_names: []
-  id: 7b92fbfd-96d4-4ef2-a4d8-e07095fb2d63
-- name: Jesse Camacho
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:airway_heights
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:airway_heights/government
+- id: b1c8ed2d-9c44-46fa-a0df-73b7f5c2a900
+  name: Deshawn Vasquez
+  urls:
+  - http://cawh.org/
+  image: ''
+  emails:
+  - deshawn@example.wa.gov
+  labels:
+  - Deputy Mayor / Council Member Position 1
+  office:
+    name: Deputy Mayor / Council Member Position 1
+    division_ocdid: ocd-division/country:us/state:wa/place:airway_heights
+  phones:
+  - (360) 555-1234
+  end_date: '2022-01-01'
+  cdn_image: ''
+  start_date: '2026'
+  updated_at: '2026-08-29T02:41:31+00:00'
+  memberships:
+  - label: Position 1
+    post_id: 83ac392c-6c89-4be7-b625-023327127327
+    role_id: deputy-mayor
+    role_label: Deputy Mayor
+    source_labels:
+    - Deputy Mayor / Council Member Position 1
+    division_ocdid: ocd-division/country:us/state:wa/place:airway_heights
+    post_label: Deputy Mayor
+  other_names: []
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:airway_heights
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:airway_heights/government
+- id: 439bffb3-15e3-49cc-95b7-4ec576812ab0
+  name: Esperanza Petrov
+  urls:
+  - http://cawh.org/
+  image: ''
+  emails:
+  - esperanza@example.wa.gov
+  labels:
+  - Council Member Position 6
+  office:
+    name: Council Member Position 6
+    division_ocdid: ocd-division/country:us/state:wa/place:airway_heights
   phones: []
+  end_date: null
+  cdn_image: ''
+  start_date: '2024-01-01'
+  updated_at: '2026-08-29T02:41:31+00:00'
+  memberships:
+  - label: Position 6
+    post_id: ea23f5c1-74b2-49a8-b329-296f9ee17ba2
+    role_id: council-member
+    role_label: Council Member
+    source_labels:
+    - Council Member Position 6
+    division_ocdid: ocd-division/country:us/state:wa/place:airway_heights
+    post_label: Council Member
+  other_names: []
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:airway_heights
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:airway_heights/government
+- id: 31878a7f-f8cc-481c-a827-2d9bfe88d843
+  name: Grigor Petrov
+  urls:
+  - http://cawh.org/
+  image: ''
+  emails:
+  - grigor@example.wa.gov
+  labels:
+  - Treasurer
+  office:
+    name: Treasurer
+    division_ocdid: ocd-division/country:us/state:wa/place:airway_heights
+  phones:
+  - (360) 555-0177
+  end_date: '2025'
+  cdn_image: ''
+  start_date: '2023-11-01'
+  updated_at: '2026-08-29T02:41:31+00:00'
+  memberships:
+  - label: null
+    post_id: 2e5dad0b-1238-4247-88a7-850fa226c289
+    role_id: treasurer
+    role_label: Treasurer
+    source_labels:
+    - Treasurer
+    division_ocdid: ocd-division/country:us/state:wa/place:airway_heights
+    post_label: Treasurer
+  other_names: []
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:airway_heights
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:airway_heights/government
+- id: 7b76c4b4-ae1a-4917-b992-192d52ff3dca
+  name: Ines Jankowski
+  urls:
+  - http://cawh.org/
+  image: ''
   emails: []
-  urls: []
+  labels:
+  - Council Member Position 4
   office:
-    name: Council Member
+    name: Council Member Position 4
     division_ocdid: ocd-division/country:us/state:wa/place:airway_heights
-  image: null
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:airway_heights/government
-  cdn_image: null
-  source_urls:
-  - https://cawh.org/city-council-members
-  updated_at: '2025-06-23T01:27:40+00:00'
-  start_date: null
-  end_date: '2025-12-31'
-  other_names: []
-  id: 6b25e8c2-f0fd-4daa-a158-7194a65c56c6
-- name: William Campbell
-  phones: []
-  emails: []
-  urls: []
-  office:
-    name: Council Member
+  phones:
+  - (360) 555-1234
+  end_date: null
+  cdn_image: ''
+  start_date: '2023-11-01'
+  updated_at: '2026-08-29T02:41:31+00:00'
+  memberships:
+  - label: Position 4
+    post_id: ea23f5c1-74b2-49a8-b329-296f9ee17ba2
+    role_id: council-member
+    role_label: Council Member
+    source_labels:
+    - Council Member Position 4
     division_ocdid: ocd-division/country:us/state:wa/place:airway_heights
-  image: null
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:airway_heights/government
-  cdn_image: null
-  source_urls:
-  - https://cawh.org/city-council-members
-  updated_at: '2025-06-23T01:27:40+00:00'
-  start_date: null
-  end_date: '2027-12-31'
+    post_label: Council Member
   other_names: []
-  id: 5560257c-6b04-429a-9a5d-dce11e19f30d
-- name: Dave Malet
-  phones: []
-  emails:
-  - dmalet@cawh.org
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:airway_heights
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:airway_heights/government
+- id: 204ea63a-ebcf-4257-9143-e4821eb9d7cd
+  name: Sanjay Hoffmann
   urls:
-  - https://cawh.org/city-council-members/councilmember-dave-malet
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:airway_heights
-  image: https://cawh.org/wp-content/uploads/2023/02/Dave_Malet.jpg
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:airway_heights/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/airway_heights/images/8386ba385cbcb34bc3ce70fcaa7700af99a3009a51085005bbc2a9b41cfda790.png
-  source_urls:
-  - https://cawh.org/city-council-members
-  - https://cawh.org/city-council-members/councilmember-dave-malet
-  updated_at: '2025-06-23T01:27:40+00:00'
-  start_date: null
-  end_date: '2025-12-31'
-  other_names: []
-  id: 884c636c-867c-44bb-9006-c05c715bd2de
-- name: Davin Perry
-  phones: []
+  - http://cawh.org/
+  image: ''
   emails:
-  - dperry@cawh.org
-  urls:
-  - https://cawh.org/city-council-members/councilmember-davin-perry
+  - sanjay@example.wa.gov
+  labels:
+  - Municipal Judge
   office:
-    name: Council Member
+    name: Municipal Judge
     division_ocdid: ocd-division/country:us/state:wa/place:airway_heights
-  image: https://cawh.org/wp-content/uploads/2023/02/Davin_Perry_570.jpg
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:airway_heights/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/airway_heights/images/6fa69b40e873d3d64ce16de5bc7d18f26717602e0fbfd071f7d0297e9a99854e.png
-  source_urls:
-  - https://cawh.org/city-council-members
-  - https://cawh.org/city-council-members/councilmember-davin-perry
-  updated_at: '2025-06-23T01:27:40+00:00'
-  start_date: null
-  end_date: '2025-12-31'
+  phones:
+  - (360) 555-0177
+  end_date: null
+  cdn_image: ''
+  start_date: '2024'
+  updated_at: '2026-08-29T02:41:31+00:00'
+  memberships:
+  - label: Municipal Judge
+    post_id: 903b9708-c6da-4385-9c21-a53ba805c580
+    role_id: unmatched
+    role_label: Unmatched
+    source_labels:
+    - Municipal Judge
+    division_ocdid: ocd-division/country:us/state:wa/place:airway_heights
+    post_label: Unmatched
   other_names: []
-  id: 1a79f356-f318-46ce-a040-25258ca8d79d
-- name: Jennifer Morton
-  phones: []
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:airway_heights
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:airway_heights/government
+- id: 41fd3ae2-bf55-488c-a04c-417f5cc1f399
+  name: Tomasz Bergström
+  urls:
+  - http://cawh.org/
+  image: ''
   emails:
-  - jmorton@cawh.org
-  urls:
-  - https://cawh.org/city-council-members/councilmember-jennifer-morton
+  - tomasz@example.wa.gov
+  labels:
+  - council member position 5
   office:
-    name: Council Member
+    name: council member position 5
     division_ocdid: ocd-division/country:us/state:wa/place:airway_heights
-  image: https://cawh.org/wp-content/uploads/2023/02/Jennifer.jpg
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:airway_heights/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/airway_heights/images/3899490ff61654af1e8723b923b2eed14be5c1490dd55cdd8d276e05e6e490b4.png
-  source_urls:
-  - https://cawh.org/city-council-members
-  - https://cawh.org/city-council-members/councilmember-jennifer-morton
-  updated_at: '2025-06-23T01:27:40+00:00'
-  start_date: null
-  end_date: '2027-12-31'
+  phones:
+  - (360) 555-0177
+  end_date: null
+  cdn_image: ''
+  start_date: '2024'
+  updated_at: '2026-08-29T02:41:31+00:00'
+  memberships:
+  - label: Position 5
+    post_id: ea23f5c1-74b2-49a8-b329-296f9ee17ba2
+    role_id: council-member
+    role_label: Council Member
+    source_labels:
+    - council member position 5
+    division_ocdid: ocd-division/country:us/state:wa/place:airway_heights
+    post_label: Council Member
   other_names: []
-  id: c5c047fb-d274-4f8d-9cbf-4e1e6335f284
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:airway_heights
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:airway_heights/government
+- id: 6673ad96-33aa-4a68-996f-7eeb16105c43
+  name: Tomasz Rasmussen
+  urls:
+  - http://cawh.org/
+  image: ''
+  emails:
+  - tomasz@example.wa.gov
+  labels:
+  - Mayor
+  office:
+    name: Mayor
+    division_ocdid: ocd-division/country:us/state:wa/place:airway_heights
+  phones:
+  - (360) 555-1234
+  end_date: null
+  cdn_image: ''
+  start_date: '2024-01-01'
+  updated_at: '2026-08-29T02:41:31+00:00'
+  memberships:
+  - label: null
+    post_id: 89233ff6-4bc8-48e5-b500-ffc6e32d5600
+    role_id: mayor
+    role_label: Mayor
+    source_labels:
+    - Mayor
+    division_ocdid: ocd-division/country:us/state:wa/place:airway_heights
+    post_label: Mayor
+  other_names: []
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:airway_heights
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:airway_heights/government
+- id: ddfab4a4-2b89-4373-b8e4-c2d74c59fcfc
+  name: Yusuf Jankowski
+  urls:
+  - http://cawh.org/
+  image: ''
+  emails:
+  - yusuf@example.wa.gov
+  labels:
+  - Council Member Position 3
+  office:
+    name: Council Member Position 3
+    division_ocdid: ocd-division/country:us/state:wa/place:airway_heights
+  phones:
+  - (360) 555-0199
+  end_date: null
+  cdn_image: ''
+  start_date: '2025'
+  updated_at: '2026-08-29T02:41:31+00:00'
+  memberships:
+  - label: Position 3
+    post_id: ea23f5c1-74b2-49a8-b329-296f9ee17ba2
+    role_id: council-member
+    role_label: Council Member
+    source_labels:
+    - Council Member Position 3
+    division_ocdid: ocd-division/country:us/state:wa/place:airway_heights
+    post_label: Council Member
+  other_names: []
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:airway_heights
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:airway_heights/government

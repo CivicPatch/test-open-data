@@ -1,168 +1,220 @@
-- name: Don Vanney
-  other_names: []
-  phones: []
-  emails:
-  - donv@arlingtonwa.gov
+- id: 06584b2a-3f8c-4258-a007-6009ca5f416b
+  name: Carmen Zielinski
   urls:
-  - https://www.arlingtonwa.gov/415/don-vanney
-  - https://arlingtonwa.gov/415/don-vanney
-  start_date: '2024-01-01'
-  end_date: '2027-12-31'
-  office:
-    name: Council Member - Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:arlington
-  image: https://arlingtonwa.gov/ImageRepository/Document?documentID=10177
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:arlington/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/local/place_arlington/48a8788ef37a.png
-  source_urls:
-  - https://www.arlingtonwa.gov/27/Government
-  - https://www.arlingtonwa.gov/415/don-vanney
-  - https://arlingtonwa.gov/415/don-vanney
-  - https://www.arlingtonwa.gov/396/city-council
-  updated_at: '2026-01-29T23:20:48+00:00'
-  id: f1b17d17-7ee8-4954-8950-1e12041ef41a
-- name: Michele Blythe
-  other_names: []
-  phones: []
-  emails:
-  - mblythe@arlingtonwa.gov
-  urls:
-  - https://arlingtonwa.gov/417/michele-blythe
-  - https://www.arlingtonwa.gov/417/michele-blythe
-  start_date: 2024-01
-  end_date: '2027-12-31'
-  office:
-    name: Council Member - Mayor Pro Tempore
-    division_ocdid: ocd-division/country:us/state:wa/place:arlington
-  image: https://www.arlingtonwa.gov/ImageRepository/Document?documentID=3378
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:arlington/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/local/place_arlington/1125978ac37b.png
-  source_urls:
-  - https://www.arlingtonwa.gov/417/michele-blythe
-  - https://www.arlingtonwa.gov/27/Government
-  updated_at: '2026-01-29T23:20:48+00:00'
-  id: abc2cfac-b9e6-40dd-b907-5275b15e7048
-- name: Leisha Nobach
-  other_names: []
-  phones: []
+  - http://www.arlingtonwa.gov
+  image: ''
   emails: []
-  urls:
-  - https://www.arlingtonwa.gov/829/leisha-nobach
-  start_date: null
+  labels:
+  - Municipal Judge
+  office:
+    name: Municipal Judge
+    division_ocdid: ocd-division/country:us/state:wa/place:arlington
+  phones:
+  - (360) 555-0177
   end_date: null
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:arlington
-  image: https://www.arlingtonwa.gov/ImageRepository/Document?documentID=10277
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:arlington/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/local/place_arlington/c0a21da130bb.png
-  source_urls:
-  - https://www.arlingtonwa.gov/829/leisha-nobach
-  - https://www.arlingtonwa.gov/27/Government
-  updated_at: '2026-01-29T23:20:48+00:00'
-  id: 1a6ed258-812e-46f5-a145-969b9e0dc1e7
-- name: Nathan Senff
-  other_names: []
-  phones: []
-  emails:
-  - nsenff@arlingtonwa.gov
-  urls:
-  - https://arlingtonwa.gov/414/nathan-senff
-  - https://www.arlingtonwa.gov/414/nathan-senff
-  start_date: '2026-01-01'
-  end_date: '2029-12-31'
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:arlington
-  image: https://arlingtonwa.gov/ImageRepository/Document?documentID=14317
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:arlington/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/local/place_arlington/7db22de1e106.png
-  source_urls:
-  - https://arlingtonwa.gov/414/nathan-senff
-  - https://www.arlingtonwa.gov/27/Government
-  updated_at: '2026-01-29T23:20:48+00:00'
-  id: ab628750-befb-47e7-9c15-38b57d62950e
-- name: Heather Watland
-  other_names: []
-  phones: []
-  emails:
-  - hwatland@arlingtonwa.gov
-  urls:
-  - https://www.arlingtonwa.gov/416/heather-watland
-  - https://arlingtonwa.gov/416/heather-watland
-  start_date: '2026-01-01'
-  end_date: '2029-12-31'
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:arlington
-  image: https://www.arlingtonwa.gov/ImageRepository/Document?documentID=14315
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:arlington/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/local/place_arlington/71cac21299ba.png
-  source_urls:
-  - https://www.arlingtonwa.gov/416/heather-watland
-  - https://www.arlingtonwa.gov/27/Government
-  updated_at: '2026-01-29T23:20:48+00:00'
-  id: f574e566-f0be-4d55-a400-1147c18ee7aa
-- name: Rob Toyer
-  other_names: []
-  phones: []
-  emails:
-  - rtoyer@arlingtonwa.gov
-  urls:
-  - https://www.arlingtonwa.gov/412/rob-toyer
-  - https://arlingtonwa.gov/412/rob-toyer
+  cdn_image: ''
   start_date: '2024-01-01'
-  end_date: '2027-12-31'
-  office:
-    name: Council Member
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: Municipal Judge
+    post_id: aecb8629-97a7-4e0a-8f68-d814ef7fba37
+    role_id: unmatched
+    role_label: Unmatched
+    source_labels:
+    - Municipal Judge
     division_ocdid: ocd-division/country:us/state:wa/place:arlington
-  image: https://arlingtonwa.gov/ImageRepository/Document?documentID=10371
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:arlington/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/local/place_arlington/2e55241a81fa.png
-  source_urls:
-  - https://arlingtonwa.gov/412/rob-toyer
-  - https://www.arlingtonwa.gov/27/Government
-  updated_at: '2026-01-29T23:20:48+00:00'
-  id: 257349e9-9cd3-4419-8e27-76688508a111
-- name: Yvonne Gallardo-Van Ornam
+    post_label: Unmatched
   other_names: []
-  phones: []
-  emails:
-  - ygallardo@arlingtonwa.gov
-  urls:
-  - https://arlingtonwa.gov/420/yvonne-gallardo-van-ornam
-  - https://www.arlingtonwa.gov/420/yvonne-gallardo-van-ornam
-  start_date: null
-  end_date: '2027-12-31'
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:arlington
-  image: https://arlingtonwa.gov/ImageRepository/Document?documentID=10276
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:arlington/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/local/place_arlington/172bcaacae57.png
   source_urls:
-  - https://arlingtonwa.gov/420/yvonne-gallardo-van-ornam
-  - https://www.arlingtonwa.gov/27/Government
-  updated_at: '2026-01-29T23:20:48+00:00'
-  id: 42a60c9d-7b65-47bf-8b49-6cebe15c671c
-- name: Tim Abrahamson
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:arlington
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:arlington/government
+- id: f778a513-79a0-46e3-9401-a9ac38b7c411
+  name: Dae-ho Kowalczyk
+  urls:
+  - http://www.arlingtonwa.gov
+  image: ''
+  emails: []
+  labels:
+  - council member position 3
+  office:
+    name: council member position 3
+    division_ocdid: ocd-division/country:us/state:wa/place:arlington
+  phones:
+  - (360) 555-0177
+  end_date: null
+  cdn_image: ''
+  start_date: '2025'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: Position 3
+    post_id: a98b9974-7463-487c-be87-29dd3decbeab
+    role_id: council-member
+    role_label: Council Member
+    source_labels:
+    - council member position 3
+    division_ocdid: ocd-division/country:us/state:wa/place:arlington
+    post_label: Council Member
   other_names: []
-  phones: []
-  emails:
-  - tabrahamson@arlingtonwa.gov
-  urls:
-  - https://arlingtonwa.gov/421/tim-abrahamson
-  - https://www.arlingtonwa.gov/421/tim-abrahamson
-  start_date: '2026-01-01'
-  end_date: '2029-12-31'
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:arlington
-  image: https://arlingtonwa.gov/ImageRepository/Document?documentID=14316
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:arlington/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/local/place_arlington/94ed77c56a6e.png
   source_urls:
-  - https://arlingtonwa.gov/421/tim-abrahamson
-  - https://www.arlingtonwa.gov/27/Government
-  updated_at: '2026-01-29T23:20:48+00:00'
-  id: 0714cff1-f80e-4c6d-a468-d2f055ed0f08
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:arlington
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:arlington/government
+- id: bc3f3d49-8a53-4002-b716-4483b9cae441
+  name: Eirik Ueda
+  urls:
+  - http://www.arlingtonwa.gov
+  image: ''
+  emails:
+  - eirik@example.wa.gov
+  labels:
+  - Municipal Judge
+  office:
+    name: Municipal Judge
+    division_ocdid: ocd-division/country:us/state:wa/place:arlington
+  phones:
+  - (360) 555-0177
+  end_date: null
+  cdn_image: ''
+  start_date: '2023-11-01'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: Municipal Judge
+    post_id: aecb8629-97a7-4e0a-8f68-d814ef7fba37
+    role_id: unmatched
+    role_label: Unmatched
+    source_labels:
+    - Municipal Judge
+    division_ocdid: ocd-division/country:us/state:wa/place:arlington
+    post_label: Unmatched
+  other_names: []
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:arlington
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:arlington/government
+- id: d89d87ca-bd65-459b-8a5d-ea320a74f307
+  name: Grigor Tanaka
+  urls:
+  - http://www.arlingtonwa.gov
+  image: ''
+  emails:
+  - grigor@example.wa.gov
+  labels:
+  - council member position 5
+  office:
+    name: council member position 5
+    division_ocdid: ocd-division/country:us/state:wa/place:arlington
+  phones:
+  - (360) 555-0199
+  end_date: null
+  cdn_image: ''
+  start_date: '2026'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: Position 5
+    post_id: a98b9974-7463-487c-be87-29dd3decbeab
+    role_id: council-member
+    role_label: Council Member
+    source_labels:
+    - council member position 5
+    division_ocdid: ocd-division/country:us/state:wa/place:arlington
+    post_label: Council Member
+  other_names: []
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:arlington
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:arlington/government
+- id: 8e6d7e32-bd82-4127-b6f6-5bcae30acf4e
+  name: Grigor Vasquez
+  urls:
+  - http://www.arlingtonwa.gov
+  image: ''
+  emails:
+  - grigor@example.wa.gov
+  labels:
+  - Council Member At Large
+  office:
+    name: Council Member At Large
+    division_ocdid: ocd-division/country:us/state:wa/place:arlington
+  phones: []
+  end_date: null
+  cdn_image: ''
+  start_date: '2026'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: null
+    post_id: a98b9974-7463-487c-be87-29dd3decbeab
+    role_id: council-member
+    role_label: Council Member
+    source_labels:
+    - Council Member At Large
+    division_ocdid: ocd-division/country:us/state:wa/place:arlington
+    post_label: Council Member
+  other_names: []
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:arlington
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:arlington/government
+- id: 816efeba-d84d-4fea-9fa9-d098767fd191
+  name: Priya Xu
+  urls:
+  - http://www.arlingtonwa.gov
+  image: ''
+  emails: []
+  labels:
+  - Council Member Position 1
+  office:
+    name: Council Member Position 1
+    division_ocdid: ocd-division/country:us/state:wa/place:arlington
+  phones:
+  - (360) 555-1234
+  end_date: null
+  cdn_image: ''
+  start_date: '2022-01-01'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: Position 1
+    post_id: a98b9974-7463-487c-be87-29dd3decbeab
+    role_id: council-member
+    role_label: Council Member
+    source_labels:
+    - Council Member Position 1
+    division_ocdid: ocd-division/country:us/state:wa/place:arlington
+    post_label: Council Member
+  other_names: []
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:arlington
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:arlington/government
+- id: 578b7a5f-9d20-4a8b-a317-db5220a8ad98
+  name: Wen Bergström
+  urls:
+  - http://www.arlingtonwa.gov
+  image: ''
+  emails:
+  - wen@example.wa.gov
+  labels:
+  - Mayor
+  office:
+    name: Mayor
+    division_ocdid: ocd-division/country:us/state:wa/place:arlington
+  phones:
+  - (360) 555-0177
+  end_date: '2024'
+  cdn_image: ''
+  start_date: '2026'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: null
+    post_id: a45d0015-f3de-40a6-89b1-1a6219200e2f
+    role_id: mayor
+    role_label: Mayor
+    source_labels:
+    - Mayor
+    division_ocdid: ocd-division/country:us/state:wa/place:arlington
+    post_label: Mayor
+  other_names: []
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:arlington
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:arlington/government

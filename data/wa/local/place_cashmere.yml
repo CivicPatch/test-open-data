@@ -1,90 +1,92 @@
-- name: John Perry
-  phones: []
-  emails:
-  - john.perry@cityofcashmere.org
-  urls: []
+- id: 4131e553-9746-483a-8f51-9a810310f22a
+  name: Deshawn Mbeki
+  urls:
+  - http://www.cityofcashmere.org/
+  image: ''
+  emails: []
+  labels:
+  - Council Member Position 2
   office:
-    name: Council Member
+    name: Council Member Position 2
     division_ocdid: ocd-division/country:us/state:wa/place:cashmere
-  image: https://www.cityofcashmere.org/home/showpublishedimage/1106/637768926344070000
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:cashmere/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/cashmere/images/6c827be842be64455fd76c3a1aa169b0290c0b1435310689c9181867e5cd17b1.jpg
-  source_urls:
-  - https://www.cityofcashmere.org/government/mayor-city-council/meet-the-council-members
-  updated_at: '2025-06-25T04:48:31+00:00'
-  start_date: null
-  end_date: '2025-12-31'
+  phones:
+  - (360) 555-0177
+  end_date: null
+  cdn_image: ''
+  start_date: '2026'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: Position 2
+    post_id: 83f083a1-7325-43e1-ad75-1626c7174bec
+    role_id: council-member
+    role_label: Council Member
+    source_labels:
+    - Council Member Position 2
+    division_ocdid: ocd-division/country:us/state:wa/place:cashmere
+    post_label: Council Member
   other_names: []
-  id: 933825e8-5596-495b-ae23-ea648e38fab5
-- name: Chris Carlson
-  phones: []
-  emails:
-  - Chris.Carlson@cityofcashmere.org
-  urls: []
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:cashmere
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:cashmere/government
+- id: a93d8513-e269-4f66-8b38-f52617aea8de
+  name: Oluwaseun Mbeki
+  urls:
+  - http://www.cityofcashmere.org/
+  image: ''
+  emails: []
+  labels:
+  - Council Member At Large
   office:
-    name: Council Member
+    name: Council Member At Large
     division_ocdid: ocd-division/country:us/state:wa/place:cashmere
-  image: https://www.cityofcashmere.org/home/showpublishedimage/1080/637231429170830000
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:cashmere/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/cashmere/images/1c9522c9d22e4008644b011ce0114c645510705b705bffb9417a120f3e306bcb.jpg
-  source_urls:
-  - https://www.cityofcashmere.org/government/mayor-city-council/meet-the-council-members
-  updated_at: '2025-06-25T04:48:31+00:00'
-  start_date: null
-  end_date: '2025-12-31'
-  other_names: []
-  id: d58b1e4b-dc47-45af-9ecf-0890bbc0569c
-- name: Shela Pistoresi
   phones: []
-  emails:
-  - shela.pistoresi@cityofcashmere.org
-  urls: []
-  office:
-    name: Council Member
+  end_date: null
+  cdn_image: ''
+  start_date: '2022-01-01'
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: null
+    post_id: 83f083a1-7325-43e1-ad75-1626c7174bec
+    role_id: council-member
+    role_label: Council Member
+    source_labels:
+    - Council Member At Large
     division_ocdid: ocd-division/country:us/state:wa/place:cashmere
-  image: https://www.cityofcashmere.org/home/showpublishedimage/1106/637768926344070000
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:cashmere/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/cashmere/images/6c827be842be64455fd76c3a1aa169b0290c0b1435310689c9181867e5cd17b1.jpg
-  source_urls:
-  - https://www.cityofcashmere.org/government/mayor-city-council/meet-the-council-members
-  updated_at: '2025-06-25T04:48:31+00:00'
-  start_date: null
-  end_date: '2025-12-31'
+    post_label: Council Member
   other_names: []
-  id: 15613ac1-4e75-4523-8b47-f812446a7ed3
-- name: Jayne Stephenson
-  phones: []
-  emails:
-  - jayne.stephenson@cityofcashmere.org
-  urls: []
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:cashmere
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:cashmere/government
+- id: c7d00db5-4ef2-4c5c-87a8-1b73276de30a
+  name: Tomasz Bergström
+  urls:
+  - http://www.cityofcashmere.org/
+  image: ''
+  emails: []
+  labels:
+  - Mayor
   office:
-    name: Council Member
+    name: Mayor
     division_ocdid: ocd-division/country:us/state:wa/place:cashmere
-  image: https://www.cityofcashmere.org/home/showpublishedimage/1074/637231396391570000
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:cashmere/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/cashmere/images/bedc0052031a742bdabbdc3e5841c5cad3a2710b78fd42ed3c3a36929b41bf89.jpg
-  source_urls:
-  - https://www.cityofcashmere.org/government/mayor-city-council/meet-the-council-members
-  updated_at: '2025-06-25T04:48:31+00:00'
+  phones:
+  - (360) 555-0177
+  end_date: null
+  cdn_image: ''
   start_date: null
-  end_date: '2027-12-31'
-  other_names: []
-  id: 5c0b059b-3ea5-4cf3-bbdd-29a232e29d10
-- name: Jeff Johnson
-  phones: []
-  emails:
-  - jeff.johnson@cityofcashmere.org
-  urls: []
-  office:
-    name: Council Member
+  updated_at: '2026-08-29T02:41:32+00:00'
+  memberships:
+  - label: null
+    post_id: 2b94a9ea-eef8-49c0-aab3-0f42dd4b31e0
+    role_id: mayor
+    role_label: Mayor
+    source_labels:
+    - Mayor
     division_ocdid: ocd-division/country:us/state:wa/place:cashmere
-  image: https://www.cityofcashmere.org/home/showpublishedimage/1106/637768926344070000
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:cashmere/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/cashmere/images/6c827be842be64455fd76c3a1aa169b0290c0b1435310689c9181867e5cd17b1.jpg
-  source_urls:
-  - https://www.cityofcashmere.org/government/mayor-city-council/meet-the-council-members
-  updated_at: '2025-06-25T04:48:31+00:00'
-  start_date: null
-  end_date: '2027-12-31'
+    post_label: Mayor
   other_names: []
-  id: 0c36085a-d5d0-4f4c-8d8c-951b7d6e4ac7
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  division_ocdid: ocd-division/country:us/state:wa/place:cashmere
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:cashmere/government
