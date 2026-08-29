@@ -13,7 +13,7 @@
   end_date: null
   cdn_image: ''
   start_date: '2024-01-01'
-  updated_at: '2026-08-29T02:41:31+00:00'
+  updated_at: '2026-08-29T16:57:35+00:00'
   memberships:
   - label: null
     post_id: a282edcd-9288-4b72-81b3-7b141470ef1c
@@ -44,8 +44,8 @@
   - (360) 555-1234
   end_date: null
   cdn_image: ''
-  start_date: '2023-11-01'
-  updated_at: '2026-08-29T02:41:31+00:00'
+  start_date: 2023-11
+  updated_at: '2026-08-29T16:57:35+00:00'
   memberships:
   - label: Position 1
     post_id: a7d3fc7e-a931-4102-ab28-489e51ccd6d3
@@ -75,7 +75,7 @@
   end_date: null
   cdn_image: ''
   start_date: null
-  updated_at: '2026-08-29T02:41:31+00:00'
+  updated_at: '2026-08-29T16:57:35+00:00'
   memberships:
   - label: Position 2, and
     post_id: cdd84423-3423-47fc-ab47-6435fa15e6e9
@@ -106,7 +106,7 @@
   end_date: null
   cdn_image: ''
   start_date: '2024-01-01'
-  updated_at: '2026-08-29T02:41:31+00:00'
+  updated_at: '2026-08-29T16:57:35+00:00'
   memberships:
   - label: null
     post_id: a7d3fc7e-a931-4102-ab28-489e51ccd6d3
@@ -137,7 +137,7 @@
   end_date: null
   cdn_image: ''
   start_date: '2024'
-  updated_at: '2026-08-29T02:41:31+00:00'
+  updated_at: '2026-08-29T16:57:35+00:00'
   memberships:
   - label: Position 3
     post_id: a7d3fc7e-a931-4102-ab28-489e51ccd6d3
