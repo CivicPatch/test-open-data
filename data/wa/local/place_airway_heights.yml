@@ -15,7 +15,7 @@
   end_date: null
   cdn_image: ''
   start_date: '2026'
-  updated_at: '2026-08-29T02:41:31+00:00'
+  updated_at: '2026-08-29T16:56:39+00:00'
   memberships:
   - label: Position 8
     post_id: ea23f5c1-74b2-49a8-b329-296f9ee17ba2
@@ -44,10 +44,10 @@
     division_ocdid: ocd-division/country:us/state:wa/place:airway_heights
   phones:
   - (360) 555-1234
-  end_date: '2022-01-01'
+  end_date: 2022-01
   cdn_image: ''
   start_date: '2026'
-  updated_at: '2026-08-29T02:41:31+00:00'
+  updated_at: '2026-08-29T16:56:39+00:00'
   memberships:
   - label: Position 1
     post_id: 83ac392c-6c89-4be7-b625-023327127327
@@ -78,7 +78,7 @@
   end_date: null
   cdn_image: ''
   start_date: '2024-01-01'
-  updated_at: '2026-08-29T02:41:31+00:00'
+  updated_at: '2026-08-29T16:56:39+00:00'
   memberships:
   - label: Position 6
     post_id: ea23f5c1-74b2-49a8-b329-296f9ee17ba2
@@ -109,8 +109,8 @@
   - (360) 555-0177
   end_date: '2025'
   cdn_image: ''
-  start_date: '2023-11-01'
-  updated_at: '2026-08-29T02:41:31+00:00'
+  start_date: 2023-11
+  updated_at: '2026-08-29T16:56:39+00:00'
   memberships:
   - label: null
     post_id: 2e5dad0b-1238-4247-88a7-850fa226c289
@@ -140,8 +140,8 @@
   - (360) 555-1234
   end_date: null
   cdn_image: ''
-  start_date: '2023-11-01'
-  updated_at: '2026-08-29T02:41:31+00:00'
+  start_date: 2023-11
+  updated_at: '2026-08-29T16:56:39+00:00'
   memberships:
   - label: Position 4
     post_id: ea23f5c1-74b2-49a8-b329-296f9ee17ba2
@@ -173,7 +173,7 @@
   end_date: null
   cdn_image: ''
   start_date: '2024'
-  updated_at: '2026-08-29T02:41:31+00:00'
+  updated_at: '2026-08-29T16:56:39+00:00'
   memberships:
   - label: Municipal Judge
     post_id: 903b9708-c6da-4385-9c21-a53ba805c580
@@ -205,7 +205,7 @@
   end_date: null
   cdn_image: ''
   start_date: '2024'
-  updated_at: '2026-08-29T02:41:31+00:00'
+  updated_at: '2026-08-29T16:56:39+00:00'
   memberships:
   - label: Position 5
     post_id: ea23f5c1-74b2-49a8-b329-296f9ee17ba2
@@ -237,7 +237,7 @@
   end_date: null
   cdn_image: ''
   start_date: '2024-01-01'
-  updated_at: '2026-08-29T02:41:31+00:00'
+  updated_at: '2026-08-29T16:56:39+00:00'
   memberships:
   - label: null
     post_id: 89233ff6-4bc8-48e5-b500-ffc6e32d5600
@@ -269,7 +269,7 @@
   end_date: null
   cdn_image: ''
   start_date: '2025'
-  updated_at: '2026-08-29T02:41:31+00:00'
+  updated_at: '2026-08-29T16:56:39+00:00'
   memberships:
   - label: Position 3
     post_id: ea23f5c1-74b2-49a8-b329-296f9ee17ba2
