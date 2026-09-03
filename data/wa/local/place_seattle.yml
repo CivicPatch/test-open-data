@@ -6,14 +6,14 @@
   - (203) 233-2323
   - (206) 684-4000
   emails:
-  - mayso-2@isfliee.com
+  - mayso-3@isfliee.com
   urls:
   - https://www.seattle.gov/mayor
   image: https://www.seattle.gov/images/MayorWilson/Katie-Wilson-Headshot-250x250.jpg
   cdn_image: https://civicpatch-artifacts.civicpatch.org/208dd2a0-b2e6-4ced-90d2-4cdea1102c47/data_source/wa/local/place_seattle/images/3aee7dcbb286.png
   source_urls:
   - https://www.seattle.gov/mayor
-  updated_at: '2026-08-17T19:09:59+00:00'
+  updated_at: '2026-09-03T01:28:50+00:00'
   roles:
   - name: Mayor
     role_id: mayor
