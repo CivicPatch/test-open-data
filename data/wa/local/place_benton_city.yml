@@ -1,162 +1,115 @@
-- id: 71cf5ffc-1112-431b-bcf5-5a7debf73119
-  name: Camille Aguilar
-  urls:
-  - http://ci.benton-city.wa.us
-  image: ''
-  emails:
-  - camille@example.wa.gov
-  labels:
-  - Deputy Mayor / Council Member Position 2
-  office:
-    name: Deputy Mayor / Council Member Position 2
-    division_ocdid: ocd-division/country:us/state:wa/place:benton_city
-  phones:
-  - (360) 555-0199
-  end_date: null
-  cdn_image: ''
-  start_date: '2024'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: Position 2
-    post_id: 8710f0df-124b-40a2-9090-e94530528897
-    role_id: deputy-mayor
-    role_label: Deputy Mayor
-    source_labels:
-    - Deputy Mayor / Council Member Position 2
-    division_ocdid: ocd-division/country:us/state:wa/place:benton_city
-    post_label: Deputy Mayor
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:benton_city
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:benton_city/government
-- id: 64c31f30-b76f-4873-a3f5-03da02070a78
-  name: Camille Ferreira
-  urls:
-  - http://ci.benton-city.wa.us
-  image: ''
-  emails: []
-  labels:
-  - Deputy Mayor / Council Member Position 1
-  office:
-    name: Deputy Mayor / Council Member Position 1
-    division_ocdid: ocd-division/country:us/state:wa/place:benton_city
-  phones:
-  - (360) 555-1234
-  end_date: null
-  cdn_image: ''
-  start_date: '2026'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: Position 1
-    post_id: 8710f0df-124b-40a2-9090-e94530528897
-    role_id: deputy-mayor
-    role_label: Deputy Mayor
-    source_labels:
-    - Deputy Mayor / Council Member Position 1
-    division_ocdid: ocd-division/country:us/state:wa/place:benton_city
-    post_label: Deputy Mayor
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:benton_city
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:benton_city/government
-- id: 6508f41e-0f6a-43b8-8485-5553c563a20c
-  name: Carmen Nakamura
-  urls:
-  - http://ci.benton-city.wa.us
-  image: ''
-  emails:
-  - carmen@example.wa.gov
-  labels:
-  - Council Member, Ward 4
-  office:
-    name: Council Member, Ward 4
-    division_ocdid: ocd-division/country:us/state:wa/place:benton_city/ward:4
-  phones:
-  - (360) 555-1234
-  end_date: null
-  cdn_image: ''
-  start_date: '2022-01-01'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: 0fbfc3bb-1a08-4d61-aa20-4e6551a2cd12
-    role_id: council-member
-    role_label: Council Member
-    source_labels:
-    - Council Member, Ward 4
-    division_ocdid: ocd-division/country:us/state:wa/place:benton_city/ward:4
-    post_label: Council Member, Ward 4
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:benton_city/ward:4
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:benton_city/government
-- id: 246107a1-451d-46bd-8c55-dfd1e9fed127
-  name: Jonas Eze
-  urls:
-  - http://ci.benton-city.wa.us
-  image: ''
-  emails:
-  - jonas@example.wa.gov
-  labels:
-  - Treasurer
-  office:
-    name: Treasurer
-    division_ocdid: ocd-division/country:us/state:wa/place:benton_city
-  phones:
-  - (360) 555-0199
-  end_date: null
-  cdn_image: ''
-  start_date: '2025'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: dd90d7c3-751a-4f68-9b48-79179b13339e
-    role_id: treasurer
-    role_label: Treasurer
-    source_labels:
-    - Treasurer
-    division_ocdid: ocd-division/country:us/state:wa/place:benton_city
-    post_label: Treasurer
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:benton_city
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:benton_city/government
 - id: a193af8b-2554-4a80-b03f-e4451877f23f
   name: Ursula Kowalczyk
+  other_names:
+  - Ursula Kowalczyk Jr.
+  phones:
+  - (360) 555-0177
+  emails:
+  - ursula@example.wa.gov
   urls:
   - http://ci.benton-city.wa.us
   image: ''
-  emails:
-  - ursula@example.wa.gov
-  labels:
-  - Council Member At Large
-  - Mayor
-  office:
-    name: Council Member At Large - Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:benton_city
-  phones:
-  - (360) 555-0177
-  end_date: '2023-11-01'
   cdn_image: ''
-  start_date: '2022-01-01'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: ca299a17-d763-4623-b050-83a73ccc9cbb
-    role_id: mayor
-    role_label: Mayor
-    source_labels:
-    - Council Member At Large
-    - Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:benton_city
-    post_label: Mayor
-  other_names:
-  - Ursula Kowalczyk Jr.
   source_urls:
   - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:benton_city
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:benton_city/government
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Mayor
+    role_id: mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:benton_city/government
+    division_ocdid: ocd-division/country:us/state:wa/place:benton_city
+    start_date: 2022-01
+    end_date: 2023-11
+    first_seen_at: '2026-08-29T02:11:14.010856+00:00'
+    last_seen_at: '2026-08-31T02:33:18.064157+00:00'
+- id: 64c31f30-b76f-4873-a3f5-03da02070a78
+  name: Camille Ferreira
+  other_names: []
+  phones:
+  - (360) 555-1234
+  emails: []
+  urls:
+  - http://ci.benton-city.wa.us
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Deputy Mayor
+    role_id: deputy-mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:benton_city/government
+    division_ocdid: ocd-division/country:us/state:wa/place:benton_city
+    start_date: '2026'
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.010856+00:00'
+    last_seen_at: '2026-08-31T02:33:18.064157+00:00'
+- id: 71cf5ffc-1112-431b-bcf5-5a7debf73119
+  name: Camille Aguilar
+  other_names: []
+  phones:
+  - (360) 555-0199
+  emails:
+  - camille@example.wa.gov
+  urls:
+  - http://ci.benton-city.wa.us
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Deputy Mayor
+    role_id: deputy-mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:benton_city/government
+    division_ocdid: ocd-division/country:us/state:wa/place:benton_city
+    start_date: '2024'
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.010856+00:00'
+    last_seen_at: '2026-08-31T02:33:18.064157+00:00'
+- id: 6508f41e-0f6a-43b8-8485-5553c563a20c
+  name: Carmen Nakamura
+  other_names: []
+  phones:
+  - (360) 555-1234
+  emails:
+  - carmen@example.wa.gov
+  urls:
+  - http://ci.benton-city.wa.us
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Council Member, Ward 4
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:benton_city/government
+    division_ocdid: ocd-division/country:us/state:wa/place:benton_city/ward:4
+    start_date: 2022-01
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.010856+00:00'
+    last_seen_at: '2026-08-31T02:33:18.064157+00:00'
+- id: 246107a1-451d-46bd-8c55-dfd1e9fed127
+  name: Jonas Eze
+  other_names: []
+  phones:
+  - (360) 555-0199
+  emails:
+  - jonas@example.wa.gov
+  urls:
+  - http://ci.benton-city.wa.us
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Treasurer
+    role_id: treasurer
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:benton_city/government
+    division_ocdid: ocd-division/country:us/state:wa/place:benton_city
+    start_date: '2025'
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.010856+00:00'
+    last_seen_at: '2026-08-31T02:33:18.064157+00:00'

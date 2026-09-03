@@ -1,158 +1,113 @@
-- id: 57877d51-f4a7-495b-a295-39d7921ddf30
-  name: Marek Whitfield
-  urls:
-  - https://cityofcentralia.com
-  image: ''
-  emails:
-  - marek@example.wa.gov
-  labels:
-  - City Clerk
-  office:
-    name: City Clerk
-    division_ocdid: ocd-division/country:us/state:wa/place:centralia
-  phones: []
-  end_date: null
-  cdn_image: ''
-  start_date: 2023-11
-  updated_at: '2026-08-31T00:00:18+00:00'
-  memberships:
-  - label: null
-    post_id: c0a12bb9-e122-4101-b004-a37e21851ed4
-    role_id: clerk
-    role_label: Clerk
-    source_labels:
-    - City Clerk
-    division_ocdid: ocd-division/country:us/state:wa/place:centralia
-    post_label: Clerk
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:centralia
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:centralia/government
 - id: cec80f50-06fc-4ca0-8348-ea999c12fa79
   name: Nadia Hoffmann
-  urls:
-  - https://cityofcentralia.com
-  image: ''
-  emails:
-  - nadia@example.wa.gov
-  labels:
-  - Mayor
-  office:
-    name: Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:centralia
+  other_names: []
   phones:
   - (360) 555-5678
-  end_date: null
-  cdn_image: ''
-  start_date: null
-  updated_at: '2026-08-31T00:00:18+00:00'
-  memberships:
-  - label: null
-    post_id: b0054d51-ff73-427a-86d5-68fb2ce611b7
-    role_id: mayor
-    role_label: Mayor
-    source_labels:
-    - Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:centralia
-    post_label: Mayor
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:centralia
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:centralia/government
-- id: 5214b97f-dfe3-4752-804f-27eef3be0eb6
-  name: Oluwaseun Vasquez
+  emails:
+  - nadia@example.wa.gov
   urls:
   - https://cityofcentralia.com
   image: ''
-  emails:
-  - oluwaseun@example.wa.gov
-  labels:
-  - Treasurer
-  office:
-    name: Treasurer
-    division_ocdid: ocd-division/country:us/state:wa/place:centralia
-  phones:
-  - (360) 555-1234
-  end_date: null
   cdn_image: ''
-  start_date: '2026'
-  updated_at: '2026-08-31T00:00:18+00:00'
-  memberships:
-  - label: null
-    post_id: 9691eede-aadb-4518-a184-0bf3137df7a8
-    role_id: treasurer
-    role_label: Treasurer
-    source_labels:
-    - Treasurer
-    division_ocdid: ocd-division/country:us/state:wa/place:centralia
-    post_label: Treasurer
-  other_names: []
   source_urls:
   - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:centralia
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:centralia/government
+  updated_at: '2026-08-31T00:00:18+00:00'
+  roles:
+  - name: Mayor
+    role_id: mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:centralia/government
+    division_ocdid: ocd-division/country:us/state:wa/place:centralia
+    start_date: null
+    end_date: null
+    first_seen_at: '2026-08-29T16:56:22.461673+00:00'
+    last_seen_at: '2026-08-31T02:33:18.262852+00:00'
 - id: e05fd3c0-2af1-4c82-9c1e-e85460bd4159
   name: Priya Fontaine
-  urls:
-  - https://cityofcentralia.com
-  image: ''
+  other_names: []
+  phones: []
   emails:
   - priya@example.wa.gov
-  labels:
-  - Council Member Ward 4
-  office:
-    name: Council Member Ward 4
-    division_ocdid: ocd-division/country:us/state:wa/place:centralia/ward:4
-  phones: []
-  end_date: '2025'
-  cdn_image: ''
-  start_date: null
-  updated_at: '2026-08-31T00:00:18+00:00'
-  memberships:
-  - label: null
-    post_id: 59238ce4-bf26-46f4-aee0-89fa7e8e45d5
-    role_id: council-member
-    role_label: Council Member
-    source_labels:
-    - Council Member Ward 4
-    division_ocdid: ocd-division/country:us/state:wa/place:centralia/ward:4
-    post_label: Council Member, Ward 4
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:centralia/ward:4
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:centralia/government
-- id: 76b4c379-b98a-4880-a3be-4281cd210f67
-  name: Yusuf Ibarra
   urls:
   - https://cityofcentralia.com
   image: ''
-  emails:
-  - yusuf@example.wa.gov
-  labels:
-  - Clerk/Treasurer
-  office:
-    name: Clerk/Treasurer
-    division_ocdid: ocd-division/country:us/state:wa/place:centralia
-  phones:
-  - (360) 555-1234
-  end_date: null
   cdn_image: ''
-  start_date: 2022-01
-  updated_at: '2026-08-31T00:00:18+00:00'
-  memberships:
-  - label: null
-    post_id: c0a12bb9-e122-4101-b004-a37e21851ed4
-    role_id: clerk
-    role_label: Clerk
-    source_labels:
-    - Clerk/Treasurer
-    division_ocdid: ocd-division/country:us/state:wa/place:centralia
-    post_label: Clerk
-  other_names: []
   source_urls:
   - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:centralia
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:centralia/government
+  updated_at: '2026-08-31T00:00:18+00:00'
+  roles:
+  - name: Council Member, Ward 4
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:centralia/government
+    division_ocdid: ocd-division/country:us/state:wa/place:centralia/ward:4
+    start_date: null
+    end_date: '2025'
+    first_seen_at: '2026-08-29T16:56:22.461673+00:00'
+    last_seen_at: '2026-08-31T02:33:18.262852+00:00'
+- id: 57877d51-f4a7-495b-a295-39d7921ddf30
+  name: Marek Whitfield
+  other_names: []
+  phones: []
+  emails:
+  - marek@example.wa.gov
+  urls:
+  - https://cityofcentralia.com
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-31T00:00:18+00:00'
+  roles:
+  - name: Clerk
+    role_id: clerk
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:centralia/government
+    division_ocdid: ocd-division/country:us/state:wa/place:centralia
+    start_date: 2023-11
+    end_date: null
+    first_seen_at: '2026-08-29T16:56:22.461673+00:00'
+    last_seen_at: '2026-08-31T02:33:18.262852+00:00'
+- id: 76b4c379-b98a-4880-a3be-4281cd210f67
+  name: Yusuf Ibarra
+  other_names: []
+  phones:
+  - (360) 555-1234
+  emails:
+  - yusuf@example.wa.gov
+  urls:
+  - https://cityofcentralia.com
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-31T00:00:18+00:00'
+  roles:
+  - name: Clerk
+    role_id: clerk
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:centralia/government
+    division_ocdid: ocd-division/country:us/state:wa/place:centralia
+    start_date: 2022-01
+    end_date: null
+    first_seen_at: '2026-08-29T16:56:22.461673+00:00'
+    last_seen_at: '2026-08-31T02:33:18.262852+00:00'
+- id: 5214b97f-dfe3-4752-804f-27eef3be0eb6
+  name: Oluwaseun Vasquez
+  other_names: []
+  phones:
+  - (360) 555-1234
+  emails:
+  - oluwaseun@example.wa.gov
+  urls:
+  - https://cityofcentralia.com
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-31T00:00:18+00:00'
+  roles:
+  - name: Treasurer
+    role_id: treasurer
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:centralia/government
+    division_ocdid: ocd-division/country:us/state:wa/place:centralia
+    start_date: '2026'
+    end_date: null
+    first_seen_at: '2026-08-29T16:56:22.461673+00:00'
+    last_seen_at: '2026-08-31T02:33:18.262852+00:00'

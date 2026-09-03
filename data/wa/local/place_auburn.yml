@@ -1,219 +1,156 @@
-- id: 83e24e9d-349d-408b-8688-1e299735b084
-  name: Björn Rasmussen
-  urls:
-  - https://www.auburnwa.gov/
-  image: ''
-  emails:
-  - björn@example.wa.gov
-  labels:
-  - Deputy Mayor / Council Member Position 3
-  office:
-    name: Deputy Mayor / Council Member Position 3
-    division_ocdid: ocd-division/country:us/state:wa/place:auburn
-  phones: []
-  end_date: null
-  cdn_image: ''
-  start_date: '2022-01-01'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: Position 3
-    post_id: 4e50fffc-96d7-4423-8195-7b1f283d4129
-    role_id: deputy-mayor
-    role_label: Deputy Mayor
-    source_labels:
-    - Deputy Mayor / Council Member Position 3
-    division_ocdid: ocd-division/country:us/state:wa/place:auburn
-    post_label: Deputy Mayor
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:auburn
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:auburn/government
-- id: b2ebe579-d78a-43a5-a23c-93f5382a0c9b
-  name: Carmen Sørensen
-  urls:
-  - https://www.auburnwa.gov/
-  image: ''
-  emails:
-  - carmen@example.wa.gov
-  labels:
-  - City Clerk
-  office:
-    name: City Clerk
-    division_ocdid: ocd-division/country:us/state:wa/place:auburn
-  phones:
-  - (360) 555-1234
-  end_date: null
-  cdn_image: ''
-  start_date: '2023-11-01'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: 7f58bcc4-c057-4a82-b7e6-4e8edfd8d648
-    role_id: clerk
-    role_label: Clerk
-    source_labels:
-    - City Clerk
-    division_ocdid: ocd-division/country:us/state:wa/place:auburn
-    post_label: Clerk
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:auburn
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:auburn/government
-- id: 8cb51870-069a-4e28-9a7e-f7cee4177355
-  name: Grigor Rasmussen
-  urls:
-  - https://www.auburnwa.gov/
-  image: ''
-  emails: []
-  labels:
-  - Councilmember Pos. 4
-  office:
-    name: Councilmember Pos. 4
-    division_ocdid: ocd-division/country:us/state:wa/place:auburn
-  phones:
-  - (360) 555-1234
-  end_date: null
-  cdn_image: ''
-  start_date: '2024'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: Position 4
-    post_id: 48361563-89f7-44c4-b62f-d1e1e25d9fca
-    role_id: council-member
-    role_label: Council Member
-    source_labels:
-    - Councilmember Pos. 4
-    division_ocdid: ocd-division/country:us/state:wa/place:auburn
-    post_label: Council Member
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:auburn
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:auburn/government
-- id: 93ddf5d6-6168-42da-8863-996ccd9225c5
-  name: Nadia Kowalczyk
-  urls:
-  - https://www.auburnwa.gov/
-  image: ''
-  emails:
-  - nadia@example.wa.gov
-  labels:
-  - Council Member At Large
-  office:
-    name: Council Member At Large
-    division_ocdid: ocd-division/country:us/state:wa/place:auburn
-  phones: []
-  end_date: null
-  cdn_image: ''
-  start_date: '2024'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: 48361563-89f7-44c4-b62f-d1e1e25d9fca
-    role_id: council-member
-    role_label: Council Member
-    source_labels:
-    - Council Member At Large
-    division_ocdid: ocd-division/country:us/state:wa/place:auburn
-    post_label: Council Member
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:auburn
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:auburn/government
-- id: 2c97334f-cc63-476e-8943-38f5dd90d611
-  name: Sanjay Kowalczyk
-  urls:
-  - https://www.auburnwa.gov/
-  image: ''
-  emails: []
-  labels:
-  - Poet Laureate
-  office:
-    name: Poet Laureate
-    division_ocdid: ocd-division/country:us/state:wa/place:auburn
-  phones: []
-  end_date: null
-  cdn_image: ''
-  start_date: '2024-01-01'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: Poet Laureate
-    post_id: 9c4d9a8b-993c-489a-a567-ecf010ad52a6
-    role_id: unmatched
-    role_label: Unmatched
-    source_labels:
-    - Poet Laureate
-    division_ocdid: ocd-division/country:us/state:wa/place:auburn
-    post_label: Unmatched
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:auburn
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:auburn/government
 - id: b2d86161-76b5-42f6-b7dd-035782eb0b44
   name: Xiomara Mbeki
-  urls:
-  - https://www.auburnwa.gov/
-  image: ''
-  emails:
-  - xiomara@example.wa.gov
-  labels:
-  - Mayor
-  office:
-    name: Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:auburn
+  other_names: []
   phones:
   - (360) 555-0199
-  end_date: null
-  cdn_image: ''
-  start_date: '2024'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: 9c40e274-aac8-447f-8afd-72c44c3fd7aa
-    role_id: mayor
-    role_label: Mayor
-    source_labels:
-    - Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:auburn
-    post_label: Mayor
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:auburn
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:auburn/government
-- id: b5d3babe-2070-4b02-b85f-81e3e07f99ad
-  name: Yusuf Gallagher
+  emails:
+  - xiomara@example.wa.gov
   urls:
   - https://www.auburnwa.gov/
   image: ''
-  emails:
-  - yusuf@example.wa.gov
-  labels:
-  - Councilmember Pos. 2
-  office:
-    name: Councilmember Pos. 2
-    division_ocdid: ocd-division/country:us/state:wa/place:auburn
-  phones:
-  - (360) 555-0177
-  end_date: null
   cdn_image: ''
-  start_date: '2025'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: Position 2
-    post_id: 48361563-89f7-44c4-b62f-d1e1e25d9fca
-    role_id: council-member
-    role_label: Council Member
-    source_labels:
-    - Councilmember Pos. 2
-    division_ocdid: ocd-division/country:us/state:wa/place:auburn
-    post_label: Council Member
-  other_names: []
   source_urls:
   - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:auburn
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:auburn/government
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Mayor
+    role_id: mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:auburn/government
+    division_ocdid: ocd-division/country:us/state:wa/place:auburn
+    start_date: '2024'
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:13.917292+00:00'
+    last_seen_at: '2026-08-31T02:33:17.994169+00:00'
+- id: 83e24e9d-349d-408b-8688-1e299735b084
+  name: Björn Rasmussen
+  other_names: []
+  phones: []
+  emails:
+  - björn@example.wa.gov
+  urls:
+  - https://www.auburnwa.gov/
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Deputy Mayor
+    role_id: deputy-mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:auburn/government
+    division_ocdid: ocd-division/country:us/state:wa/place:auburn
+    start_date: 2022-01
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:13.917292+00:00'
+    last_seen_at: '2026-08-31T02:33:17.994169+00:00'
+- id: b5d3babe-2070-4b02-b85f-81e3e07f99ad
+  name: Yusuf Gallagher
+  other_names: []
+  phones:
+  - (360) 555-0177
+  emails:
+  - yusuf@example.wa.gov
+  urls:
+  - https://www.auburnwa.gov/
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:auburn/government
+    division_ocdid: ocd-division/country:us/state:wa/place:auburn
+    start_date: '2025'
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:13.917292+00:00'
+    last_seen_at: '2026-08-31T02:33:17.994169+00:00'
+- id: 8cb51870-069a-4e28-9a7e-f7cee4177355
+  name: Grigor Rasmussen
+  other_names: []
+  phones:
+  - (360) 555-1234
+  emails: []
+  urls:
+  - https://www.auburnwa.gov/
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:auburn/government
+    division_ocdid: ocd-division/country:us/state:wa/place:auburn
+    start_date: '2024'
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:13.917292+00:00'
+    last_seen_at: '2026-08-31T02:33:17.994169+00:00'
+- id: 93ddf5d6-6168-42da-8863-996ccd9225c5
+  name: Nadia Kowalczyk
+  other_names: []
+  phones: []
+  emails:
+  - nadia@example.wa.gov
+  urls:
+  - https://www.auburnwa.gov/
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:auburn/government
+    division_ocdid: ocd-division/country:us/state:wa/place:auburn
+    start_date: '2024'
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:13.917292+00:00'
+    last_seen_at: '2026-08-31T02:33:17.994169+00:00'
+- id: b2ebe579-d78a-43a5-a23c-93f5382a0c9b
+  name: Carmen Sørensen
+  other_names: []
+  phones:
+  - (360) 555-1234
+  emails:
+  - carmen@example.wa.gov
+  urls:
+  - https://www.auburnwa.gov/
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Clerk
+    role_id: clerk
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:auburn/government
+    division_ocdid: ocd-division/country:us/state:wa/place:auburn
+    start_date: 2023-11
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:13.917292+00:00'
+    last_seen_at: '2026-08-31T02:33:17.994169+00:00'
+- id: 2c97334f-cc63-476e-8943-38f5dd90d611
+  name: Sanjay Kowalczyk
+  other_names: []
+  phones: []
+  emails: []
+  urls:
+  - https://www.auburnwa.gov/
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Unmatched
+    role_id: unmatched
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:auburn/government
+    division_ocdid: ocd-division/country:us/state:wa/place:auburn
+    start_date: '2024-01-01'
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:13.917292+00:00'
+    last_seen_at: '2026-08-31T02:33:17.994169+00:00'

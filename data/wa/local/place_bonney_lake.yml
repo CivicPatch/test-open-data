@@ -1,126 +1,90 @@
-- id: 8f31e2ed-9cec-4695-86af-87e8b550290f
-  name: Ada Yamamoto
-  urls:
-  - http://www.ci.bonney-lake.wa.us/
-  image: ''
-  emails:
-  - ada@example.wa.gov
-  labels:
-  - Council Member At Large
-  office:
-    name: Council Member At Large
-    division_ocdid: ocd-division/country:us/state:wa/place:bonney_lake
-  phones:
-  - (360) 555-1234
-  end_date: null
-  cdn_image: ''
-  start_date: null
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: 3e322362-fdbe-4fdd-8933-b07a3c678e94
-    role_id: council-member
-    role_label: Council Member
-    source_labels:
-    - Council Member At Large
-    division_ocdid: ocd-division/country:us/state:wa/place:bonney_lake
-    post_label: Council Member
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:bonney_lake
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bonney_lake/government
-- id: 9ca4f270-54ad-46f7-bd72-f5296549cfad
-  name: Giulia Ferreira
-  urls:
-  - http://www.ci.bonney-lake.wa.us/
-  image: ''
-  emails: []
-  labels:
-  - Mayor Pro Tem and Council Member Position 2
-  office:
-    name: Mayor Pro Tem and Council Member Position 2
-    division_ocdid: ocd-division/country:us/state:wa/place:bonney_lake
-  phones: []
-  end_date: '2024'
-  cdn_image: ''
-  start_date: null
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: Position 2, and
-    post_id: 1f7f0d04-6197-42da-9166-159211e43825
-    role_id: mayor-pro-tempore
-    role_label: Mayor Pro Tempore
-    source_labels:
-    - Mayor Pro Tem and Council Member Position 2
-    division_ocdid: ocd-division/country:us/state:wa/place:bonney_lake
-    post_label: Mayor Pro Tempore
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:bonney_lake
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bonney_lake/government
-- id: 10bd58a2-abb9-4995-8b85-7619d33ec1ed
-  name: Tomasz Bergström
-  urls:
-  - http://www.ci.bonney-lake.wa.us/
-  image: ''
-  emails:
-  - tomasz@example.wa.gov
-  labels:
-  - Treasurer
-  office:
-    name: Treasurer
-    division_ocdid: ocd-division/country:us/state:wa/place:bonney_lake
-  phones:
-  - (360) 555-0199
-  end_date: null
-  cdn_image: ''
-  start_date: '2023-11-01'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: cf25db1b-9a29-4719-b32e-191834a82911
-    role_id: treasurer
-    role_label: Treasurer
-    source_labels:
-    - Treasurer
-    division_ocdid: ocd-division/country:us/state:wa/place:bonney_lake
-    post_label: Treasurer
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:bonney_lake
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bonney_lake/government
 - id: b16ce130-cf1b-4f9a-8c16-a54b6e6f7998
   name: Viktor Ferreira
+  other_names: []
+  phones:
+  - (360) 555-0177
+  emails:
+  - viktor@example.wa.gov
   urls:
   - http://www.ci.bonney-lake.wa.us/
   image: ''
-  emails:
-  - viktor@example.wa.gov
-  labels:
-  - Mayor
-  office:
-    name: Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:bonney_lake
-  phones:
-  - (360) 555-0177
-  end_date: null
   cdn_image: ''
-  start_date: '2023-11-01'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: 3e464875-3dc4-48c3-baaf-a34a8e3fb22a
-    role_id: mayor
-    role_label: Mayor
-    source_labels:
-    - Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:bonney_lake
-    post_label: Mayor
-  other_names: []
   source_urls:
   - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:bonney_lake
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bonney_lake/government
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Mayor
+    role_id: mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bonney_lake/government
+    division_ocdid: ocd-division/country:us/state:wa/place:bonney_lake
+    start_date: 2023-11
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.061645+00:00'
+    last_seen_at: '2026-08-31T02:33:18.104875+00:00'
+- id: 9ca4f270-54ad-46f7-bd72-f5296549cfad
+  name: Giulia Ferreira
+  other_names: []
+  phones: []
+  emails: []
+  urls:
+  - http://www.ci.bonney-lake.wa.us/
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Mayor Pro Tempore
+    role_id: mayor-pro-tempore
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bonney_lake/government
+    division_ocdid: ocd-division/country:us/state:wa/place:bonney_lake
+    start_date: null
+    end_date: '2024'
+    first_seen_at: '2026-08-29T02:11:14.061645+00:00'
+    last_seen_at: '2026-08-31T02:33:18.104875+00:00'
+- id: 8f31e2ed-9cec-4695-86af-87e8b550290f
+  name: Ada Yamamoto
+  other_names: []
+  phones:
+  - (360) 555-1234
+  emails:
+  - ada@example.wa.gov
+  urls:
+  - http://www.ci.bonney-lake.wa.us/
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bonney_lake/government
+    division_ocdid: ocd-division/country:us/state:wa/place:bonney_lake
+    start_date: null
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.061645+00:00'
+    last_seen_at: '2026-08-31T02:33:18.104875+00:00'
+- id: 10bd58a2-abb9-4995-8b85-7619d33ec1ed
+  name: Tomasz Bergström
+  other_names: []
+  phones:
+  - (360) 555-0199
+  emails:
+  - tomasz@example.wa.gov
+  urls:
+  - http://www.ci.bonney-lake.wa.us/
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Treasurer
+    role_id: treasurer
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bonney_lake/government
+    division_ocdid: ocd-division/country:us/state:wa/place:bonney_lake
+    start_date: 2023-11
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.061645+00:00'
+    last_seen_at: '2026-08-31T02:33:18.104875+00:00'

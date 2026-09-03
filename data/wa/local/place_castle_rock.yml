@@ -1,222 +1,159 @@
 - id: 2adfe1cc-81a6-4fcb-af8f-7b23257b91b0
   name: Björn Ferreira
-  urls:
-  - http://ci.castle-rock.wa.us/
-  image: ''
+  other_names: []
+  phones:
+  - (360) 555-1234
   emails: []
-  labels:
-  - Mayor
-  office:
-    name: Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:castle_rock
-  phones:
-  - (360) 555-1234
-  end_date: null
+  urls:
+  - http://ci.castle-rock.wa.us/
+  image: ''
   cdn_image: ''
-  start_date: '2023-11-01'
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
   updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: 0b597e42-3976-48e8-9901-3e94216087ab
+  roles:
+  - name: Mayor
     role_id: mayor
-    role_label: Mayor
-    source_labels:
-    - Mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:castle_rock/government
     division_ocdid: ocd-division/country:us/state:wa/place:castle_rock
-    post_label: Mayor
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:castle_rock
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:castle_rock/government
-- id: 4079923f-96fb-4c88-b296-ae41edad34d1
-  name: Camille Chen
-  urls:
-  - http://ci.castle-rock.wa.us/
-  image: ''
-  emails:
-  - camille@example.wa.gov
-  labels:
-  - Treasurer
-  office:
-    name: Treasurer
-    division_ocdid: ocd-division/country:us/state:wa/place:castle_rock
-  phones:
-  - (360) 555-1234
-  end_date: null
-  cdn_image: ''
-  start_date: '2026'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: 3c9f7584-982d-484f-9038-6f79203710af
-    role_id: treasurer
-    role_label: Treasurer
-    source_labels:
-    - Treasurer
-    division_ocdid: ocd-division/country:us/state:wa/place:castle_rock
-    post_label: Treasurer
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:castle_rock
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:castle_rock/government
-- id: 20d56a7e-4bf0-46a9-8db7-a8692ffbb110
-  name: Dae-ho D'Amico
-  urls:
-  - http://ci.castle-rock.wa.us/
-  image: ''
-  emails:
-  - dae-ho@example.wa.gov
-  labels:
-  - Council Member At Large
-  office:
-    name: Council Member At Large
-    division_ocdid: ocd-division/country:us/state:wa/place:castle_rock
-  phones:
-  - (360) 555-0199
-  end_date: null
-  cdn_image: ''
-  start_date: '2026'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: 66151558-fabb-4a58-ac48-247894d915a6
-    role_id: council-member
-    role_label: Council Member
-    source_labels:
-    - Council Member At Large
-    division_ocdid: ocd-division/country:us/state:wa/place:castle_rock
-    post_label: Council Member
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:castle_rock
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:castle_rock/government
-- id: bc46a95b-664c-49eb-9a7f-c8eab0097595
-  name: Jonas Zielinski
-  urls:
-  - http://ci.castle-rock.wa.us/
-  image: ''
-  emails:
-  - jonas@example.wa.gov
-  labels:
-  - Municipal Judge
-  office:
-    name: Municipal Judge
-    division_ocdid: ocd-division/country:us/state:wa/place:castle_rock
-  phones:
-  - (360) 555-0177
-  end_date: '2024-01-01'
-  cdn_image: ''
-  start_date: null
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: Municipal Judge
-    post_id: 2d8a1926-36de-475c-a236-818c1a563477
-    role_id: unmatched
-    role_label: Unmatched
-    source_labels:
-    - Municipal Judge
-    division_ocdid: ocd-division/country:us/state:wa/place:castle_rock
-    post_label: Unmatched
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:castle_rock
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:castle_rock/government
-- id: 85ca5884-1c30-41f1-ae93-844b24256b4a
-  name: Marek Hoffmann
-  urls:
-  - http://ci.castle-rock.wa.us/
-  image: ''
-  emails:
-  - marek@example.wa.gov
-  labels:
-  - Councilmember Pos. 1
-  office:
-    name: Councilmember Pos. 1
-    division_ocdid: ocd-division/country:us/state:wa/place:castle_rock
-  phones: []
-  end_date: null
-  cdn_image: ''
-  start_date: '2025'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: Position 1
-    post_id: 66151558-fabb-4a58-ac48-247894d915a6
-    role_id: council-member
-    role_label: Council Member
-    source_labels:
-    - Councilmember Pos. 1
-    division_ocdid: ocd-division/country:us/state:wa/place:castle_rock
-    post_label: Council Member
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:castle_rock
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:castle_rock/government
+    start_date: 2023-11
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.223564+00:00'
+    last_seen_at: '2026-08-31T02:33:18.237573+00:00'
 - id: ab8ca5ec-7e89-4821-8262-a37b7d97af35
   name: Nadia Rasmussen
-  urls:
-  - http://ci.castle-rock.wa.us/
-  image: ''
+  other_names: []
+  phones:
+  - (360) 555-1234
   emails:
   - nadia@example.wa.gov
-  labels:
-  - Council Member, Ward 6
-  office:
-    name: Council Member, Ward 6
-    division_ocdid: ocd-division/country:us/state:wa/place:castle_rock/ward:6
-  phones:
-  - (360) 555-1234
-  end_date: '2022-01-01'
-  cdn_image: ''
-  start_date: null
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: fcf3d6e0-563d-4b56-bbe4-b17a92422836
-    role_id: council-member
-    role_label: Council Member
-    source_labels:
-    - Council Member, Ward 6
-    division_ocdid: ocd-division/country:us/state:wa/place:castle_rock/ward:6
-    post_label: Council Member, Ward 6
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:castle_rock/ward:6
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:castle_rock/government
-- id: e96dc930-3b33-474b-a4de-d8d09f2296bd
-  name: Ursula Jankowski
   urls:
   - http://ci.castle-rock.wa.us/
   image: ''
-  emails:
-  - ursula@example.wa.gov
-  labels:
-  - Council Member At Large
-  office:
-    name: Council Member At Large
-    division_ocdid: ocd-division/country:us/state:wa/place:castle_rock
-  phones:
-  - (360) 555-1234
-  end_date: null
   cdn_image: ''
-  start_date: '2026'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: 66151558-fabb-4a58-ac48-247894d915a6
-    role_id: council-member
-    role_label: Council Member
-    source_labels:
-    - Council Member At Large
-    division_ocdid: ocd-division/country:us/state:wa/place:castle_rock
-    post_label: Council Member
-  other_names: []
   source_urls:
   - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:castle_rock
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:castle_rock/government
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Council Member, Ward 6
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:castle_rock/government
+    division_ocdid: ocd-division/country:us/state:wa/place:castle_rock/ward:6
+    start_date: null
+    end_date: 2022-01
+    first_seen_at: '2026-08-29T02:11:14.223564+00:00'
+    last_seen_at: '2026-08-31T02:33:18.237573+00:00'
+- id: 85ca5884-1c30-41f1-ae93-844b24256b4a
+  name: Marek Hoffmann
+  other_names: []
+  phones: []
+  emails:
+  - marek@example.wa.gov
+  urls:
+  - http://ci.castle-rock.wa.us/
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:castle_rock/government
+    division_ocdid: ocd-division/country:us/state:wa/place:castle_rock
+    start_date: '2025'
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.223564+00:00'
+    last_seen_at: '2026-08-31T02:33:18.237573+00:00'
+- id: 20d56a7e-4bf0-46a9-8db7-a8692ffbb110
+  name: Dae-ho D'Amico
+  other_names: []
+  phones:
+  - (360) 555-0199
+  emails:
+  - dae-ho@example.wa.gov
+  urls:
+  - http://ci.castle-rock.wa.us/
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:castle_rock/government
+    division_ocdid: ocd-division/country:us/state:wa/place:castle_rock
+    start_date: '2026'
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.223564+00:00'
+    last_seen_at: '2026-08-31T02:33:18.237573+00:00'
+- id: e96dc930-3b33-474b-a4de-d8d09f2296bd
+  name: Ursula Jankowski
+  other_names: []
+  phones:
+  - (360) 555-1234
+  emails:
+  - ursula@example.wa.gov
+  urls:
+  - http://ci.castle-rock.wa.us/
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:castle_rock/government
+    division_ocdid: ocd-division/country:us/state:wa/place:castle_rock
+    start_date: '2026'
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.223564+00:00'
+    last_seen_at: '2026-08-31T02:33:18.237573+00:00'
+- id: 4079923f-96fb-4c88-b296-ae41edad34d1
+  name: Camille Chen
+  other_names: []
+  phones:
+  - (360) 555-1234
+  emails:
+  - camille@example.wa.gov
+  urls:
+  - http://ci.castle-rock.wa.us/
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Treasurer
+    role_id: treasurer
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:castle_rock/government
+    division_ocdid: ocd-division/country:us/state:wa/place:castle_rock
+    start_date: '2026'
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.223564+00:00'
+    last_seen_at: '2026-08-31T02:33:18.237573+00:00'
+- id: bc46a95b-664c-49eb-9a7f-c8eab0097595
+  name: Jonas Zielinski
+  other_names: []
+  phones:
+  - (360) 555-0177
+  emails:
+  - jonas@example.wa.gov
+  urls:
+  - http://ci.castle-rock.wa.us/
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Unmatched
+    role_id: unmatched
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:castle_rock/government
+    division_ocdid: ocd-division/country:us/state:wa/place:castle_rock
+    start_date: null
+    end_date: '2024-01-01'
+    first_seen_at: '2026-08-29T02:11:14.223564+00:00'
+    last_seen_at: '2026-08-31T02:33:18.237573+00:00'

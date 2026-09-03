@@ -1,68 +1,70 @@
 - id: 4f7bcffb-e85f-4088-8c9f-deb7918cd2f0
   name: Esperanza Nakamura
-  urls:
-  - http://www.clarkston-wa.com/
-  image: ''
-  emails:
-  - esperanza@example.wa.gov
-  labels:
-  - Council Member At Large
-  - Mayor
-  office:
-    name: Council Member At Large - Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:clarkston
+  other_names:
+  - Esperanza Nakamura Jr.
   phones:
   - (360) 555-0177
   - (360) 555-1234
-  end_date: null
-  cdn_image: ''
-  start_date: '2024-01-01'
-  updated_at: '2026-08-31T00:02:55+00:00'
-  memberships:
-  - label: null
-    post_id: f3151916-3c5c-40db-bf85-d5cc82af3133
-    role_id: mayor
-    role_label: Mayor
-    source_labels:
-    - Council Member At Large
-    - Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:clarkston
-    post_label: Mayor
-  other_names:
-  - Esperanza Nakamura Jr.
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:clarkston
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:clarkston/government
-- id: 06e20a0d-ff73-40e5-83f3-08aa92bb7c7f
-  name: Nadia Fontaine
+  emails:
+  - esperanza@example.wa.gov
   urls:
   - http://www.clarkston-wa.com/
   image: ''
-  emails:
-  - nadia@example.wa.gov
-  labels:
-  - Treasurer
-  office:
-    name: Treasurer
-    division_ocdid: ocd-division/country:us/state:wa/place:clarkston
-  phones:
-  - (360) 555-1234
-  end_date: '2024'
   cdn_image: ''
-  start_date: 2023-11
-  updated_at: '2026-08-31T00:02:55+00:00'
-  memberships:
-  - label: null
-    post_id: 9fe40161-7788-4183-a2cc-604fb1d1e9bf
-    role_id: treasurer
-    role_label: Treasurer
-    source_labels:
-    - Treasurer
-    division_ocdid: ocd-division/country:us/state:wa/place:clarkston
-    post_label: Treasurer
-  other_names: []
   source_urls:
   - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:clarkston
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:clarkston/government
+  updated_at: '2026-08-31T00:02:55+00:00'
+  roles:
+  - name: Mayor
+    role_id: mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:clarkston/government
+    division_ocdid: ocd-division/country:us/state:wa/place:clarkston
+    start_date: '2024-01-01'
+    end_date: null
+    first_seen_at: '2026-08-29T16:56:22.489574+00:00'
+    last_seen_at: '2026-08-31T02:33:18.286185+00:00'
+- id: e63e4e80-69d4-4e2a-bde4-8692d0efd5b5
+  name: Hyun-woo O'Brien
+  other_names: []
+  phones:
+  - (360) 555-0177
+  emails: []
+  urls:
+  - http://www.clarkston-wa.com/
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-09-03T23:07:46+00:00'
+  roles:
+  - name: Treasurer
+    role_id: treasurer
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:clarkston/government
+    division_ocdid: ocd-division/country:us/state:wa/place:clarkston
+    start_date: null
+    end_date: '2026'
+    first_seen_at: '2026-08-31T02:33:18.286185+00:00'
+    last_seen_at: '2026-08-31T02:33:18.286185+00:00'
+- id: 06e20a0d-ff73-40e5-83f3-08aa92bb7c7f
+  name: Nadia Fontaine
+  other_names: []
+  phones:
+  - (360) 555-1234
+  emails:
+  - nadia@example.wa.gov
+  urls:
+  - http://www.clarkston-wa.com/
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-31T00:02:55+00:00'
+  roles:
+  - name: Treasurer
+    role_id: treasurer
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:clarkston/government
+    division_ocdid: ocd-division/country:us/state:wa/place:clarkston
+    start_date: 2023-11
+    end_date: '2024'
+    first_seen_at: '2026-08-29T16:56:22.489574+00:00'
+    last_seen_at: '2026-08-31T02:33:18.286185+00:00'

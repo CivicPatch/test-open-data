@@ -1,253 +1,181 @@
 - id: 4f291a58-5c52-4df9-bda2-360a9917307e
   name: Ada Kowalczyk
-  urls:
-  - https://beauxarts-wa.gov
-  image: ''
+  other_names: []
+  phones:
+  - (360) 555-1234
   emails:
   - ada@example.wa.gov
-  labels:
-  - Mayor
-  office:
-    name: Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:beaux_arts_village
-  phones:
-  - (360) 555-1234
-  end_date: null
+  urls:
+  - https://beauxarts-wa.gov
+  image: ''
   cdn_image: ''
-  start_date: '2026'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: 2c2d3a6a-8b8e-40bf-8fad-aa47c5049ab4
-    role_id: mayor
-    role_label: Mayor
-    source_labels:
-    - Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:beaux_arts_village
-    post_label: Mayor
-  other_names: []
   source_urls:
   - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:beaux_arts_village
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:beaux_arts_village/government
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Mayor
+    role_id: mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:beaux_arts_village/government
+    division_ocdid: ocd-division/country:us/state:wa/place:beaux_arts_village
+    start_date: '2026'
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:13.97574+00:00'
+    last_seen_at: '2026-08-31T02:33:18.038866+00:00'
 - id: c9496978-ad16-4b5f-9330-8c89118122a6
   name: Eirik Aguilar
+  other_names: []
+  phones:
+  - (360) 555-0199
+  emails: []
   urls:
   - https://beauxarts-wa.gov
   image: ''
-  emails: []
-  labels:
-  - Mayor
-  office:
-    name: Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:beaux_arts_village
-  phones:
-  - (360) 555-0199
-  end_date: null
   cdn_image: ''
-  start_date: '2022-01-01'
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
   updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: 2c2d3a6a-8b8e-40bf-8fad-aa47c5049ab4
+  roles:
+  - name: Mayor
     role_id: mayor
-    role_label: Mayor
-    source_labels:
-    - Mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:beaux_arts_village/government
     division_ocdid: ocd-division/country:us/state:wa/place:beaux_arts_village
-    post_label: Mayor
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:beaux_arts_village
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:beaux_arts_village/government
-- id: 7963e4fd-91c2-4cb9-88a1-4a8109a8e6a7
-  name: Grigor Fontaine
-  urls:
-  - https://beauxarts-wa.gov
-  image: ''
-  emails:
-  - grigor@example.wa.gov
-  labels:
-  - Council Member, Ward 1
-  office:
-    name: Council Member, Ward 1
-    division_ocdid: ocd-division/country:us/state:wa/place:beaux_arts_village/ward:1
-  phones:
-  - (360) 555-0177
-  end_date: null
-  cdn_image: ''
-  start_date: '2026'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: b43f3fbf-6cc5-4c8d-84d0-502ce8d7dbf4
-    role_id: council-member
-    role_label: Council Member
-    source_labels:
-    - Council Member, Ward 1
-    division_ocdid: ocd-division/country:us/state:wa/place:beaux_arts_village/ward:1
-    post_label: Council Member, Ward 1
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:beaux_arts_village/ward:1
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:beaux_arts_village/government
-- id: 5b072026-a33a-4b6e-bae5-e03a6f7312dd
-  name: Ines Petrov
-  urls:
-  - https://beauxarts-wa.gov
-  image: ''
-  emails:
-  - ines@example.wa.gov
-  labels:
-  - Treasurer
-  office:
-    name: Treasurer
-    division_ocdid: ocd-division/country:us/state:wa/place:beaux_arts_village
-  phones:
-  - (360) 555-0177
-  end_date: null
-  cdn_image: ''
-  start_date: '2025'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: bb1087af-aedb-4423-9b1a-5fdf5ab581a5
-    role_id: treasurer
-    role_label: Treasurer
-    source_labels:
-    - Treasurer
-    division_ocdid: ocd-division/country:us/state:wa/place:beaux_arts_village
-    post_label: Treasurer
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:beaux_arts_village
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:beaux_arts_village/government
-- id: 5ed38ee1-fd7d-40e1-b771-b4b6c2417c4d
-  name: Oluwaseun Whitfield
-  urls:
-  - https://beauxarts-wa.gov
-  image: ''
-  emails: []
-  labels:
-  - Municipal Judge
-  office:
-    name: Municipal Judge
-    division_ocdid: ocd-division/country:us/state:wa/place:beaux_arts_village
-  phones:
-  - (360) 555-1234
-  end_date: null
-  cdn_image: ''
-  start_date: '2024'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: Municipal Judge
-    post_id: fb49b922-ba67-47a9-8c76-c23fd7f155dd
-    role_id: unmatched
-    role_label: Unmatched
-    source_labels:
-    - Municipal Judge
-    division_ocdid: ocd-division/country:us/state:wa/place:beaux_arts_village
-    post_label: Unmatched
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:beaux_arts_village
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:beaux_arts_village/government
-- id: 61932571-d928-48c0-9643-887555737228
-  name: Quentin Aguilar
-  urls:
-  - https://beauxarts-wa.gov
-  image: ''
-  emails:
-  - quentin@example.wa.gov
-  labels:
-  - Treasurer
-  office:
-    name: Treasurer
-    division_ocdid: ocd-division/country:us/state:wa/place:beaux_arts_village
-  phones:
-  - (360) 555-0199
-  end_date: null
-  cdn_image: ''
-  start_date: '2024-01-01'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: bb1087af-aedb-4423-9b1a-5fdf5ab581a5
-    role_id: treasurer
-    role_label: Treasurer
-    source_labels:
-    - Treasurer
-    division_ocdid: ocd-division/country:us/state:wa/place:beaux_arts_village
-    post_label: Treasurer
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:beaux_arts_village
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:beaux_arts_village/government
-- id: 32d710bd-7f50-423e-84d1-ab06f3662cea
-  name: Rosa Okonkwo
-  urls:
-  - https://beauxarts-wa.gov
-  image: ''
-  emails: []
-  labels:
-  - City Clerk
-  office:
-    name: City Clerk
-    division_ocdid: ocd-division/country:us/state:wa/place:beaux_arts_village
-  phones:
-  - (360) 555-1234
-  end_date: null
-  cdn_image: ''
-  start_date: null
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: 2ab31648-4b43-405a-a4b7-258abf5a03b1
-    role_id: clerk
-    role_label: Clerk
-    source_labels:
-    - City Clerk
-    division_ocdid: ocd-division/country:us/state:wa/place:beaux_arts_village
-    post_label: Clerk
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:beaux_arts_village
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:beaux_arts_village/government
+    start_date: 2022-01
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:13.97574+00:00'
+    last_seen_at: '2026-08-31T02:33:18.038866+00:00'
 - id: 534dedb4-e87e-491a-8911-d582b9df12e6
   name: Tomasz Zielinski
+  other_names: []
+  phones:
+  - (360) 555-1234
+  emails:
+  - tomasz@example.wa.gov
   urls:
   - https://beauxarts-wa.gov
   image: ''
-  emails:
-  - tomasz@example.wa.gov
-  labels:
-  - Mayor
-  office:
-    name: Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:beaux_arts_village
-  phones:
-  - (360) 555-1234
-  end_date: null
   cdn_image: ''
-  start_date: null
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: 2c2d3a6a-8b8e-40bf-8fad-aa47c5049ab4
-    role_id: mayor
-    role_label: Mayor
-    source_labels:
-    - Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:beaux_arts_village
-    post_label: Mayor
-  other_names: []
   source_urls:
   - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:beaux_arts_village
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:beaux_arts_village/government
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Mayor
+    role_id: mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:beaux_arts_village/government
+    division_ocdid: ocd-division/country:us/state:wa/place:beaux_arts_village
+    start_date: null
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:13.97574+00:00'
+    last_seen_at: '2026-08-31T02:33:18.038866+00:00'
+- id: 7963e4fd-91c2-4cb9-88a1-4a8109a8e6a7
+  name: Grigor Fontaine
+  other_names: []
+  phones:
+  - (360) 555-0177
+  emails:
+  - grigor@example.wa.gov
+  urls:
+  - https://beauxarts-wa.gov
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Council Member, Ward 1
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:beaux_arts_village/government
+    division_ocdid: ocd-division/country:us/state:wa/place:beaux_arts_village/ward:1
+    start_date: '2026'
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:13.97574+00:00'
+    last_seen_at: '2026-08-31T02:33:18.038866+00:00'
+- id: 32d710bd-7f50-423e-84d1-ab06f3662cea
+  name: Rosa Okonkwo
+  other_names: []
+  phones:
+  - (360) 555-1234
+  emails: []
+  urls:
+  - https://beauxarts-wa.gov
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Clerk
+    role_id: clerk
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:beaux_arts_village/government
+    division_ocdid: ocd-division/country:us/state:wa/place:beaux_arts_village
+    start_date: null
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:13.97574+00:00'
+    last_seen_at: '2026-08-31T02:33:18.038866+00:00'
+- id: 5b072026-a33a-4b6e-bae5-e03a6f7312dd
+  name: Ines Petrov
+  other_names: []
+  phones:
+  - (360) 555-0177
+  emails:
+  - ines@example.wa.gov
+  urls:
+  - https://beauxarts-wa.gov
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Treasurer
+    role_id: treasurer
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:beaux_arts_village/government
+    division_ocdid: ocd-division/country:us/state:wa/place:beaux_arts_village
+    start_date: '2025'
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:13.97574+00:00'
+    last_seen_at: '2026-08-31T02:33:18.038866+00:00'
+- id: 61932571-d928-48c0-9643-887555737228
+  name: Quentin Aguilar
+  other_names: []
+  phones:
+  - (360) 555-0199
+  emails:
+  - quentin@example.wa.gov
+  urls:
+  - https://beauxarts-wa.gov
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Treasurer
+    role_id: treasurer
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:beaux_arts_village/government
+    division_ocdid: ocd-division/country:us/state:wa/place:beaux_arts_village
+    start_date: '2024-01-01'
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:13.97574+00:00'
+    last_seen_at: '2026-08-31T02:33:18.038866+00:00'
+- id: 5ed38ee1-fd7d-40e1-b771-b4b6c2417c4d
+  name: Oluwaseun Whitfield
+  other_names: []
+  phones:
+  - (360) 555-1234
+  emails: []
+  urls:
+  - https://beauxarts-wa.gov
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Unmatched
+    role_id: unmatched
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:beaux_arts_village/government
+    division_ocdid: ocd-division/country:us/state:wa/place:beaux_arts_village
+    start_date: '2024'
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:13.97574+00:00'
+    last_seen_at: '2026-08-31T02:33:18.038866+00:00'

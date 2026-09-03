@@ -1,281 +1,200 @@
-- id: f79fa69b-33e6-49e2-880a-83abf96e7523
-  name: Ada Sørensen
-  urls:
-  - https://example.wa.gov/almira
-  image: ''
-  emails: []
-  labels:
-  - Council Member, Ward 4
-  office:
-    name: Council Member, Ward 4
-    division_ocdid: ocd-division/country:us/state:wa/place:almira/ward:4
-  phones:
-  - (360) 555-1234
-  end_date: '2024-01-01'
-  cdn_image: ''
-  start_date: '2023-11-01'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: b29a439f-3cfb-41d4-b0f1-15ea2c64f5de
-    role_id: council-member
-    role_label: Council Member
-    source_labels:
-    - Council Member, Ward 4
-    division_ocdid: ocd-division/country:us/state:wa/place:almira/ward:4
-    post_label: Council Member, Ward 4
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:almira/ward:4
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:almira/government
 - id: 633782b8-b45a-4ee3-a137-1187c6caa181
   name: Camille Aguilar
-  urls:
-  - https://example.wa.gov/almira
-  image: ''
+  other_names: []
+  phones:
+  - (360) 555-0199
   emails:
   - camille@example.wa.gov
-  labels:
-  - Mayor
-  office:
-    name: Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:almira
-  phones:
-  - (360) 555-0199
-  end_date: null
+  urls:
+  - https://example.wa.gov/almira
+  image: ''
   cdn_image: ''
-  start_date: '2023-11-01'
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
   updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: 968293f8-77b2-4188-9993-6a9ff96d166a
+  roles:
+  - name: Mayor
     role_id: mayor
-    role_label: Mayor
-    source_labels:
-    - Mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:almira/government
     division_ocdid: ocd-division/country:us/state:wa/place:almira
-    post_label: Mayor
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:almira
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:almira/government
-- id: e80af888-4700-487c-bb5b-2c041bb77ff6
-  name: Carmen Chen
-  urls:
-  - https://example.wa.gov/almira
-  image: ''
-  emails: []
-  labels:
-  - City Clerk
-  office:
-    name: City Clerk
-    division_ocdid: ocd-division/country:us/state:wa/place:almira
-  phones:
-  - (360) 555-1234
-  end_date: null
-  cdn_image: ''
-  start_date: '2023-11-01'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: 88eadd97-e689-498f-ac30-7fa76cd14cc1
-    role_id: clerk
-    role_label: Clerk
-    source_labels:
-    - City Clerk
-    division_ocdid: ocd-division/country:us/state:wa/place:almira
-    post_label: Clerk
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:almira
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:almira/government
-- id: 31be3e59-fe16-4db3-a0b2-f64b9c88f9a6
-  name: Carmen O'Brien
-  urls:
-  - https://example.wa.gov/almira
-  image: ''
-  emails: []
-  labels:
-  - council member position 2
-  office:
-    name: council member position 2
-    division_ocdid: ocd-division/country:us/state:wa/place:almira
-  phones: []
-  end_date: null
-  cdn_image: ''
-  start_date: '2026'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: Position 2
-    post_id: b4659a31-fa86-48f0-8218-accc1894173e
-    role_id: council-member
-    role_label: Council Member
-    source_labels:
-    - council member position 2
-    division_ocdid: ocd-division/country:us/state:wa/place:almira
-    post_label: Council Member
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:almira
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:almira/government
-- id: 94d0e812-468d-4216-9e65-1084ea96cfa7
-  name: Esperanza Gallagher
-  urls:
-  - https://example.wa.gov/almira
-  image: ''
-  emails:
-  - esperanza@example.wa.gov
-  labels:
-  - council member position 3
-  office:
-    name: council member position 3
-    division_ocdid: ocd-division/country:us/state:wa/place:almira
-  phones:
-  - (360) 555-1234
-  end_date: null
-  cdn_image: ''
-  start_date: '2022-01-01'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: Position 3
-    post_id: b4659a31-fa86-48f0-8218-accc1894173e
-    role_id: council-member
-    role_label: Council Member
-    source_labels:
-    - council member position 3
-    division_ocdid: ocd-division/country:us/state:wa/place:almira
-    post_label: Council Member
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:almira
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:almira/government
-- id: b4610d53-75c1-4ff1-9197-705351cd80a2
-  name: Giulia Rasmussen
-  urls:
-  - https://example.wa.gov/almira
-  image: ''
-  emails:
-  - giulia@example.wa.gov
-  labels:
-  - Council Member Ward 7
-  office:
-    name: Council Member Ward 7
-    division_ocdid: ocd-division/country:us/state:wa/place:almira/ward:7
-  phones:
-  - (360) 555-1234
-  end_date: null
-  cdn_image: ''
-  start_date: '2024-01-01'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: ce3e3e25-deb5-414f-b9f4-a29205a90637
-    role_id: council-member
-    role_label: Council Member
-    source_labels:
-    - Council Member Ward 7
-    division_ocdid: ocd-division/country:us/state:wa/place:almira/ward:7
-    post_label: Council Member, Ward 7
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:almira/ward:7
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:almira/government
-- id: fbd8d0f1-04ec-466e-98da-8ab91659adab
-  name: Kwame Okonkwo
-  urls:
-  - https://example.wa.gov/almira
-  image: ''
-  emails: []
-  labels:
-  - Treasurer
-  office:
-    name: Treasurer
-    division_ocdid: ocd-division/country:us/state:wa/place:almira
-  phones: []
-  end_date: null
-  cdn_image: ''
-  start_date: '2026'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: fa154885-2366-4c84-80b5-ba89e3a9d29b
-    role_id: treasurer
-    role_label: Treasurer
-    source_labels:
-    - Treasurer
-    division_ocdid: ocd-division/country:us/state:wa/place:almira
-    post_label: Treasurer
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:almira
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:almira/government
-- id: e30eeaae-efd2-4f55-880f-a86855498b37
-  name: Lucia Xu
-  urls:
-  - https://example.wa.gov/almira
-  image: ''
-  emails:
-  - lucia@example.wa.gov
-  labels:
-  - City Clerk
-  office:
-    name: City Clerk
-    division_ocdid: ocd-division/country:us/state:wa/place:almira
-  phones:
-  - (360) 555-0177
-  end_date: '2026'
-  cdn_image: ''
-  start_date: '2023-11-01'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: 88eadd97-e689-498f-ac30-7fa76cd14cc1
-    role_id: clerk
-    role_label: Clerk
-    source_labels:
-    - City Clerk
-    division_ocdid: ocd-division/country:us/state:wa/place:almira
-    post_label: Clerk
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:almira
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:almira/government
+    start_date: 2023-11
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:13.868577+00:00'
+    last_seen_at: '2026-08-31T02:33:17.957802+00:00'
 - id: 98567735-c5fa-49d6-b2a6-9218f3eccb60
   name: Yusuf Gallagher
+  other_names: []
+  phones:
+  - (360) 555-0199
+  emails: []
   urls:
   - https://example.wa.gov/almira
   image: ''
-  emails: []
-  labels:
-  - Mayor
-  office:
-    name: Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:almira
-  phones:
-  - (360) 555-0199
-  end_date: null
   cdn_image: ''
-  start_date: null
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: 968293f8-77b2-4188-9993-6a9ff96d166a
-    role_id: mayor
-    role_label: Mayor
-    source_labels:
-    - Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:almira
-    post_label: Mayor
-  other_names: []
   source_urls:
   - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:almira
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:almira/government
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Mayor
+    role_id: mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:almira/government
+    division_ocdid: ocd-division/country:us/state:wa/place:almira
+    start_date: null
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:13.868577+00:00'
+    last_seen_at: '2026-08-31T02:33:17.957802+00:00'
+- id: f79fa69b-33e6-49e2-880a-83abf96e7523
+  name: Ada Sørensen
+  other_names: []
+  phones:
+  - (360) 555-1234
+  emails: []
+  urls:
+  - https://example.wa.gov/almira
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Council Member, Ward 4
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:almira/government
+    division_ocdid: ocd-division/country:us/state:wa/place:almira/ward:4
+    start_date: 2023-11
+    end_date: '2024-01-01'
+    first_seen_at: '2026-08-29T02:11:13.868577+00:00'
+    last_seen_at: '2026-08-31T02:33:17.957802+00:00'
+- id: b4610d53-75c1-4ff1-9197-705351cd80a2
+  name: Giulia Rasmussen
+  other_names: []
+  phones:
+  - (360) 555-1234
+  emails:
+  - giulia@example.wa.gov
+  urls:
+  - https://example.wa.gov/almira
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Council Member, Ward 7
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:almira/government
+    division_ocdid: ocd-division/country:us/state:wa/place:almira/ward:7
+    start_date: '2024-01-01'
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:13.868577+00:00'
+    last_seen_at: '2026-08-31T02:33:17.957802+00:00'
+- id: 31be3e59-fe16-4db3-a0b2-f64b9c88f9a6
+  name: Carmen O'Brien
+  other_names: []
+  phones: []
+  emails: []
+  urls:
+  - https://example.wa.gov/almira
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:almira/government
+    division_ocdid: ocd-division/country:us/state:wa/place:almira
+    start_date: '2026'
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:13.868577+00:00'
+    last_seen_at: '2026-08-31T02:33:17.957802+00:00'
+- id: 94d0e812-468d-4216-9e65-1084ea96cfa7
+  name: Esperanza Gallagher
+  other_names: []
+  phones:
+  - (360) 555-1234
+  emails:
+  - esperanza@example.wa.gov
+  urls:
+  - https://example.wa.gov/almira
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:almira/government
+    division_ocdid: ocd-division/country:us/state:wa/place:almira
+    start_date: 2022-01
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:13.868577+00:00'
+    last_seen_at: '2026-08-31T02:33:17.957802+00:00'
+- id: e80af888-4700-487c-bb5b-2c041bb77ff6
+  name: Carmen Chen
+  other_names: []
+  phones:
+  - (360) 555-1234
+  emails: []
+  urls:
+  - https://example.wa.gov/almira
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Clerk
+    role_id: clerk
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:almira/government
+    division_ocdid: ocd-division/country:us/state:wa/place:almira
+    start_date: 2023-11
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:13.868577+00:00'
+    last_seen_at: '2026-08-31T02:33:17.957802+00:00'
+- id: e30eeaae-efd2-4f55-880f-a86855498b37
+  name: Lucia Xu
+  other_names: []
+  phones:
+  - (360) 555-0177
+  emails:
+  - lucia@example.wa.gov
+  urls:
+  - https://example.wa.gov/almira
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Clerk
+    role_id: clerk
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:almira/government
+    division_ocdid: ocd-division/country:us/state:wa/place:almira
+    start_date: 2023-11
+    end_date: '2026'
+    first_seen_at: '2026-08-29T02:11:13.868577+00:00'
+    last_seen_at: '2026-08-31T02:33:17.957802+00:00'
+- id: fbd8d0f1-04ec-466e-98da-8ab91659adab
+  name: Kwame Okonkwo
+  other_names: []
+  phones: []
+  emails: []
+  urls:
+  - https://example.wa.gov/almira
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Treasurer
+    role_id: treasurer
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:almira/government
+    division_ocdid: ocd-division/country:us/state:wa/place:almira
+    start_date: '2026'
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:13.868577+00:00'
+    last_seen_at: '2026-08-31T02:33:17.957802+00:00'

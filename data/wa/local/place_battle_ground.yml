@@ -1,219 +1,156 @@
 - id: 4bee3d95-f026-4e1b-b838-24b8685446f9
   name: Björn D'Amico
-  urls:
-  - https://www.cityofbg.org/
-  image: ''
-  emails:
-  - björn@example.wa.gov
-  labels:
-  - Mayor
-  office:
-    name: Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:battle_ground
+  other_names: []
   phones:
   - (360) 555-0199
-  end_date: null
-  cdn_image: ''
-  start_date: null
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: f8764ac9-41a8-4994-94de-890d7832d03b
-    role_id: mayor
-    role_label: Mayor
-    source_labels:
-    - Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:battle_ground
-    post_label: Mayor
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:battle_ground
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:battle_ground/government
-- id: 70f381ee-1fde-4ba1-b5e6-239a0d748914
-  name: Farida Aguilar
+  emails:
+  - björn@example.wa.gov
   urls:
   - https://www.cityofbg.org/
   image: ''
-  emails:
-  - farida@example.wa.gov
-  labels:
-  - Council Member At Large
-  office:
-    name: Council Member At Large
-    division_ocdid: ocd-division/country:us/state:wa/place:battle_ground
-  phones:
-  - (360) 555-1234
-  end_date: '2026'
   cdn_image: ''
-  start_date: '2023-11-01'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: 137478e2-a1ae-4ce5-85ac-d7950333bb51
-    role_id: council-member
-    role_label: Council Member
-    source_labels:
-    - Council Member At Large
-    division_ocdid: ocd-division/country:us/state:wa/place:battle_ground
-    post_label: Council Member
-  other_names: []
   source_urls:
   - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:battle_ground
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:battle_ground/government
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Mayor
+    role_id: mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:battle_ground/government
+    division_ocdid: ocd-division/country:us/state:wa/place:battle_ground
+    start_date: null
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:13.959267+00:00'
+    last_seen_at: '2026-08-31T02:33:18.024815+00:00'
 - id: f528e858-2c76-4250-8dc5-af72dcb57214
   name: Giulia O'Brien
-  urls:
-  - https://www.cityofbg.org/
-  image: ''
+  other_names: []
+  phones: []
   emails:
   - giulia@example.wa.gov
-  labels:
-  - Councilmember Pos. 2
-  office:
-    name: Councilmember Pos. 2
-    division_ocdid: ocd-division/country:us/state:wa/place:battle_ground
-  phones: []
-  end_date: '2024-01-01'
+  urls:
+  - https://www.cityofbg.org/
+  image: ''
   cdn_image: ''
-  start_date: null
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: Position 2
-    post_id: 137478e2-a1ae-4ce5-85ac-d7950333bb51
-    role_id: council-member
-    role_label: Council Member
-    source_labels:
-    - Councilmember Pos. 2
-    division_ocdid: ocd-division/country:us/state:wa/place:battle_ground
-    post_label: Council Member
-  other_names: []
   source_urls:
   - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:battle_ground
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:battle_ground/government
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:battle_ground/government
+    division_ocdid: ocd-division/country:us/state:wa/place:battle_ground
+    start_date: null
+    end_date: '2024-01-01'
+    first_seen_at: '2026-08-29T02:11:13.959267+00:00'
+    last_seen_at: '2026-08-31T02:33:18.024815+00:00'
 - id: e39c55e3-c304-4d37-a35e-c1ed36218a04
   name: Ines Okonkwo
+  other_names: []
+  phones:
+  - (360) 555-0177
+  emails: []
   urls:
   - https://www.cityofbg.org/
   image: ''
-  emails: []
-  labels:
-  - council member position 4
-  office:
-    name: council member position 4
-    division_ocdid: ocd-division/country:us/state:wa/place:battle_ground
-  phones:
-  - (360) 555-0177
-  end_date: null
   cdn_image: ''
-  start_date: '2024'
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
   updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: Position 4
-    post_id: 137478e2-a1ae-4ce5-85ac-d7950333bb51
+  roles:
+  - name: Council Member
     role_id: council-member
-    role_label: Council Member
-    source_labels:
-    - council member position 4
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:battle_ground/government
     division_ocdid: ocd-division/country:us/state:wa/place:battle_ground
-    post_label: Council Member
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:battle_ground
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:battle_ground/government
-- id: 8f649b90-802a-430f-8942-45bb1e362712
-  name: Nadia Petrov
-  urls:
-  - https://www.cityofbg.org/
-  image: ''
-  emails:
-  - nadia@example.wa.gov
-  labels:
-  - Treasurer
-  office:
-    name: Treasurer
-    division_ocdid: ocd-division/country:us/state:wa/place:battle_ground
-  phones:
-  - (360) 555-0177
-  end_date: '2024'
-  cdn_image: ''
-  start_date: null
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: cf88d236-b59f-4454-a132-cf8fc730f648
-    role_id: treasurer
-    role_label: Treasurer
-    source_labels:
-    - Treasurer
-    division_ocdid: ocd-division/country:us/state:wa/place:battle_ground
-    post_label: Treasurer
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:battle_ground
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:battle_ground/government
-- id: 7ecb871e-61c1-44af-bd76-fd9208b863f6
-  name: Priya Petrov
-  urls:
-  - https://www.cityofbg.org/
-  image: ''
-  emails: []
-  labels:
-  - City Clerk
-  office:
-    name: City Clerk
-    division_ocdid: ocd-division/country:us/state:wa/place:battle_ground
-  phones: []
-  end_date: null
-  cdn_image: ''
-  start_date: null
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: 6944be3d-516b-47d5-81b1-fe4f94806cc9
-    role_id: clerk
-    role_label: Clerk
-    source_labels:
-    - City Clerk
-    division_ocdid: ocd-division/country:us/state:wa/place:battle_ground
-    post_label: Clerk
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:battle_ground
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:battle_ground/government
+    start_date: '2024'
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:13.959267+00:00'
+    last_seen_at: '2026-08-31T02:33:18.024815+00:00'
 - id: 11f2c0a1-9237-4b3f-8b7f-c93c14b5403f
   name: Yusuf Xu
+  other_names: []
+  phones:
+  - (360) 555-1234
+  emails: []
   urls:
   - https://www.cityofbg.org/
   image: ''
-  emails: []
-  labels:
-  - council member position 6
-  office:
-    name: council member position 6
-    division_ocdid: ocd-division/country:us/state:wa/place:battle_ground
-  phones:
-  - (360) 555-1234
-  end_date: null
   cdn_image: ''
-  start_date: '2024'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: Position 6
-    post_id: 137478e2-a1ae-4ce5-85ac-d7950333bb51
-    role_id: council-member
-    role_label: Council Member
-    source_labels:
-    - council member position 6
-    division_ocdid: ocd-division/country:us/state:wa/place:battle_ground
-    post_label: Council Member
-  other_names: []
   source_urls:
   - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:battle_ground
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:battle_ground/government
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:battle_ground/government
+    division_ocdid: ocd-division/country:us/state:wa/place:battle_ground
+    start_date: '2024'
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:13.959267+00:00'
+    last_seen_at: '2026-08-31T02:33:18.024815+00:00'
+- id: 70f381ee-1fde-4ba1-b5e6-239a0d748914
+  name: Farida Aguilar
+  other_names: []
+  phones:
+  - (360) 555-1234
+  emails:
+  - farida@example.wa.gov
+  urls:
+  - https://www.cityofbg.org/
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:battle_ground/government
+    division_ocdid: ocd-division/country:us/state:wa/place:battle_ground
+    start_date: 2023-11
+    end_date: '2026'
+    first_seen_at: '2026-08-29T02:11:13.959267+00:00'
+    last_seen_at: '2026-08-31T02:33:18.024815+00:00'
+- id: 7ecb871e-61c1-44af-bd76-fd9208b863f6
+  name: Priya Petrov
+  other_names: []
+  phones: []
+  emails: []
+  urls:
+  - https://www.cityofbg.org/
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Clerk
+    role_id: clerk
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:battle_ground/government
+    division_ocdid: ocd-division/country:us/state:wa/place:battle_ground
+    start_date: null
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:13.959267+00:00'
+    last_seen_at: '2026-08-31T02:33:18.024815+00:00'
+- id: 8f649b90-802a-430f-8942-45bb1e362712
+  name: Nadia Petrov
+  other_names: []
+  phones:
+  - (360) 555-0177
+  emails:
+  - nadia@example.wa.gov
+  urls:
+  - https://www.cityofbg.org/
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Treasurer
+    role_id: treasurer
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:battle_ground/government
+    division_ocdid: ocd-division/country:us/state:wa/place:battle_ground
+    start_date: null
+    end_date: '2024'
+    first_seen_at: '2026-08-29T02:11:13.959267+00:00'
+    last_seen_at: '2026-08-31T02:33:18.024815+00:00'

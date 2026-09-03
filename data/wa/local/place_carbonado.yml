@@ -1,286 +1,249 @@
 - id: add5fb6a-ed37-4b5e-a84d-feaef7a998fd
   name: Camille Whitfield
-  urls:
-  - https://example.wa.gov/carbonado
-  image: ''
+  other_names: []
+  phones:
+  - (360) 555-0177
   emails:
   - camille@example.wa.gov
-  labels:
-  - Mayor
-  office:
-    name: Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:carbonado
-  phones:
-  - (360) 555-0177
-  end_date: null
+  urls:
+  - https://example.wa.gov/carbonado
+  image: ''
   cdn_image: ''
-  start_date: '2025'
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
   updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: f48323b6-1b5d-432e-8b0a-9ce54aa8f0c3
+  roles:
+  - name: Mayor
     role_id: mayor
-    role_label: Mayor
-    source_labels:
-    - Mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:carbonado/government
     division_ocdid: ocd-division/country:us/state:wa/place:carbonado
-    post_label: Mayor
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:carbonado
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:carbonado/government
-- id: e9496940-d5c0-4719-a07b-5363f3b9c7d5
-  name: Carmen Ueda
-  urls:
-  - https://example.wa.gov/carbonado
-  image: ''
-  emails:
-  - carmen@example.wa.gov
-  labels:
-  - Council Member Position 4
-  office:
-    name: Council Member Position 4
-    division_ocdid: ocd-division/country:us/state:wa/place:carbonado
-  phones:
-  - (360) 555-1234
-  end_date: null
-  cdn_image: ''
-  start_date: '2026'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: Position 4
-    post_id: 5864d31b-2f63-4c3b-93a1-77d69d835ecc
-    role_id: council-member
-    role_label: Council Member
-    source_labels:
-    - Council Member Position 4
-    division_ocdid: ocd-division/country:us/state:wa/place:carbonado
-    post_label: Council Member
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:carbonado
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:carbonado/government
-- id: db80bec6-f0b1-4238-b420-ae94069b3d1b
-  name: Fatima Kowalczyk
-  urls:
-  - https://example.wa.gov/carbonado
-  image: ''
-  emails:
-  - fatima@example.wa.gov
-  labels:
-  - City Clerk
-  office:
-    name: City Clerk
-    division_ocdid: ocd-division/country:us/state:wa/place:carbonado
-  phones:
-  - (360) 555-0177
-  end_date: null
-  cdn_image: ''
-  start_date: '2024'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: 84967683-61a5-4cd5-9cea-78b202051f0e
-    role_id: clerk
-    role_label: Clerk
-    source_labels:
-    - City Clerk
-    division_ocdid: ocd-division/country:us/state:wa/place:carbonado
-    post_label: Clerk
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:carbonado
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:carbonado/government
-- id: ec5d5038-7b15-408d-85d8-7f1b36cc712e
-  name: Fatima Zielinski
-  urls:
-  - https://example.wa.gov/carbonado
-  image: ''
-  emails:
-  - fatima@example.wa.gov
-  labels:
-  - Council Member Ward 8
-  office:
-    name: Council Member Ward 8
-    division_ocdid: ocd-division/country:us/state:wa/place:carbonado/ward:8
-  phones:
-  - (360) 555-1234
-  end_date: null
-  cdn_image: ''
-  start_date: '2025'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: 98699a97-fea9-4e88-acd7-0be06cacd584
-    role_id: council-member
-    role_label: Council Member
-    source_labels:
-    - Council Member Ward 8
-    division_ocdid: ocd-division/country:us/state:wa/place:carbonado/ward:8
-    post_label: Council Member, Ward 8
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:carbonado/ward:8
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:carbonado/government
-- id: 73da07e0-7805-4477-a30b-1b02219077c1
-  name: Grigor Jankowski
-  urls:
-  - https://example.wa.gov/carbonado
-  image: ''
-  emails:
-  - grigor@example.wa.gov
-  labels:
-  - Council Member Ward 1
-  office:
-    name: Council Member Ward 1
-    division_ocdid: ocd-division/country:us/state:wa/place:carbonado/ward:1
-  phones:
-  - (360) 555-1234
-  end_date: '2025'
-  cdn_image: ''
-  start_date: '2022-01-01'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: e4f23407-4bda-4a34-b7e9-8b3f904d450b
-    role_id: council-member
-    role_label: Council Member
-    source_labels:
-    - Council Member Ward 1
-    division_ocdid: ocd-division/country:us/state:wa/place:carbonado/ward:1
-    post_label: Council Member, Ward 1
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:carbonado/ward:1
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:carbonado/government
+    start_date: '2025'
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.193684+00:00'
+    last_seen_at: '2026-08-31T02:33:18.213031+00:00'
 - id: a4aaa845-4509-40ed-acca-32499f2cdc2d
   name: Jonas D'Amico
+  other_names: []
+  phones: []
+  emails:
+  - jonas@example.wa.gov
   urls:
   - https://example.wa.gov/carbonado
   image: ''
-  emails:
-  - jonas@example.wa.gov
-  labels:
-  - Deputy Mayor / Council Member Position 6
-  office:
-    name: Deputy Mayor / Council Member Position 6
-    division_ocdid: ocd-division/country:us/state:wa/place:carbonado
-  phones: []
-  end_date: null
   cdn_image: ''
-  start_date: '2024-01-01'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: Position 6
-    post_id: f5df2d99-f199-4c66-84c7-f0be2f7c4ae8
-    role_id: deputy-mayor
-    role_label: Deputy Mayor
-    source_labels:
-    - Deputy Mayor / Council Member Position 6
-    division_ocdid: ocd-division/country:us/state:wa/place:carbonado
-    post_label: Deputy Mayor
-  other_names: []
   source_urls:
   - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:carbonado
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:carbonado/government
-- id: 1236c160-ffc1-40f8-876c-a0e110424ef7
-  name: Jonas Petrov
-  urls:
-  - https://example.wa.gov/carbonado
-  image: ''
-  emails:
-  - jonas@example.wa.gov
-  labels:
-  - Clerk/Treasurer
-  office:
-    name: Clerk/Treasurer
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Deputy Mayor
+    role_id: deputy-mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:carbonado/government
     division_ocdid: ocd-division/country:us/state:wa/place:carbonado
+    start_date: '2024-01-01'
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.193684+00:00'
+    last_seen_at: '2026-08-31T02:33:18.213031+00:00'
+- id: 73da07e0-7805-4477-a30b-1b02219077c1
+  name: Grigor Jankowski
+  other_names: []
   phones:
   - (360) 555-1234
-  end_date: null
+  emails:
+  - grigor@example.wa.gov
+  urls:
+  - https://example.wa.gov/carbonado
+  image: ''
   cdn_image: ''
-  start_date: '2024-01-01'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: 84967683-61a5-4cd5-9cea-78b202051f0e
-    role_id: clerk
-    role_label: Clerk
-    source_labels:
-    - Clerk/Treasurer
-    division_ocdid: ocd-division/country:us/state:wa/place:carbonado
-    post_label: Clerk
-  other_names: []
   source_urls:
   - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:carbonado
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:carbonado/government
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Council Member, Ward 1
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:carbonado/government
+    division_ocdid: ocd-division/country:us/state:wa/place:carbonado/ward:1
+    start_date: 2022-01
+    end_date: '2025'
+    first_seen_at: '2026-08-29T02:11:14.193684+00:00'
+    last_seen_at: '2026-08-31T02:33:18.213031+00:00'
+- id: 12a40923-ad26-4f6b-9527-4cc1272e3454
+  name: Tobias Lindqvist
+  other_names: []
+  phones:
+  - (360) 555-0143
+  emails: []
+  urls:
+  - https://www.cityofcarbonado.com/
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-09-03T23:07:46+00:00'
+  roles:
+  - name: Council Member, Ward 5
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:carbonado/government
+    division_ocdid: ocd-division/country:us/state:wa/place:carbonado/ward:5
+    start_date: '2024'
+    end_date: '2027-12-31'
+    first_seen_at: '2026-08-31T02:33:18.213031+00:00'
+    last_seen_at: '2026-08-31T02:33:18.213031+00:00'
 - id: 6b3faad3-5838-4c26-971d-2bc512035711
   name: Lucia Jankowski
-  urls:
-  - https://example.wa.gov/carbonado
-  image: ''
-  emails: []
-  labels:
-  - COUNCIL MEMBER WARD 7
-  office:
-    name: COUNCIL MEMBER WARD 7
-    division_ocdid: ocd-division/country:us/state:wa/place:carbonado/ward:7
+  other_names: []
   phones:
   - (360) 555-0199
-  end_date: null
-  cdn_image: ''
-  start_date: '2022-01-01'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: 41033edc-ee3c-4476-a57d-329595ceea5b
-    role_id: council-member
-    role_label: Council Member
-    source_labels:
-    - COUNCIL MEMBER WARD 7
-    division_ocdid: ocd-division/country:us/state:wa/place:carbonado/ward:7
-    post_label: Council Member, Ward 7
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:carbonado/ward:7
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:carbonado/government
-- id: 0f03f9a0-588d-44f2-8ac6-ab5682cb4725
-  name: Quentin Whitfield
+  emails: []
   urls:
   - https://example.wa.gov/carbonado
   image: ''
-  emails:
-  - quentin@example.wa.gov
-  labels:
-  - Council Member At Large
-  office:
-    name: Council Member At Large
-    division_ocdid: ocd-division/country:us/state:wa/place:carbonado
-  phones:
-  - (360) 555-1234
-  end_date: null
   cdn_image: ''
-  start_date: null
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: 5864d31b-2f63-4c3b-93a1-77d69d835ecc
-    role_id: council-member
-    role_label: Council Member
-    source_labels:
-    - Council Member At Large
-    division_ocdid: ocd-division/country:us/state:wa/place:carbonado
-    post_label: Council Member
-  other_names: []
   source_urls:
   - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:carbonado
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:carbonado/government
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Council Member, Ward 7
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:carbonado/government
+    division_ocdid: ocd-division/country:us/state:wa/place:carbonado/ward:7
+    start_date: 2022-01
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.193684+00:00'
+    last_seen_at: '2026-08-31T02:33:18.213031+00:00'
+- id: ec5d5038-7b15-408d-85d8-7f1b36cc712e
+  name: Fatima Zielinski
+  other_names: []
+  phones:
+  - (360) 555-1234
+  emails:
+  - fatima@example.wa.gov
+  urls:
+  - https://example.wa.gov/carbonado
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Council Member, Ward 8
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:carbonado/government
+    division_ocdid: ocd-division/country:us/state:wa/place:carbonado/ward:8
+    start_date: '2025'
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.193684+00:00'
+    last_seen_at: '2026-08-31T02:33:18.213031+00:00'
+- id: e9496940-d5c0-4719-a07b-5363f3b9c7d5
+  name: Carmen Ueda
+  other_names: []
+  phones:
+  - (360) 555-1234
+  emails:
+  - carmen@example.wa.gov
+  urls:
+  - https://example.wa.gov/carbonado
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:carbonado/government
+    division_ocdid: ocd-division/country:us/state:wa/place:carbonado
+    start_date: '2026'
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.193684+00:00'
+    last_seen_at: '2026-08-31T02:33:18.213031+00:00'
+- id: 0f03f9a0-588d-44f2-8ac6-ab5682cb4725
+  name: Quentin Whitfield
+  other_names: []
+  phones:
+  - (360) 555-1234
+  emails:
+  - quentin@example.wa.gov
+  urls:
+  - https://example.wa.gov/carbonado
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:carbonado/government
+    division_ocdid: ocd-division/country:us/state:wa/place:carbonado
+    start_date: null
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.193684+00:00'
+    last_seen_at: '2026-08-31T02:33:18.213031+00:00'
+- id: 119d2c7c-cbf1-43ca-9122-cc7ac7a3a406
+  name: Rosalind Achebe
+  other_names: []
+  phones:
+  - (360) 555-0142
+  emails: []
+  urls:
+  - https://www.cityofcarbonado.com/
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-09-03T23:07:46+00:00'
+  roles:
+  - name: Commissioner
+    role_id: commissioner
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:carbonado/government
+    division_ocdid: ocd-division/country:us/state:wa/place:carbonado
+    start_date: 2025-01
+    end_date: null
+    first_seen_at: '2026-08-31T02:33:18.213031+00:00'
+    last_seen_at: '2026-08-31T02:33:18.213031+00:00'
+- id: db80bec6-f0b1-4238-b420-ae94069b3d1b
+  name: Fatima Kowalczyk
+  other_names: []
+  phones:
+  - (360) 555-0177
+  emails:
+  - fatima@example.wa.gov
+  urls:
+  - https://example.wa.gov/carbonado
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Clerk
+    role_id: clerk
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:carbonado/government
+    division_ocdid: ocd-division/country:us/state:wa/place:carbonado
+    start_date: '2024'
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.193684+00:00'
+    last_seen_at: '2026-08-31T02:33:18.213031+00:00'
+- id: 1236c160-ffc1-40f8-876c-a0e110424ef7
+  name: Jonas Petrov
+  other_names: []
+  phones:
+  - (360) 555-1234
+  emails:
+  - jonas@example.wa.gov
+  urls:
+  - https://example.wa.gov/carbonado
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Clerk
+    role_id: clerk
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:carbonado/government
+    division_ocdid: ocd-division/country:us/state:wa/place:carbonado
+    start_date: '2024-01-01'
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.193684+00:00'
+    last_seen_at: '2026-08-31T02:33:18.213031+00:00'

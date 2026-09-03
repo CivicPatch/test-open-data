@@ -1,190 +1,136 @@
-- id: e42f487f-8522-4627-bcda-6c5da4dcfce1
-  name: Ada Sørensen
-  urls:
-  - https://example.wa.gov/bremerton
-  image: ''
-  emails: []
-  labels:
-  - council member position 3
-  office:
-    name: council member position 3
-    division_ocdid: ocd-division/country:us/state:wa/place:bremerton
-  phones: []
-  end_date: null
-  cdn_image: ''
-  start_date: null
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: Position 3
-    post_id: 6a3a1f1b-72c0-4188-be8b-3d0c3eb92bef
-    role_id: council-member
-    role_label: Council Member
-    source_labels:
-    - council member position 3
-    division_ocdid: ocd-division/country:us/state:wa/place:bremerton
-    post_label: Council Member
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:bremerton
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bremerton/government
 - id: 0d71d447-e1d4-4057-9a9a-2256399901be
   name: Hyun-woo Rasmussen
-  urls:
-  - https://example.wa.gov/bremerton
-  image: ''
+  other_names: []
+  phones:
+  - (360) 555-1234
   emails:
   - hyun-woo@example.wa.gov
-  labels:
-  - Mayor
-  office:
-    name: Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:bremerton
-  phones:
-  - (360) 555-1234
-  end_date: null
+  urls:
+  - https://example.wa.gov/bremerton
+  image: ''
   cdn_image: ''
-  start_date: null
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: 10222f86-26bd-474c-8c50-fd68c70ff59b
-    role_id: mayor
-    role_label: Mayor
-    source_labels:
-    - Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:bremerton
-    post_label: Mayor
-  other_names: []
   source_urls:
   - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:bremerton
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bremerton/government
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Mayor
+    role_id: mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bremerton/government
+    division_ocdid: ocd-division/country:us/state:wa/place:bremerton
+    start_date: null
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.092608+00:00'
+    last_seen_at: '2026-08-31T02:33:18.128402+00:00'
 - id: 252f69ae-e9a2-4a91-b2b7-eb9bb9244918
   name: Lucia Zielinski
-  urls:
-  - https://example.wa.gov/bremerton
-  image: ''
-  emails:
-  - lucia@example.wa.gov
-  labels:
-  - Mayor
-  office:
-    name: Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:bremerton
+  other_names: []
   phones:
   - (360) 555-0199
-  end_date: null
-  cdn_image: ''
-  start_date: '2022-01-01'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: 10222f86-26bd-474c-8c50-fd68c70ff59b
-    role_id: mayor
-    role_label: Mayor
-    source_labels:
-    - Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:bremerton
-    post_label: Mayor
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:bremerton
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bremerton/government
-- id: 69897f1f-68f5-4cdb-82b8-d8f873b54bac
-  name: Sanjay Nakamura
+  emails:
+  - lucia@example.wa.gov
   urls:
   - https://example.wa.gov/bremerton
   image: ''
-  emails:
-  - sanjay@example.wa.gov
-  labels:
-  - Council Member Ward 2
-  office:
-    name: Council Member Ward 2
-    division_ocdid: ocd-division/country:us/state:wa/place:bremerton/ward:2
-  phones:
-  - (360) 555-1234
-  end_date: null
   cdn_image: ''
-  start_date: '2026'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: 75d67b59-aa82-471f-bc65-f4b611c3e03d
-    role_id: council-member
-    role_label: Council Member
-    source_labels:
-    - Council Member Ward 2
-    division_ocdid: ocd-division/country:us/state:wa/place:bremerton/ward:2
-    post_label: Council Member, Ward 2
-  other_names: []
   source_urls:
   - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:bremerton/ward:2
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bremerton/government
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Mayor
+    role_id: mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bremerton/government
+    division_ocdid: ocd-division/country:us/state:wa/place:bremerton
+    start_date: 2022-01
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.092608+00:00'
+    last_seen_at: '2026-08-31T02:33:18.128402+00:00'
 - id: 5fa42dac-9b8c-40d8-b016-bea17beec8a1
   name: Tomasz Vasquez
-  urls:
-  - https://example.wa.gov/bremerton
-  image: ''
-  emails:
-  - tomasz@example.wa.gov
-  labels:
-  - Mayor
-  office:
-    name: Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:bremerton
+  other_names: []
   phones:
   - (360) 555-0177
-  end_date: '2026'
-  cdn_image: ''
-  start_date: '2022-01-01'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: 10222f86-26bd-474c-8c50-fd68c70ff59b
-    role_id: mayor
-    role_label: Mayor
-    source_labels:
-    - Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:bremerton
-    post_label: Mayor
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:bremerton
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bremerton/government
-- id: 850f55fe-2f98-4392-8303-0c0b3b39f666
-  name: Viktor Fontaine
+  emails:
+  - tomasz@example.wa.gov
   urls:
   - https://example.wa.gov/bremerton
   image: ''
-  emails:
-  - viktor@example.wa.gov
-  labels:
-  - Councilmember Pos. 4
-  office:
-    name: Councilmember Pos. 4
-    division_ocdid: ocd-division/country:us/state:wa/place:bremerton
-  phones:
-  - (360) 555-1234
-  end_date: null
   cdn_image: ''
-  start_date: '2025'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: Position 4
-    post_id: 6a3a1f1b-72c0-4188-be8b-3d0c3eb92bef
-    role_id: council-member
-    role_label: Council Member
-    source_labels:
-    - Councilmember Pos. 4
-    division_ocdid: ocd-division/country:us/state:wa/place:bremerton
-    post_label: Council Member
-  other_names: []
   source_urls:
   - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:bremerton
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bremerton/government
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Mayor
+    role_id: mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bremerton/government
+    division_ocdid: ocd-division/country:us/state:wa/place:bremerton
+    start_date: 2022-01
+    end_date: '2026'
+    first_seen_at: '2026-08-29T02:11:14.092608+00:00'
+    last_seen_at: '2026-08-31T02:33:18.128402+00:00'
+- id: 69897f1f-68f5-4cdb-82b8-d8f873b54bac
+  name: Sanjay Nakamura
+  other_names: []
+  phones:
+  - (360) 555-1234
+  emails:
+  - sanjay@example.wa.gov
+  urls:
+  - https://example.wa.gov/bremerton
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Council Member, Ward 2
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bremerton/government
+    division_ocdid: ocd-division/country:us/state:wa/place:bremerton/ward:2
+    start_date: '2026'
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.092608+00:00'
+    last_seen_at: '2026-08-31T02:33:18.128402+00:00'
+- id: e42f487f-8522-4627-bcda-6c5da4dcfce1
+  name: Ada Sørensen
+  other_names: []
+  phones: []
+  emails: []
+  urls:
+  - https://example.wa.gov/bremerton
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bremerton/government
+    division_ocdid: ocd-division/country:us/state:wa/place:bremerton
+    start_date: null
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.092608+00:00'
+    last_seen_at: '2026-08-31T02:33:18.128402+00:00'
+- id: 850f55fe-2f98-4392-8303-0c0b3b39f666
+  name: Viktor Fontaine
+  other_names: []
+  phones:
+  - (360) 555-1234
+  emails:
+  - viktor@example.wa.gov
+  urls:
+  - https://example.wa.gov/bremerton
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bremerton/government
+    division_ocdid: ocd-division/country:us/state:wa/place:bremerton
+    start_date: '2025'
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.092608+00:00'
+    last_seen_at: '2026-08-31T02:33:18.128402+00:00'

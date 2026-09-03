@@ -1,127 +1,91 @@
 - id: a317b844-816d-4b92-a062-a941d0ee3271
   name: Ada Kowalczyk
-  urls:
-  - https://bothellwa.gov
-  image: ''
-  emails:
-  - ada@example.wa.gov
-  labels:
-  - Mayor
-  office:
-    name: Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:bothell
+  other_names: []
   phones:
   - (360) 555-1234
-  end_date: null
-  cdn_image: ''
-  start_date: null
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: f35bef50-ee90-4403-963e-6629871933d3
-    role_id: mayor
-    role_label: Mayor
-    source_labels:
-    - Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:bothell
-    post_label: Mayor
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:bothell
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bothell/government
-- id: 1d43c44a-44c3-4601-8f24-1ad1f7c9c4cd
-  name: Giulia Quintero
+  emails:
+  - ada@example.wa.gov
   urls:
   - https://bothellwa.gov
   image: ''
-  emails:
-  - giulia@example.wa.gov
-  labels:
-  - council member position 1
-  office:
-    name: council member position 1
-    division_ocdid: ocd-division/country:us/state:wa/place:bothell
-  phones:
-  - (360) 555-0199
-  end_date: null
   cdn_image: ''
-  start_date: '2024'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: Position 1
-    post_id: b43cf9db-6e06-48e3-b95a-b9f35bdfe18a
-    role_id: council-member
-    role_label: Council Member
-    source_labels:
-    - council member position 1
-    division_ocdid: ocd-division/country:us/state:wa/place:bothell
-    post_label: Council Member
-  other_names: []
   source_urls:
   - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:bothell
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bothell/government
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Mayor
+    role_id: mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bothell/government
+    division_ocdid: ocd-division/country:us/state:wa/place:bothell
+    start_date: null
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.076219+00:00'
+    last_seen_at: '2026-08-31T02:33:18.115961+00:00'
 - id: 1a0abd2e-d180-436c-9dab-40f91122d784
   name: Nadia Chen
-  urls:
-  - https://bothellwa.gov
-  image: ''
-  emails:
-  - nadia@example.wa.gov
-  labels:
-  - Mayor
-  office:
-    name: Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:bothell
+  other_names: []
   phones:
   - (360) 555-0177
-  end_date: '2024-01-01'
-  cdn_image: ''
-  start_date: '2026'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: f35bef50-ee90-4403-963e-6629871933d3
-    role_id: mayor
-    role_label: Mayor
-    source_labels:
-    - Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:bothell
-    post_label: Mayor
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:bothell
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bothell/government
-- id: f28ba96c-17a8-4854-a10f-130aec2827e1
-  name: Rosa Gallagher
+  emails:
+  - nadia@example.wa.gov
   urls:
   - https://bothellwa.gov
   image: ''
-  emails: []
-  labels:
-  - council member position 3
-  office:
-    name: council member position 3
-    division_ocdid: ocd-division/country:us/state:wa/place:bothell
-  phones:
-  - (360) 555-0199
-  end_date: null
   cdn_image: ''
-  start_date: null
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: Position 3
-    post_id: b43cf9db-6e06-48e3-b95a-b9f35bdfe18a
-    role_id: council-member
-    role_label: Council Member
-    source_labels:
-    - council member position 3
-    division_ocdid: ocd-division/country:us/state:wa/place:bothell
-    post_label: Council Member
-  other_names: []
   source_urls:
   - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:bothell
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bothell/government
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Mayor
+    role_id: mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bothell/government
+    division_ocdid: ocd-division/country:us/state:wa/place:bothell
+    start_date: '2026'
+    end_date: '2024-01-01'
+    first_seen_at: '2026-08-29T02:11:14.076219+00:00'
+    last_seen_at: '2026-08-31T02:33:18.115961+00:00'
+- id: 1d43c44a-44c3-4601-8f24-1ad1f7c9c4cd
+  name: Giulia Quintero
+  other_names: []
+  phones:
+  - (360) 555-0199
+  emails:
+  - giulia@example.wa.gov
+  urls:
+  - https://bothellwa.gov
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bothell/government
+    division_ocdid: ocd-division/country:us/state:wa/place:bothell
+    start_date: '2024'
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.076219+00:00'
+    last_seen_at: '2026-08-31T02:33:18.115961+00:00'
+- id: f28ba96c-17a8-4854-a10f-130aec2827e1
+  name: Rosa Gallagher
+  other_names: []
+  phones:
+  - (360) 555-0199
+  emails: []
+  urls:
+  - https://bothellwa.gov
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bothell/government
+    division_ocdid: ocd-division/country:us/state:wa/place:bothell
+    start_date: null
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.076219+00:00'
+    last_seen_at: '2026-08-31T02:33:18.115961+00:00'

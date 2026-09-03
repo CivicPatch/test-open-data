@@ -1,220 +1,157 @@
-- id: 06584b2a-3f8c-4258-a007-6009ca5f416b
-  name: Carmen Zielinski
-  urls:
-  - http://www.arlingtonwa.gov
-  image: ''
-  emails: []
-  labels:
-  - Municipal Judge
-  office:
-    name: Municipal Judge
-    division_ocdid: ocd-division/country:us/state:wa/place:arlington
-  phones:
-  - (360) 555-0177
-  end_date: null
-  cdn_image: ''
-  start_date: '2024-01-01'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: Municipal Judge
-    post_id: aecb8629-97a7-4e0a-8f68-d814ef7fba37
-    role_id: unmatched
-    role_label: Unmatched
-    source_labels:
-    - Municipal Judge
-    division_ocdid: ocd-division/country:us/state:wa/place:arlington
-    post_label: Unmatched
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:arlington
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:arlington/government
-- id: f778a513-79a0-46e3-9401-a9ac38b7c411
-  name: Dae-ho Kowalczyk
-  urls:
-  - http://www.arlingtonwa.gov
-  image: ''
-  emails: []
-  labels:
-  - council member position 3
-  office:
-    name: council member position 3
-    division_ocdid: ocd-division/country:us/state:wa/place:arlington
-  phones:
-  - (360) 555-0177
-  end_date: null
-  cdn_image: ''
-  start_date: '2025'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: Position 3
-    post_id: a98b9974-7463-487c-be87-29dd3decbeab
-    role_id: council-member
-    role_label: Council Member
-    source_labels:
-    - council member position 3
-    division_ocdid: ocd-division/country:us/state:wa/place:arlington
-    post_label: Council Member
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:arlington
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:arlington/government
-- id: bc3f3d49-8a53-4002-b716-4483b9cae441
-  name: Eirik Ueda
-  urls:
-  - http://www.arlingtonwa.gov
-  image: ''
-  emails:
-  - eirik@example.wa.gov
-  labels:
-  - Municipal Judge
-  office:
-    name: Municipal Judge
-    division_ocdid: ocd-division/country:us/state:wa/place:arlington
-  phones:
-  - (360) 555-0177
-  end_date: null
-  cdn_image: ''
-  start_date: '2023-11-01'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: Municipal Judge
-    post_id: aecb8629-97a7-4e0a-8f68-d814ef7fba37
-    role_id: unmatched
-    role_label: Unmatched
-    source_labels:
-    - Municipal Judge
-    division_ocdid: ocd-division/country:us/state:wa/place:arlington
-    post_label: Unmatched
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:arlington
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:arlington/government
-- id: d89d87ca-bd65-459b-8a5d-ea320a74f307
-  name: Grigor Tanaka
-  urls:
-  - http://www.arlingtonwa.gov
-  image: ''
-  emails:
-  - grigor@example.wa.gov
-  labels:
-  - council member position 5
-  office:
-    name: council member position 5
-    division_ocdid: ocd-division/country:us/state:wa/place:arlington
-  phones:
-  - (360) 555-0199
-  end_date: null
-  cdn_image: ''
-  start_date: '2026'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: Position 5
-    post_id: a98b9974-7463-487c-be87-29dd3decbeab
-    role_id: council-member
-    role_label: Council Member
-    source_labels:
-    - council member position 5
-    division_ocdid: ocd-division/country:us/state:wa/place:arlington
-    post_label: Council Member
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:arlington
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:arlington/government
-- id: 8e6d7e32-bd82-4127-b6f6-5bcae30acf4e
-  name: Grigor Vasquez
-  urls:
-  - http://www.arlingtonwa.gov
-  image: ''
-  emails:
-  - grigor@example.wa.gov
-  labels:
-  - Council Member At Large
-  office:
-    name: Council Member At Large
-    division_ocdid: ocd-division/country:us/state:wa/place:arlington
-  phones: []
-  end_date: null
-  cdn_image: ''
-  start_date: '2026'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: a98b9974-7463-487c-be87-29dd3decbeab
-    role_id: council-member
-    role_label: Council Member
-    source_labels:
-    - Council Member At Large
-    division_ocdid: ocd-division/country:us/state:wa/place:arlington
-    post_label: Council Member
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:arlington
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:arlington/government
-- id: 816efeba-d84d-4fea-9fa9-d098767fd191
-  name: Priya Xu
-  urls:
-  - http://www.arlingtonwa.gov
-  image: ''
-  emails: []
-  labels:
-  - Council Member Position 1
-  office:
-    name: Council Member Position 1
-    division_ocdid: ocd-division/country:us/state:wa/place:arlington
-  phones:
-  - (360) 555-1234
-  end_date: null
-  cdn_image: ''
-  start_date: '2022-01-01'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: Position 1
-    post_id: a98b9974-7463-487c-be87-29dd3decbeab
-    role_id: council-member
-    role_label: Council Member
-    source_labels:
-    - Council Member Position 1
-    division_ocdid: ocd-division/country:us/state:wa/place:arlington
-    post_label: Council Member
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:arlington
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:arlington/government
 - id: 578b7a5f-9d20-4a8b-a317-db5220a8ad98
   name: Wen Bergström
+  other_names: []
+  phones:
+  - (360) 555-0177
+  emails:
+  - wen@example.wa.gov
   urls:
   - http://www.arlingtonwa.gov
   image: ''
-  emails:
-  - wen@example.wa.gov
-  labels:
-  - Mayor
-  office:
-    name: Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:arlington
-  phones:
-  - (360) 555-0177
-  end_date: '2024'
   cdn_image: ''
-  start_date: '2026'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: a45d0015-f3de-40a6-89b1-1a6219200e2f
-    role_id: mayor
-    role_label: Mayor
-    source_labels:
-    - Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:arlington
-    post_label: Mayor
-  other_names: []
   source_urls:
   - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:arlington
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:arlington/government
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Mayor
+    role_id: mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:arlington/government
+    division_ocdid: ocd-division/country:us/state:wa/place:arlington
+    start_date: '2026'
+    end_date: '2024'
+    first_seen_at: '2026-08-29T02:11:13.895042+00:00'
+    last_seen_at: '2026-08-31T02:33:17.978189+00:00'
+- id: 816efeba-d84d-4fea-9fa9-d098767fd191
+  name: Priya Xu
+  other_names: []
+  phones:
+  - (360) 555-1234
+  emails: []
+  urls:
+  - http://www.arlingtonwa.gov
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:arlington/government
+    division_ocdid: ocd-division/country:us/state:wa/place:arlington
+    start_date: 2022-01
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:13.895042+00:00'
+    last_seen_at: '2026-08-31T02:33:17.978189+00:00'
+- id: f778a513-79a0-46e3-9401-a9ac38b7c411
+  name: Dae-ho Kowalczyk
+  other_names: []
+  phones:
+  - (360) 555-0177
+  emails: []
+  urls:
+  - http://www.arlingtonwa.gov
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:arlington/government
+    division_ocdid: ocd-division/country:us/state:wa/place:arlington
+    start_date: '2025'
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:13.895042+00:00'
+    last_seen_at: '2026-08-31T02:33:17.978189+00:00'
+- id: d89d87ca-bd65-459b-8a5d-ea320a74f307
+  name: Grigor Tanaka
+  other_names: []
+  phones:
+  - (360) 555-0199
+  emails:
+  - grigor@example.wa.gov
+  urls:
+  - http://www.arlingtonwa.gov
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:arlington/government
+    division_ocdid: ocd-division/country:us/state:wa/place:arlington
+    start_date: '2026'
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:13.895042+00:00'
+    last_seen_at: '2026-08-31T02:33:17.978189+00:00'
+- id: 8e6d7e32-bd82-4127-b6f6-5bcae30acf4e
+  name: Grigor Vasquez
+  other_names: []
+  phones: []
+  emails:
+  - grigor@example.wa.gov
+  urls:
+  - http://www.arlingtonwa.gov
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:arlington/government
+    division_ocdid: ocd-division/country:us/state:wa/place:arlington
+    start_date: '2026'
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:13.895042+00:00'
+    last_seen_at: '2026-08-31T02:33:17.978189+00:00'
+- id: 06584b2a-3f8c-4258-a007-6009ca5f416b
+  name: Carmen Zielinski
+  other_names: []
+  phones:
+  - (360) 555-0177
+  emails: []
+  urls:
+  - http://www.arlingtonwa.gov
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Unmatched
+    role_id: unmatched
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:arlington/government
+    division_ocdid: ocd-division/country:us/state:wa/place:arlington
+    start_date: '2024-01-01'
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:13.895042+00:00'
+    last_seen_at: '2026-08-31T02:33:17.978189+00:00'
+- id: bc3f3d49-8a53-4002-b716-4483b9cae441
+  name: Eirik Ueda
+  other_names: []
+  phones:
+  - (360) 555-0177
+  emails:
+  - eirik@example.wa.gov
+  urls:
+  - http://www.arlingtonwa.gov
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Unmatched
+    role_id: unmatched
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:arlington/government
+    division_ocdid: ocd-division/country:us/state:wa/place:arlington
+    start_date: 2023-11
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:13.895042+00:00'
+    last_seen_at: '2026-08-31T02:33:17.978189+00:00'

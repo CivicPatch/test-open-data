@@ -1,190 +1,136 @@
 - id: c45c6215-9538-4663-8ec6-92fc1a79191d
   name: Ada Ueda
-  urls:
-  - https://www.blackdiamondwa.gov
-  image: ''
+  other_names: []
+  phones:
+  - (360) 555-0199
   emails:
   - ada@example.wa.gov
-  labels:
-  - Mayor
-  office:
-    name: Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:black_diamond
-  phones:
-  - (360) 555-0199
-  end_date: null
+  urls:
+  - https://www.blackdiamondwa.gov
+  image: ''
   cdn_image: ''
-  start_date: '2025'
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
   updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: b1f9d85f-1488-4577-958b-138fbe2a1504
+  roles:
+  - name: Mayor
     role_id: mayor
-    role_label: Mayor
-    source_labels:
-    - Mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:black_diamond/government
     division_ocdid: ocd-division/country:us/state:wa/place:black_diamond
-    post_label: Mayor
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:black_diamond
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:black_diamond/government
-- id: d721cb66-c1ed-4b5f-9dcb-326864182ad1
-  name: Björn Gallagher
-  urls:
-  - https://www.blackdiamondwa.gov
-  image: ''
-  emails:
-  - björn@example.wa.gov
-  labels:
-  - Council Member Position 3
-  office:
-    name: Council Member Position 3
-    division_ocdid: ocd-division/country:us/state:wa/place:black_diamond
-  phones:
-  - (360) 555-0199
-  end_date: null
-  cdn_image: ''
-  start_date: '2025'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: Position 3
-    post_id: 8bb04b3c-b24c-463d-a5f1-0b9ea0e97a20
-    role_id: council-member
-    role_label: Council Member
-    source_labels:
-    - Council Member Position 3
-    division_ocdid: ocd-division/country:us/state:wa/place:black_diamond
-    post_label: Council Member
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:black_diamond
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:black_diamond/government
-- id: 523c506c-7ccd-4928-a62e-fadf20745798
-  name: Oluwaseun Petrov
-  urls:
-  - https://www.blackdiamondwa.gov
-  image: ''
-  emails:
-  - oluwaseun@example.wa.gov
-  labels:
-  - City Clerk
-  office:
-    name: City Clerk
-    division_ocdid: ocd-division/country:us/state:wa/place:black_diamond
-  phones:
-  - (360) 555-0177
-  end_date: null
-  cdn_image: ''
-  start_date: '2026'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: 742b907b-1068-4ddb-929b-c68f062948ce
-    role_id: clerk
-    role_label: Clerk
-    source_labels:
-    - City Clerk
-    division_ocdid: ocd-division/country:us/state:wa/place:black_diamond
-    post_label: Clerk
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:black_diamond
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:black_diamond/government
+    start_date: '2025'
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.044047+00:00'
+    last_seen_at: '2026-08-31T02:33:18.091895+00:00'
 - id: 66fa99c1-8016-4d82-83ad-d102e47208d6
   name: Quentin Ueda
-  urls:
-  - https://www.blackdiamondwa.gov
-  image: ''
+  other_names: []
+  phones: []
   emails:
   - quentin@example.wa.gov
-  labels:
-  - Mayor
-  office:
-    name: Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:black_diamond
-  phones: []
-  end_date: null
-  cdn_image: ''
-  start_date: '2022-01-01'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: b1f9d85f-1488-4577-958b-138fbe2a1504
-    role_id: mayor
-    role_label: Mayor
-    source_labels:
-    - Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:black_diamond
-    post_label: Mayor
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:black_diamond
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:black_diamond/government
-- id: e18ccaba-fcab-4204-a42d-e97d07464153
-  name: Yusuf Jankowski
   urls:
   - https://www.blackdiamondwa.gov
   image: ''
-  emails: []
-  labels:
-  - Council Member At Large
-  office:
-    name: Council Member At Large
-    division_ocdid: ocd-division/country:us/state:wa/place:black_diamond
-  phones:
-  - (360) 555-0199
-  end_date: null
   cdn_image: ''
-  start_date: '2023-11-01'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: 8bb04b3c-b24c-463d-a5f1-0b9ea0e97a20
-    role_id: council-member
-    role_label: Council Member
-    source_labels:
-    - Council Member At Large
-    division_ocdid: ocd-division/country:us/state:wa/place:black_diamond
-    post_label: Council Member
-  other_names: []
   source_urls:
   - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:black_diamond
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:black_diamond/government
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Mayor
+    role_id: mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:black_diamond/government
+    division_ocdid: ocd-division/country:us/state:wa/place:black_diamond
+    start_date: 2022-01
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.044047+00:00'
+    last_seen_at: '2026-08-31T02:33:18.091895+00:00'
 - id: 7bc5b094-654a-4f28-832c-9b6fe6282cf5
   name: Zofia Okonkwo
+  other_names: []
+  phones:
+  - (360) 555-0199
+  emails:
+  - zofia@example.wa.gov
   urls:
   - https://www.blackdiamondwa.gov
   image: ''
-  emails:
-  - zofia@example.wa.gov
-  labels:
-  - COUNCIL MEMBER WARD 4
-  office:
-    name: COUNCIL MEMBER WARD 4
-    division_ocdid: ocd-division/country:us/state:wa/place:black_diamond/ward:4
-  phones:
-  - (360) 555-0199
-  end_date: null
   cdn_image: ''
-  start_date: '2022-01-01'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: 4b28b84c-2201-42d0-b7da-1786eebc1518
-    role_id: council-member
-    role_label: Council Member
-    source_labels:
-    - COUNCIL MEMBER WARD 4
-    division_ocdid: ocd-division/country:us/state:wa/place:black_diamond/ward:4
-    post_label: Council Member, Ward 4
-  other_names: []
   source_urls:
   - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:black_diamond/ward:4
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:black_diamond/government
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Council Member, Ward 4
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:black_diamond/government
+    division_ocdid: ocd-division/country:us/state:wa/place:black_diamond/ward:4
+    start_date: 2022-01
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.044047+00:00'
+    last_seen_at: '2026-08-31T02:33:18.091895+00:00'
+- id: d721cb66-c1ed-4b5f-9dcb-326864182ad1
+  name: Björn Gallagher
+  other_names: []
+  phones:
+  - (360) 555-0199
+  emails:
+  - björn@example.wa.gov
+  urls:
+  - https://www.blackdiamondwa.gov
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:black_diamond/government
+    division_ocdid: ocd-division/country:us/state:wa/place:black_diamond
+    start_date: '2025'
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.044047+00:00'
+    last_seen_at: '2026-08-31T02:33:18.091895+00:00'
+- id: e18ccaba-fcab-4204-a42d-e97d07464153
+  name: Yusuf Jankowski
+  other_names: []
+  phones:
+  - (360) 555-0199
+  emails: []
+  urls:
+  - https://www.blackdiamondwa.gov
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:black_diamond/government
+    division_ocdid: ocd-division/country:us/state:wa/place:black_diamond
+    start_date: 2023-11
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.044047+00:00'
+    last_seen_at: '2026-08-31T02:33:18.091895+00:00'
+- id: 523c506c-7ccd-4928-a62e-fadf20745798
+  name: Oluwaseun Petrov
+  other_names: []
+  phones:
+  - (360) 555-0177
+  emails:
+  - oluwaseun@example.wa.gov
+  urls:
+  - https://www.blackdiamondwa.gov
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Clerk
+    role_id: clerk
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:black_diamond/government
+    division_ocdid: ocd-division/country:us/state:wa/place:black_diamond
+    start_date: '2026'
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.044047+00:00'
+    last_seen_at: '2026-08-31T02:33:18.091895+00:00'

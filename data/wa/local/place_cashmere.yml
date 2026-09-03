@@ -1,92 +1,65 @@
-- id: 4131e553-9746-483a-8f51-9a810310f22a
-  name: Deshawn Mbeki
-  urls:
-  - http://www.cityofcashmere.org/
-  image: ''
-  emails: []
-  labels:
-  - Council Member Position 2
-  office:
-    name: Council Member Position 2
-    division_ocdid: ocd-division/country:us/state:wa/place:cashmere
-  phones:
-  - (360) 555-0177
-  end_date: null
-  cdn_image: ''
-  start_date: '2026'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: Position 2
-    post_id: 83f083a1-7325-43e1-ad75-1626c7174bec
-    role_id: council-member
-    role_label: Council Member
-    source_labels:
-    - Council Member Position 2
-    division_ocdid: ocd-division/country:us/state:wa/place:cashmere
-    post_label: Council Member
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:cashmere
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:cashmere/government
-- id: a93d8513-e269-4f66-8b38-f52617aea8de
-  name: Oluwaseun Mbeki
-  urls:
-  - http://www.cityofcashmere.org/
-  image: ''
-  emails: []
-  labels:
-  - Council Member At Large
-  office:
-    name: Council Member At Large
-    division_ocdid: ocd-division/country:us/state:wa/place:cashmere
-  phones: []
-  end_date: null
-  cdn_image: ''
-  start_date: '2022-01-01'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: 83f083a1-7325-43e1-ad75-1626c7174bec
-    role_id: council-member
-    role_label: Council Member
-    source_labels:
-    - Council Member At Large
-    division_ocdid: ocd-division/country:us/state:wa/place:cashmere
-    post_label: Council Member
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:cashmere
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:cashmere/government
 - id: c7d00db5-4ef2-4c5c-87a8-1b73276de30a
   name: Tomasz Bergström
+  other_names: []
+  phones:
+  - (360) 555-0177
+  emails: []
   urls:
   - http://www.cityofcashmere.org/
   image: ''
-  emails: []
-  labels:
-  - Mayor
-  office:
-    name: Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:cashmere
-  phones:
-  - (360) 555-0177
-  end_date: null
   cdn_image: ''
-  start_date: null
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: 2b94a9ea-eef8-49c0-aab3-0f42dd4b31e0
-    role_id: mayor
-    role_label: Mayor
-    source_labels:
-    - Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:cashmere
-    post_label: Mayor
-  other_names: []
   source_urls:
   - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:cashmere
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:cashmere/government
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Mayor
+    role_id: mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:cashmere/government
+    division_ocdid: ocd-division/country:us/state:wa/place:cashmere
+    start_date: null
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.208248+00:00'
+    last_seen_at: '2026-08-31T02:33:18.226279+00:00'
+- id: 4131e553-9746-483a-8f51-9a810310f22a
+  name: Deshawn Mbeki
+  other_names: []
+  phones:
+  - (360) 555-0177
+  emails: []
+  urls:
+  - http://www.cityofcashmere.org/
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:cashmere/government
+    division_ocdid: ocd-division/country:us/state:wa/place:cashmere
+    start_date: '2026'
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.208248+00:00'
+    last_seen_at: '2026-08-31T02:33:18.226279+00:00'
+- id: a93d8513-e269-4f66-8b38-f52617aea8de
+  name: Oluwaseun Mbeki
+  other_names: []
+  phones: []
+  emails: []
+  urls:
+  - http://www.cityofcashmere.org/
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:cashmere/government
+    division_ocdid: ocd-division/country:us/state:wa/place:cashmere
+    start_date: 2022-01
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.208248+00:00'
+    last_seen_at: '2026-08-31T02:33:18.226279+00:00'

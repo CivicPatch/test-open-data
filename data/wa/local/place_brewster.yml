@@ -1,125 +1,89 @@
 - id: e577d32f-dc61-42ef-9bb4-d7e20795e534
   name: Ada Lindqvist
-  urls:
-  - http://www.cityofbrewsterwashington.org/
-  image: ''
+  other_names: []
+  phones: []
   emails:
   - ada@example.wa.gov
-  labels:
-  - Mayor
-  office:
-    name: Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:brewster
-  phones: []
-  end_date: null
-  cdn_image: ''
-  start_date: '2022-01-01'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: 9f1d5c25-524c-4262-ad48-929406a12adc
-    role_id: mayor
-    role_label: Mayor
-    source_labels:
-    - Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:brewster
-    post_label: Mayor
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:brewster
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:brewster/government
-- id: 42537acf-7648-49a2-8898-6ea719191a7d
-  name: Camille Jankowski
   urls:
   - http://www.cityofbrewsterwashington.org/
   image: ''
-  emails:
-  - camille@example.wa.gov
-  labels:
-  - Deputy Mayor / Council Member Position 2
-  office:
-    name: Deputy Mayor / Council Member Position 2
-    division_ocdid: ocd-division/country:us/state:wa/place:brewster
-  phones: []
-  end_date: null
   cdn_image: ''
-  start_date: '2024-01-01'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: Position 2
-    post_id: fb77484d-f44e-4eff-913e-cde16306a1d5
-    role_id: deputy-mayor
-    role_label: Deputy Mayor
-    source_labels:
-    - Deputy Mayor / Council Member Position 2
-    division_ocdid: ocd-division/country:us/state:wa/place:brewster
-    post_label: Deputy Mayor
-  other_names: []
   source_urls:
   - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:brewster
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:brewster/government
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Mayor
+    role_id: mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:brewster/government
+    division_ocdid: ocd-division/country:us/state:wa/place:brewster
+    start_date: 2022-01
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.103122+00:00'
+    last_seen_at: '2026-08-31T02:33:18.138406+00:00'
 - id: 83df4718-eef5-43e6-b567-c93913ea9746
   name: Rosa Ibarra
-  urls:
-  - http://www.cityofbrewsterwashington.org/
-  image: ''
+  other_names: []
+  phones: []
   emails:
   - rosa@example.wa.gov
-  labels:
-  - Mayor
-  office:
-    name: Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:brewster
-  phones: []
-  end_date: null
-  cdn_image: ''
-  start_date: '2026'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: 9f1d5c25-524c-4262-ad48-929406a12adc
-    role_id: mayor
-    role_label: Mayor
-    source_labels:
-    - Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:brewster
-    post_label: Mayor
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:brewster
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:brewster/government
-- id: c3e0c31e-2f3f-49e0-bb53-996dbd344a1b
-  name: Viktor Ferreira
   urls:
   - http://www.cityofbrewsterwashington.org/
   image: ''
-  emails:
-  - viktor@example.wa.gov
-  labels:
-  - City Clerk
-  office:
-    name: City Clerk
-    division_ocdid: ocd-division/country:us/state:wa/place:brewster
-  phones:
-  - (360) 555-1234
-  end_date: '2024'
   cdn_image: ''
-  start_date: '2024-01-01'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: cb9aa608-c54a-47cc-98c2-49096444a3d2
-    role_id: clerk
-    role_label: Clerk
-    source_labels:
-    - City Clerk
-    division_ocdid: ocd-division/country:us/state:wa/place:brewster
-    post_label: Clerk
-  other_names: []
   source_urls:
   - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:brewster
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:brewster/government
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Mayor
+    role_id: mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:brewster/government
+    division_ocdid: ocd-division/country:us/state:wa/place:brewster
+    start_date: '2026'
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.103122+00:00'
+    last_seen_at: '2026-08-31T02:33:18.138406+00:00'
+- id: 42537acf-7648-49a2-8898-6ea719191a7d
+  name: Camille Jankowski
+  other_names: []
+  phones: []
+  emails:
+  - camille@example.wa.gov
+  urls:
+  - http://www.cityofbrewsterwashington.org/
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Deputy Mayor
+    role_id: deputy-mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:brewster/government
+    division_ocdid: ocd-division/country:us/state:wa/place:brewster
+    start_date: '2024-01-01'
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.103122+00:00'
+    last_seen_at: '2026-08-31T02:33:18.138406+00:00'
+- id: c3e0c31e-2f3f-49e0-bb53-996dbd344a1b
+  name: Viktor Ferreira
+  other_names: []
+  phones:
+  - (360) 555-1234
+  emails:
+  - viktor@example.wa.gov
+  urls:
+  - http://www.cityofbrewsterwashington.org/
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Clerk
+    role_id: clerk
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:brewster/government
+    division_ocdid: ocd-division/country:us/state:wa/place:brewster
+    start_date: '2024-01-01'
+    end_date: '2024'
+    first_seen_at: '2026-08-29T02:11:14.103122+00:00'
+    last_seen_at: '2026-08-31T02:33:18.138406+00:00'

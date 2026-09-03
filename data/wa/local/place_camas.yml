@@ -1,159 +1,114 @@
-- id: c25cc29a-ab29-42e6-aac4-6fc0b97236b8
-  name: Bo Ueda
-  urls:
-  - https://www.cityofcamas.us/
-  image: ''
-  emails:
-  - bo@example.wa.gov
-  labels:
-  - Council Member Position 4
-  office:
-    name: Council Member Position 4
-    division_ocdid: ocd-division/country:us/state:wa/place:camas
-  phones:
-  - (360) 555-1234
-  end_date: '2025'
-  cdn_image: ''
-  start_date: '2023-11-01'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: Position 4
-    post_id: b741f6a0-af7d-4112-a871-3078ee2c7de8
-    role_id: council-member
-    role_label: Council Member
-    source_labels:
-    - Council Member Position 4
-    division_ocdid: ocd-division/country:us/state:wa/place:camas
-    post_label: Council Member
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:camas
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:camas/government
 - id: 68e8150e-beaa-4d53-a8fc-a584b131aab0
   name: Deshawn Quintero
-  urls:
-  - https://www.cityofcamas.us/
-  image: ''
+  other_names: []
+  phones:
+  - (360) 555-1234
   emails:
   - deshawn@example.wa.gov
-  labels:
-  - Mayor
-  office:
-    name: Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:camas
-  phones:
-  - (360) 555-1234
-  end_date: '2023-11-01'
+  urls:
+  - https://www.cityofcamas.us/
+  image: ''
   cdn_image: ''
-  start_date: '2025'
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
   updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: 97e8c051-ee64-4758-928e-f5915c1bfa76
+  roles:
+  - name: Mayor
     role_id: mayor
-    role_label: Mayor
-    source_labels:
-    - Mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:camas/government
     division_ocdid: ocd-division/country:us/state:wa/place:camas
-    post_label: Mayor
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:camas
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:camas/government
-- id: e4852329-00b7-434f-8d72-0d438bef4d25
-  name: Farida Bergström
-  urls:
-  - https://www.cityofcamas.us/
-  image: ''
-  emails:
-  - farida@example.wa.gov
-  labels:
-  - Clerk/Treasurer
-  office:
-    name: Clerk/Treasurer
-    division_ocdid: ocd-division/country:us/state:wa/place:camas
-  phones:
-  - (360) 555-0199
-  end_date: '2023-11-01'
-  cdn_image: ''
-  start_date: '2023-11-01'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: c5fceacb-98fe-4ec6-a826-82b8b64e443e
-    role_id: clerk
-    role_label: Clerk
-    source_labels:
-    - Clerk/Treasurer
-    division_ocdid: ocd-division/country:us/state:wa/place:camas
-    post_label: Clerk
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:camas
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:camas/government
-- id: f4ee0a2d-bf2d-48e3-a1db-59dd48281aff
-  name: Priya Chen
-  urls:
-  - https://www.cityofcamas.us/
-  image: ''
-  emails:
-  - priya@example.wa.gov
-  labels:
-  - Councilmember Pos. 2
-  office:
-    name: Councilmember Pos. 2
-    division_ocdid: ocd-division/country:us/state:wa/place:camas
-  phones:
-  - (360) 555-1234
-  end_date: null
-  cdn_image: ''
-  start_date: '2024-01-01'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: Position 2
-    post_id: b741f6a0-af7d-4112-a871-3078ee2c7de8
-    role_id: council-member
-    role_label: Council Member
-    source_labels:
-    - Councilmember Pos. 2
-    division_ocdid: ocd-division/country:us/state:wa/place:camas
-    post_label: Council Member
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:camas
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:camas/government
+    start_date: '2025'
+    end_date: 2023-11
+    first_seen_at: '2026-08-29T02:11:14.178757+00:00'
+    last_seen_at: '2026-08-31T02:33:18.199757+00:00'
 - id: dae7493b-f4b9-449a-9ca2-b4fe62fec273
   name: Tomasz Jankowski
+  other_names: []
+  phones:
+  - (360) 555-1234
+  emails: []
   urls:
   - https://www.cityofcamas.us/
   image: ''
-  emails: []
-  labels:
-  - Mayor
-  office:
-    name: Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:camas
-  phones:
-  - (360) 555-1234
-  end_date: '2023-11-01'
   cdn_image: ''
-  start_date: '2024'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: 97e8c051-ee64-4758-928e-f5915c1bfa76
-    role_id: mayor
-    role_label: Mayor
-    source_labels:
-    - Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:camas
-    post_label: Mayor
-  other_names: []
   source_urls:
   - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:camas
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:camas/government
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Mayor
+    role_id: mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:camas/government
+    division_ocdid: ocd-division/country:us/state:wa/place:camas
+    start_date: '2024'
+    end_date: 2023-11
+    first_seen_at: '2026-08-29T02:11:14.178757+00:00'
+    last_seen_at: '2026-08-31T02:33:18.199757+00:00'
+- id: f4ee0a2d-bf2d-48e3-a1db-59dd48281aff
+  name: Priya Chen
+  other_names: []
+  phones:
+  - (360) 555-1234
+  emails:
+  - priya@example.wa.gov
+  urls:
+  - https://www.cityofcamas.us/
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:camas/government
+    division_ocdid: ocd-division/country:us/state:wa/place:camas
+    start_date: '2024-01-01'
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.178757+00:00'
+    last_seen_at: '2026-08-31T02:33:18.199757+00:00'
+- id: c25cc29a-ab29-42e6-aac4-6fc0b97236b8
+  name: Bo Ueda
+  other_names: []
+  phones:
+  - (360) 555-1234
+  emails:
+  - bo@example.wa.gov
+  urls:
+  - https://www.cityofcamas.us/
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:camas/government
+    division_ocdid: ocd-division/country:us/state:wa/place:camas
+    start_date: 2023-11
+    end_date: '2025'
+    first_seen_at: '2026-08-29T02:11:14.178757+00:00'
+    last_seen_at: '2026-08-31T02:33:18.199757+00:00'
+- id: e4852329-00b7-434f-8d72-0d438bef4d25
+  name: Farida Bergström
+  other_names: []
+  phones:
+  - (360) 555-0199
+  emails:
+  - farida@example.wa.gov
+  urls:
+  - https://www.cityofcamas.us/
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Clerk
+    role_id: clerk
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:camas/government
+    division_ocdid: ocd-division/country:us/state:wa/place:camas
+    start_date: 2023-11
+    end_date: 2023-11
+    first_seen_at: '2026-08-29T02:11:14.178757+00:00'
+    last_seen_at: '2026-08-31T02:33:18.199757+00:00'

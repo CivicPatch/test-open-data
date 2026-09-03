@@ -1,127 +1,91 @@
-- id: ff9d206f-c63d-41f0-bea1-fe987b70cc50
-  name: Giulia D'Amico
-  urls:
-  - http://www.bridgeportwashington.net/
-  image: ''
-  emails:
-  - giulia@example.wa.gov
-  labels:
-  - Dogcatcher
-  office:
-    name: Dogcatcher
-    division_ocdid: ocd-division/country:us/state:wa/place:bridgeport
-  phones:
-  - (360) 555-1234
-  end_date: null
-  cdn_image: ''
-  start_date: '2022-01-01'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: Dogcatcher
-    post_id: 1ca9465c-b005-4677-8cb7-dceaf1033ac8
-    role_id: unmatched
-    role_label: Unmatched
-    source_labels:
-    - Dogcatcher
-    division_ocdid: ocd-division/country:us/state:wa/place:bridgeport
-    post_label: Unmatched
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:bridgeport
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bridgeport/government
 - id: 9c817e21-3c81-41b0-99cf-c98311043e39
   name: Jonas D'Amico
-  urls:
-  - http://www.bridgeportwashington.net/
-  image: ''
+  other_names: []
+  phones:
+  - (360) 555-1234
   emails:
   - jonas@example.wa.gov
-  labels:
-  - Mayor
-  office:
-    name: Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:bridgeport
-  phones:
-  - (360) 555-1234
-  end_date: null
+  urls:
+  - http://www.bridgeportwashington.net/
+  image: ''
   cdn_image: ''
-  start_date: '2022-01-01'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: bf9e59ce-a38f-40ed-96a2-fa2e65b75b85
-    role_id: mayor
-    role_label: Mayor
-    source_labels:
-    - Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:bridgeport
-    post_label: Mayor
-  other_names: []
   source_urls:
   - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:bridgeport
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bridgeport/government
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Mayor
+    role_id: mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bridgeport/government
+    division_ocdid: ocd-division/country:us/state:wa/place:bridgeport
+    start_date: 2022-01
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.117596+00:00'
+    last_seen_at: '2026-08-31T02:33:18.149178+00:00'
 - id: d0ed8b3d-da4d-45c1-83e4-06f0874f79e6
   name: Viktor Whitfield
-  urls:
-  - http://www.bridgeportwashington.net/
-  image: ''
-  emails: []
-  labels:
-  - Mayor
-  office:
-    name: Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:bridgeport
+  other_names: []
   phones:
   - (360) 555-1234
-  end_date: null
-  cdn_image: ''
-  start_date: '2024'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: bf9e59ce-a38f-40ed-96a2-fa2e65b75b85
-    role_id: mayor
-    role_label: Mayor
-    source_labels:
-    - Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:bridgeport
-    post_label: Mayor
-  other_names: []
-  source_urls:
-  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:bridgeport
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bridgeport/government
-- id: 955c964b-fc2d-41c6-bb7b-12e77d7890d9
-  name: Yusuf Ferreira
+  emails: []
   urls:
   - http://www.bridgeportwashington.net/
   image: ''
-  emails:
-  - yusuf@example.wa.gov
-  labels:
-  - Mayor
-  office:
-    name: Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:bridgeport
-  phones:
-  - (360) 555-0199
-  end_date: null
   cdn_image: ''
-  start_date: '2024'
-  updated_at: '2026-08-29T02:41:32+00:00'
-  memberships:
-  - label: null
-    post_id: bf9e59ce-a38f-40ed-96a2-fa2e65b75b85
-    role_id: mayor
-    role_label: Mayor
-    source_labels:
-    - Mayor
-    division_ocdid: ocd-division/country:us/state:wa/place:bridgeport
-    post_label: Mayor
-  other_names: []
   source_urls:
   - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
-  division_ocdid: ocd-division/country:us/state:wa/place:bridgeport
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bridgeport/government
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Mayor
+    role_id: mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bridgeport/government
+    division_ocdid: ocd-division/country:us/state:wa/place:bridgeport
+    start_date: '2024'
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.117596+00:00'
+    last_seen_at: '2026-08-31T02:33:18.149178+00:00'
+- id: 955c964b-fc2d-41c6-bb7b-12e77d7890d9
+  name: Yusuf Ferreira
+  other_names: []
+  phones:
+  - (360) 555-0199
+  emails:
+  - yusuf@example.wa.gov
+  urls:
+  - http://www.bridgeportwashington.net/
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Mayor
+    role_id: mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bridgeport/government
+    division_ocdid: ocd-division/country:us/state:wa/place:bridgeport
+    start_date: '2024'
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.117596+00:00'
+    last_seen_at: '2026-08-31T02:33:18.149178+00:00'
+- id: ff9d206f-c63d-41f0-bea1-fe987b70cc50
+  name: Giulia D'Amico
+  other_names: []
+  phones:
+  - (360) 555-1234
+  emails:
+  - giulia@example.wa.gov
+  urls:
+  - http://www.bridgeportwashington.net/
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-08-29T02:41:32+00:00'
+  roles:
+  - name: Unmatched
+    role_id: unmatched
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:bridgeport/government
+    division_ocdid: ocd-division/country:us/state:wa/place:bridgeport
+    start_date: 2022-01
+    end_date: null
+    first_seen_at: '2026-08-29T02:11:14.117596+00:00'
+    last_seen_at: '2026-08-31T02:33:18.149178+00:00'
