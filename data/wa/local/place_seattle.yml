@@ -23,7 +23,7 @@
     start_date: null
     end_date: null
     first_seen_at: '2026-04-28T04:03:03+00:00'
-    last_seen_at: '2026-09-03T00:37:35.416221+00:00'
+    last_seen_at: '2026-09-03T00:38:30.208744+00:00'
 - id: aedb8cf3-140d-4435-9db1-e3aa09a5d364
   name: Bob Kettle
   other_names:
@@ -51,7 +51,7 @@
     start_date: null
     end_date: null
     first_seen_at: '2026-04-28T04:03:03+00:00'
-    last_seen_at: '2026-09-03T00:37:35.416221+00:00'
+    last_seen_at: '2026-09-03T00:38:30.208744+00:00'
 - id: 585f649c-2e6c-4404-9af8-0a4daacb1086
   name: Dan Strauss
   other_names: []
@@ -77,7 +77,7 @@
     start_date: null
     end_date: null
     first_seen_at: '2026-04-28T04:03:03+00:00'
-    last_seen_at: '2026-09-03T00:37:35.416221+00:00'
+    last_seen_at: '2026-09-03T00:38:30.208744+00:00'
 - id: 115ba33c-930d-4e88-a817-6be801b2b1d1
   name: Debora Juarez
   other_names: []
@@ -104,7 +104,7 @@
     start_date: null
     end_date: null
     first_seen_at: '2026-04-28T04:03:03+00:00'
-    last_seen_at: '2026-09-03T00:37:35.416221+00:00'
+    last_seen_at: '2026-09-03T00:38:30.208744+00:00'
 - id: a8696c8e-09ed-4593-8144-87844cf4ca1c
   name: Dionne Foster
   other_names: []
@@ -130,7 +130,7 @@
     start_date: null
     end_date: null
     first_seen_at: '2026-04-28T04:03:03+00:00'
-    last_seen_at: '2026-09-03T00:37:35.416221+00:00'
+    last_seen_at: '2026-09-03T00:38:30.208744+00:00'
 - id: e8805823-9084-4ae9-b479-c88f167a36b6
   name: Eddie Lin
   other_names: []
@@ -157,7 +157,7 @@
     start_date: 2025-11
     end_date: '2027'
     first_seen_at: '2026-04-28T04:03:03+00:00'
-    last_seen_at: '2026-09-03T00:37:35.416221+00:00'
+    last_seen_at: '2026-09-03T00:38:30.208744+00:00'
 - id: bedd6a23-e078-4eac-9bbb-6cf1355ac0cf
   name: Joy Hollingsworth
   other_names: []
@@ -186,14 +186,16 @@
     start_date: 2024-01
     end_date: 2027-12
     first_seen_at: '2026-04-28T04:03:03+00:00'
-    last_seen_at: '2026-09-03T00:37:35.416221+00:00'
+    last_seen_at: '2026-09-03T00:38:30.208744+00:00'
 - id: cdec31d6-c02b-4d2a-8682-12092afd9b94
   name: Katie Wilson
   other_names:
   - Katie B. Wilson
   phones:
   - (206) 684-4000
-  emails: []
+  - (203) 233-2323
+  emails:
+  - mayso@isfliee.com
   urls:
   - https://www.seattle.gov/mayor
   image: https://www.seattle.gov/images/MayorWilson/Katie-Wilson-Headshot-250x250.jpg
@@ -209,7 +211,7 @@
     start_date: null
     end_date: null
     first_seen_at: '2026-08-24T16:59:06.259787+00:00'
-    last_seen_at: '2026-09-03T00:37:35.416221+00:00'
+    last_seen_at: '2026-09-03T00:38:30.208744+00:00'
 - id: f6950dea-05b3-435e-91d7-b69353ac3113
   name: Maritza Rivera
   other_names: []
@@ -237,7 +239,7 @@
     start_date: 2024-01
     end_date: 2027-12
     first_seen_at: '2026-04-28T04:03:03+00:00'
-    last_seen_at: '2026-09-03T00:37:35.416221+00:00'
+    last_seen_at: '2026-09-03T00:38:30.208744+00:00'
 - id: 0ae9e2a1-58a9-4003-95bf-144eeb2a18c7
   name: Rob Saka
   other_names: []
@@ -264,4 +266,4 @@
     start_date: null
     end_date: null
     first_seen_at: '2026-04-28T04:03:03+00:00'
-    last_seen_at: '2026-09-03T00:37:35.416221+00:00'
+    last_seen_at: '2026-09-03T00:38:30.208744+00:00'
