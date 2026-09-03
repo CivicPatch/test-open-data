@@ -1,0 +1,45 @@
+- id: 5acf6975-5dd7-4f5f-94ad-6a7c8ee8287f
+  name: Cara Lin
+  other_names: []
+  phones:
+  - (253) 555-0177
+  emails:
+  - clin@royws.gov
+  urls:
+  - https://www.royws.gov/
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-09-03T23:15:12+00:00'
+  roles:
+  - name: Mayor
+    role_id: mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:roy/government
+    division_ocdid: ocd-division/country:us/state:wa/place:roy
+    start_date: null
+    end_date: null
+    first_seen_at: '2026-09-03T23:07:54.038462+00:00'
+    last_seen_at: '2026-09-03T23:07:54.038462+00:00'
+- id: 8676e7c3-0728-4a44-b461-cf9c24f60b9e
+  name: Dev Patel
+  other_names: []
+  phones:
+  - (253) 555-0178
+  emails: []
+  urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-09-03T23:15:12+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:roy/government
+    division_ocdid: ocd-division/country:us/state:wa/place:roy
+    start_date: '2023-01-02'
+    end_date: null
+    first_seen_at: '2026-09-03T23:07:54.038462+00:00'
+    last_seen_at: '2026-09-03T23:07:54.038462+00:00'
