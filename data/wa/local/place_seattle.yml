@@ -201,7 +201,8 @@
     end_date: null
 - id: 96c3786c-6e5e-40e8-9e6c-b94857e387c9
   name: Alexis Mercedes Rinck
-  other_names: []
+  other_names:
+  - now she is also mayor
   phones:
   - (206) 684-8808
   - (206) 684-8888
@@ -215,10 +216,10 @@
   source_urls:
   - https://www.seattle.gov/council
   - https://www.seattle.gov/council/members
-  updated_at: '2026-09-04T15:29:02+00:00'
+  updated_at: '2026-09-04T16:04:49+00:00'
   roles:
-  - name: Council Member
-    role_id: council-member
+  - name: Mayor
+    role_id: mayor
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:seattle/government
     division_ocdid: ocd-division/country:us/state:wa/place:seattle
     start_date: null
