@@ -19,8 +19,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:black_diamond
     start_date: '2025'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.044047+00:00'
-    last_seen_at: '2026-08-31T02:33:18.091895+00:00'
 - id: 66fa99c1-8016-4d82-83ad-d102e47208d6
   name: Quentin Ueda
   other_names: []
@@ -41,8 +39,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:black_diamond
     start_date: 2022-01
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.044047+00:00'
-    last_seen_at: '2026-08-31T02:33:18.091895+00:00'
 - id: 7bc5b094-654a-4f28-832c-9b6fe6282cf5
   name: Zofia Okonkwo
   other_names: []
@@ -64,8 +60,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:black_diamond/ward:4
     start_date: 2022-01
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.044047+00:00'
-    last_seen_at: '2026-08-31T02:33:18.091895+00:00'
 - id: d721cb66-c1ed-4b5f-9dcb-326864182ad1
   name: Björn Gallagher
   other_names: []
@@ -87,8 +81,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:black_diamond
     start_date: '2025'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.044047+00:00'
-    last_seen_at: '2026-08-31T02:33:18.091895+00:00'
 - id: e18ccaba-fcab-4204-a42d-e97d07464153
   name: Yusuf Jankowski
   other_names: []
@@ -109,8 +101,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:black_diamond
     start_date: 2023-11
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.044047+00:00'
-    last_seen_at: '2026-08-31T02:33:18.091895+00:00'
 - id: 523c506c-7ccd-4928-a62e-fadf20745798
   name: Oluwaseun Petrov
   other_names: []
@@ -132,5 +122,3 @@
     division_ocdid: ocd-division/country:us/state:wa/place:black_diamond
     start_date: '2026'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.044047+00:00'
-    last_seen_at: '2026-08-31T02:33:18.091895+00:00'

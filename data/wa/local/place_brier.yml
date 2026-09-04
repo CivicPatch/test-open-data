@@ -19,8 +19,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:brier
     start_date: null
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.130238+00:00'
-    last_seen_at: '2026-08-31T02:33:18.160028+00:00'
 - id: 41c8ee52-21b0-4d77-a194-0dffcad6a0f5
   name: Hana Tanaka
   other_names: []
@@ -41,8 +39,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:brier
     start_date: '2025'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.130238+00:00'
-    last_seen_at: '2026-08-31T02:33:18.160028+00:00'
 - id: fbf23f52-4ce2-4f51-83e3-fbc4d0c76825
   name: Esperanza D'Amico
   other_names: []
@@ -64,8 +60,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:brier/ward:1
     start_date: '2024-01-01'
     end_date: 2023-11
-    first_seen_at: '2026-08-29T02:11:14.130238+00:00'
-    last_seen_at: '2026-08-31T02:33:18.160028+00:00'
 - id: 59c25e96-aed5-45c7-9c39-abdb81e437c2
   name: Yusuf Nakamura
   other_names: []
@@ -87,8 +81,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:brier
     start_date: '2026'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.130238+00:00'
-    last_seen_at: '2026-08-31T02:33:18.160028+00:00'
 - id: 728144cb-39d4-44f6-81ac-93ea6f117eeb
   name: Grigor Xu
   other_names: []
@@ -109,8 +101,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:brier
     start_date: 2022-01
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.130238+00:00'
-    last_seen_at: '2026-08-31T02:33:18.160028+00:00'
 - id: 5733118a-83dc-472a-a2f6-afe534bf1c9d
   name: Ada Tanaka
   other_names: []
@@ -132,8 +122,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:brier
     start_date: '2025'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.130238+00:00'
-    last_seen_at: '2026-08-31T02:33:18.160028+00:00'
 - id: a3b1260a-0a5d-4a7e-8961-0aad103f1a8b
   name: Rosa Kowalczyk
   other_names: []
@@ -154,5 +142,3 @@
     division_ocdid: ocd-division/country:us/state:wa/place:brier
     start_date: '2024'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.130238+00:00'
-    last_seen_at: '2026-08-31T02:33:18.160028+00:00'

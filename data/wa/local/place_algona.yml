@@ -17,8 +17,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:algona
     start_date: '2024-01-01'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.851739+00:00'
-    last_seen_at: '2026-08-31T02:33:17.93883+00:00'
 - id: 4c2d72a8-bc39-477f-ab63-4c88193173ea
   name: Eirik Ferreira
   other_names: []
@@ -38,8 +36,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:algona
     start_date: null
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.851739+00:00'
-    last_seen_at: '2026-08-31T02:33:17.93883+00:00'
 - id: ff08e887-dbcd-405e-9656-b58a7548e155
   name: Deshawn Ibarra
   other_names: []
@@ -61,8 +57,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:algona
     start_date: 2023-11
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.851739+00:00'
-    last_seen_at: '2026-08-31T02:33:17.93883+00:00'
 - id: aeb29d24-220c-408d-bf2f-4d08fdaf8759
   name: Yusuf Quintero
   other_names: []
@@ -83,8 +77,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:algona
     start_date: '2024'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.851739+00:00'
-    last_seen_at: '2026-08-31T02:33:17.93883+00:00'
 - id: 1b82999f-8537-4d24-9bfd-134a4b721a42
   name: Ines Eze
   other_names: []
@@ -105,5 +97,3 @@
     division_ocdid: ocd-division/country:us/state:wa/place:algona
     start_date: '2024-01-01'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.851739+00:00'
-    last_seen_at: '2026-08-31T02:33:17.93883+00:00'

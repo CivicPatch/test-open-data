@@ -19,8 +19,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bellingham
     start_date: 2022-01
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.994535+00:00'
-    last_seen_at: '2026-08-31T02:33:18.051604+00:00'
 - id: bdf06481-d1fb-40e8-bdcf-d631e7dc1668
   name: Björn Eze
   other_names: []
@@ -41,8 +39,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bellingham/ward:2
     start_date: '2026'
     end_date: 2023-11
-    first_seen_at: '2026-08-29T02:11:13.994535+00:00'
-    last_seen_at: '2026-08-31T02:33:18.051604+00:00'
 - id: f609a570-4755-4cc6-89b0-83a8bd58b959
   name: Camille Hoffmann
   other_names: []
@@ -63,8 +59,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bellingham/ward:3
     start_date: '2024-01-01'
     end_date: '2025'
-    first_seen_at: '2026-08-29T02:11:13.994535+00:00'
-    last_seen_at: '2026-08-31T02:33:18.051604+00:00'
 - id: 68c1ed2e-db85-443c-9eca-52f439bb93a8
   name: Esperanza Kowalczyk
   other_names: []
@@ -86,5 +80,3 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bellingham
     start_date: '2024'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.994535+00:00'
-    last_seen_at: '2026-08-31T02:33:18.051604+00:00'

@@ -19,8 +19,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bonney_lake
     start_date: 2023-11
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.061645+00:00'
-    last_seen_at: '2026-08-31T02:33:18.104875+00:00'
 - id: 9ca4f270-54ad-46f7-bd72-f5296549cfad
   name: Giulia Ferreira
   other_names: []
@@ -40,8 +38,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bonney_lake
     start_date: null
     end_date: '2024'
-    first_seen_at: '2026-08-29T02:11:14.061645+00:00'
-    last_seen_at: '2026-08-31T02:33:18.104875+00:00'
 - id: 8f31e2ed-9cec-4695-86af-87e8b550290f
   name: Ada Yamamoto
   other_names: []
@@ -63,8 +59,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bonney_lake
     start_date: null
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.061645+00:00'
-    last_seen_at: '2026-08-31T02:33:18.104875+00:00'
 - id: 10bd58a2-abb9-4995-8b85-7619d33ec1ed
   name: Tomasz Bergström
   other_names: []
@@ -86,5 +80,3 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bonney_lake
     start_date: 2023-11
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.061645+00:00'
-    last_seen_at: '2026-08-31T02:33:18.104875+00:00'

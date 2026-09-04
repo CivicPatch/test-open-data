@@ -19,8 +19,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:beaux_arts_village
     start_date: '2026'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.97574+00:00'
-    last_seen_at: '2026-08-31T02:33:18.038866+00:00'
 - id: c9496978-ad16-4b5f-9330-8c89118122a6
   name: Eirik Aguilar
   other_names: []
@@ -41,8 +39,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:beaux_arts_village
     start_date: 2022-01
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.97574+00:00'
-    last_seen_at: '2026-08-31T02:33:18.038866+00:00'
 - id: 534dedb4-e87e-491a-8911-d582b9df12e6
   name: Tomasz Zielinski
   other_names: []
@@ -64,8 +60,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:beaux_arts_village
     start_date: null
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.97574+00:00'
-    last_seen_at: '2026-08-31T02:33:18.038866+00:00'
 - id: 7963e4fd-91c2-4cb9-88a1-4a8109a8e6a7
   name: Grigor Fontaine
   other_names: []
@@ -87,8 +81,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:beaux_arts_village/ward:1
     start_date: '2026'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.97574+00:00'
-    last_seen_at: '2026-08-31T02:33:18.038866+00:00'
 - id: 32d710bd-7f50-423e-84d1-ab06f3662cea
   name: Rosa Okonkwo
   other_names: []
@@ -109,8 +101,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:beaux_arts_village
     start_date: null
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.97574+00:00'
-    last_seen_at: '2026-08-31T02:33:18.038866+00:00'
 - id: 5b072026-a33a-4b6e-bae5-e03a6f7312dd
   name: Ines Petrov
   other_names: []
@@ -132,8 +122,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:beaux_arts_village
     start_date: '2025'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.97574+00:00'
-    last_seen_at: '2026-08-31T02:33:18.038866+00:00'
 - id: 61932571-d928-48c0-9643-887555737228
   name: Quentin Aguilar
   other_names: []
@@ -155,8 +143,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:beaux_arts_village
     start_date: '2024-01-01'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.97574+00:00'
-    last_seen_at: '2026-08-31T02:33:18.038866+00:00'
 - id: 5ed38ee1-fd7d-40e1-b771-b4b6c2417c4d
   name: Oluwaseun Whitfield
   other_names: []
@@ -177,5 +163,3 @@
     division_ocdid: ocd-division/country:us/state:wa/place:beaux_arts_village
     start_date: '2024'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.97574+00:00'
-    last_seen_at: '2026-08-31T02:33:18.038866+00:00'

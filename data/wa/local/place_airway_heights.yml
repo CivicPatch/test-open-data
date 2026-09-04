@@ -19,8 +19,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:airway_heights
     start_date: '2024-01-01'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.829368+00:00'
-    last_seen_at: '2026-08-31T02:33:17.918637+00:00'
 - id: b1c8ed2d-9c44-46fa-a0df-73b7f5c2a900
   name: Deshawn Vasquez
   other_names: []
@@ -42,8 +40,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:airway_heights
     start_date: '2026'
     end_date: 2022-01
-    first_seen_at: '2026-08-29T02:11:13.829368+00:00'
-    last_seen_at: '2026-08-31T02:33:17.918637+00:00'
 - id: ddfab4a4-2b89-4373-b8e4-c2d74c59fcfc
   name: Yusuf Jankowski
   other_names: []
@@ -65,8 +61,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:airway_heights
     start_date: '2025'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.829368+00:00'
-    last_seen_at: '2026-08-31T02:33:17.918637+00:00'
 - id: 7b76c4b4-ae1a-4917-b992-192d52ff3dca
   name: Ines Jankowski
   other_names: []
@@ -87,8 +81,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:airway_heights
     start_date: 2023-11
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.829368+00:00'
-    last_seen_at: '2026-08-31T02:33:17.918637+00:00'
 - id: 41fd3ae2-bf55-488c-a04c-417f5cc1f399
   name: Tomasz Bergström
   other_names: []
@@ -110,8 +102,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:airway_heights
     start_date: '2024'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.829368+00:00'
-    last_seen_at: '2026-08-31T02:33:17.918637+00:00'
 - id: 439bffb3-15e3-49cc-95b7-4ec576812ab0
   name: Esperanza Petrov
   other_names: []
@@ -132,8 +122,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:airway_heights
     start_date: '2024-01-01'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.829368+00:00'
-    last_seen_at: '2026-08-31T02:33:17.918637+00:00'
 - id: b50ab64b-37a8-446a-b41a-a5b3772364d9
   name: Bo Eze
   other_names: []
@@ -155,8 +143,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:airway_heights
     start_date: '2026'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.829368+00:00'
-    last_seen_at: '2026-08-31T02:33:17.918637+00:00'
 - id: 31878a7f-f8cc-481c-a827-2d9bfe88d843
   name: Grigor Petrov
   other_names: []
@@ -178,8 +164,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:airway_heights
     start_date: 2023-11
     end_date: '2025'
-    first_seen_at: '2026-08-29T02:11:13.829368+00:00'
-    last_seen_at: '2026-08-31T02:33:17.918637+00:00'
 - id: 204ea63a-ebcf-4257-9143-e4821eb9d7cd
   name: Sanjay Hoffmann
   other_names: []
@@ -201,5 +185,3 @@
     division_ocdid: ocd-division/country:us/state:wa/place:airway_heights
     start_date: '2024'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.829368+00:00'
-    last_seen_at: '2026-08-31T02:33:17.918637+00:00'

@@ -18,8 +18,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:burien
     start_date: '2024'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.161953+00:00'
-    last_seen_at: '2026-08-31T02:33:18.187972+00:00'
 - id: a3fdb78b-2412-4f6e-8d9b-aea80189fb24
   name: Giulia Zielinski
   other_names: []
@@ -41,8 +39,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:burien
     start_date: '2026'
     end_date: '2025'
-    first_seen_at: '2026-08-29T02:11:14.161953+00:00'
-    last_seen_at: '2026-08-31T02:33:18.187972+00:00'
 - id: b25fd043-da75-4b1c-b7c3-72b2cfa8fd7d
   name: Xiomara Vasquez
   other_names: []
@@ -64,8 +60,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:burien
     start_date: '2024'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.161953+00:00'
-    last_seen_at: '2026-08-31T02:33:18.187972+00:00'
 - id: e0ad8083-710b-4b3c-bfa3-0807f109b228
   name: Lucia Eze
   other_names: []
@@ -86,8 +80,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:burien
     start_date: null
     end_date: 2022-01
-    first_seen_at: '2026-08-29T02:11:14.161953+00:00'
-    last_seen_at: '2026-08-31T02:33:18.187972+00:00'
 - id: f22ec6b5-4d2d-4959-a229-6b1c1c71fcec
   name: Dae-ho Whitfield
   other_names: []
@@ -109,8 +101,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:burien
     start_date: 2023-11
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.161953+00:00'
-    last_seen_at: '2026-08-31T02:33:18.187972+00:00'
 - id: abc4d947-d587-426a-bfec-15f3a0564e55
   name: Ursula Petrov
   other_names: []
@@ -132,5 +122,3 @@
     division_ocdid: ocd-division/country:us/state:wa/place:burien
     start_date: '2024'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.161953+00:00'
-    last_seen_at: '2026-08-31T02:33:18.187972+00:00'

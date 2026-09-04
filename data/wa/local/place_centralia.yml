@@ -19,8 +19,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:centralia
     start_date: null
     end_date: null
-    first_seen_at: '2026-08-29T16:56:22.461673+00:00'
-    last_seen_at: '2026-08-31T02:33:18.262852+00:00'
 - id: e05fd3c0-2af1-4c82-9c1e-e85460bd4159
   name: Priya Fontaine
   other_names: []
@@ -41,8 +39,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:centralia/ward:4
     start_date: null
     end_date: '2025'
-    first_seen_at: '2026-08-29T16:56:22.461673+00:00'
-    last_seen_at: '2026-08-31T02:33:18.262852+00:00'
 - id: 57877d51-f4a7-495b-a295-39d7921ddf30
   name: Marek Whitfield
   other_names: []
@@ -63,8 +59,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:centralia
     start_date: 2023-11
     end_date: null
-    first_seen_at: '2026-08-29T16:56:22.461673+00:00'
-    last_seen_at: '2026-08-31T02:33:18.262852+00:00'
 - id: 76b4c379-b98a-4880-a3be-4281cd210f67
   name: Yusuf Ibarra
   other_names: []
@@ -86,8 +80,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:centralia
     start_date: 2022-01
     end_date: null
-    first_seen_at: '2026-08-29T16:56:22.461673+00:00'
-    last_seen_at: '2026-08-31T02:33:18.262852+00:00'
 - id: 5214b97f-dfe3-4752-804f-27eef3be0eb6
   name: Oluwaseun Vasquez
   other_names: []
@@ -109,5 +101,3 @@
     division_ocdid: ocd-division/country:us/state:wa/place:centralia
     start_date: '2026'
     end_date: null
-    first_seen_at: '2026-08-29T16:56:22.461673+00:00'
-    last_seen_at: '2026-08-31T02:33:18.262852+00:00'

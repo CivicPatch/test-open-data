@@ -18,8 +18,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:castle_rock
     start_date: 2023-11
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.223564+00:00'
-    last_seen_at: '2026-08-31T02:33:18.237573+00:00'
 - id: ab8ca5ec-7e89-4821-8262-a37b7d97af35
   name: Nadia Rasmussen
   other_names: []
@@ -41,8 +39,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:castle_rock/ward:6
     start_date: null
     end_date: 2022-01
-    first_seen_at: '2026-08-29T02:11:14.223564+00:00'
-    last_seen_at: '2026-08-31T02:33:18.237573+00:00'
 - id: 85ca5884-1c30-41f1-ae93-844b24256b4a
   name: Marek Hoffmann
   other_names: []
@@ -63,8 +59,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:castle_rock
     start_date: '2025'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.223564+00:00'
-    last_seen_at: '2026-08-31T02:33:18.237573+00:00'
 - id: 20d56a7e-4bf0-46a9-8db7-a8692ffbb110
   name: Dae-ho D'Amico
   other_names: []
@@ -86,8 +80,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:castle_rock
     start_date: '2026'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.223564+00:00'
-    last_seen_at: '2026-08-31T02:33:18.237573+00:00'
 - id: e96dc930-3b33-474b-a4de-d8d09f2296bd
   name: Ursula Jankowski
   other_names: []
@@ -109,8 +101,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:castle_rock
     start_date: '2026'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.223564+00:00'
-    last_seen_at: '2026-08-31T02:33:18.237573+00:00'
 - id: 4079923f-96fb-4c88-b296-ae41edad34d1
   name: Camille Chen
   other_names: []
@@ -132,8 +122,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:castle_rock
     start_date: '2026'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.223564+00:00'
-    last_seen_at: '2026-08-31T02:33:18.237573+00:00'
 - id: bc46a95b-664c-49eb-9a7f-c8eab0097595
   name: Jonas Zielinski
   other_names: []
@@ -155,5 +143,3 @@
     division_ocdid: ocd-division/country:us/state:wa/place:castle_rock
     start_date: null
     end_date: '2024-01-01'
-    first_seen_at: '2026-08-29T02:11:14.223564+00:00'
-    last_seen_at: '2026-08-31T02:33:18.237573+00:00'

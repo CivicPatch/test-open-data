@@ -19,8 +19,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bingen
     start_date: '2026'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.02534+00:00'
-    last_seen_at: '2026-08-31T02:33:18.076486+00:00'
 - id: 86c829c8-d7c5-4e53-8eca-b3448e5644b7
   name: Bo Zielinski
   other_names: []
@@ -42,8 +40,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bingen
     start_date: '2024-01-01'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.02534+00:00'
-    last_seen_at: '2026-08-31T02:33:18.076486+00:00'
 - id: 69641343-2bd2-44df-9f63-f76b02e70680
   name: Xiomara Mbeki
   other_names: []
@@ -65,8 +61,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bingen/ward:3
     start_date: 2022-01
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.02534+00:00'
-    last_seen_at: '2026-08-31T02:33:18.076486+00:00'
 - id: 54f15aa2-a10f-49ca-a80e-000c38ad6129
   name: Camille Hoffmann
   other_names: []
@@ -87,8 +81,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bingen/ward:7
     start_date: '2024'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.02534+00:00'
-    last_seen_at: '2026-08-31T02:33:18.076486+00:00'
 - id: 5f47ec87-6eaa-4907-8f7e-6063a4dde6b0
   name: Giulia D'Amico
   other_names: []
@@ -109,8 +101,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bingen
     start_date: '2024-01-01'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.02534+00:00'
-    last_seen_at: '2026-08-31T02:33:18.076486+00:00'
 - id: 9b337f1f-59f9-436c-a984-33c04f93e80c
   name: Hyun-woo Nakamura
   other_names: []
@@ -131,8 +121,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bingen
     start_date: 2023-11
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.02534+00:00'
-    last_seen_at: '2026-08-31T02:33:18.076486+00:00'
 - id: c44c826e-d84a-4931-aec3-031a6aea1f84
   name: Kwame Lindqvist
   other_names: []
@@ -154,8 +142,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bingen
     start_date: '2025'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.02534+00:00'
-    last_seen_at: '2026-08-31T02:33:18.076486+00:00'
 - id: 6eb49c70-ba13-4637-aea7-bc26f22534e8
   name: Farida Chen
   other_names: []
@@ -177,8 +163,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bingen
     start_date: '2025'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.02534+00:00'
-    last_seen_at: '2026-08-31T02:33:18.076486+00:00'
 - id: 712f7cc9-e449-4259-a98a-707d32c3121e
   name: Hyun-woo Vasquez
   other_names: []
@@ -200,5 +184,3 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bingen
     start_date: '2024-01-01'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.02534+00:00'
-    last_seen_at: '2026-08-31T02:33:18.076486+00:00'

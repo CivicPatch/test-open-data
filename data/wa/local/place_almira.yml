@@ -19,8 +19,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:almira
     start_date: 2023-11
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.868577+00:00'
-    last_seen_at: '2026-08-31T02:33:17.957802+00:00'
 - id: 98567735-c5fa-49d6-b2a6-9218f3eccb60
   name: Yusuf Gallagher
   other_names: []
@@ -41,8 +39,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:almira
     start_date: null
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.868577+00:00'
-    last_seen_at: '2026-08-31T02:33:17.957802+00:00'
 - id: f79fa69b-33e6-49e2-880a-83abf96e7523
   name: Ada Sørensen
   other_names: []
@@ -63,8 +59,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:almira/ward:4
     start_date: 2023-11
     end_date: '2024-01-01'
-    first_seen_at: '2026-08-29T02:11:13.868577+00:00'
-    last_seen_at: '2026-08-31T02:33:17.957802+00:00'
 - id: b4610d53-75c1-4ff1-9197-705351cd80a2
   name: Giulia Rasmussen
   other_names: []
@@ -86,8 +80,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:almira/ward:7
     start_date: '2024-01-01'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.868577+00:00'
-    last_seen_at: '2026-08-31T02:33:17.957802+00:00'
 - id: 31be3e59-fe16-4db3-a0b2-f64b9c88f9a6
   name: Carmen O'Brien
   other_names: []
@@ -107,8 +99,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:almira
     start_date: '2026'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.868577+00:00'
-    last_seen_at: '2026-08-31T02:33:17.957802+00:00'
 - id: 94d0e812-468d-4216-9e65-1084ea96cfa7
   name: Esperanza Gallagher
   other_names: []
@@ -130,8 +120,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:almira
     start_date: 2022-01
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.868577+00:00'
-    last_seen_at: '2026-08-31T02:33:17.957802+00:00'
 - id: e80af888-4700-487c-bb5b-2c041bb77ff6
   name: Carmen Chen
   other_names: []
@@ -152,8 +140,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:almira
     start_date: 2023-11
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.868577+00:00'
-    last_seen_at: '2026-08-31T02:33:17.957802+00:00'
 - id: e30eeaae-efd2-4f55-880f-a86855498b37
   name: Lucia Xu
   other_names: []
@@ -175,8 +161,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:almira
     start_date: 2023-11
     end_date: '2026'
-    first_seen_at: '2026-08-29T02:11:13.868577+00:00'
-    last_seen_at: '2026-08-31T02:33:17.957802+00:00'
 - id: fbd8d0f1-04ec-466e-98da-8ab91659adab
   name: Kwame Okonkwo
   other_names: []
@@ -196,5 +180,3 @@
     division_ocdid: ocd-division/country:us/state:wa/place:almira
     start_date: '2026'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.868577+00:00'
-    last_seen_at: '2026-08-31T02:33:17.957802+00:00'

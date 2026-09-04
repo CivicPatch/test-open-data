@@ -19,8 +19,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:arlington
     start_date: '2026'
     end_date: '2024'
-    first_seen_at: '2026-08-29T02:11:13.895042+00:00'
-    last_seen_at: '2026-08-31T02:33:17.978189+00:00'
 - id: 816efeba-d84d-4fea-9fa9-d098767fd191
   name: Priya Xu
   other_names: []
@@ -41,8 +39,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:arlington
     start_date: 2022-01
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.895042+00:00'
-    last_seen_at: '2026-08-31T02:33:17.978189+00:00'
 - id: f778a513-79a0-46e3-9401-a9ac38b7c411
   name: Dae-ho Kowalczyk
   other_names: []
@@ -63,8 +59,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:arlington
     start_date: '2025'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.895042+00:00'
-    last_seen_at: '2026-08-31T02:33:17.978189+00:00'
 - id: d89d87ca-bd65-459b-8a5d-ea320a74f307
   name: Grigor Tanaka
   other_names: []
@@ -86,8 +80,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:arlington
     start_date: '2026'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.895042+00:00'
-    last_seen_at: '2026-08-31T02:33:17.978189+00:00'
 - id: 8e6d7e32-bd82-4127-b6f6-5bcae30acf4e
   name: Grigor Vasquez
   other_names: []
@@ -108,8 +100,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:arlington
     start_date: '2026'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.895042+00:00'
-    last_seen_at: '2026-08-31T02:33:17.978189+00:00'
 - id: 06584b2a-3f8c-4258-a007-6009ca5f416b
   name: Carmen Zielinski
   other_names: []
@@ -130,8 +120,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:arlington
     start_date: '2024-01-01'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.895042+00:00'
-    last_seen_at: '2026-08-31T02:33:17.978189+00:00'
 - id: bc3f3d49-8a53-4002-b716-4483b9cae441
   name: Eirik Ueda
   other_names: []
@@ -153,5 +141,3 @@
     division_ocdid: ocd-division/country:us/state:wa/place:arlington
     start_date: 2023-11
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.895042+00:00'
-    last_seen_at: '2026-08-31T02:33:17.978189+00:00'

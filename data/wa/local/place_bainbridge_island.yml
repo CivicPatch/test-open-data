@@ -19,8 +19,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bainbridge_island
     start_date: '2025'
     end_date: '2024'
-    first_seen_at: '2026-08-29T02:11:13.939218+00:00'
-    last_seen_at: '2026-08-31T02:33:18.009583+00:00'
 - id: 0b098200-a34d-4660-b18f-0891b2e2a01f
   name: Rosa Aguilar
   other_names: []
@@ -42,8 +40,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bainbridge_island
     start_date: '2024'
     end_date: 2022-01
-    first_seen_at: '2026-08-29T02:11:13.939218+00:00'
-    last_seen_at: '2026-08-31T02:33:18.009583+00:00'
 - id: 4af3aeb8-53d0-49f9-bbd8-7df9f66037a6
   name: Aoife Gallagher
   other_names: []
@@ -64,8 +60,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bainbridge_island
     start_date: '2024'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.939218+00:00'
-    last_seen_at: '2026-08-31T02:33:18.009583+00:00'
 - id: bd964fe4-69cf-46ed-8d69-7181337085da
   name: Hyun-woo Sørensen
   other_names: []
@@ -87,8 +81,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bainbridge_island
     start_date: '2026'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.939218+00:00'
-    last_seen_at: '2026-08-31T02:33:18.009583+00:00'
 - id: 734606e2-238e-486a-a167-d05dc04f0455
   name: Sanjay Eze
   other_names: []
@@ -110,8 +102,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bainbridge_island
     start_date: '2024'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.939218+00:00'
-    last_seen_at: '2026-08-31T02:33:18.009583+00:00'
 - id: 398faaf2-003c-4d51-b4c6-23b4092e9eec
   name: Zofia Mbeki
   other_names: []
@@ -133,8 +123,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bainbridge_island
     start_date: null
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.939218+00:00'
-    last_seen_at: '2026-08-31T02:33:18.009583+00:00'
 - id: 75bebebe-4ac5-472e-a001-6770ad24e67f
   name: Bo D'Amico
   other_names: []
@@ -156,8 +144,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bainbridge_island
     start_date: '2026'
     end_date: 2022-01
-    first_seen_at: '2026-08-29T02:11:13.939218+00:00'
-    last_seen_at: '2026-08-31T02:33:18.009583+00:00'
 - id: af140264-a19e-406a-939a-a960cb051ff5
   name: Jonas D'Amico
   other_names: []
@@ -178,5 +164,3 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bainbridge_island
     start_date: 2023-11
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.939218+00:00'
-    last_seen_at: '2026-08-31T02:33:18.009583+00:00'

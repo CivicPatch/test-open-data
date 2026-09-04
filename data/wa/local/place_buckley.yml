@@ -1,147 +1,184 @@
-- name: Amanda Burbank
+- id: ceb097e2-7cf1-4de8-afe9-41fa7786be58
+  name: Carolyn Robertson Harding
+  other_names: []
   phones:
-  - (206) 200-6128
+  - (360) 761-1111
+  emails:
+  - mayor@cityofbuckley.com
+  urls:
+  - https://www.cityofbuckley.com/m/directory/employee?eid=62
+  image: https://www.cityofbuckley.com/ImageRepository/Document?documentID=1416
+  cdn_image: ''
+  source_urls:
+  - https://www.cityofbuckley.com/m/Directory
+  updated_at: '2026-08-26T20:20:32+00:00'
+  roles:
+  - name: Mayor
+    role_id: mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:buckley/government
+    division_ocdid: ocd-division/country:us/state:wa/place:buckley
+    start_date: '2029'
+    end_date: null
+- id: 3640ea54-1ce5-4bd9-b990-b9c87d18718a
+  name: Amanda Burbank
+  other_names: []
+  phones:
+  - (360) 829-1921
   emails:
   - aburbank@cityofbuckley.com
   urls:
-  - https://www.cityofbuckley.com/directory.aspx?eid=27
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:buckley
+  - https://www.cityofbuckley.com/m/directory/employee?eid=27
   image: https://www.cityofbuckley.com/ImageRepository/Document?documentID=1140
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:buckley/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/buckley/images/ec72a5276dd26dabe029796dc0afb45a35efbf25d35bd8a256289f1d02c2c4da.jpg
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_buckley/images/bdae26f2eaad.png
   source_urls:
   - https://www.cityofbuckley.com/250/City-Council
-  - https://www.cityofbuckley.com/directory.aspx?eid=27
-  updated_at: '2025-06-25T02:24:32+00:00'
-  start_date: null
-  end_date: null
+  - https://www.cityofbuckley.com/m/Directory
+  - https://www.cityofbuckley.com/m/directory/department?did=13
+  - https://www.cityofbuckley.com/m/directory/employee?eid=27
+  updated_at: '2026-08-26T20:20:32+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:buckley/government
+    division_ocdid: ocd-division/country:us/state:wa/place:buckley
+    start_date: null
+    end_date: null
+- id: ff3f83ac-d0d2-4a3b-827b-dababbdf2633
+  name: Angelisa Mozzone
   other_names: []
-  id: 3640ea54-1ce5-4bd9-b990-b9c87d18718a
-- name: Brandon Green
   phones:
-  - (253) 389-6229
+  - (360) 829-1921
+  emails:
+  - amozzone@cityofbuckley.com
+  urls:
+  - https://www.cityofbuckley.com/m/directory/employee?eid=24
+  image: https://www.cityofbuckley.com/ImageRepository/Document?documentID=1558
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_buckley/images/c517294c2302.png
+  source_urls:
+  - https://www.cityofbuckley.com/250/City-Council
+  - https://www.cityofbuckley.com/m/Directory
+  - https://www.cityofbuckley.com/m/directory/department?did=13
+  updated_at: '2026-08-26T20:20:32+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:buckley/government
+    division_ocdid: ocd-division/country:us/state:wa/place:buckley
+    start_date: null
+    end_date: null
+- id: 82943a84-3cb9-4933-825c-6e700ecf4849
+  name: Brandon Green
+  other_names: []
+  phones:
+  - (360) 829-1921
   emails:
   - bgreen@cityofbuckley.com
   urls:
-  - https://www.cityofbuckley.com/directory.aspx?eid=29
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:buckley
+  - https://www.cityofbuckley.com/m/directory/employee?eid=29
   image: https://www.cityofbuckley.com/ImageRepository/Document?documentID=1136
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:buckley/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/buckley/images/f6bfb77c883e49972b39c6797cdbf1bf7a85cb66695ef2dadd72bdb13c82f8ae.jpg
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_buckley/images/db12480c8a22.png
   source_urls:
   - https://www.cityofbuckley.com/250/City-Council
-  - https://www.cityofbuckley.com/directory.aspx?eid=29
-  updated_at: '2025-06-25T02:24:32+00:00'
-  start_date: null
-  end_date: null
-  other_names: []
-  id: 82943a84-3cb9-4933-825c-6e700ecf4849
-- name: Connie Bender
-  phones:
-  - (360) 829-5184
-  emails:
-  - cbender@cityofbuckley.com
-  urls:
-  - https://www.cityofbuckley.com/directory.aspx?eid=24
-  office:
-    name: Council Member
+  - https://www.cityofbuckley.com/m/Directory
+  - https://www.cityofbuckley.com/m/directory/department?did=13
+  - https://www.cityofbuckley.com/m/directory/employee?eid=29
+  updated_at: '2026-08-26T20:20:32+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:buckley/government
     division_ocdid: ocd-division/country:us/state:wa/place:buckley
-  image: https://www.cityofbuckley.com/ImageRepository/Document?documentID=518
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:buckley/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/buckley/images/e62c5e77489be6c30a6f98d081c94ca45b9325a2cdcd8431933ddf36af295700.jpg
-  source_urls:
-  - https://www.cityofbuckley.com/250/City-Council
-  - https://www.cityofbuckley.com/directory.aspx?eid=24
-  updated_at: '2025-06-25T02:24:32+00:00'
-  start_date: null
-  end_date: '2021-12-31'
+    start_date: null
+    end_date: null
+- id: 313c72fa-66e4-4f7a-a913-a68224f3fb5e
+  name: Denice Bergerson
   other_names: []
-  id: a2247cde-73e8-4b54-8a53-7e8844518e4f
-- name: Denice Bergerson
   phones:
-  - (253) 632-9066
+  - (360) 829-1921
   emails:
   - dbergerson@cityofbuckley.com
   urls:
-  - https://www.cityofbuckley.com/directory.aspx?eid=28
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:buckley
+  - https://www.cityofbuckley.com/m/directory/employee?eid=28
   image: https://www.cityofbuckley.com/ImageRepository/Document?documentID=1134
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:buckley/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/buckley/images/632c63887603e37609483c8e3c74560556bf37a915561f2dcdb2ba087498f224.jpg
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_buckley/images/c93e3a3b9af9.png
   source_urls:
   - https://www.cityofbuckley.com/250/City-Council
-  - https://www.cityofbuckley.com/directory.aspx?eid=28
-  updated_at: '2025-06-25T02:24:32+00:00'
-  start_date: null
-  end_date: null
+  - https://www.cityofbuckley.com/m/Directory
+  - https://www.cityofbuckley.com/m/directory/department?did=13
+  updated_at: '2026-08-26T20:20:32+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:buckley/government
+    division_ocdid: ocd-division/country:us/state:wa/place:buckley
+    start_date: null
+    end_date: null
+- id: 9457a567-b16f-40ab-8c2d-d98a6960156d
+  name: Kenny Arsanto
   other_names: []
-  id: 313c72fa-66e4-4f7a-a913-a68224f3fb5e
-- name: Kenny Arsanto
   phones:
-  - (253) 377-3729
+  - (360) 829-1921
   emails:
   - karsanto@cityofbuckley.com
   urls:
-  - https://www.cityofbuckley.com/directory.aspx?eid=26
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:buckley
+  - https://www.cityofbuckley.com/m/directory/employee?eid=26
   image: https://www.cityofbuckley.com/ImageRepository/Document?documentID=1142
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:buckley/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/buckley/images/750c81c02a47822a4f49a632a0f70dfe1bb8739987aa86766deeaab052766168.jpg
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_buckley/images/d959825dfb68.png
   source_urls:
   - https://www.cityofbuckley.com/250/City-Council
-  - https://www.cityofbuckley.com/directory.aspx?eid=26
-  updated_at: '2025-06-25T02:24:32+00:00'
-  start_date: null
-  end_date: null
-  other_names: []
-  id: 9457a567-b16f-40ab-8c2d-d98a6960156d
-- name: Mackenzie Anderson
-  phones:
-  - (253) 377-6609
-  emails:
-  - mbreeden@cityofbuckley.com
-  urls:
-  - https://www.cityofbuckley.com/directory.aspx?eid=25
-  office:
-    name: Council Member
+  - https://www.cityofbuckley.com/m/Directory
+  - https://www.cityofbuckley.com/m/directory/department?did=13
+  updated_at: '2026-08-26T20:20:32+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:buckley/government
     division_ocdid: ocd-division/country:us/state:wa/place:buckley
-  image: https://www.cityofbuckley.com/ImageRepository/Document?documentID=1133
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:buckley/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/buckley/images/78e5499d6714e4da408171fe5373a10d237c2ecbbeb5a8b3fb534db3234c36c2.jpg
+    start_date: null
+    end_date: null
+- id: ad962654-866f-4eeb-89d6-78a8dc2c4aef
+  name: Robert Wohlfeil
+  other_names: []
+  phones:
+  - (360) 829-1921
+  emails:
+  - rwohlfeil@cityofbuckley.com
+  urls:
+  - https://www.cityofbuckley.com/m/directory/employee?eid=63
+  image: https://www.cityofbuckley.com/ImageRepository/Document?documentID=1463
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_buckley/images/7a155c1fe261.png
   source_urls:
   - https://www.cityofbuckley.com/250/City-Council
-  - https://www.cityofbuckley.com/directory.aspx?eid=25
-  updated_at: '2025-06-25T02:24:32+00:00'
-  start_date: '2025-06-25'
-  end_date: null
+  - https://www.cityofbuckley.com/m/Directory
+  - https://www.cityofbuckley.com/m/directory/department?did=13
+  updated_at: '2026-08-26T20:20:32+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:buckley/government
+    division_ocdid: ocd-division/country:us/state:wa/place:buckley
+    start_date: null
+    end_date: null
+- id: cbfdf64a-faf8-4a45-a41f-a5d8cf4c4504
+  name: Ron Smith
   other_names: []
-  id: 23a344c9-af31-43d1-93c6-3eebbe99a5f6
-- name: Ron Smith
   phones:
-  - (206) 786-5456
+  - (360) 829-1921
   emails:
   - rsmith@cityofbuckley.com
   urls:
-  - https://www.cityofbuckley.com/directory.aspx?eid=23
-  office:
-    name: Council Member
-    division_ocdid: ocd-division/country:us/state:wa/place:buckley
+  - https://www.cityofbuckley.com/m/directory/employee?eid=23
   image: https://www.cityofbuckley.com/ImageRepository/Document?documentID=519
-  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:buckley/government
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/buckley/images/6167a263d22cf69ff05679c66a06717842a3e7f6be60cd601c95e91668ded585.jpg
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_buckley/images/7cdbcbead85a.png
   source_urls:
   - https://www.cityofbuckley.com/250/City-Council
-  - https://www.cityofbuckley.com/directory.aspx?eid=23
-  updated_at: '2025-06-25T02:24:32+00:00'
-  start_date: null
-  end_date: '2021-12-31'
-  other_names: []
-  id: cbfdf64a-faf8-4a45-a41f-a5d8cf4c4504
+  - https://www.cityofbuckley.com/m/Directory
+  - https://www.cityofbuckley.com/m/directory/department?did=13
+  updated_at: '2026-08-26T20:20:32+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:buckley/government
+    division_ocdid: ocd-division/country:us/state:wa/place:buckley
+    start_date: null
+    end_date: null

@@ -19,8 +19,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bremerton
     start_date: null
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.092608+00:00'
-    last_seen_at: '2026-08-31T02:33:18.128402+00:00'
 - id: 252f69ae-e9a2-4a91-b2b7-eb9bb9244918
   name: Lucia Zielinski
   other_names: []
@@ -42,8 +40,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bremerton
     start_date: 2022-01
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.092608+00:00'
-    last_seen_at: '2026-08-31T02:33:18.128402+00:00'
 - id: 5fa42dac-9b8c-40d8-b016-bea17beec8a1
   name: Tomasz Vasquez
   other_names: []
@@ -65,8 +61,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bremerton
     start_date: 2022-01
     end_date: '2026'
-    first_seen_at: '2026-08-29T02:11:14.092608+00:00'
-    last_seen_at: '2026-08-31T02:33:18.128402+00:00'
 - id: 69897f1f-68f5-4cdb-82b8-d8f873b54bac
   name: Sanjay Nakamura
   other_names: []
@@ -88,8 +82,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bremerton/ward:2
     start_date: '2026'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.092608+00:00'
-    last_seen_at: '2026-08-31T02:33:18.128402+00:00'
 - id: e42f487f-8522-4627-bcda-6c5da4dcfce1
   name: Ada Sørensen
   other_names: []
@@ -109,8 +101,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bremerton
     start_date: null
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.092608+00:00'
-    last_seen_at: '2026-08-31T02:33:18.128402+00:00'
 - id: 850f55fe-2f98-4392-8303-0c0b3b39f666
   name: Viktor Fontaine
   other_names: []
@@ -132,5 +122,3 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bremerton
     start_date: '2025'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.092608+00:00'
-    last_seen_at: '2026-08-31T02:33:18.128402+00:00'

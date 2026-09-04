@@ -19,8 +19,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:camas
     start_date: '2025'
     end_date: 2023-11
-    first_seen_at: '2026-08-29T02:11:14.178757+00:00'
-    last_seen_at: '2026-08-31T02:33:18.199757+00:00'
 - id: dae7493b-f4b9-449a-9ca2-b4fe62fec273
   name: Tomasz Jankowski
   other_names: []
@@ -41,8 +39,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:camas
     start_date: '2024'
     end_date: 2023-11
-    first_seen_at: '2026-08-29T02:11:14.178757+00:00'
-    last_seen_at: '2026-08-31T02:33:18.199757+00:00'
 - id: f4ee0a2d-bf2d-48e3-a1db-59dd48281aff
   name: Priya Chen
   other_names: []
@@ -64,8 +60,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:camas
     start_date: '2024-01-01'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.178757+00:00'
-    last_seen_at: '2026-08-31T02:33:18.199757+00:00'
 - id: c25cc29a-ab29-42e6-aac4-6fc0b97236b8
   name: Bo Ueda
   other_names: []
@@ -87,8 +81,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:camas
     start_date: 2023-11
     end_date: '2025'
-    first_seen_at: '2026-08-29T02:11:14.178757+00:00'
-    last_seen_at: '2026-08-31T02:33:18.199757+00:00'
 - id: e4852329-00b7-434f-8d72-0d438bef4d25
   name: Farida Bergström
   other_names: []
@@ -110,5 +102,3 @@
     division_ocdid: ocd-division/country:us/state:wa/place:camas
     start_date: 2023-11
     end_date: 2023-11
-    first_seen_at: '2026-08-29T02:11:14.178757+00:00'
-    last_seen_at: '2026-08-31T02:33:18.199757+00:00'

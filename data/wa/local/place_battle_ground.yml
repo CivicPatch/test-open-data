@@ -19,8 +19,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:battle_ground
     start_date: null
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.959267+00:00'
-    last_seen_at: '2026-08-31T02:33:18.024815+00:00'
 - id: f528e858-2c76-4250-8dc5-af72dcb57214
   name: Giulia O'Brien
   other_names: []
@@ -41,8 +39,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:battle_ground
     start_date: null
     end_date: '2024-01-01'
-    first_seen_at: '2026-08-29T02:11:13.959267+00:00'
-    last_seen_at: '2026-08-31T02:33:18.024815+00:00'
 - id: e39c55e3-c304-4d37-a35e-c1ed36218a04
   name: Ines Okonkwo
   other_names: []
@@ -63,8 +59,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:battle_ground
     start_date: '2024'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.959267+00:00'
-    last_seen_at: '2026-08-31T02:33:18.024815+00:00'
 - id: 11f2c0a1-9237-4b3f-8b7f-c93c14b5403f
   name: Yusuf Xu
   other_names: []
@@ -85,8 +79,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:battle_ground
     start_date: '2024'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.959267+00:00'
-    last_seen_at: '2026-08-31T02:33:18.024815+00:00'
 - id: 70f381ee-1fde-4ba1-b5e6-239a0d748914
   name: Farida Aguilar
   other_names: []
@@ -108,8 +100,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:battle_ground
     start_date: 2023-11
     end_date: '2026'
-    first_seen_at: '2026-08-29T02:11:13.959267+00:00'
-    last_seen_at: '2026-08-31T02:33:18.024815+00:00'
 - id: 7ecb871e-61c1-44af-bd76-fd9208b863f6
   name: Priya Petrov
   other_names: []
@@ -129,8 +119,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:battle_ground
     start_date: null
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.959267+00:00'
-    last_seen_at: '2026-08-31T02:33:18.024815+00:00'
 - id: 8f649b90-802a-430f-8942-45bb1e362712
   name: Nadia Petrov
   other_names: []
@@ -152,5 +140,3 @@
     division_ocdid: ocd-division/country:us/state:wa/place:battle_ground
     start_date: null
     end_date: '2024'
-    first_seen_at: '2026-08-29T02:11:13.959267+00:00'
-    last_seen_at: '2026-08-31T02:33:18.024815+00:00'

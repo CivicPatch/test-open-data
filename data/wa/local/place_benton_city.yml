@@ -20,8 +20,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:benton_city
     start_date: 2022-01
     end_date: 2023-11
-    first_seen_at: '2026-08-29T02:11:14.010856+00:00'
-    last_seen_at: '2026-08-31T02:33:18.064157+00:00'
 - id: 64c31f30-b76f-4873-a3f5-03da02070a78
   name: Camille Ferreira
   other_names: []
@@ -42,8 +40,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:benton_city
     start_date: '2026'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.010856+00:00'
-    last_seen_at: '2026-08-31T02:33:18.064157+00:00'
 - id: 71cf5ffc-1112-431b-bcf5-5a7debf73119
   name: Camille Aguilar
   other_names: []
@@ -65,8 +61,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:benton_city
     start_date: '2024'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.010856+00:00'
-    last_seen_at: '2026-08-31T02:33:18.064157+00:00'
 - id: 6508f41e-0f6a-43b8-8485-5553c563a20c
   name: Carmen Nakamura
   other_names: []
@@ -88,8 +82,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:benton_city/ward:4
     start_date: 2022-01
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.010856+00:00'
-    last_seen_at: '2026-08-31T02:33:18.064157+00:00'
 - id: 246107a1-451d-46bd-8c55-dfd1e9fed127
   name: Jonas Eze
   other_names: []
@@ -111,5 +103,3 @@
     division_ocdid: ocd-division/country:us/state:wa/place:benton_city
     start_date: '2025'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.010856+00:00'
-    last_seen_at: '2026-08-31T02:33:18.064157+00:00'

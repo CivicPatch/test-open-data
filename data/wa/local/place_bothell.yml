@@ -19,8 +19,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bothell
     start_date: null
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.076219+00:00'
-    last_seen_at: '2026-08-31T02:33:18.115961+00:00'
 - id: 1a0abd2e-d180-436c-9dab-40f91122d784
   name: Nadia Chen
   other_names: []
@@ -42,8 +40,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bothell
     start_date: '2026'
     end_date: '2024-01-01'
-    first_seen_at: '2026-08-29T02:11:14.076219+00:00'
-    last_seen_at: '2026-08-31T02:33:18.115961+00:00'
 - id: 1d43c44a-44c3-4601-8f24-1ad1f7c9c4cd
   name: Giulia Quintero
   other_names: []
@@ -65,8 +61,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bothell
     start_date: '2024'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.076219+00:00'
-    last_seen_at: '2026-08-31T02:33:18.115961+00:00'
 - id: f28ba96c-17a8-4854-a10f-130aec2827e1
   name: Rosa Gallagher
   other_names: []
@@ -87,5 +81,3 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bothell
     start_date: null
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.076219+00:00'
-    last_seen_at: '2026-08-31T02:33:18.115961+00:00'

@@ -1,0 +1,160 @@
+- id: 1decd498-da44-4399-a5d8-39b332abe0df
+  name: Brad Sweet
+  other_names: []
+  phones:
+  - (509) 725-4352
+  emails: []
+  urls:
+  - https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=10E187B2-2880-4DA3-9A55-CDE959EE113C&Type=B_DIR
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR
+  updated_at: '2026-05-25T19:17:09+00:00'
+  roles:
+  - name: Mayor
+    role_id: mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:davenport/government
+    division_ocdid: ocd-division/country:us/state:wa/place:davenport
+    start_date: null
+    end_date: null
+- id: 59defc45-6c9e-4bf3-9a22-2ec45d18b2a1
+  name: Mike Strite
+  other_names: []
+  phones:
+  - (509) 725-4352
+  emails: []
+  urls:
+  - https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=650C0FDF-6762-4B89-90B4-347C4C3127CD&Type=B_DIR
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR
+  updated_at: '2026-05-25T19:17:09+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:davenport/government
+    division_ocdid: ocd-division/country:us/state:wa/place:davenport
+    start_date: null
+    end_date: null
+- id: 48db44ba-15fc-4c4a-aac7-79e7c9f96999
+  name: Michael Wilkinson
+  other_names: []
+  phones:
+  - (509) 725-4352
+  emails: []
+  urls:
+  - https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=4EEB3B40-BA46-425F-B0B7-63B0FC35FE16&Type=B_DIR
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR
+  updated_at: '2026-05-25T19:17:09+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:davenport/government
+    division_ocdid: ocd-division/country:us/state:wa/place:davenport
+    start_date: null
+    end_date: null
+- id: f3811e4a-3d23-4757-8946-758b90bdad90
+  name: Lance Strite
+  other_names: []
+  phones:
+  - (509) 725-4352
+  emails: []
+  urls:
+  - https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=7405F810-4D6A-46AE-BEE7-4A94FC2440B5&Type=B_DIR
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR
+  updated_at: '2026-05-25T19:17:09+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:davenport/government
+    division_ocdid: ocd-division/country:us/state:wa/place:davenport
+    start_date: null
+    end_date: null
+- id: 160b6838-8a45-43fe-9f34-6814a1c765a7
+  name: Chris Stein
+  other_names: []
+  phones:
+  - (509) 725-4352
+  emails: []
+  urls:
+  - https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=77B4ADA7-1131-44CF-B4F9-34435643538C&Type=B_DIR
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR
+  updated_at: '2026-05-25T19:17:09+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:davenport/government
+    division_ocdid: ocd-division/country:us/state:wa/place:davenport
+    start_date: null
+    end_date: null
+- id: 07958950-3282-4950-9a3b-6a802d87967d
+  name: Heath Becker
+  other_names: []
+  phones:
+  - (509) 725-4352
+  emails: []
+  urls:
+  - https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=26ADDBCE-23EA-475A-A86A-1B64741FEB4B&Type=B_DIR
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR
+  updated_at: '2026-05-25T19:17:09+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:davenport/government
+    division_ocdid: ocd-division/country:us/state:wa/place:davenport
+    start_date: null
+    end_date: null
+- id: 1f5a035c-15f5-4cda-aa15-fe65ed5591d0
+  name: Cory Hollis
+  other_names: []
+  phones:
+  - (509) 725-4352
+  emails: []
+  urls:
+  - https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=4AF1B45B-81CB-4EEE-8DC7-3C6BDB98EAAD&Type=B_DIR
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR
+  updated_at: '2026-05-25T19:17:09+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:davenport/government
+    division_ocdid: ocd-division/country:us/state:wa/place:davenport
+    start_date: null
+    end_date: null
+- id: 1e133c92-ac14-4459-b705-d4d37d985a39
+  name: Patrick Katz
+  other_names: []
+  phones:
+  - (509) 725-4352
+  emails: []
+  urls:
+  - https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&DE=F8D91985-C8C3-4AA0-A336-F2CE43D6770B&Type=B_DIR
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://www.davenportwa.us/index.asp?SEC=A2951C48-519E-4AAC-A2C8-4E8E24C4010C&Type=B_DIR
+  updated_at: '2026-05-25T19:17:09+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:davenport/government
+    division_ocdid: ocd-division/country:us/state:wa/place:davenport
+    start_date: null
+    end_date: null

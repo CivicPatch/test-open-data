@@ -19,8 +19,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:auburn
     start_date: '2024'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.917292+00:00'
-    last_seen_at: '2026-08-31T02:33:17.994169+00:00'
 - id: 83e24e9d-349d-408b-8688-1e299735b084
   name: Björn Rasmussen
   other_names: []
@@ -41,8 +39,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:auburn
     start_date: 2022-01
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.917292+00:00'
-    last_seen_at: '2026-08-31T02:33:17.994169+00:00'
 - id: b5d3babe-2070-4b02-b85f-81e3e07f99ad
   name: Yusuf Gallagher
   other_names: []
@@ -64,8 +60,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:auburn
     start_date: '2025'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.917292+00:00'
-    last_seen_at: '2026-08-31T02:33:17.994169+00:00'
 - id: 8cb51870-069a-4e28-9a7e-f7cee4177355
   name: Grigor Rasmussen
   other_names: []
@@ -86,8 +80,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:auburn
     start_date: '2024'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.917292+00:00'
-    last_seen_at: '2026-08-31T02:33:17.994169+00:00'
 - id: 93ddf5d6-6168-42da-8863-996ccd9225c5
   name: Nadia Kowalczyk
   other_names: []
@@ -108,8 +100,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:auburn
     start_date: '2024'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.917292+00:00'
-    last_seen_at: '2026-08-31T02:33:17.994169+00:00'
 - id: b2ebe579-d78a-43a5-a23c-93f5382a0c9b
   name: Carmen Sørensen
   other_names: []
@@ -131,8 +121,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:auburn
     start_date: 2023-11
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.917292+00:00'
-    last_seen_at: '2026-08-31T02:33:17.994169+00:00'
 - id: 2c97334f-cc63-476e-8943-38f5dd90d611
   name: Sanjay Kowalczyk
   other_names: []
@@ -152,5 +140,3 @@
     division_ocdid: ocd-division/country:us/state:wa/place:auburn
     start_date: '2024-01-01'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:13.917292+00:00'
-    last_seen_at: '2026-08-31T02:33:17.994169+00:00'

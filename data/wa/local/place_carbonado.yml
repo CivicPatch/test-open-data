@@ -19,8 +19,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:carbonado
     start_date: '2025'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.193684+00:00'
-    last_seen_at: '2026-08-31T02:33:18.213031+00:00'
 - id: a4aaa845-4509-40ed-acca-32499f2cdc2d
   name: Jonas D'Amico
   other_names: []
@@ -41,8 +39,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:carbonado
     start_date: '2024-01-01'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.193684+00:00'
-    last_seen_at: '2026-08-31T02:33:18.213031+00:00'
 - id: 73da07e0-7805-4477-a30b-1b02219077c1
   name: Grigor Jankowski
   other_names: []
@@ -64,8 +60,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:carbonado/ward:1
     start_date: 2022-01
     end_date: '2025'
-    first_seen_at: '2026-08-29T02:11:14.193684+00:00'
-    last_seen_at: '2026-08-31T02:33:18.213031+00:00'
 - id: 12a40923-ad26-4f6b-9527-4cc1272e3454
   name: Tobias Lindqvist
   other_names: []
@@ -86,8 +80,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:carbonado/ward:5
     start_date: '2024'
     end_date: '2027-12-31'
-    first_seen_at: '2026-08-31T02:33:18.213031+00:00'
-    last_seen_at: '2026-08-31T02:33:18.213031+00:00'
 - id: 6b3faad3-5838-4c26-971d-2bc512035711
   name: Lucia Jankowski
   other_names: []
@@ -108,8 +100,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:carbonado/ward:7
     start_date: 2022-01
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.193684+00:00'
-    last_seen_at: '2026-08-31T02:33:18.213031+00:00'
 - id: ec5d5038-7b15-408d-85d8-7f1b36cc712e
   name: Fatima Zielinski
   other_names: []
@@ -131,8 +121,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:carbonado/ward:8
     start_date: '2025'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.193684+00:00'
-    last_seen_at: '2026-08-31T02:33:18.213031+00:00'
 - id: e9496940-d5c0-4719-a07b-5363f3b9c7d5
   name: Carmen Ueda
   other_names: []
@@ -154,8 +142,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:carbonado
     start_date: '2026'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.193684+00:00'
-    last_seen_at: '2026-08-31T02:33:18.213031+00:00'
 - id: 0f03f9a0-588d-44f2-8ac6-ab5682cb4725
   name: Quentin Whitfield
   other_names: []
@@ -177,8 +163,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:carbonado
     start_date: null
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.193684+00:00'
-    last_seen_at: '2026-08-31T02:33:18.213031+00:00'
 - id: 119d2c7c-cbf1-43ca-9122-cc7ac7a3a406
   name: Rosalind Achebe
   other_names: []
@@ -199,8 +183,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:carbonado
     start_date: 2025-01
     end_date: null
-    first_seen_at: '2026-08-31T02:33:18.213031+00:00'
-    last_seen_at: '2026-08-31T02:33:18.213031+00:00'
 - id: db80bec6-f0b1-4238-b420-ae94069b3d1b
   name: Fatima Kowalczyk
   other_names: []
@@ -222,8 +204,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:carbonado
     start_date: '2024'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.193684+00:00'
-    last_seen_at: '2026-08-31T02:33:18.213031+00:00'
 - id: 1236c160-ffc1-40f8-876c-a0e110424ef7
   name: Jonas Petrov
   other_names: []
@@ -245,5 +225,3 @@
     division_ocdid: ocd-division/country:us/state:wa/place:carbonado
     start_date: '2024-01-01'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.193684+00:00'
-    last_seen_at: '2026-08-31T02:33:18.213031+00:00'

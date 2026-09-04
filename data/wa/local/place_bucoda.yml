@@ -19,8 +19,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bucoda
     start_date: 2022-01
     end_date: 2023-11
-    first_seen_at: '2026-08-29T02:11:14.144267+00:00'
-    last_seen_at: '2026-08-31T02:33:18.1738+00:00'
 - id: adab077c-3d2e-498b-8f56-a75c7e49eac3
   name: Tomasz Kowalczyk
   other_names: []
@@ -42,8 +40,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bucoda
     start_date: 2023-11
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.144267+00:00'
-    last_seen_at: '2026-08-31T02:33:18.1738+00:00'
 - id: 36186d1d-52f7-41f1-95ae-4f2bc2312d3e
   name: Jonas Jankowski
   other_names: []
@@ -65,8 +61,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bucoda
     start_date: '2026'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.144267+00:00'
-    last_seen_at: '2026-08-31T02:33:18.1738+00:00'
 - id: 9b7a8ec8-bea3-41ce-897d-0f3b6ebd2ff5
   name: Tomasz Aguilar
   other_names: []
@@ -87,8 +81,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bucoda/ward:5
     start_date: 2023-11
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.144267+00:00'
-    last_seen_at: '2026-08-31T02:33:18.1738+00:00'
 - id: 176baeba-ef0d-4693-bc08-aeb9b66a09fd
   name: Sanjay Sørensen
   other_names: []
@@ -109,8 +101,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bucoda/ward:6
     start_date: null
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.144267+00:00'
-    last_seen_at: '2026-08-31T02:33:18.1738+00:00'
 - id: 85abc22b-3482-4278-9019-1c9320fc8591
   name: Esperanza Nakamura
   other_names: []
@@ -132,8 +122,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bucoda
     start_date: '2024-01-01'
     end_date: '2024'
-    first_seen_at: '2026-08-29T02:11:14.144267+00:00'
-    last_seen_at: '2026-08-31T02:33:18.1738+00:00'
 - id: 7e2636d2-428d-4b4f-810f-ac7531464538
   name: Yusuf Nakamura
   other_names: []
@@ -154,8 +142,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bucoda
     start_date: null
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.144267+00:00'
-    last_seen_at: '2026-08-31T02:33:18.1738+00:00'
 - id: f16aadaa-3013-4fd1-a468-a993eb1652ec
   name: Eirik Ueda
   other_names: []
@@ -177,5 +163,3 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bucoda
     start_date: '2025'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.144267+00:00'
-    last_seen_at: '2026-08-31T02:33:18.1738+00:00'

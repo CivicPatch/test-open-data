@@ -19,8 +19,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bridgeport
     start_date: 2022-01
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.117596+00:00'
-    last_seen_at: '2026-08-31T02:33:18.149178+00:00'
 - id: d0ed8b3d-da4d-45c1-83e4-06f0874f79e6
   name: Viktor Whitfield
   other_names: []
@@ -41,8 +39,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bridgeport
     start_date: '2024'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.117596+00:00'
-    last_seen_at: '2026-08-31T02:33:18.149178+00:00'
 - id: 955c964b-fc2d-41c6-bb7b-12e77d7890d9
   name: Yusuf Ferreira
   other_names: []
@@ -64,8 +60,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bridgeport
     start_date: '2024'
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.117596+00:00'
-    last_seen_at: '2026-08-31T02:33:18.149178+00:00'
 - id: ff9d206f-c63d-41f0-bea1-fe987b70cc50
   name: Giulia D'Amico
   other_names: []
@@ -87,5 +81,3 @@
     division_ocdid: ocd-division/country:us/state:wa/place:bridgeport
     start_date: 2022-01
     end_date: null
-    first_seen_at: '2026-08-29T02:11:14.117596+00:00'
-    last_seen_at: '2026-08-31T02:33:18.149178+00:00'
