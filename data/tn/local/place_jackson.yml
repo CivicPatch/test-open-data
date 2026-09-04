@@ -1,0 +1,85 @@
+- id: 1d54d063-d724-43b8-9e92-3f197ef9fcdc
+  name: Scott Conger
+  other_names: []
+  phones:
+  - (731) 425-8240
+  emails:
+  - sconger@jacksontn.gov
+  urls:
+  - https://www.jacksontn.gov/government/mayorsoffice/aboutmayorconger/
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://www.jacksontn.gov/government/mayorsoffice/aboutmayorconger
+  - https://www.jacksontn.gov/government/mayorsoffice/staffdirectory
+  updated_at: '2026-05-25T17:10:37+00:00'
+  roles:
+  - name: Mayor
+    role_id: mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:tn/place:jackson/government
+    division_ocdid: ocd-division/country:us/state:tn/place:jackson
+    start_date: '2019-07-01'
+    end_date: null
+- id: a53983f3-9f1a-4f1b-9654-0b03cc8e1d97
+  name: Candice Busby
+  other_names: []
+  phones:
+  - (731) 343-3906
+  emails:
+  - candicebusby@jacksontn.gov
+  urls:
+  - https://www.jacksontn.gov/government/citycouncil/meetthecouncil/district3_busby/
+  image: https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_16361603/Image/Departments/City%20Council/Council%20Member%20Photos/Candace%20Busby.jpg
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/6acd07cd-a0dc-4c02-abb4-c2adc59ec4d5/data_source/tn/local/place_jackson/images/ee6d85042b6d.png
+  source_urls:
+  - https://www.jacksontn.gov/government/citycouncil/meetthecouncil/district3_busby
+  updated_at: '2026-05-25T17:10:37+00:00'
+  roles:
+  - name: Council Member, District 3
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:tn/place:jackson/government
+    division_ocdid: ocd-division/country:us/state:tn/place:jackson/council_district:3
+    start_date: null
+    end_date: null
+- id: fd4a0b8f-2780-4335-b957-8af84637a98d
+  name: J. P. Stovall
+  other_names: []
+  phones:
+  - (731) 425-8253
+  emails:
+  - jpstovall@jacksontn.gov
+  urls:
+  - https://www.jacksontn.gov/government/citycouncil/meetthecouncil/District1_Stovall/
+  image: https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_16361603/Image/Departments/City%20Council/Council%20Member%20Photos/JPStovall.jpg
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/6acd07cd-a0dc-4c02-abb4-c2adc59ec4d5/data_source/tn/local/place_jackson/images/637aafd3eea7.png
+  source_urls:
+  - https://www.jacksontn.gov/government/citycouncil/meetthecouncil/District1_Stovall
+  updated_at: '2026-05-25T17:10:37+00:00'
+  roles:
+  - name: Council Member, District 1
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:tn/place:jackson/government
+    division_ocdid: ocd-division/country:us/state:tn/place:jackson/council_district:1
+    start_date: 2023-05
+    end_date: null
+- id: 8829647b-7b62-437e-9486-366e9052c2d1
+  name: Richard Donnell
+  other_names: []
+  phones:
+  - (731) 571-5649
+  emails:
+  - richarddonnell@jacksontn.gov
+  urls:
+  - https://www.jacksontn.gov/government/citycouncil/meetthecouncil/District4_Donnell/
+  image: https://cdnsm5-hosted.civiclive.com/UserFiles/Servers/Server_16361603/Image/Departments/City%20Council/Council%20Member%20Photos/Richard%20Donnell.jpg
+  cdn_image: https://civicpatch-artifacts.civicpatch.org/6acd07cd-a0dc-4c02-abb4-c2adc59ec4d5/data_source/tn/local/place_jackson/images/34d0dfa47115.png
+  source_urls:
+  - https://www.jacksontn.gov/government/citycouncil/meetthecouncil/District4_Donnell
+  updated_at: '2026-05-25T17:10:37+00:00'
+  roles:
+  - name: Council Member, District 4
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:tn/place:jackson/government
+    division_ocdid: ocd-division/country:us/state:tn/place:jackson/council_district:4
+    start_date: 2023-05
+    end_date: null
