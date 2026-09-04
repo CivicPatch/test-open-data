@@ -1,0 +1,17 @@
+- id: f71165d5-37c9-461c-b710-b72a3d522c3e
+  name: Random Person
+  other_names: []
+  phones: []
+  emails: []
+  urls: []
+  image: null
+  cdn_image: null
+  source_urls: []
+  updated_at: '2026-07-31T18:27:09+00:00'
+  roles:
+  - name: Mayor
+    role_id: mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:nc/place:ahoskie/government
+    division_ocdid: ocd-division/country:us/state:nc/place:ahoskie
+    start_date: null
+    end_date: null
