@@ -21,8 +21,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:seattle
     start_date: null
     end_date: null
-    first_seen_at: '2026-08-24T16:59:06.259787+00:00'
-    last_seen_at: '2026-09-03T01:00:54.106043+00:00'
 - id: bedd6a23-e078-4eac-9bbb-6cf1355ac0cf
   name: Joy Hollingsworth
   other_names: []
@@ -50,8 +48,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:seattle/council_district:3
     start_date: 2024-01
     end_date: 2027-12
-    first_seen_at: '2026-04-28T04:03:03+00:00'
-    last_seen_at: '2026-09-03T01:00:54.106043+00:00'
 - id: 0ae9e2a1-58a9-4003-95bf-144eeb2a18c7
   name: Rob Saka
   other_names: []
@@ -77,8 +73,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:seattle/council_district:1
     start_date: null
     end_date: null
-    first_seen_at: '2026-04-28T04:03:03+00:00'
-    last_seen_at: '2026-09-03T01:00:54.106043+00:00'
 - id: e8805823-9084-4ae9-b479-c88f167a36b6
   name: Eddie Lin
   other_names: []
@@ -104,8 +98,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:seattle/council_district:2
     start_date: 2025-11
     end_date: '2027'
-    first_seen_at: '2026-04-28T04:03:03+00:00'
-    last_seen_at: '2026-09-03T01:00:54.106043+00:00'
 - id: f6950dea-05b3-435e-91d7-b69353ac3113
   name: Maritza Rivera
   other_names: []
@@ -132,8 +124,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:seattle/council_district:4
     start_date: 2024-01
     end_date: 2027-12
-    first_seen_at: '2026-04-28T04:03:03+00:00'
-    last_seen_at: '2026-09-03T01:00:54.106043+00:00'
 - id: 115ba33c-930d-4e88-a817-6be801b2b1d1
   name: Debora Juarez
   other_names: []
@@ -159,8 +149,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:seattle/council_district:5
     start_date: null
     end_date: null
-    first_seen_at: '2026-04-28T04:03:03+00:00'
-    last_seen_at: '2026-09-03T01:00:54.106043+00:00'
 - id: 585f649c-2e6c-4404-9af8-0a4daacb1086
   name: Dan Strauss
   other_names: []
@@ -185,8 +173,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:seattle/council_district:6
     start_date: null
     end_date: null
-    first_seen_at: '2026-04-28T04:03:03+00:00'
-    last_seen_at: '2026-09-03T01:00:54.106043+00:00'
 - id: aedb8cf3-140d-4435-9db1-e3aa09a5d364
   name: Bob Kettle
   other_names:
@@ -213,8 +199,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:seattle/council_district:7
     start_date: null
     end_date: null
-    first_seen_at: '2026-04-28T04:03:03+00:00'
-    last_seen_at: '2026-09-03T01:00:54.106043+00:00'
 - id: 96c3786c-6e5e-40e8-9e6c-b94857e387c9
   name: Alexis Mercedes Rinck
   other_names: []
@@ -223,7 +207,7 @@
   - (206) 684-8888
   emails:
   - alexismercedes.rinck@seattle.gov
-  - council-4@seattle.gov
+  - council-8@seattle.gov
   urls:
   - https://www.seattle.gov/council/members/alexis-mercedes-rinck
   image: https://www.seattle.gov/images//images/Council/Citywide%20Circle%20Headshots/council_rinck_154x154.jpg
@@ -231,7 +215,7 @@
   source_urls:
   - https://www.seattle.gov/council
   - https://www.seattle.gov/council/members
-  updated_at: '2026-08-24T16:59:06+00:00'
+  updated_at: '2026-09-04T15:29:02+00:00'
   roles:
   - name: Council Member
     role_id: council-member
@@ -239,8 +223,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:seattle
     start_date: null
     end_date: null
-    first_seen_at: '2026-04-28T04:03:03+00:00'
-    last_seen_at: '2026-09-03T01:00:54.106043+00:00'
 - id: a8696c8e-09ed-4593-8144-87844cf4ca1c
   name: Dionne Foster
   other_names: []
@@ -265,5 +247,3 @@
     division_ocdid: ocd-division/country:us/state:wa/place:seattle
     start_date: null
     end_date: null
-    first_seen_at: '2026-04-28T04:03:03+00:00'
-    last_seen_at: '2026-09-03T01:00:54.106043+00:00'
