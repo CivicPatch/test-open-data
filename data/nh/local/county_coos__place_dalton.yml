@@ -1,22 +1,23 @@
-- id: 3eaacb78-3334-4e93-acea-ef4d5bfe6f03
-  name: Jo Beth Dudley
+- id: 062cde33-805d-4949-a5f4-9859fa5ce151
+  name: Warren Green
   other_names: []
-  phones: []
+  phones:
+  - (603) 555-0142
   emails: []
   urls:
   - https://townofdaltonnh.gov/select-board/
   image: ''
   cdn_image: ''
   source_urls:
-  - https://townofdaltonnh.gov/select-board/
-  updated_at: '2026-06-04T03:43:38+00:00'
+  - https://docs.google.com/spreadsheets/d/11xjGyzgOJAZX2bT5Ed61gHdXS8_atLuomzOKHxv2xr4
+  updated_at: '2026-09-05T15:08:59+00:00'
   roles:
   - name: Chair
     role_id: chair
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:nh/county:coos/place:dalton/government
     division_ocdid: ocd-division/country:us/state:nh/county:coos/place:dalton
-    start_date: null
-    end_date: 2028-03
+    start_date: '2024-03-12'
+    end_date: null
 - id: 06fbb16e-d770-4342-80c5-7c637d9ec8a5
   name: Eric Moore
   other_names: []
@@ -27,31 +28,32 @@
   image: ''
   cdn_image: ''
   source_urls:
-  - https://townofdaltonnh.gov/select-board/
-  updated_at: '2026-06-04T03:43:38+00:00'
+  - https://docs.google.com/spreadsheets/d/11xjGyzgOJAZX2bT5Ed61gHdXS8_atLuomzOKHxv2xr4
+  updated_at: '2026-09-05T15:08:59+00:00'
   roles:
   - name: Select Board Member
     role_id: select-board-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:nh/county:coos/place:dalton/government
     division_ocdid: ocd-division/country:us/state:nh/county:coos/place:dalton
-    start_date: null
-    end_date: 2027-03
-- id: 062cde33-805d-4949-a5f4-9859fa5ce151
-  name: Warren Green
+    start_date: '2023'
+    end_date: null
+- id: c896b110-c4db-44fc-8ebd-7a8b4d4f27a6
+  name: Priya Raghunathan
   other_names: []
   phones: []
-  emails: []
+  emails:
+  - priya@daltonnh.gov
   urls:
   - https://townofdaltonnh.gov/select-board/
   image: ''
   cdn_image: ''
   source_urls:
-  - https://townofdaltonnh.gov/select-board/
-  updated_at: '2026-06-04T03:43:38+00:00'
+  - https://docs.google.com/spreadsheets/d/11xjGyzgOJAZX2bT5Ed61gHdXS8_atLuomzOKHxv2xr4
+  updated_at: '2026-09-05T15:08:59+00:00'
   roles:
   - name: Select Board Member
     role_id: select-board-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:nh/county:coos/place:dalton/government
     division_ocdid: ocd-division/country:us/state:nh/county:coos/place:dalton
-    start_date: null
-    end_date: 2029-03
+    start_date: '2025'
+    end_date: null
