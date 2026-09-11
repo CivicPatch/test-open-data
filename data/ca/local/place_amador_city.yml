@@ -1,1 +1,108 @@
-[]
+- id: 8a4af1ff-ccfe-4b56-b797-d251e0544c35
+  name: Bruce Sherrill
+  other_names: []
+  phones: []
+  emails: []
+  urls: []
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://amador-city.com/government-overview/
+  updated_at: '2026-09-11T22:20:03+00:00'
+  roles:
+  - name: Unmatched
+    role_id: unmatched
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:amador_city/government
+    division_ocdid: ocd-division/country:us/state:ca/place:amador_city
+    start_date: null
+    end_date: null
+- id: 69b76245-084e-4014-9f6c-5b7ebb242040
+  name: Lydia Testa
+  other_names: []
+  phones: []
+  emails: []
+  urls: []
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://amador-city.com/government-overview/
+  updated_at: '2026-09-11T22:20:03+00:00'
+  roles:
+  - name: Unmatched
+    role_id: unmatched
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:amador_city/government
+    division_ocdid: ocd-division/country:us/state:ca/place:amador_city
+    start_date: null
+    end_date: null
+- id: 32cccc28-55c7-4509-ac93-800842643780
+  name: Nikko Ambroselli
+  other_names: []
+  phones: []
+  emails: []
+  urls: []
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://amador-city.com/government-overview/
+  updated_at: '2026-09-11T22:20:03+00:00'
+  roles:
+  - name: Unmatched
+    role_id: unmatched
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:amador_city/government
+    division_ocdid: ocd-division/country:us/state:ca/place:amador_city
+    start_date: null
+    end_date: null
+- id: bbc579f9-2d0a-4649-ad7b-6a2cfded4fcc
+  name: Sandra Staples
+  other_names: []
+  phones: []
+  emails: []
+  urls: []
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://amador-city.com/government-overview/
+  updated_at: '2026-09-11T22:20:03+00:00'
+  roles:
+  - name: Unmatched
+    role_id: unmatched
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:amador_city/government
+    division_ocdid: ocd-division/country:us/state:ca/place:amador_city
+    start_date: null
+    end_date: null
+- id: a4b423ea-cc29-47c8-a103-cd584efc073f
+  name: Stephen Testa
+  other_names: []
+  phones: []
+  emails: []
+  urls: []
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://amador-city.com/government-overview/
+  updated_at: '2026-09-11T22:20:03+00:00'
+  roles:
+  - name: Unmatched
+    role_id: unmatched
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:amador_city/government
+    division_ocdid: ocd-division/country:us/state:ca/place:amador_city
+    start_date: null
+    end_date: null
+- id: 129e19cd-7fed-44cf-9d1a-ae081d0b3a46
+  name: Susan Bragstad
+  other_names: []
+  phones: []
+  emails: []
+  urls: []
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://amador-city.com/government-overview/
+  updated_at: '2026-09-11T22:20:03+00:00'
+  roles:
+  - name: Unmatched
+    role_id: unmatched
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:amador_city/government
+    division_ocdid: ocd-division/country:us/state:ca/place:amador_city
+    start_date: null
+    end_date: null

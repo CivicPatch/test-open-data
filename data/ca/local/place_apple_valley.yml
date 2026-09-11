@@ -1,1 +1,90 @@
-[]
+- id: a66a47ba-83e8-4a24-a002-ef88414c314a
+  name: Art Bishop
+  other_names: []
+  phones: []
+  emails: []
+  urls: []
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://applevalley.org/government/meet-your-government/
+  updated_at: '2026-09-11T22:20:03+00:00'
+  roles:
+  - name: Unmatched
+    role_id: unmatched
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:apple_valley/government
+    division_ocdid: ocd-division/country:us/state:ca/place:apple_valley
+    start_date: null
+    end_date: null
+- id: a25024c9-dd21-4cb8-bace-d3129e6465b8
+  name: Curt Emick
+  other_names: []
+  phones: []
+  emails: []
+  urls: []
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://applevalley.org/government/meet-your-government/
+  updated_at: '2026-09-11T22:20:03+00:00'
+  roles:
+  - name: Unmatched
+    role_id: unmatched
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:apple_valley/government
+    division_ocdid: ocd-division/country:us/state:ca/place:apple_valley
+    start_date: null
+    end_date: null
+- id: b4549157-9165-4efb-830c-20dd0ee82e34
+  name: Kari Leon
+  other_names: []
+  phones: []
+  emails: []
+  urls: []
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://applevalley.org/government/meet-your-government/
+  updated_at: '2026-09-11T22:20:03+00:00'
+  roles:
+  - name: Unmatched
+    role_id: unmatched
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:apple_valley/government
+    division_ocdid: ocd-division/country:us/state:ca/place:apple_valley
+    start_date: null
+    end_date: null
+- id: 936e6b4f-a0b1-47dd-b205-9ab9d1d3134c
+  name: Larry Cusack
+  other_names: []
+  phones: []
+  emails: []
+  urls: []
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://applevalley.org/government/meet-your-government/
+  updated_at: '2026-09-11T22:20:03+00:00'
+  roles:
+  - name: Unmatched
+    role_id: unmatched
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:apple_valley/government
+    division_ocdid: ocd-division/country:us/state:ca/place:apple_valley
+    start_date: null
+    end_date: null
+- id: 2f6daa05-d751-4b2c-9bf2-39309a623de9
+  name: Scott Nassif
+  other_names: []
+  phones: []
+  emails: []
+  urls: []
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://applevalley.org/government/meet-your-government/
+  updated_at: '2026-09-11T22:20:03+00:00'
+  roles:
+  - name: Unmatched
+    role_id: unmatched
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:apple_valley/government
+    division_ocdid: ocd-division/country:us/state:ca/place:apple_valley
+    start_date: null
+    end_date: null
