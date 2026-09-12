@@ -1,105 +1,90 @@
-- id: 1e709af6-3bc7-420e-84fc-f9e8e7cb50f1
-  name: Marilyn Ezzy Ashcraft
-  other_names: []
-  phones:
-  - (510) 747-4701
-  emails:
-  - mezzyashcraft@alamedaca.gov
-  urls:
-  - https://www.alamedaca.gov/GOVERNMENT/Elected-Officials/Mayor-Ezzy-Ashcraft
-  image: https://www.alamedaca.gov/files/assets/public/v/4/departments/alameda/city-manager/2019_marilynezzyashcraft.jpg?dimension=pageimage&w=480
-  cdn_image: https://cdn.civicpatch.org/open-data/ca/local/place_alameda/images/6051ea715a3d.png
-  source_urls:
-  - https://www.alamedaca.gov/GOVERNMENT/Elected-Officials/Mayor-Ezzy-Ashcraft
-  updated_at: '2026-09-07T01:24:51+00:00'
-  roles:
-  - name: Mayor
-    role_id: mayor
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:alameda/government
-    division_ocdid: ocd-division/country:us/state:ca/place:alameda
-    start_date: null
-    end_date: null
-- id: c4a8820f-b6aa-4671-bfb5-63fa68a07147
-  name: Michele Pryor
-  other_names: []
-  phones:
-  - (510) 747-4726
-  emails:
-  - mpryor@alamedaca.gov
-  urls:
-  - https://www.alamedaca.gov/GOVERNMENT/Elected-Officials/Vice-Mayor-Michele-Pryor
-  image: https://www.alamedaca.gov/files/assets/public/v/1/departments/alameda/city-manager/new-council/michele-headshot-2024.jpg?dimension=pageimage&w=480
-  cdn_image: https://cdn.civicpatch.org/open-data/ca/local/place_alameda/images/0150430b3788.png
-  source_urls:
-  - https://www.alamedaca.gov/GOVERNMENT/Elected-Officials/Vice-Mayor-Michele-Pryor
-  updated_at: '2026-09-07T01:24:51+00:00'
-  roles:
-  - name: Vice Mayor
-    role_id: vice-mayor
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:alameda/government
-    division_ocdid: ocd-division/country:us/state:ca/place:alameda
-    start_date: 2024-11
-    end_date: null
-- id: 6f6ed1d7-4289-494e-b16f-f41011df9099
+- id: 5e777a9b-a872-4392-bdce-adfc093bdbbd
   name: Greg Boller
   other_names: []
-  phones:
-  - (510) 747-4728
-  emails:
-  - gboller@alamedaca.gov
-  urls:
-  - https://www.alamedaca.gov/GOVERNMENT/Elected-Officials/Councilmember-Greg-Boller
+  phones: []
+  emails: []
+  urls: []
   image: ''
   cdn_image: ''
   source_urls:
-  - https://www.alamedaca.gov/GOVERNMENT/Elected-Officials/Councilmember-Greg-Boller
-  updated_at: '2026-09-07T01:24:51+00:00'
+  - https://www.alamedaca.gov/GOVERNMENT/Elected-Officials
+  updated_at: '2026-09-12T00:36:11+00:00'
   roles:
-  - name: Council Member
-    role_id: council-member
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:alameda/government
-    division_ocdid: ocd-division/country:us/state:ca/place:alameda
-    start_date: '2024'
-    end_date: null
-- id: 0af966a7-e4d2-4dcc-aa71-a486bf962963
-  name: Tony Daysog
-  other_names: []
-  phones:
-  - (510) 747-4722
-  emails:
-  - tdaysog@alamedaca.gov
-  urls:
-  - https://www.alamedaca.gov/GOVERNMENT/Elected-Officials/Councilmember-Tony-Daysog
-  image: https://www.alamedaca.gov/files/assets/public/v/3/departments/alameda/city-manager/20191112-180029_tonydaysog.jpg?dimension=pageimage&w=480
-  cdn_image: https://cdn.civicpatch.org/open-data/ca/local/place_alameda/images/9f24fe367a2a.png
-  source_urls:
-  - https://www.alamedaca.gov/GOVERNMENT/Elected-Officials/Councilmember-Tony-Daysog
-  updated_at: '2026-09-07T01:24:51+00:00'
-  roles:
-  - name: Council Member
-    role_id: council-member
+  - name: Unmatched
+    role_id: unmatched
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:alameda/government
     division_ocdid: ocd-division/country:us/state:ca/place:alameda
     start_date: null
     end_date: null
-- id: 5b99520d-d214-454c-a156-00026dd07c96
-  name: Kevin Kennedy
+- id: e0e94bf9-40b2-4bfd-91b5-e81aecadbda8
+  name: Marilyn Ezzy Ashcraft
   other_names: []
-  phones:
-  - (510) 747-4881
-  emails:
-  - kevin@kevinkennedyllc.com
-  urls:
-  - https://www.alamedaca.gov/GOVERNMENT/Elected-Officials/City-Treasurer
-  image: https://www.alamedaca.gov/files/assets/public/v/1/kennedy-bus-photo.jpg?dimension=pageimage&w=480
-  cdn_image: https://cdn.civicpatch.org/open-data/ca/local/place_alameda/images/9dbf0a5ad592.png
+  phones: []
+  emails: []
+  urls: []
+  image: ''
+  cdn_image: ''
   source_urls:
-  - https://www.alamedaca.gov/GOVERNMENT/Elected-Officials/City-Treasurer
-  updated_at: '2026-09-07T01:24:51+00:00'
+  - https://www.alamedaca.gov/GOVERNMENT/Elected-Officials
+  updated_at: '2026-09-12T00:36:11+00:00'
   roles:
-  - name: Treasurer
-    role_id: treasurer
+  - name: Unmatched
+    role_id: unmatched
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:alameda/government
     division_ocdid: ocd-division/country:us/state:ca/place:alameda
-    start_date: '2016'
+    start_date: null
+    end_date: null
+- id: c4922d9d-472c-407d-b0af-3729aa8f8072
+  name: Michele Pryor
+  other_names: []
+  phones: []
+  emails: []
+  urls: []
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://www.alamedaca.gov/GOVERNMENT/Elected-Officials
+  updated_at: '2026-09-12T00:36:11+00:00'
+  roles:
+  - name: Unmatched
+    role_id: unmatched
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:alameda/government
+    division_ocdid: ocd-division/country:us/state:ca/place:alameda
+    start_date: null
+    end_date: null
+- id: ded09487-2055-4081-be39-2412ebbb2b45
+  name: Tony Daysog
+  other_names: []
+  phones: []
+  emails: []
+  urls: []
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://www.alamedaca.gov/GOVERNMENT/Elected-Officials
+  updated_at: '2026-09-12T00:36:11+00:00'
+  roles:
+  - name: Unmatched
+    role_id: unmatched
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:alameda/government
+    division_ocdid: ocd-division/country:us/state:ca/place:alameda
+    start_date: null
+    end_date: null
+- id: 3acfa2f7-f2fc-4919-9407-aca2d6665ddd
+  name: Tracy Jensen
+  other_names: []
+  phones: []
+  emails: []
+  urls: []
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://www.alamedaca.gov/GOVERNMENT/Elected-Officials
+  updated_at: '2026-09-12T00:36:11+00:00'
+  roles:
+  - name: Unmatched
+    role_id: unmatched
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:alameda/government
+    division_ocdid: ocd-division/country:us/state:ca/place:alameda
+    start_date: null
     end_date: null
