@@ -1,160 +1,57 @@
-- id: b3d3da29-67fc-4863-bb60-87faf55c5833
-  name: Terri Cooper
+- id: e001ac00-8e3e-4341-a98d-9e338f44bc25
+  name: Callum Ferreira
   other_names: []
   phones: []
-  emails:
-  - tcooper@medical-lake.org
+  emails: []
   urls:
-  - https://medical-lake.org/city-government/city-council-2/
+  - https://medical-lake.org/
   image: ''
   cdn_image: ''
   source_urls:
-  - https://medical-lake.org/city-government/city-council-2
-  updated_at: '2026-09-06T22:10:00+00:00'
+  - https://docs.google.com/spreadsheets/d/11xjGyzgOJAZX2bT5Ed61gHdXS8_atLuomzOKHxv2xr4
+  updated_at: '2026-09-13T01:01:10+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:medical_lake/government
+    division_ocdid: ocd-division/country:us/state:wa/place:medical_lake
+    start_date: '2024'
+    end_date: null
+- id: 568f4718-f559-4fdb-8d63-ca30a6fd1394
+  name: Renata Oyelaran
+  other_names: []
+  phones: []
+  emails: []
+  urls:
+  - https://medical-lake.org/
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://docs.google.com/spreadsheets/d/11xjGyzgOJAZX2bT5Ed61gHdXS8_atLuomzOKHxv2xr4
+  updated_at: '2026-09-13T01:01:10+00:00'
   roles:
   - name: Mayor
     role_id: mayor
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:medical_lake/government
     division_ocdid: ocd-division/country:us/state:wa/place:medical_lake
-    start_date: null
-    end_date: '2029'
-- id: 84a8d9e2-8659-4ebb-876e-9b41db86ecae
-  name: Heath Wilbur
+    start_date: '2024'
+    end_date: null
+- id: ac5a0129-2bd4-4949-bd1d-46c86ab58f07
+  name: Hana Kobayashi
   other_names: []
   phones: []
-  emails:
-  - hwilbur@medical-lake.org
+  emails: []
   urls:
-  - https://medical-lake.org/city-government/city-council-2/
+  - https://medical-lake.org/
   image: ''
   cdn_image: ''
   source_urls:
-  - https://medical-lake.org/city-government/city-council-2
-  updated_at: '2026-09-06T22:10:00+00:00'
+  - https://docs.google.com/spreadsheets/d/11xjGyzgOJAZX2bT5Ed61gHdXS8_atLuomzOKHxv2xr4
+  updated_at: '2026-09-13T01:01:10+00:00'
   roles:
   - name: Council Member
     role_id: council-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:medical_lake/government
     division_ocdid: ocd-division/country:us/state:wa/place:medical_lake
-    start_date: null
-    end_date: '2029'
-- id: 69820202-f94b-45d1-8f82-20bf46389c61
-  name: Ted Olson
-  other_names: []
-  phones: []
-  emails:
-  - tolson@medical-lake.org
-  urls:
-  - https://medical-lake.org/city-government/city-council-2/
-  image: ''
-  cdn_image: ''
-  source_urls:
-  - https://medical-lake.org/city-government/city-council-2
-  updated_at: '2026-09-06T22:10:00+00:00'
-  roles:
-  - name: Council Member
-    role_id: council-member
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:medical_lake/government
-    division_ocdid: ocd-division/country:us/state:wa/place:medical_lake
-    start_date: null
-    end_date: '2029'
-- id: 0a1f76b9-8ca2-416f-a90d-ad1f7fc63062
-  name: Don Kennedy
-  other_names: []
-  phones: []
-  emails:
-  - dkennedy@medical-lake.org
-  urls:
-  - https://medical-lake.org/city-government/city-council-2/
-  image: ''
-  cdn_image: ''
-  source_urls:
-  - https://medical-lake.org/city-government/city-council-2
-  updated_at: '2026-09-06T22:10:00+00:00'
-  roles:
-  - name: Council Member
-    role_id: council-member
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:medical_lake/government
-    division_ocdid: ocd-division/country:us/state:wa/place:medical_lake
-    start_date: null
-    end_date: '2029'
-- id: 16b9719c-b4a3-4947-af8c-e0a0a691cf2e
-  name: Tony Harbolt
-  other_names: []
-  phones: []
-  emails:
-  - tharbolt@medical-lake.org
-  urls:
-  - https://medical-lake.org/city-government/city-council-2/
-  image: ''
-  cdn_image: ''
-  source_urls:
-  - https://medical-lake.org/city-government/city-council-2
-  updated_at: '2026-09-06T22:10:00+00:00'
-  roles:
-  - name: Council Member
-    role_id: council-member
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:medical_lake/government
-    division_ocdid: ocd-division/country:us/state:wa/place:medical_lake
-    start_date: null
-    end_date: '2029'
-- id: bd190da1-496e-4913-8c2b-29f700723ee9
-  name: Lance Speirs
-  other_names: []
-  phones: []
-  emails:
-  - lspeirs@medical-lake.org
-  urls:
-  - https://medical-lake.org/city-government/city-council-2/
-  image: ''
-  cdn_image: ''
-  source_urls:
-  - https://medical-lake.org/city-government/city-council-2
-  updated_at: '2026-09-06T22:10:00+00:00'
-  roles:
-  - name: Council Member
-    role_id: council-member
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:medical_lake/government
-    division_ocdid: ocd-division/country:us/state:wa/place:medical_lake
-    start_date: null
-    end_date: '2027'
-- id: 30a8d4cf-3bcf-4f4f-88e9-5ac6f9bc9058
-  name: Lorin Ray-Abbott
-  other_names: []
-  phones: []
-  emails:
-  - lray-abbott@medical-lake.org
-  urls:
-  - https://medical-lake.org/city-government/city-council-2/
-  image: ''
-  cdn_image: ''
-  source_urls:
-  - https://medical-lake.org/city-government/city-council-2
-  updated_at: '2026-09-06T22:10:00+00:00'
-  roles:
-  - name: Council Member
-    role_id: council-member
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:medical_lake/government
-    division_ocdid: ocd-division/country:us/state:wa/place:medical_lake
-    start_date: null
-    end_date: '2027'
-- id: 886797b5-c94e-4c71-86e7-bdff7fcd6b9e
-  name: Chad Pritchard
-  other_names: []
-  phones: []
-  emails:
-  - cpritchard@medical-lake.org
-  urls:
-  - https://medical-lake.org/city-government/city-council-2/
-  image: ''
-  cdn_image: ''
-  source_urls:
-  - https://medical-lake.org/city-government/city-council-2
-  updated_at: '2026-09-06T22:10:00+00:00'
-  roles:
-  - name: Council Member
-    role_id: council-member
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:medical_lake/government
-    division_ocdid: ocd-division/country:us/state:wa/place:medical_lake
-    start_date: null
-    end_date: '2027'
+    start_date: '2024'
+    end_date: null
