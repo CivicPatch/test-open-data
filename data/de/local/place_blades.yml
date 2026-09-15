@@ -1,0 +1,120 @@
+- id: f6388797-8091-4360-a9ab-f36ed1b6c6e3
+  name: Nancy McAdams
+  other_names: []
+  phones:
+  - (302) 629-7366
+  emails:
+  - mayor@townofblades.com
+  urls: []
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://blades.delaware.gov/town-council/
+  updated_at: '2026-09-15T23:01:23+00:00'
+  roles:
+  - name: Vice Mayor, Ward 5
+    role_id: vice-mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:de/place:blades/government
+    division_ocdid: ocd-division/country:us/state:de/place:blades/ward:5
+    start_date: null
+    end_date: '2027-04-06'
+- id: 062dc6ac-89fd-451a-945a-434a881fff0e
+  name: Susan Seltzer
+  other_names: []
+  phones:
+  - (302) 629-7366
+  emails:
+  - townadministrator@townofblades.com
+  urls: []
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://blades.delaware.gov/town-council/
+  updated_at: '2026-09-15T23:01:23+00:00'
+  roles:
+  - name: Vice Mayor, Ward 5
+    role_id: vice-mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:de/place:blades/government
+    division_ocdid: ocd-division/country:us/state:de/place:blades/ward:5
+    start_date: null
+    end_date: '2026-04-09'
+- id: 13bed831-1a47-4b00-bf33-a670352e018c
+  name: Donald Trice
+  other_names: []
+  phones:
+  - (302) 629-7366
+  emails:
+  - police@townofblades.com
+  urls: []
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://blades.delaware.gov/town-council/
+  updated_at: '2026-09-15T23:01:23+00:00'
+  roles:
+  - name: Commissioner
+    role_id: commissioner
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:de/place:blades/government
+    division_ocdid: ocd-division/country:us/state:de/place:blades
+    start_date: null
+    end_date: '2026-04-09'
+- id: d15a572b-57f9-444b-9641-eca2fffbe6a2
+  name: Garold Miller
+  other_names: []
+  phones:
+  - (302) 629-7366
+  emails:
+  - townadministrator@townofblades.com
+  urls: []
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://blades.delaware.gov/town-council/
+  updated_at: '2026-09-15T23:01:23+00:00'
+  roles:
+  - name: Commissioner
+    role_id: commissioner
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:de/place:blades/government
+    division_ocdid: ocd-division/country:us/state:de/place:blades
+    start_date: null
+    end_date: '2027-04-06'
+- id: 4d9bf5dc-e539-41f8-b768-29c887f0f891
+  name: Gary Gallamore
+  other_names: []
+  phones:
+  - (302) 629-7366
+  emails:
+  - townadministrator@townofblades.com
+  urls: []
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://blades.delaware.gov/town-council/
+  updated_at: '2026-09-15T23:01:23+00:00'
+  roles:
+  - name: Commissioner
+    role_id: commissioner
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:de/place:blades/government
+    division_ocdid: ocd-division/country:us/state:de/place:blades
+    start_date: null
+    end_date: '2027-04-06'
+- id: 2d457afd-4cdc-41be-95e2-6dc9821eed7b
+  name: Judy Evans
+  other_names: []
+  phones:
+  - (302) 629-7366
+  emails:
+  - townadministrator@townofblades.com
+  urls: []
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://blades.delaware.gov/town-council/
+  updated_at: '2026-09-15T23:01:23+00:00'
+  roles:
+  - name: Commissioner
+    role_id: commissioner
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:de/place:blades/government
+    division_ocdid: ocd-division/country:us/state:de/place:blades
+    start_date: null
+    end_date: '2026-04-09'
