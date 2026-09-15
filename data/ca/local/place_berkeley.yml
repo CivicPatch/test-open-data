@@ -1,162 +1,189 @@
 - id: 07d2d8d6-7b2d-412a-910c-56f1b7951231
   name: Adena Ishii
   other_names: []
-  phones: []
-  emails: []
-  urls: []
+  phones:
+  - (510) 981-7100
+  emails:
+  - mayor@berkeleyca.gov
+  urls:
+  - https://berkeleyca.gov/your-government/city-council/council-roster/adena-ishii
   image: ''
   cdn_image: ''
   source_urls:
   - https://berkeleyca.gov/your-government/city-council/council-roster
-  updated_at: '2026-09-11T22:20:03+00:00'
+  updated_at: '2026-09-15T21:50:49+00:00'
   roles:
-  - name: Unmatched
-    role_id: unmatched
+  - name: Mayor
+    role_id: mayor
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:berkeley/government
     division_ocdid: ocd-division/country:us/state:ca/place:berkeley
     start_date: null
-    end_date: null
-- id: 60556cd5-3b5f-468c-8ce0-862d0038116c
-  name: Ben Bartlett
-  other_names: []
-  phones: []
-  emails: []
-  urls: []
-  image: ''
-  cdn_image: ''
-  source_urls:
-  - https://berkeleyca.gov/your-government/city-council/council-roster
-  updated_at: '2026-09-11T22:20:03+00:00'
-  roles:
-  - name: Unmatched
-    role_id: unmatched
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:berkeley/government
-    division_ocdid: ocd-division/country:us/state:ca/place:berkeley
-    start_date: null
-    end_date: null
-- id: 603c4eb5-f508-4f90-9541-7bbbcfa8af48
-  name: Brent Blackaby
-  other_names: []
-  phones: []
-  emails: []
-  urls: []
-  image: ''
-  cdn_image: ''
-  source_urls:
-  - https://berkeleyca.gov/your-government/city-council/council-roster
-  updated_at: '2026-09-11T22:20:03+00:00'
-  roles:
-  - name: Unmatched
-    role_id: unmatched
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:berkeley/government
-    division_ocdid: ocd-division/country:us/state:ca/place:berkeley
-    start_date: null
-    end_date: null
-- id: f66d7727-aa3b-4549-b4c9-6f9fcee453a7
-  name: Cecilia Lunaparra
-  other_names: []
-  phones: []
-  emails: []
-  urls: []
-  image: ''
-  cdn_image: ''
-  source_urls:
-  - https://berkeleyca.gov/your-government/city-council/council-roster
-  updated_at: '2026-09-11T22:20:03+00:00'
-  roles:
-  - name: Unmatched
-    role_id: unmatched
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:berkeley/government
-    division_ocdid: ocd-division/country:us/state:ca/place:berkeley
-    start_date: null
-    end_date: null
-- id: d10d7c34-a1ae-4513-9e02-79a552a22717
-  name: Igor Tregub
-  other_names: []
-  phones: []
-  emails: []
-  urls: []
-  image: ''
-  cdn_image: ''
-  source_urls:
-  - https://berkeleyca.gov/your-government/city-council/council-roster
-  updated_at: '2026-09-11T22:20:03+00:00'
-  roles:
-  - name: Unmatched
-    role_id: unmatched
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:berkeley/government
-    division_ocdid: ocd-division/country:us/state:ca/place:berkeley
-    start_date: null
-    end_date: null
-- id: 20fbcf21-a74a-41e3-9be6-e8104354f64d
-  name: Mark Humbert
-  other_names: []
-  phones: []
-  emails: []
-  urls: []
-  image: ''
-  cdn_image: ''
-  source_urls:
-  - https://berkeleyca.gov/your-government/city-council/council-roster
-  updated_at: '2026-09-11T22:20:03+00:00'
-  roles:
-  - name: Unmatched
-    role_id: unmatched
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:berkeley/government
-    division_ocdid: ocd-division/country:us/state:ca/place:berkeley
-    start_date: null
-    end_date: null
+    end_date: '2028-11-30'
 - id: 2879566b-172a-474a-b476-8056db2f9f02
   name: Rashi Kesarwani
   other_names: []
-  phones: []
-  emails: []
-  urls: []
+  phones:
+  - (510) 981-7110
+  emails:
+  - rkesarwani@berkeleyca.gov
+  urls:
+  - https://berkeleyca.gov/your-government/city-council/council-roster/rashi-kesarwani
   image: ''
   cdn_image: ''
   source_urls:
   - https://berkeleyca.gov/your-government/city-council/council-roster
-  updated_at: '2026-09-11T22:20:03+00:00'
+  updated_at: '2026-09-15T21:50:49+00:00'
   roles:
-  - name: Unmatched
-    role_id: unmatched
+  - name: Council Member, District 1
+    role_id: council-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:berkeley/government
-    division_ocdid: ocd-division/country:us/state:ca/place:berkeley
+    division_ocdid: ocd-division/country:us/state:ca/place:berkeley/council_district:1
     start_date: null
-    end_date: null
-- id: 3e2c4f00-77b3-4f3c-b29e-00cb90da9a98
-  name: Shoshana O’Keefe
-  other_names: []
-  phones: []
-  emails: []
-  urls: []
-  image: ''
-  cdn_image: ''
-  source_urls:
-  - https://berkeleyca.gov/your-government/city-council/council-roster
-  updated_at: '2026-09-11T22:20:03+00:00'
-  roles:
-  - name: Unmatched
-    role_id: unmatched
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:berkeley/government
-    division_ocdid: ocd-division/country:us/state:ca/place:berkeley
-    start_date: null
-    end_date: null
+    end_date: '2026-11-30'
 - id: 55eb18b4-21aa-4e17-885c-71393f33fba9
   name: Terry Taplin
   other_names: []
-  phones: []
-  emails: []
-  urls: []
+  phones:
+  - (510) 981-7120
+  emails:
+  - ttaplin@berkeleyca.gov
+  urls:
+  - https://berkeleyca.gov/your-government/city-council/council-roster/terry-taplin
   image: ''
   cdn_image: ''
   source_urls:
   - https://berkeleyca.gov/your-government/city-council/council-roster
-  updated_at: '2026-09-11T22:20:03+00:00'
+  updated_at: '2026-09-15T21:50:49+00:00'
   roles:
-  - name: Unmatched
-    role_id: unmatched
+  - name: Council Member, District 2
+    role_id: council-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:berkeley/government
-    division_ocdid: ocd-division/country:us/state:ca/place:berkeley
+    division_ocdid: ocd-division/country:us/state:ca/place:berkeley/council_district:2
     start_date: null
-    end_date: null
+    end_date: '2028-11-30'
+- id: 60556cd5-3b5f-468c-8ce0-862d0038116c
+  name: Ben Bartlett
+  other_names: []
+  phones:
+  - (510) 981-7130
+  emails:
+  - bbartlett@berkeleyca.gov
+  urls:
+  - https://berkeleyca.gov/your-government/city-council/council-roster/ben-bartlett
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://berkeleyca.gov/your-government/city-council/council-roster
+  updated_at: '2026-09-15T21:50:49+00:00'
+  roles:
+  - name: Council Member, District 3
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:berkeley/government
+    division_ocdid: ocd-division/country:us/state:ca/place:berkeley/council_district:3
+    start_date: null
+    end_date: '2028-11-30'
+- id: d10d7c34-a1ae-4513-9e02-79a552a22717
+  name: Igor Tregub
+  other_names: []
+  phones:
+  - (510) 981-7140
+  emails:
+  - itregub@berkeleyca.gov
+  urls:
+  - https://berkeleyca.gov/your-government/city-council/council-roster/igor-tregub
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://berkeleyca.gov/your-government/city-council/council-roster
+  updated_at: '2026-09-15T21:50:49+00:00'
+  roles:
+  - name: Council Member, District 4
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:berkeley/government
+    division_ocdid: ocd-division/country:us/state:ca/place:berkeley/council_district:4
+    start_date: null
+    end_date: '2026-11-30'
+- id: 3e2c4f00-77b3-4f3c-b29e-00cb90da9a98
+  name: Shoshana O’Keefe
+  other_names: []
+  phones:
+  - (510) 981-7150
+  emails:
+  - sokeefe@berkeleyca.gov
+  urls:
+  - https://berkeleyca.gov/your-government/city-council/council-roster/shoshana-o-keefe
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://berkeleyca.gov/your-government/city-council/council-roster
+  updated_at: '2026-09-15T21:50:49+00:00'
+  roles:
+  - name: Council Member, District 5
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:berkeley/government
+    division_ocdid: ocd-division/country:us/state:ca/place:berkeley/council_district:5
+    start_date: null
+    end_date: '2028-11-30'
+- id: 603c4eb5-f508-4f90-9541-7bbbcfa8af48
+  name: Brent Blackaby
+  other_names: []
+  phones:
+  - (510) 981-7160
+  emails:
+  - bblackaby@berkeleyca.gov
+  urls:
+  - https://berkeleyca.gov/your-government/city-council/council-roster/brent-blackaby
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://berkeleyca.gov/your-government/city-council/council-roster
+  updated_at: '2026-09-15T21:50:49+00:00'
+  roles:
+  - name: Council Member, District 6
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:berkeley/government
+    division_ocdid: ocd-division/country:us/state:ca/place:berkeley/council_district:6
+    start_date: null
+    end_date: '2028-11-30'
+- id: f66d7727-aa3b-4549-b4c9-6f9fcee453a7
+  name: Cecilia Lunaparra
+  other_names: []
+  phones:
+  - (510) 981-7170
+  emails:
+  - clunaparra@berkeleyca.gov
+  urls:
+  - https://berkeleyca.gov/your-government/city-council/council-roster/cecilia-lunaparra
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://berkeleyca.gov/your-government/city-council/council-roster
+  updated_at: '2026-09-15T21:50:49+00:00'
+  roles:
+  - name: Council Member, District 7
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:berkeley/government
+    division_ocdid: ocd-division/country:us/state:ca/place:berkeley/council_district:7
+    start_date: null
+    end_date: '2026-11-30'
+- id: 20fbcf21-a74a-41e3-9be6-e8104354f64d
+  name: Mark Humbert
+  other_names: []
+  phones:
+  - (510) 981-7180
+  emails:
+  - mhumbert@berkeleyca.gov
+  urls:
+  - https://berkeleyca.gov/your-government/city-council/council-roster/mark-humbert
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://berkeleyca.gov/your-government/city-council/council-roster
+  updated_at: '2026-09-15T21:50:49+00:00'
+  roles:
+  - name: Council Member, District 8
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:berkeley/government
+    division_ocdid: ocd-division/country:us/state:ca/place:berkeley/council_district:8
+    start_date: null
+    end_date: '2026-11-30'

@@ -1,167 +1,20 @@
-- id: 9da8c517-0da5-406c-b6ca-0f7f1e9188b4
-  name: JoEllen Kesti
-  other_names: []
-  phones:
-  - (360) 854-8020
-  emails:
-  - swmayor@sedro-woolley.gov
-  urls:
-  - https://www.sedro-woolley.gov/governing_bodies/city_council/index.php
-  image: https://www.sedro-woolley.gov/Governing%20Bodies/Council/Members/MayorKesti.jpg?t=202604101451310
-  cdn_image: ''
-  source_urls:
-  - https://www.sedro-woolley.gov/governing_bodies/city_council/index.php
-  updated_at: '2026-09-07T00:25:57+00:00'
-  roles:
-  - name: Mayor
-    role_id: mayor
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:sedro-woolley/government
-    division_ocdid: ocd-division/country:us/state:wa/place:sedro-woolley
-    start_date: null
-    end_date: '2027-12-31'
-- id: b343fd84-3675-4d1a-bd64-c86fbf3af8aa
-  name: Kevin Loy
-  other_names: []
-  phones:
-  - (360) 421-8396
-  emails:
-  - ward1@sedro-woolley.gov
-  urls:
-  - https://www.sedro-woolley.gov/governing_bodies/city_council/index.php
-  image: https://www.sedro-woolley.gov/Governing%20Bodies/Council/Members/Kevin_Loy.png?t=202402151108380
-  cdn_image: ''
-  source_urls:
-  - https://www.sedro-woolley.gov/governing_bodies/city_council/index.php
-  updated_at: '2026-09-07T00:25:57+00:00'
-  roles:
-  - name: Council Member, Ward 1
-    role_id: council-member
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:sedro-woolley/government
-    division_ocdid: ocd-division/country:us/state:wa/place:sedro-woolley/ward:1
-    start_date: null
-    end_date: '2027-12-31'
-- id: 0c86173f-45bd-46c7-bfb1-cef1e6b98416
-  name: James Cox
-  other_names: []
-  phones:
-  - (360) 770-4415
-  emails:
-  - ward2@sedro-woolley.gov
-  urls:
-  - https://www.sedro-woolley.gov/governing_bodies/city_council/index.php
-  image: ''
-  cdn_image: ''
-  source_urls:
-  - https://www.sedro-woolley.gov/governing_bodies/city_council/index.php
-  updated_at: '2026-09-07T00:25:57+00:00'
-  roles:
-  - name: Council Member, Ward 2
-    role_id: council-member
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:sedro-woolley/government
-    division_ocdid: ocd-division/country:us/state:wa/place:sedro-woolley/ward:2
-    start_date: null
-    end_date: '2027-12-31'
-- id: bf7b1118-c4e7-4107-9f57-9047733478d4
-  name: Nora Pederson
-  other_names: []
-  phones:
-  - (360) 302-5620
-  emails:
-  - ward3@sedro-woolley.gov
-  urls:
-  - https://www.sedro-woolley.gov/governing_bodies/city_council/index.php
-  image: https://www.sedro-woolley.gov/Governing%20Bodies/Council/Members/Nora_Pederson.jpg?t=202601021756440
-  cdn_image: ''
-  source_urls:
-  - https://www.sedro-woolley.gov/governing_bodies/city_council/index.php
-  updated_at: '2026-09-07T00:25:57+00:00'
-  roles:
-  - name: Council Member, Ward 3
-    role_id: council-member
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:sedro-woolley/government
-    division_ocdid: ocd-division/country:us/state:wa/place:sedro-woolley/ward:3
-    start_date: null
-    end_date: '2029-12-31'
-- id: 5cac07ed-d796-4210-ae50-ea92cbd59042
-  name: Allan Henderson
-  other_names: []
-  phones:
-  - (360) 540-2708
-  emails:
-  - ward4@sedro-woolley.gov
-  urls:
-  - https://www.sedro-woolley.gov/governing_bodies/city_council/index.php
-  image: https://www.sedro-woolley.gov/Governing%20Bodies/Council/Members/Allan_Henderson.jpg?t=202402151109030
-  cdn_image: ''
-  source_urls:
-  - https://www.sedro-woolley.gov/governing_bodies/city_council/index.php
-  updated_at: '2026-09-07T00:25:57+00:00'
-  roles:
-  - name: Council Member, Ward 4
-    role_id: council-member
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:sedro-woolley/government
-    division_ocdid: ocd-division/country:us/state:wa/place:sedro-woolley/ward:4
-    start_date: null
-    end_date: '2027-12-31'
-- id: 3e2cb2b4-d015-4e3e-a18e-d938d89ae6e2
-  name: Paul Cocke
-  other_names: []
-  phones:
-  - (360) 726-3541
-  emails:
-  - ward5@sedro-woolley.gov
-  urls:
-  - https://www.sedro-woolley.gov/governing_bodies/city_council/index.php
-  image: https://www.sedro-woolley.gov/Governing%20Bodies/Council/Members/Paul_Cocke.jpg?t=202402151109250
-  cdn_image: ''
-  source_urls:
-  - https://www.sedro-woolley.gov/governing_bodies/city_council/index.php
-  updated_at: '2026-09-07T00:25:57+00:00'
-  roles:
-  - name: Council Member, Ward 5
-    role_id: council-member
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:sedro-woolley/government
-    division_ocdid: ocd-division/country:us/state:wa/place:sedro-woolley/ward:5
-    start_date: null
-    end_date: '2027-12-31'
-- id: 444d1fb9-e814-4f77-a690-a73611f0b147
-  name: Karl de Jong
+- id: eb825939-0b85-4888-9a16-b503a2716611
+  name: jennifer powers
   other_names: []
   phones: []
   emails:
-  - ward6@sedro-woolley.gov
+  - hello@gmail.com
   urls:
-  - https://www.sedro-woolley.gov/governing_bodies/city_council/index.php
-  image: https://www.sedro-woolley.gov/Governing%20Bodies/Council/Members/KarldeJong.jpg?t=202604061839080
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc/edit?gid=405681676#gid=405681676
+  image: ''
   cdn_image: ''
   source_urls:
-  - https://www.sedro-woolley.gov/governing_bodies/city_council/index.php
-  updated_at: '2026-09-07T00:25:57+00:00'
-  roles:
-  - name: Council Member, Ward 6
-    role_id: council-member
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:sedro-woolley/government
-    division_ocdid: ocd-division/country:us/state:wa/place:sedro-woolley/ward:6
-    start_date: null
-    end_date: null
-- id: 411a069a-85ce-4a70-bb12-eb7fd84ad0a4
-  name: Nick Lavacca
-  other_names: []
-  phones:
-  - (360) 298-6543
-  emails:
-  - atlarge@sedro-woolley.gov
-  urls:
-  - https://www.sedro-woolley.gov/governing_bodies/city_council/index.php
-  image: https://www.sedro-woolley.gov/Governing%20Bodies/Council/Members/Nick%20Lavacca%20New%20-%20Copy.jpg?t=202604061244530
-  cdn_image: ''
-  source_urls:
-  - https://www.sedro-woolley.gov/governing_bodies/city_council/index.php
-  updated_at: '2026-09-07T00:25:57+00:00'
+  - https://docs.google.com/spreadsheets/d/16tGgkC40p3OGp7kRNlkqsA4V86Y5JdbEPQLK5cBkuIc
+  updated_at: '2026-09-15T21:51:12+00:00'
   roles:
   - name: Council Member
     role_id: council-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:sedro-woolley/government
     division_ocdid: ocd-division/country:us/state:wa/place:sedro-woolley
-    start_date: null
-    end_date: '2029-12-31'
+    start_date: '2026'
+    end_date: null

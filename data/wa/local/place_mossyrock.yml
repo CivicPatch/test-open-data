@@ -1,120 +1,80 @@
-- id: 7e9b2541-b878-4dae-9cc6-16cbc6d42f29
-  name: Randall Sasser
+- id: ba41b219-a9b5-4e1a-a553-8a8d54454ee0
+  name: Ana Sofia Delgado
   other_names: []
   phones:
-  - (360) 983-3300
+  - (360) 555-0117
   emails:
-  - mayor@cityofmossyrock.com
+  - mayor@mossyrockwa.gov
   urls:
-  - https://www.cityofmossyrock.com/city-council/
+  - https://www.mossyrockwa.gov/
   image: ''
   cdn_image: ''
   source_urls:
-  - https://www.cityofmossyrock.com/city-council/
-  updated_at: '2026-09-06T22:30:52+00:00'
+  - https://docs.google.com/spreadsheets/d/11xjGyzgOJAZX2bT5Ed61gHdXS8_atLuomzOKHxv2xr4
+  updated_at: '2026-09-15T21:51:12+00:00'
   roles:
   - name: Mayor
     role_id: mayor
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:mossyrock/government
     division_ocdid: ocd-division/country:us/state:wa/place:mossyrock
-    start_date: null
+    start_date: '2024-01-01'
     end_date: null
-- id: 469db851-f087-42e9-b1ad-765e928a9707
-  name: Ronald Lindgren
+- id: 93a32802-19bf-4c15-bc1f-3f9447f4129d
+  name: Grace Otieno
   other_names: []
-  phones:
-  - (360) 983-3300
-  emails: []
+  phones: []
+  emails:
+  - grace.otieno@mossyrockwa.gov
   urls:
-  - https://www.cityofmossyrock.com/city-council/
+  - https://www.mossyrockwa.gov/
   image: ''
   cdn_image: ''
   source_urls:
-  - https://www.cityofmossyrock.com/city-council/
-  updated_at: '2026-09-06T22:30:52+00:00'
+  - https://docs.google.com/spreadsheets/d/11xjGyzgOJAZX2bT5Ed61gHdXS8_atLuomzOKHxv2xr4
+  updated_at: '2026-09-15T21:51:12+00:00'
   roles:
   - name: Council Member
     role_id: council-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:mossyrock/government
     division_ocdid: ocd-division/country:us/state:wa/place:mossyrock
-    start_date: null
-    end_date: null
-- id: 6045435e-a9ac-4e6d-b346-d4713786a697
-  name: Sam Schellenger
+    start_date: '2022'
+    end_date: '2026-12-31'
+- id: 620c032c-28bc-446b-ba4d-3de0b1628e7e
+  name: Tomasz Wierzbicki
   other_names: []
   phones:
-  - (360) 983-3300
+  - (360) 555-0118
   emails: []
   urls:
-  - https://www.cityofmossyrock.com/city-council/
+  - https://www.mossyrockwa.gov/
   image: ''
   cdn_image: ''
   source_urls:
-  - https://www.cityofmossyrock.com/city-council/
-  updated_at: '2026-09-06T22:30:52+00:00'
+  - https://docs.google.com/spreadsheets/d/11xjGyzgOJAZX2bT5Ed61gHdXS8_atLuomzOKHxv2xr4
+  updated_at: '2026-09-15T21:51:12+00:00'
   roles:
   - name: Council Member
     role_id: council-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:mossyrock/government
     division_ocdid: ocd-division/country:us/state:wa/place:mossyrock
-    start_date: null
+    start_date: 2023-11
     end_date: null
-- id: fcde3ed3-5575-434a-b349-38a14eadba8f
-  name: Mark Thompson
+- id: 897843d4-75ff-48cf-a715-8215f22d9869
+  name: Henry Whitcombe
   other_names: []
   phones:
-  - (360) 983-3300
+  - (360) 555-0119
   emails: []
   urls:
-  - https://www.cityofmossyrock.com/city-council/
+  - https://www.mossyrockwa.gov/
   image: ''
   cdn_image: ''
   source_urls:
-  - https://www.cityofmossyrock.com/city-council/
-  updated_at: '2026-09-06T22:30:52+00:00'
+  - https://docs.google.com/spreadsheets/d/11xjGyzgOJAZX2bT5Ed61gHdXS8_atLuomzOKHxv2xr4
+  updated_at: '2026-09-15T21:51:12+00:00'
   roles:
-  - name: Council Member
-    role_id: council-member
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:mossyrock/government
-    division_ocdid: ocd-division/country:us/state:wa/place:mossyrock
-    start_date: null
-    end_date: null
-- id: 8cd3b31d-fe08-4114-ae1e-909d9b30b622
-  name: Juliana Simon
-  other_names: []
-  phones:
-  - (360) 983-3300
-  emails: []
-  urls:
-  - https://www.cityofmossyrock.com/city-council/
-  image: ''
-  cdn_image: ''
-  source_urls:
-  - https://www.cityofmossyrock.com/city-council/
-  updated_at: '2026-09-06T22:30:52+00:00'
-  roles:
-  - name: Council Member
-    role_id: council-member
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:mossyrock/government
-    division_ocdid: ocd-division/country:us/state:wa/place:mossyrock
-    start_date: null
-    end_date: null
-- id: ab2c7520-ca6f-40d3-9a8b-c091b15d77f6
-  name: Teresa Quinlan
-  other_names: []
-  phones:
-  - (360) 983-3300
-  emails: []
-  urls:
-  - https://www.cityofmossyrock.com/city-council/
-  image: ''
-  cdn_image: ''
-  source_urls:
-  - https://www.cityofmossyrock.com/city-council/
-  updated_at: '2026-09-06T22:30:52+00:00'
-  roles:
-  - name: Council Member
-    role_id: council-member
+  - name: Clerk
+    role_id: clerk
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:mossyrock/government
     division_ocdid: ocd-division/country:us/state:wa/place:mossyrock
     start_date: null
