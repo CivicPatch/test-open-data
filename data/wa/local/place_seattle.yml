@@ -1,76 +1,74 @@
-- id: fc2b787f-d3f6-4cd8-821a-096a5f64c9a3
+- id: fb3da1e8-1a4f-48f7-8ab0-5cbd2f8451b2
   name: Katie B. Wilson
-  other_names:
-  - Katie Wilson
+  other_names: []
   phones:
   - (206) 684-4000
   emails: []
   urls:
   - https://seattle.gov/mayor
-  - https://seattle.gov/mayor/about-the-mayor
-  image: https://seattle.gov/images/MayorWilson/CitywideHomePage/mayor_wilson_citywide_154x154.jpg
-  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_seattle/images/00999c160414.png
+  image: https://seattle.gov/images/MayorWilson/Katie-Wilson-Headshot-250x250.jpg
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_seattle/images/0155e55218fe.png
   source_urls:
-  - https://seattle.gov/city-clerk/agendas-and-legislative-resources/terms-of-office-for-elected-officials
-  - https://seattle.gov/elected-officials
   - https://seattle.gov/mayor
-  updated_at: '2026-09-18T21:42:52+00:00'
+  updated_at: '2026-09-19T04:17:05+00:00'
   roles:
   - name: Mayor
     role_id: mayor
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:seattle/government
     division_ocdid: ocd-division/country:us/state:wa/place:seattle
-    start_date: 2025-11
-    end_date: 2029-12
-- id: 4cde8ac6-6732-4668-a6a9-eb4d1fe552a3
+    start_date: null
+    end_date: null
+- id: 20e63e60-02ac-468b-8317-698fd47dd995
   name: Joy Hollingsworth
   other_names: []
   phones:
   - (206) 684-8803
+  - (206) 684-8888
   emails:
   - joy.hollingsworth@seattle.gov
   urls:
   - https://seattle.gov/council/members/joy-hollingsworth
-  image: https://seattle.gov/images//images/Council/Citywide%20Circle%20Headshots/council_hollingsworth_circle.jpg
-  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_seattle/images/ef06d9a9e07d.png
+  - https://seattle.gov/council/members/joy-hollingsworth/about-joy
+  image: /images/Council/Members/Hollingsworth/hollingsworth-family-update.jpeg
+  cdn_image: ''
   source_urls:
-  - https://seattle.gov/city-clerk/agendas-and-legislative-resources/terms-of-office-for-elected-officials
   - https://seattle.gov/council
   - https://seattle.gov/council/members/joy-hollingsworth
-  - https://seattle.gov/elected-officials
-  updated_at: '2026-09-18T21:42:52+00:00'
+  - https://seattle.gov/council/members/joy-hollingsworth/about-joy
+  updated_at: '2026-09-19T04:17:05+00:00'
   roles:
   - name: Council President, District 3
     role_id: council-president
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:seattle/government
     division_ocdid: ocd-division/country:us/state:wa/place:seattle/council_district:3
-    start_date: 2023-11
+    start_date: 2024-01
     end_date: 2027-12
-- id: a43685e8-14ba-4674-846e-7634a6ae2f22
+- id: 00d380e5-e060-4c81-9486-43efb4eff264
   name: Rob Saka
   other_names: []
   phones:
   - (206) 684-8801
+  - (206) 684-8888
   emails:
   - rob.saka@seattle.gov
   urls:
   - https://seattle.gov/council/members/rob-saka
+  - https://seattle.gov/council/members/rob-saka/about-rob
   image: https://seattle.gov/images//images/Council/Citywide%20Circle%20Headshots/council_saka_circle.jpg
   cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_seattle/images/8ac384d14474.png
   source_urls:
-  - https://seattle.gov/city-clerk/agendas-and-legislative-resources/terms-of-office-for-elected-officials
   - https://seattle.gov/council
   - https://seattle.gov/council/members/rob-saka
-  - https://seattle.gov/elected-officials
-  updated_at: '2026-09-18T21:42:52+00:00'
+  - https://seattle.gov/council/members/rob-saka/about-rob
+  updated_at: '2026-09-19T04:17:05+00:00'
   roles:
   - name: Council Member, District 1
     role_id: council-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:seattle/government
     division_ocdid: ocd-division/country:us/state:wa/place:seattle/council_district:1
-    start_date: 2023-11
+    start_date: 2024-01
     end_date: 2027-12
-- id: 0f18cb48-e70f-4407-a272-95fcaf16b49a
+- id: 01235edd-0f41-4acf-9a3b-e4315eac0dad
   name: Eddie Lin
   other_names: []
   phones:
@@ -82,121 +80,127 @@
   image: https://seattle.gov/images//images/Council/Citywide%20Circle%20Headshots/council-lin_154x154.jpg
   cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_seattle/images/8518b717839c.png
   source_urls:
-  - https://seattle.gov/city-clerk/agendas-and-legislative-resources/terms-of-office-for-elected-officials
   - https://seattle.gov/council
   - https://seattle.gov/council/members/eddie-lin
-  - https://seattle.gov/elected-officials
-  updated_at: '2026-09-18T21:42:52+00:00'
+  updated_at: '2026-09-19T04:17:05+00:00'
   roles:
   - name: Council Member, District 2
     role_id: council-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:seattle/government
     division_ocdid: ocd-division/country:us/state:wa/place:seattle/council_district:2
-    start_date: 2025-11
-    end_date: 2027-12
-- id: 8ecbf0d0-e9ce-4f72-8c05-74b419eda5c8
+    start_date: null
+    end_date: null
+- id: 3b60baa9-44d9-4da3-81c1-c2c7e64a153e
   name: Maritza Rivera
   other_names: []
-  phones: []
-  emails: []
+  phones:
+  - (206) 684-8804
+  emails:
+  - maritza.rivera@seattle.gov
   urls:
   - https://seattle.gov/council/members/maritza-rivera
   image: https://seattle.gov/images//images/Council/Citywide%20Circle%20Headshots/council_rivera_circle.jpg
   cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_seattle/images/ed071cb84224.png
   source_urls:
-  - https://seattle.gov/city-clerk/agendas-and-legislative-resources/terms-of-office-for-elected-officials
   - https://seattle.gov/council
-  - https://seattle.gov/elected-officials
-  updated_at: '2026-09-18T21:42:52+00:00'
+  - https://seattle.gov/council/members/maritza-rivera
+  updated_at: '2026-09-19T04:17:05+00:00'
   roles:
   - name: Council Member, District 4
     role_id: council-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:seattle/government
     division_ocdid: ocd-division/country:us/state:wa/place:seattle/council_district:4
-    start_date: 2023-11
-    end_date: 2027-12
-- id: 96cf916b-4f96-42be-af9c-62d856ac4cfb
+    start_date: null
+    end_date: null
+- id: 455c9916-c9b8-4467-9bf1-7af82ca3e42c
   name: Debora Juarez
   other_names: []
-  phones: []
-  emails: []
+  phones:
+  - (206) 684-8805
+  emails:
+  - debora.juarez@seattle.gov
   urls:
   - https://seattle.gov/council/members/debora-juarez
-  image: https://seattle.gov/images//images/Council/Citywide%20Circle%20Headshots/council_juarez_154x154.jpg
-  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_seattle/images/183bf92d4c48.png
+  image: https://seattle.gov/domain/31ed0e44b6dc.png
+  cdn_image: ''
   source_urls:
-  - https://seattle.gov/city-clerk/agendas-and-legislative-resources/terms-of-office-for-elected-officials
   - https://seattle.gov/council
-  - https://seattle.gov/elected-officials
-  updated_at: '2026-09-18T21:42:52+00:00'
+  - https://seattle.gov/council/members/debora-juarez
+  updated_at: '2026-09-19T04:17:05+00:00'
   roles:
   - name: Council Member, District 5
     role_id: council-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:seattle/government
     division_ocdid: ocd-division/country:us/state:wa/place:seattle/council_district:5
-    start_date: 2025-07
-    end_date: 2026-11
-- id: c1d07ec2-3a40-4ce7-9758-e38c28032f0a
+    start_date: null
+    end_date: null
+- id: c4179983-87b3-4337-8e4a-9d4851a2e511
   name: Dan Strauss
   other_names: []
-  phones: []
-  emails: []
+  phones:
+  - (206) 684-8806
+  emails:
+  - dan.strauss@seattle.gov
   urls:
   - https://seattle.gov/council/members/dan-strauss
   image: https://seattle.gov/images//images/Council/Citywide%20Circle%20Headshots/council_struass_circle.jpg
   cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_seattle/images/ada6b13ec0d1.png
   source_urls:
-  - https://seattle.gov/city-clerk/agendas-and-legislative-resources/terms-of-office-for-elected-officials
   - https://seattle.gov/council
-  - https://seattle.gov/elected-officials
-  updated_at: '2026-09-18T21:42:52+00:00'
+  - https://seattle.gov/council/members/dan-strauss
+  updated_at: '2026-09-19T04:17:05+00:00'
   roles:
   - name: Council Member, District 6
     role_id: council-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:seattle/government
     division_ocdid: ocd-division/country:us/state:wa/place:seattle/council_district:6
-    start_date: 2023-11
-    end_date: 2027-12
-- id: 2714e20e-bbac-40a1-b75f-40c870d19e0c
-  name: Robert Kettle
+    start_date: null
+    end_date: null
+- id: f9b58dab-5db7-4873-9360-2bfda3e64ff1
+  name: Bob Kettle
   other_names: []
-  phones: []
-  emails: []
-  urls: []
-  image: ''
-  cdn_image: ''
+  phones:
+  - (206) 684-8807
+  emails:
+  - robert.kettle@seattle.gov
+  urls:
+  - https://seattle.gov/council/members/bob-kettle
+  image: https://seattle.gov/images//images/Council/Citywide%20Circle%20Headshots/council_kettle_circle.jpg
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_seattle/images/f490e8055573.png
   source_urls:
-  - https://seattle.gov/city-clerk/agendas-and-legislative-resources/terms-of-office-for-elected-officials
-  updated_at: '2026-09-18T21:42:52+00:00'
+  - https://seattle.gov/council
+  - https://seattle.gov/council/members/bob-kettle
+  updated_at: '2026-09-19T04:17:05+00:00'
   roles:
   - name: Council Member, District 7
     role_id: council-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:seattle/government
     division_ocdid: ocd-division/country:us/state:wa/place:seattle/council_district:7
-    start_date: 2023-11
-    end_date: 2027-12
-- id: 07549cf0-f20d-4bca-8e04-c91ebd2aa640
+    start_date: null
+    end_date: null
+- id: a9130437-3e01-4885-89b3-3972ef65d162
   name: Alexis Mercedes Rinck
   other_names: []
-  phones: []
-  emails: []
+  phones:
+  - (206) 684-8808
+  emails:
+  - alexismercedes.rinck@seattle.gov
   urls:
   - https://seattle.gov/council/members/alexis-mercedes-rinck
   image: https://seattle.gov/images//images/Council/Citywide%20Circle%20Headshots/council_rinck_154x154.jpg
   cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_seattle/images/ce027a08f3f1.png
   source_urls:
-  - https://seattle.gov/city-clerk/agendas-and-legislative-resources/terms-of-office-for-elected-officials
   - https://seattle.gov/council
-  - https://seattle.gov/elected-officials
-  updated_at: '2026-09-18T21:42:52+00:00'
+  - https://seattle.gov/council/members/alexis-mercedes-rinck
+  updated_at: '2026-09-19T04:17:05+00:00'
   roles:
   - name: Council Member
     role_id: council-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:seattle/government
     division_ocdid: ocd-division/country:us/state:wa/place:seattle
-    start_date: 2025-11
-    end_date: 2029-12
-- id: ee2e6a69-b6ca-453b-a483-3ac400c2e947
+    start_date: null
+    end_date: null
+- id: 891adaa9-691c-42bb-99af-f61eb73ce5ab
   name: Dionne Foster
   other_names: []
   phones: []
@@ -206,66 +210,8 @@
   image: https://seattle.gov/images//images/Council/Citywide%20Circle%20Headshots/council-foster_154x154.jpg
   cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_seattle/images/f207a4a7733a.png
   source_urls:
-  - https://seattle.gov/city-clerk/agendas-and-legislative-resources/terms-of-office-for-elected-officials
   - https://seattle.gov/council
-  - https://seattle.gov/elected-officials
-  updated_at: '2026-09-18T21:42:52+00:00'
-  roles:
-  - name: Council Member
-    role_id: council-member
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:seattle/government
-    division_ocdid: ocd-division/country:us/state:wa/place:seattle
-    start_date: 2025-11
-    end_date: 2029-12
-- id: 84f749fa-9bba-4290-a05c-d32810daa1f5
-  name: Andrea Chin
-  other_names: []
-  phones: []
-  emails: []
-  urls: []
-  image: ''
-  cdn_image: ''
-  source_urls:
-  - https://seattle.gov/city-clerk/agendas-and-legislative-resources/terms-of-office-for-elected-officials
-  updated_at: '2026-09-18T21:42:52+00:00'
-  roles:
-  - name: Unmatched
-    role_id: unmatched
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:seattle/government
-    division_ocdid: ocd-division/country:us/state:wa/place:seattle
-    start_date: 2022-11
-    end_date: 2026-12
-- id: 49b3ceb2-9d55-42d1-9831-eb73fcf90e9d
-  name: Anita Crawford-Willis
-  other_names: []
-  phones: []
-  emails: []
-  urls: []
-  image: ''
-  cdn_image: ''
-  source_urls:
-  - https://seattle.gov/city-clerk/agendas-and-legislative-resources/terms-of-office-for-elected-officials
-  updated_at: '2026-09-18T21:42:52+00:00'
-  roles:
-  - name: Unmatched
-    role_id: unmatched
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:seattle/government
-    division_ocdid: ocd-division/country:us/state:wa/place:seattle
-    start_date: 2022-11
-    end_date: 2026-12
-- id: 156c4b0d-d6ff-4081-be58-7d68fe9a81cb
-  name: Bob Kettle
-  other_names: []
-  phones: []
-  emails: []
-  urls:
-  - https://seattle.gov/council/members/bob-kettle
-  image: https://seattle.gov/images//images/Council/Citywide%20Circle%20Headshots/council_kettle_circle.jpg
-  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_seattle/images/f490e8055573.png
-  source_urls:
-  - https://seattle.gov/council
-  - https://seattle.gov/elected-officials
-  updated_at: '2026-09-18T21:42:52+00:00'
+  updated_at: '2026-09-19T04:17:05+00:00'
   roles:
   - name: Council Member
     role_id: council-member
@@ -273,113 +219,3 @@
     division_ocdid: ocd-division/country:us/state:wa/place:seattle
     start_date: null
     end_date: null
-- id: d91854a5-8cf1-44bf-8f17-800666cd043e
-  name: Catherine McDowall
-  other_names: []
-  phones: []
-  emails: []
-  urls: []
-  image: ''
-  cdn_image: ''
-  source_urls:
-  - https://seattle.gov/city-clerk/agendas-and-legislative-resources/terms-of-office-for-elected-officials
-  updated_at: '2026-09-18T21:42:52+00:00'
-  roles:
-  - name: Unmatched
-    role_id: unmatched
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:seattle/government
-    division_ocdid: ocd-division/country:us/state:wa/place:seattle
-    start_date: 2022-11
-    end_date: 2026-12
-- id: 380960c1-3c0c-4558-b8b7-9f3126959668
-  name: Damon Shadid
-  other_names: []
-  phones: []
-  emails: []
-  urls: []
-  image: ''
-  cdn_image: ''
-  source_urls:
-  - https://seattle.gov/city-clerk/agendas-and-legislative-resources/terms-of-office-for-elected-officials
-  updated_at: '2026-09-18T21:42:52+00:00'
-  roles:
-  - name: Unmatched
-    role_id: unmatched
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:seattle/government
-    division_ocdid: ocd-division/country:us/state:wa/place:seattle
-    start_date: 2022-11
-    end_date: 2026-12
-- id: af0793a4-3826-48be-a04d-ecf19c995350
-  name: Erika Evans
-  other_names: []
-  phones: []
-  emails: []
-  urls:
-  - https://seattle.gov/cityattorney
-  image: https://seattle.gov/images/Departments/CityAttorney/SeattleHome/evans_citywide_home_154x154.jpg
-  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_seattle/images/f29d6897b482.png
-  source_urls:
-  - https://seattle.gov/city-clerk/agendas-and-legislative-resources/terms-of-office-for-elected-officials
-  - https://seattle.gov/elected-officials
-  updated_at: '2026-09-18T21:42:52+00:00'
-  roles:
-  - name: Unmatched
-    role_id: unmatched
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:seattle/government
-    division_ocdid: ocd-division/country:us/state:wa/place:seattle
-    start_date: 2025-11
-    end_date: 2029-12
-- id: 0e506f27-1ebd-4b7f-b724-0706eb60184a
-  name: Faye Chess
-  other_names: []
-  phones: []
-  emails: []
-  urls: []
-  image: ''
-  cdn_image: ''
-  source_urls:
-  - https://seattle.gov/city-clerk/agendas-and-legislative-resources/terms-of-office-for-elected-officials
-  updated_at: '2026-09-18T21:42:52+00:00'
-  roles:
-  - name: Unmatched
-    role_id: unmatched
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:seattle/government
-    division_ocdid: ocd-division/country:us/state:wa/place:seattle
-    start_date: 2022-11
-    end_date: 2026-12
-- id: 2f805282-5ee1-4d2f-ac72-5bf6b87b32c4
-  name: Pooja Vaddadi
-  other_names: []
-  phones: []
-  emails: []
-  urls: []
-  image: ''
-  cdn_image: ''
-  source_urls:
-  - https://seattle.gov/city-clerk/agendas-and-legislative-resources/terms-of-office-for-elected-officials
-  updated_at: '2026-09-18T21:42:52+00:00'
-  roles:
-  - name: Unmatched
-    role_id: unmatched
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:seattle/government
-    division_ocdid: ocd-division/country:us/state:wa/place:seattle
-    start_date: 2022-11
-    end_date: 2026-12
-- id: 22c297c7-a090-4d94-b83a-62b7a36ba059
-  name: Willie Gregory
-  other_names: []
-  phones: []
-  emails: []
-  urls: []
-  image: ''
-  cdn_image: ''
-  source_urls:
-  - https://seattle.gov/city-clerk/agendas-and-legislative-resources/terms-of-office-for-elected-officials
-  updated_at: '2026-09-18T21:42:52+00:00'
-  roles:
-  - name: Unmatched
-    role_id: unmatched
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:seattle/government
-    division_ocdid: ocd-division/country:us/state:wa/place:seattle
-    start_date: 2022-11
-    end_date: 2026-12
