@@ -1,1 +1,95 @@
-[]
+- id: 05f2f157-d5e5-45c9-9c20-05223c7b5f02
+  name: Chris Venable
+  other_names: []
+  phones:
+  - (909) 797-2489 ext. 502
+  emails: []
+  urls: []
+  image: https://yucaipa.gov/wp-content/uploads/2025/02/ED3_5714_pp-360x450.jpg
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/ca/local/place_yucaipa/images/a8f4db28fd69.png
+  source_urls:
+  - https://yucaipa.gov/city-council/
+  updated_at: '2026-09-19T02:50:42+00:00'
+  roles:
+  - name: Mayor, District 2
+    role_id: mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:yucaipa/government
+    division_ocdid: ocd-division/country:us/state:ca/place:yucaipa/council_district:2
+    start_date: null
+    end_date: null
+- id: 27175913-799d-4594-b679-7f627129555a
+  name: Justin Beaver
+  other_names: []
+  phones:
+  - (909) 797-2489 ext. 504
+  emails: []
+  urls: []
+  image: https://yucaipa.gov/wp-content/uploads/2025/02/ED3_5720_pp-360x450.jpg
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/ca/local/place_yucaipa/images/f2a6b78e8d14.png
+  source_urls:
+  - https://yucaipa.gov/city-council/
+  updated_at: '2026-09-19T02:50:42+00:00'
+  roles:
+  - name: Deputy Mayor, District 4
+    role_id: deputy-mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:yucaipa/government
+    division_ocdid: ocd-division/country:us/state:ca/place:yucaipa/council_district:4
+    start_date: null
+    end_date: null
+- id: 65d5a6a4-b65b-455e-8a74-3a1a0cc9f3b7
+  name: Bob Miller
+  other_names: []
+  phones:
+  - (909) 797-2489 ext. 501
+  emails: []
+  urls: []
+  image: https://yucaipa.gov/wp-content/uploads/2025/02/ED3_5711_pp-360x450.jpg
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/ca/local/place_yucaipa/images/bde0eb8c29a8.png
+  source_urls:
+  - https://yucaipa.gov/city-council/
+  updated_at: '2026-09-19T02:50:42+00:00'
+  roles:
+  - name: Council Member, District 1
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:yucaipa/government
+    division_ocdid: ocd-division/country:us/state:ca/place:yucaipa/council_district:1
+    start_date: null
+    end_date: null
+- id: 1b5f802e-6417-4a54-9c1b-c38868414859
+  name: Judy Woolsey
+  other_names: []
+  phones:
+  - (909) 797-2489 ext. 503
+  emails: []
+  urls: []
+  image: https://yucaipa.gov/wp-content/uploads/2025/02/ED3_5703_pp-360x450.jpg
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/ca/local/place_yucaipa/images/a9a647790a91.png
+  source_urls:
+  - https://yucaipa.gov/city-council/
+  updated_at: '2026-09-19T02:50:42+00:00'
+  roles:
+  - name: Council Member, District 3
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:yucaipa/government
+    division_ocdid: ocd-division/country:us/state:ca/place:yucaipa/council_district:3
+    start_date: null
+    end_date: null
+- id: 9ef5d8ef-073e-4175-8aca-d86e439fe097
+  name: Jon Thorp
+  other_names: []
+  phones:
+  - (909) 797-2489 ext. 505
+  emails: []
+  urls: []
+  image: https://yucaipa.gov/wp-content/uploads/2025/02/ED3_5707_pp-360x450.jpg
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/ca/local/place_yucaipa/images/1f94ae34578f.png
+  source_urls:
+  - https://yucaipa.gov/city-council/
+  updated_at: '2026-09-19T02:50:42+00:00'
+  roles:
+  - name: Council Member, District 5
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:yucaipa/government
+    division_ocdid: ocd-division/country:us/state:ca/place:yucaipa/council_district:5
+    start_date: null
+    end_date: null
