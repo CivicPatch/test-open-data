@@ -112,28 +112,6 @@
     division_ocdid: ocd-division/country:us/state:wa/place:seattle/council_district:4
     start_date: null
     end_date: null
-- id: 455c9916-c9b8-4467-9bf1-7af82ca3e42c
-  name: Debora Juarez
-  other_names: []
-  phones:
-  - (206) 684-8805
-  emails:
-  - debora.juarez@seattle.gov
-  urls:
-  - https://seattle.gov/council/members/debora-juarez
-  image: https://seattle.gov/domain/31ed0e44b6dc.png
-  cdn_image: ''
-  source_urls:
-  - https://seattle.gov/council
-  - https://seattle.gov/council/members/debora-juarez
-  updated_at: '2026-09-19T04:17:05+00:00'
-  roles:
-  - name: Council Member, District 5
-    role_id: council-member
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:seattle/government
-    division_ocdid: ocd-division/country:us/state:wa/place:seattle/council_district:5
-    start_date: null
-    end_date: null
 - id: c4179983-87b3-4337-8e4a-9d4851a2e511
   name: Dan Strauss
   other_names: []
