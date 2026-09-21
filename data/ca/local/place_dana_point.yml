@@ -40,27 +40,6 @@
     division_ocdid: ocd-division/country:us/state:ca/place:dana_point/council_district:4
     start_date: null
     end_date: null
-- id: 6e21193e-9b78-4f97-95c2-c0244453a473
-  name: Matthew Pagano
-  other_names: []
-  phones:
-  - (949) 248-3500
-  emails:
-  - mpagano@danapoint.org
-  urls:
-  - https://www.danapoint.org/City-Government/City-Council/Matthew-Pagano
-  image: https://www.danapoint.org/files/assets/city/v/5/city-council/images/pagano-2.jpg?dimension=userprofile&w=150&h=150
-  cdn_image: https://cdn.civicpatch.org/open-data/ca/local/place_dana_point/images/5fb1d1b9ac64.png
-  source_urls:
-  - https://www.danapoint.org/City-Government/City-Council
-  updated_at: '2026-09-07T03:18:34+00:00'
-  roles:
-  - name: Council Member, District 2
-    role_id: council-member
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:dana_point/government
-    division_ocdid: ocd-division/country:us/state:ca/place:dana_point/council_district:2
-    start_date: null
-    end_date: null
 - id: 9c62b946-fce0-4cf7-a475-e386a456ef6d
   name: Jamey M. Federico
   other_names: []
@@ -101,5 +80,26 @@
     role_id: council-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:dana_point/government
     division_ocdid: ocd-division/country:us/state:ca/place:dana_point/council_district:5
+    start_date: null
+    end_date: null
+- id: 6e21193e-9b78-4f97-95c2-c0244453a473
+  name: Matthew Pagano
+  other_names: []
+  phones:
+  - (949) 248-3500
+  emails:
+  - mpagano@danapoint.org
+  urls:
+  - https://www.danapoint.org/City-Government/City-Council/Matthew-Pagano
+  image: https://www.danapoint.org/files/assets/city/v/5/city-council/images/pagano-2.jpg?dimension=userprofile&w=150&h=150
+  cdn_image: https://cdn.civicpatch.org/open-data/ca/local/place_dana_point/images/5fb1d1b9ac64.png
+  source_urls:
+  - https://www.danapoint.org/City-Government/City-Council
+  updated_at: '2026-09-07T03:18:34+00:00'
+  roles:
+  - name: Council Member, District 2
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:dana_point/government
+    division_ocdid: ocd-division/country:us/state:ca/place:dana_point/council_district:2
     start_date: null
     end_date: null
