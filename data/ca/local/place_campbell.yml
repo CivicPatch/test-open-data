@@ -36,28 +36,6 @@
     division_ocdid: ocd-division/country:us/state:ca/place:campbell/council_district:5
     start_date: null
     end_date: null
-- id: 28d13c5d-a335-4b77-b2bc-513cc8639bab
-  name: Terry Hines
-  other_names: []
-  phones:
-  - (408) 866-2100
-  emails:
-  - terryh@campbellca.gov
-  urls:
-  - https://www.campbellca.gov/766/Terry-Hines---Dist-1
-  image: https://www.campbellca.gov/ImageRepository/Document?documentId=23736
-  cdn_image: https://cdn.civicpatch.org/open-data/ca/local/place_campbell/images/c3948df84009.png
-  source_urls:
-  - https://www.campbellca.gov/189/City-Council
-  - https://www.campbellca.gov/766/Terry-Hines---Dist-1
-  updated_at: '2026-09-07T03:12:54+00:00'
-  roles:
-  - name: Council Member, District 1
-    role_id: council-member
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:campbell/government
-    division_ocdid: ocd-division/country:us/state:ca/place:campbell/council_district:1
-    start_date: '2024'
-    end_date: 2028-12
 - id: db7ea14b-525f-433a-8f38-a97e4ac34a82
   name: Sergio Lopez
   other_names: []
@@ -103,3 +81,25 @@
     division_ocdid: ocd-division/country:us/state:ca/place:campbell/council_district:4
     start_date: '2022'
     end_date: 2026-12
+- id: 28d13c5d-a335-4b77-b2bc-513cc8639bab
+  name: Terry Hines
+  other_names: []
+  phones:
+  - (408) 866-2100
+  emails:
+  - terryh@campbellca.gov
+  urls:
+  - https://www.campbellca.gov/766/Terry-Hines---Dist-1
+  image: https://www.campbellca.gov/ImageRepository/Document?documentId=23736
+  cdn_image: https://cdn.civicpatch.org/open-data/ca/local/place_campbell/images/c3948df84009.png
+  source_urls:
+  - https://www.campbellca.gov/189/City-Council
+  - https://www.campbellca.gov/766/Terry-Hines---Dist-1
+  updated_at: '2026-09-07T03:12:54+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:campbell/government
+    division_ocdid: ocd-division/country:us/state:ca/place:campbell
+    start_date: '2024'
+    end_date: 2028-12

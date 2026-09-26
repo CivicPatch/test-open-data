@@ -12,10 +12,10 @@
   - https://temeculaca.gov/1541/Mayor-Brenden-Kalfus
   updated_at: '2026-09-07T17:29:04+00:00'
   roles:
-  - name: Mayor, District 2
+  - name: Mayor
     role_id: mayor
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:temecula/government
-    division_ocdid: ocd-division/country:us/state:ca/place:temecula/council_district:2
+    division_ocdid: ocd-division/country:us/state:ca/place:temecula
     start_date: null
     end_date: null
 - id: 42b609fa-c43e-4d39-b607-bbb0017623af
@@ -32,10 +32,10 @@
   - https://temeculaca.gov/1541/Mayor-Brenden-Kalfus
   updated_at: '2026-09-07T17:29:04+00:00'
   roles:
-  - name: Mayor Pro Tempore, District 1
+  - name: Mayor Pro Tempore
     role_id: mayor-pro-tempore
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:temecula/government
-    division_ocdid: ocd-division/country:us/state:ca/place:temecula/council_district:1
+    division_ocdid: ocd-division/country:us/state:ca/place:temecula
     start_date: null
     end_date: null
 - id: 0d9fda17-0ad9-4d6f-984b-e4fa93ba9c3c
@@ -54,10 +54,10 @@
   - https://temeculaca.gov/1541/Mayor-Brenden-Kalfus
   updated_at: '2026-09-07T17:29:04+00:00'
   roles:
-  - name: Council Member, District 3
+  - name: Council Member
     role_id: council-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:temecula/government
-    division_ocdid: ocd-division/country:us/state:ca/place:temecula/council_district:3
+    division_ocdid: ocd-division/country:us/state:ca/place:temecula
     start_date: '2022'
     end_date: '2026'
 - id: 232ccc6a-609e-4576-a8a8-327d409df529
@@ -78,10 +78,10 @@
   - https://temeculaca.gov/1541/Mayor-Brenden-Kalfus
   updated_at: '2026-09-07T17:29:04+00:00'
   roles:
-  - name: Council Member, District 4
+  - name: Council Member
     role_id: council-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:temecula/government
-    division_ocdid: ocd-division/country:us/state:ca/place:temecula/council_district:4
+    division_ocdid: ocd-division/country:us/state:ca/place:temecula
     start_date: '2024'
     end_date: '2028'
 - id: a92c8d3d-91f9-4494-95d8-bd1b7eab9bc0
@@ -100,9 +100,9 @@
   - https://temeculaca.gov/1541/Mayor-Brenden-Kalfus
   updated_at: '2026-09-07T17:29:04+00:00'
   roles:
-  - name: Council Member, District 5
+  - name: Council Member
     role_id: council-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:temecula/government
-    division_ocdid: ocd-division/country:us/state:ca/place:temecula/council_district:5
+    division_ocdid: ocd-division/country:us/state:ca/place:temecula
     start_date: '2022'
     end_date: '2026'

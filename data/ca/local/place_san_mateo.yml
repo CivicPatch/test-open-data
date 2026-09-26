@@ -14,10 +14,10 @@
   - https://www.cityofsanmateo.org/3121/Mayor-Adam-Loraine
   updated_at: '2026-09-13T01:32:57+00:00'
   roles:
-  - name: Mayor, District 5
+  - name: Mayor
     role_id: mayor
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:san_mateo/government
-    division_ocdid: ocd-division/country:us/state:ca/place:san_mateo/council_district:5
+    division_ocdid: ocd-division/country:us/state:ca/place:san_mateo
     start_date: '2022-12-05'
     end_date: 2026-12
 - id: 77245a3b-e021-46ce-b402-6d87f772507f
@@ -40,28 +40,6 @@
     division_ocdid: ocd-division/country:us/state:ca/place:san_mateo
     start_date: null
     end_date: null
-- id: 08122259-1448-4ce5-97fa-ca66a659e4e8
-  name: Lisa Diaz Nash
-  other_names: []
-  phones:
-  - (650) 522-7522 ext. 6265
-  emails:
-  - ldiaznash@cityofsanmateo.org
-  urls:
-  - https://www.cityofsanmateo.org/2940/Council-Member-Lisa-Diaz-Nash
-  image: https://www.cityofsanmateo.org/ImageRepository/Document?documentID=93182
-  cdn_image: https://cdn.civicpatch.org/open-data/ca/local/place_san_mateo/images/1ab824d31206.png
-  source_urls:
-  - https://www.cityofsanmateo.org/2940/Council-Member-Lisa-Diaz-Nash
-  - https://www.cityofsanmateo.org/3121/Mayor-Adam-Loraine
-  updated_at: '2026-09-13T01:32:57+00:00'
-  roles:
-  - name: Council Member, District 1
-    role_id: council-member
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:san_mateo/government
-    division_ocdid: ocd-division/country:us/state:ca/place:san_mateo/council_district:1
-    start_date: '2022-12-05'
-    end_date: 2026-12
 - id: e55a82ca-f902-427f-881b-31eb288a3da9
   name: Danielle Cwirko-Godycki
   other_names: []
@@ -79,12 +57,34 @@
   - https://www.cityofsanmateo.org/3762/Council-Member-Danielle-Cwirko-Godycki
   updated_at: '2026-09-13T01:32:57+00:00'
   roles:
-  - name: Council Member, District 4
+  - name: Council Member
     role_id: council-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:san_mateo/government
-    division_ocdid: ocd-division/country:us/state:ca/place:san_mateo/council_district:4
+    division_ocdid: ocd-division/country:us/state:ca/place:san_mateo
     start_date: '2024-12-09'
     end_date: 2028-12
+- id: 08122259-1448-4ce5-97fa-ca66a659e4e8
+  name: Lisa Diaz Nash
+  other_names: []
+  phones:
+  - (650) 522-7522 ext. 6265
+  emails:
+  - ldiaznash@cityofsanmateo.org
+  urls:
+  - https://www.cityofsanmateo.org/2940/Council-Member-Lisa-Diaz-Nash
+  image: https://www.cityofsanmateo.org/ImageRepository/Document?documentID=93182
+  cdn_image: https://cdn.civicpatch.org/open-data/ca/local/place_san_mateo/images/1ab824d31206.png
+  source_urls:
+  - https://www.cityofsanmateo.org/2940/Council-Member-Lisa-Diaz-Nash
+  - https://www.cityofsanmateo.org/3121/Mayor-Adam-Loraine
+  updated_at: '2026-09-13T01:32:57+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:san_mateo/government
+    division_ocdid: ocd-division/country:us/state:ca/place:san_mateo
+    start_date: '2022-12-05'
+    end_date: 2026-12
 - id: 3b2f6d2d-cd11-4cd1-afa5-6b20fc07f72d
   name: Rob Newsom Jr.
   other_names: []

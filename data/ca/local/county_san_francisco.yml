@@ -22,31 +22,6 @@
     division_ocdid: ocd-division/country:us/state:ca/county:san_francisco
     start_date: null
     end_date: null
-- id: d8b25cd0-e6c4-4203-8ff2-fcdab6b7a3d3
-  name: Rafael Mandelman
-  other_names: []
-  phones:
-  - (415) 554-5184
-  - (415) 554-6968
-  emails:
-  - board.of.supervisors@sfgov.org
-  - mandelmanstaff@sfgov.org
-  urls:
-  - https://www.sf.gov/profile--rafael-mandelman/
-  image: https://media.api.sf.gov/images/D08-Rafael_Mandelman_2025_profile.2e16d0ba.fill-120x120.png
-  cdn_image: https://cdn.civicpatch.org/open-data/ca/local/county_san_francisco/images/5acfd9aed3eb.png
-  source_urls:
-  - https://sf.gov
-  - https://www.sf.gov/departments--board-supervisors/
-  - https://www.sf.gov/profile--rafael-mandelman/
-  updated_at: '2026-09-16T23:14:17+00:00'
-  roles:
-  - name: Council President, District 8
-    role_id: council-president
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/county:san_francisco/government
-    division_ocdid: ocd-division/country:us/state:ca/county:san_francisco/council_district:8
-    start_date: null
-    end_date: null
 - id: a9ea8dbd-aa00-406f-8a83-2287fa54bdd8
   name: Connie Chan
   other_names: []
@@ -199,6 +174,31 @@
     role_id: supervisor
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/county:san_francisco/government
     division_ocdid: ocd-division/country:us/state:ca/county:san_francisco/council_district:7
+    start_date: null
+    end_date: null
+- id: d8b25cd0-e6c4-4203-8ff2-fcdab6b7a3d3
+  name: Rafael Mandelman
+  other_names: []
+  phones:
+  - (415) 554-5184
+  - (415) 554-6968
+  emails:
+  - board.of.supervisors@sfgov.org
+  - mandelmanstaff@sfgov.org
+  urls:
+  - https://www.sf.gov/profile--rafael-mandelman/
+  image: https://media.api.sf.gov/images/D08-Rafael_Mandelman_2025_profile.2e16d0ba.fill-120x120.png
+  cdn_image: https://cdn.civicpatch.org/open-data/ca/local/county_san_francisco/images/5acfd9aed3eb.png
+  source_urls:
+  - https://sf.gov
+  - https://www.sf.gov/departments--board-supervisors/
+  - https://www.sf.gov/profile--rafael-mandelman/
+  updated_at: '2026-09-16T23:14:17+00:00'
+  roles:
+  - name: Supervisor, District 8
+    role_id: supervisor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/county:san_francisco/government
+    division_ocdid: ocd-division/country:us/state:ca/county:san_francisco/council_district:8
     start_date: null
     end_date: null
 - id: cac7726f-895c-4c86-9d48-e4fceb73166c

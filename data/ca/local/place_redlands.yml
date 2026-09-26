@@ -13,10 +13,10 @@
   - https://www.redlands.gov/mayor-mario-saucedo/
   updated_at: '2026-09-07T04:11:46+00:00'
   roles:
-  - name: Mayor, District 3
+  - name: Mayor
     role_id: mayor
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:redlands/government
-    division_ocdid: ocd-division/country:us/state:ca/place:redlands/council_district:3
+    division_ocdid: ocd-division/country:us/state:ca/place:redlands
     start_date: '2022'
     end_date: '2026'
 - id: f825e137-e9bf-4730-8cd1-b5d0d53b898f

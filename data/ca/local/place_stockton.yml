@@ -4,7 +4,7 @@
   phones:
   - (209) 937-8499
   emails:
-  - MayorFugazi@stocktonca.gov
+  - mayorfugazi@stocktonca.gov
   urls:
   - https://www.stocktonca.gov/government/city_council/mayor.php
   image: https://www.stocktonca.gov/Images/Government/City%20Council/Approver_Christina_Fugazi_2025_HD%20%282%29.jpg
@@ -17,7 +17,7 @@
   - https://www.stocktonca.gov/government/city_council/district_6.php
   - https://www.stocktonca.gov/government/city_council/index.php
   - https://www.stocktonca.gov/government/city_council/mayor.php
-  updated_at: '2025-07-17T18:16:55+00:00'
+  updated_at: '2026-09-26T04:19:09+00:00'
   roles:
   - name: Mayor
     role_id: mayor
@@ -45,12 +45,12 @@
   - https://www.stocktonca.gov/government/city_council/district_6.php
   - https://www.stocktonca.gov/government/city_council/index.php
   - https://www.stocktonca.gov/government/city_council/mayor.php
-  updated_at: '2025-07-17T18:16:55+00:00'
+  updated_at: '2026-09-26T04:19:09+00:00'
   roles:
-  - name: Vice Mayor, District 6
+  - name: Vice Mayor
     role_id: vice-mayor
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:stockton/government
-    division_ocdid: ocd-division/country:us/state:ca/place:stockton/council_district:6
+    division_ocdid: ocd-division/country:us/state:ca/place:stockton
     start_date: '2024'
     end_date: null
 - id: e65f4bc7-400f-47e3-9232-2df827bf0a99
@@ -72,12 +72,12 @@
   - https://www.stocktonca.gov/government/city_council/district_6.php
   - https://www.stocktonca.gov/government/city_council/index.php
   - https://www.stocktonca.gov/government/city_council/mayor.php
-  updated_at: '2025-07-17T18:16:55+00:00'
+  updated_at: '2026-09-26T04:19:09+00:00'
   roles:
-  - name: Council Member, District 5
+  - name: Council Member
     role_id: council-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:stockton/government
-    division_ocdid: ocd-division/country:us/state:ca/place:stockton/council_district:5
+    division_ocdid: ocd-division/country:us/state:ca/place:stockton
     start_date: 2023-01
     end_date: null
 - id: 108aa070-9a3b-41ae-9ef5-902dbb6f5d28
@@ -99,12 +99,12 @@
   - https://www.stocktonca.gov/government/city_council/district_6.php
   - https://www.stocktonca.gov/government/city_council/index.php
   - https://www.stocktonca.gov/government/city_council/mayor.php
-  updated_at: '2025-07-17T18:16:55+00:00'
+  updated_at: '2026-09-26T04:19:09+00:00'
   roles:
-  - name: Council Member, District 2
+  - name: Council Member
     role_id: council-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:stockton/government
-    division_ocdid: ocd-division/country:us/state:ca/place:stockton/council_district:2
+    division_ocdid: ocd-division/country:us/state:ca/place:stockton
     start_date: '2024'
     end_date: null
 - id: 7290f3a7-5570-460f-bbc6-7fba5a343c11
@@ -126,12 +126,12 @@
   - https://www.stocktonca.gov/government/city_council/district_6.php
   - https://www.stocktonca.gov/government/city_council/index.php
   - https://www.stocktonca.gov/government/city_council/mayor.php
-  updated_at: '2025-07-17T18:16:55+00:00'
+  updated_at: '2026-09-26T04:19:09+00:00'
   roles:
-  - name: Council Member, District 4
+  - name: Council Member
     role_id: council-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:stockton/government
-    division_ocdid: ocd-division/country:us/state:ca/place:stockton/council_district:4
+    division_ocdid: ocd-division/country:us/state:ca/place:stockton
     start_date: 2025-01
     end_date: null
 - id: 39996939-ab6e-46f9-940d-6c14e0f35769
@@ -153,12 +153,12 @@
   - https://www.stocktonca.gov/government/city_council/district_6.php
   - https://www.stocktonca.gov/government/city_council/index.php
   - https://www.stocktonca.gov/government/city_council/mayor.php
-  updated_at: '2025-07-17T18:16:55+00:00'
+  updated_at: '2026-09-26T04:19:09+00:00'
   roles:
-  - name: Council Member, District 3
+  - name: Council Member
     role_id: council-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:stockton/government
-    division_ocdid: ocd-division/country:us/state:ca/place:stockton/council_district:3
+    division_ocdid: ocd-division/country:us/state:ca/place:stockton
     start_date: 2023-01
     end_date: null
 - id: 6a8017e3-cb60-410c-b008-bb7454836d06
@@ -181,11 +181,11 @@
   - https://www.stocktonca.gov/government/city_council/district_6.php
   - https://www.stocktonca.gov/government/city_council/index.php
   - https://www.stocktonca.gov/government/city_council/mayor.php
-  updated_at: '2025-07-17T18:16:55+00:00'
+  updated_at: '2026-09-26T04:19:09+00:00'
   roles:
-  - name: Council Member, District 1
+  - name: Council Member
     role_id: council-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:stockton/government
-    division_ocdid: ocd-division/country:us/state:ca/place:stockton/council_district:1
+    division_ocdid: ocd-division/country:us/state:ca/place:stockton
     start_date: 2023-01
     end_date: null

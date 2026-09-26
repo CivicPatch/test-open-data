@@ -42,28 +42,6 @@
     division_ocdid: ocd-division/country:us/state:ca/county:fresno/council_district:3
     start_date: 2025-01
     end_date: null
-- id: a02e0da5-4641-45b9-923e-74e93d7fc6d9
-  name: Brian Pacheco
-  other_names: []
-  phones:
-  - (559) 600-1000
-  emails:
-  - district1@fresnocountyca.gov
-  urls:
-  - https://www.fresnocountyca.gov/Departments/Board-of-Supervisors/Supervisor-Brian-Pacheco
-  image: https://www.fresnocountyca.gov/files/sharedassets/county/v/1/board-of-supervisors/supervisor-brian-pacheco/brian-pacheco_final_2017-002.jpg?dimension=pageimage&w=480
-  cdn_image: https://cdn.civicpatch.org/open-data/ca/local/county_fresno/images/5763ce86fca8.png
-  source_urls:
-  - https://www.fresnocountyca.gov/Departments/Board-of-Supervisors
-  - https://www.fresnocountyca.gov/Departments/Board-of-Supervisors/Supervisor-Brian-Pacheco
-  updated_at: '2026-09-07T01:05:37+00:00'
-  roles:
-  - name: Supervisor, District 1
-    role_id: supervisor
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/county:fresno/government
-    division_ocdid: ocd-division/country:us/state:ca/county:fresno/council_district:1
-    start_date: 2022-06
-    end_date: null
 - id: 978073e7-5ed3-44cd-9ba0-3430f88db15b
   name: Buddy Mendes
   other_names: []
@@ -125,4 +103,26 @@
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/county:fresno/government
     division_ocdid: ocd-division/country:us/state:ca/county:fresno/council_district:5
     start_date: null
+    end_date: null
+- id: a02e0da5-4641-45b9-923e-74e93d7fc6d9
+  name: Brian Pacheco
+  other_names: []
+  phones:
+  - (559) 600-1000
+  emails:
+  - district1@fresnocountyca.gov
+  urls:
+  - https://www.fresnocountyca.gov/Departments/Board-of-Supervisors/Supervisor-Brian-Pacheco
+  image: https://www.fresnocountyca.gov/files/sharedassets/county/v/1/board-of-supervisors/supervisor-brian-pacheco/brian-pacheco_final_2017-002.jpg?dimension=pageimage&w=480
+  cdn_image: https://cdn.civicpatch.org/open-data/ca/local/county_fresno/images/5763ce86fca8.png
+  source_urls:
+  - https://www.fresnocountyca.gov/Departments/Board-of-Supervisors
+  - https://www.fresnocountyca.gov/Departments/Board-of-Supervisors/Supervisor-Brian-Pacheco
+  updated_at: '2026-09-07T01:05:37+00:00'
+  roles:
+  - name: Unmatched, District 1
+    role_id: unmatched
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/county:fresno/government
+    division_ocdid: ocd-division/country:us/state:ca/county:fresno/council_district:1
+    start_date: 2022-06
     end_date: null

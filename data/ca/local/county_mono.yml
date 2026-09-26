@@ -19,10 +19,10 @@
   - https://www.monocounty.ca.gov/m/directory/department?did=35
   updated_at: '2026-09-07T02:56:37+00:00'
   roles:
-  - name: Chair, District 1
+  - name: Chair
     role_id: chair
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/county:mono/government
-    division_ocdid: ocd-division/country:us/state:ca/county:mono/council_district:1
+    division_ocdid: ocd-division/country:us/state:ca/county:mono
     start_date: null
     end_date: '2027-01-04'
 - id: b329e16d-9124-40a0-aa05-111b5afe634c
@@ -46,8 +46,8 @@
   - https://www.monocounty.ca.gov/m/directory/department?did=35
   updated_at: '2026-09-07T02:56:37+00:00'
   roles:
-  - name: Chair Pro Tem
-    role_id: chair-pro-tem
+  - name: Chair
+    role_id: chair
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/county:mono/government
     division_ocdid: ocd-division/country:us/state:ca/county:mono
     start_date: null
@@ -72,10 +72,10 @@
   - https://www.monocounty.ca.gov/m/directory/department?did=35
   updated_at: '2026-09-07T02:56:37+00:00'
   roles:
-  - name: Vice Chair, District 3
+  - name: Vice Chair
     role_id: vice-chair
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/county:mono/government
-    division_ocdid: ocd-division/country:us/state:ca/county:mono/council_district:3
+    division_ocdid: ocd-division/country:us/state:ca/county:mono
     start_date: null
     end_date: '2029-01-08'
 - id: 619cac0a-255b-4f6c-bbbd-49d7aac07935
@@ -99,10 +99,10 @@
   - https://www.monocounty.ca.gov/m/directory/department?did=35
   updated_at: '2026-09-07T02:56:37+00:00'
   roles:
-  - name: Supervisor, District 4
+  - name: Supervisor
     role_id: supervisor
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/county:mono/government
-    division_ocdid: ocd-division/country:us/state:ca/county:mono/council_district:4
+    division_ocdid: ocd-division/country:us/state:ca/county:mono
     start_date: null
     end_date: '2029-01-08'
 - id: a4a2984d-874c-4b24-923d-4813eafb29ad
@@ -125,10 +125,10 @@
   - https://www.monocounty.ca.gov/m/directory/department?did=35
   updated_at: '2026-09-07T02:56:37+00:00'
   roles:
-  - name: Supervisor, District 5
+  - name: Supervisor
     role_id: supervisor
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/county:mono/government
-    division_ocdid: ocd-division/country:us/state:ca/county:mono/council_district:5
+    division_ocdid: ocd-division/country:us/state:ca/county:mono
     start_date: null
     end_date: '2027-01-04'
 - id: c2ea0ae7-87b5-4f71-99ac-80c61ed13a32

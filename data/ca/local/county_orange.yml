@@ -20,28 +20,6 @@
     division_ocdid: ocd-division/country:us/state:ca/county:orange/council_district:4
     start_date: null
     end_date: null
-- id: 16ecdc68-fa47-4970-836a-1f0fc6e68de4
-  name: Katrina Foley
-  other_names: []
-  phones:
-  - (714) 834-3550
-  emails: []
-  urls:
-  - https://bos5.ocgov.com
-  - https://bos5.ocgov.com/
-  image: https://board.oc.gov/themes/custom/bos_theme/images/BOS-Main_Hero5th.jpg
-  cdn_image: https://cdn.civicpatch.org/open-data/ca/local/county_orange/images/049d9ba2c358.png
-  source_urls:
-  - https://ocgov.com/about-county/info-oc/elected-officials
-  - https://www.ocgov.com/gov/bos/default.asp
-  updated_at: '2026-09-16T01:46:39+00:00'
-  roles:
-  - name: Vice Chair, District 5
-    role_id: vice-chair
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/county:orange/government
-    division_ocdid: ocd-division/country:us/state:ca/county:orange/council_district:5
-    start_date: null
-    end_date: null
 - id: bf127992-0667-4dce-b640-c2a789b8e0cc
   name: Janet Nguyen
   other_names: []
@@ -106,6 +84,28 @@
     role_id: supervisor
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/county:orange/government
     division_ocdid: ocd-division/country:us/state:ca/county:orange/council_district:3
+    start_date: null
+    end_date: null
+- id: 16ecdc68-fa47-4970-836a-1f0fc6e68de4
+  name: Katrina Foley
+  other_names: []
+  phones:
+  - (714) 834-3550
+  emails: []
+  urls:
+  - https://bos5.ocgov.com
+  - https://bos5.ocgov.com/
+  image: https://board.oc.gov/themes/custom/bos_theme/images/BOS-Main_Hero5th.jpg
+  cdn_image: https://cdn.civicpatch.org/open-data/ca/local/county_orange/images/049d9ba2c358.png
+  source_urls:
+  - https://ocgov.com/about-county/info-oc/elected-officials
+  - https://www.ocgov.com/gov/bos/default.asp
+  updated_at: '2026-09-16T01:46:39+00:00'
+  roles:
+  - name: Supervisor, District 5
+    role_id: supervisor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/county:orange/government
+    division_ocdid: ocd-division/country:us/state:ca/county:orange/council_district:5
     start_date: null
     end_date: null
 - id: ea0352fe-3d91-4793-94f7-90100953cd3c

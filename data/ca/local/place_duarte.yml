@@ -16,10 +16,10 @@
   - https://www.cityofduarte.ca.gov/government/mayor-city-council
   updated_at: '2026-09-07T03:26:20+00:00'
   roles:
-  - name: Mayor, District 4
+  - name: Mayor
     role_id: mayor
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:duarte/government
-    division_ocdid: ocd-division/country:us/state:ca/place:duarte/council_district:4
+    division_ocdid: ocd-division/country:us/state:ca/place:duarte
     start_date: null
     end_date: null
 - id: 0531832c-1a2b-47b2-b1b8-48865b171dc2

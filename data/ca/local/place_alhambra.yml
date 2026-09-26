@@ -15,33 +15,10 @@
   - https://www.alhambraca.gov/m/directory/department?did=67
   updated_at: '2026-09-07T03:04:46+00:00'
   roles:
-  - name: Vice Mayor, District 2
-    role_id: vice-mayor
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:alhambra/government
-    division_ocdid: ocd-division/country:us/state:ca/place:alhambra/council_district:2
-    start_date: null
-    end_date: null
-- id: 9cb3bc23-5ce2-45d2-b2a2-9f69f448efab
-  name: Adele Andrade-Stadler
-  other_names: []
-  phones:
-  - (626) 570-5010
-  emails:
-  - luwan@cityofalhambra.org
-  urls:
-  - https://www.alhambraca.gov/337/Adele-Andrade-Stadler
-  - https://www.alhambraca.gov/m/directory/employee?eid=90
-  image: https://www.alhambraca.gov/ImageRepository/Document?documentID=1286
-  cdn_image: https://cdn.civicpatch.org/open-data/ca/local/place_alhambra/images/b8e77b596d7c.png
-  source_urls:
-  - https://www.alhambraca.gov/297/City-Council
-  - https://www.alhambraca.gov/m/directory/department?did=67
-  updated_at: '2026-09-07T03:04:46+00:00'
-  roles:
-  - name: Mayor, District 5
+  - name: Mayor, District 2
     role_id: mayor
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:alhambra/government
-    division_ocdid: ocd-division/country:us/state:ca/place:alhambra/council_district:5
+    division_ocdid: ocd-division/country:us/state:ca/place:alhambra/council_district:2
     start_date: null
     end_date: null
 - id: 2a475606-318d-4115-9e3f-071051a58c4b
@@ -108,5 +85,28 @@
     role_id: council-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:alhambra/government
     division_ocdid: ocd-division/country:us/state:ca/place:alhambra/council_district:4
+    start_date: null
+    end_date: null
+- id: 9cb3bc23-5ce2-45d2-b2a2-9f69f448efab
+  name: Adele Andrade-Stadler
+  other_names: []
+  phones:
+  - (626) 570-5010
+  emails:
+  - luwan@cityofalhambra.org
+  urls:
+  - https://www.alhambraca.gov/337/Adele-Andrade-Stadler
+  - https://www.alhambraca.gov/m/directory/employee?eid=90
+  image: https://www.alhambraca.gov/ImageRepository/Document?documentID=1286
+  cdn_image: https://cdn.civicpatch.org/open-data/ca/local/place_alhambra/images/b8e77b596d7c.png
+  source_urls:
+  - https://www.alhambraca.gov/297/City-Council
+  - https://www.alhambraca.gov/m/directory/department?did=67
+  updated_at: '2026-09-07T03:04:46+00:00'
+  roles:
+  - name: Council Member, District 5
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:alhambra/government
+    division_ocdid: ocd-division/country:us/state:ca/place:alhambra/council_district:5
     start_date: null
     end_date: null

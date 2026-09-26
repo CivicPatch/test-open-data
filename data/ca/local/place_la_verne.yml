@@ -1,45 +1,3 @@
-- id: 989efccd-a4a1-4d9d-8048-ac6dc7b7e290
-  name: Tim Hepburn
-  other_names: []
-  phones:
-  - (714) 981-7973
-  emails: []
-  urls:
-  - https://www.laverneca.gov/m/directory/employee?eid=30
-  image: https://www.laverneca.gov/ImageRepository/Document?documentID=1021
-  cdn_image: https://cdn.civicpatch.org/open-data/ca/local/place_la_verne/images/baad3b5b157d.png
-  source_urls:
-  - https://www.laverneca.gov/351/City-Council
-  - https://www.laverneca.gov/m/directory/employee?eid=30
-  updated_at: '2026-09-07T03:45:21+00:00'
-  roles:
-  - name: Mayor, District 4
-    role_id: mayor
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:la_verne/government
-    division_ocdid: ocd-division/country:us/state:ca/place:la_verne/council_district:4
-    start_date: null
-    end_date: null
-- id: e543e914-fa57-4aff-a640-63b8410e4133
-  name: Meshal "Kash" Kashifalghita
-  other_names: []
-  phones:
-  - (213) 453-7635
-  emails: []
-  urls:
-  - https://www.laverneca.gov/m/directory/employee?eid=41
-  image: https://www.laverneca.gov/ImageRepository/Document?documentID=2275
-  cdn_image: https://cdn.civicpatch.org/open-data/ca/local/place_la_verne/images/fc302eef2523.png
-  source_urls:
-  - https://www.laverneca.gov/351/City-Council
-  - https://www.laverneca.gov/m/directory/employee?eid=41
-  updated_at: '2026-09-07T03:45:21+00:00'
-  roles:
-  - name: Mayor Pro Tempore, District 3
-    role_id: mayor-pro-tempore
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:la_verne/government
-    division_ocdid: ocd-division/country:us/state:ca/place:la_verne/council_district:3
-    start_date: null
-    end_date: null
 - id: 612864e9-ec63-44d7-8cc3-f93798b807be
   name: Steven F. Johnson
   other_names: []
@@ -79,6 +37,48 @@
     role_id: council-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:la_verne/government
     division_ocdid: ocd-division/country:us/state:ca/place:la_verne/council_district:2
+    start_date: null
+    end_date: null
+- id: e543e914-fa57-4aff-a640-63b8410e4133
+  name: Meshal "Kash" Kashifalghita
+  other_names: []
+  phones:
+  - (213) 453-7635
+  emails: []
+  urls:
+  - https://www.laverneca.gov/m/directory/employee?eid=41
+  image: https://www.laverneca.gov/ImageRepository/Document?documentID=2275
+  cdn_image: https://cdn.civicpatch.org/open-data/ca/local/place_la_verne/images/fc302eef2523.png
+  source_urls:
+  - https://www.laverneca.gov/351/City-Council
+  - https://www.laverneca.gov/m/directory/employee?eid=41
+  updated_at: '2026-09-07T03:45:21+00:00'
+  roles:
+  - name: Council Member, District 3
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:la_verne/government
+    division_ocdid: ocd-division/country:us/state:ca/place:la_verne/council_district:3
+    start_date: null
+    end_date: null
+- id: 989efccd-a4a1-4d9d-8048-ac6dc7b7e290
+  name: Tim Hepburn
+  other_names: []
+  phones:
+  - (714) 981-7973
+  emails: []
+  urls:
+  - https://www.laverneca.gov/m/directory/employee?eid=30
+  image: https://www.laverneca.gov/ImageRepository/Document?documentID=1021
+  cdn_image: https://cdn.civicpatch.org/open-data/ca/local/place_la_verne/images/baad3b5b157d.png
+  source_urls:
+  - https://www.laverneca.gov/351/City-Council
+  - https://www.laverneca.gov/m/directory/employee?eid=30
+  updated_at: '2026-09-07T03:45:21+00:00'
+  roles:
+  - name: Council Member, District 4
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:la_verne/government
+    division_ocdid: ocd-division/country:us/state:ca/place:la_verne/council_district:4
     start_date: null
     end_date: null
 - id: 8c452631-86d8-4bd7-bc05-9e0a22bb76d8

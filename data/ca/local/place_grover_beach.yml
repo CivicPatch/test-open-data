@@ -34,10 +34,10 @@
   - https://www.grover.org/71/City-Council
   updated_at: '2026-09-15T22:27:05+00:00'
   roles:
-  - name: Mayor Pro Tempore, District 1
+  - name: Mayor Pro Tempore
     role_id: mayor-pro-tempore
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:grover_beach/government
-    division_ocdid: ocd-division/country:us/state:ca/place:grover_beach/council_district:1
+    division_ocdid: ocd-division/country:us/state:ca/place:grover_beach
     start_date: null
     end_date: null
 - id: db019e88-7cbd-4c79-9ba3-895b47c37113

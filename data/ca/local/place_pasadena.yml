@@ -23,29 +23,6 @@
     division_ocdid: ocd-division/country:us/state:ca/place:pasadena
     start_date: '2020-11-03'
     end_date: null
-- id: 4bcbc41c-4cd0-40ca-ac13-4fb5f5304249
-  name: Jess Rivas
-  other_names: []
-  phones: []
-  emails: []
-  urls:
-  - https://www.cityofpasadena.net/district5/
-  - https://www.cityofpasadena.net/district5/bio/
-  - https://www.cityofpasadena.net/district5/councilmember-jess-rivas-spanish/
-  image: https://www.cityofpasadena.net/district5/wp-content/uploads/sites/8/Jess-Rivas-Councilmember-District-5.jpg
-  cdn_image: https://cdn.civicpatch.org/open-data/ca/local/place_pasadena/images/ab086c6856a8.png
-  source_urls:
-  - https://www.cityofpasadena.net/district5
-  - https://www.cityofpasadena.net/district5/councilmember-jess-rivas-spanish/
-  - https://www.cityofpasadena.net/mayor/all-districts
-  updated_at: '2026-09-15T03:25:06+00:00'
-  roles:
-  - name: Vice Mayor, District 5
-    role_id: vice-mayor
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:pasadena/government
-    division_ocdid: ocd-division/country:us/state:ca/place:pasadena/council_district:5
-    start_date: 2022-06
-    end_date: null
 - id: 731ecc42-8b77-40cc-9071-f270665d0170
   name: Tyron Hampton
   other_names: []
@@ -125,6 +102,29 @@
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:pasadena/government
     division_ocdid: ocd-division/country:us/state:ca/place:pasadena/council_district:4
     start_date: 2011-04
+    end_date: null
+- id: 4bcbc41c-4cd0-40ca-ac13-4fb5f5304249
+  name: Jess Rivas
+  other_names: []
+  phones: []
+  emails: []
+  urls:
+  - https://www.cityofpasadena.net/district5/
+  - https://www.cityofpasadena.net/district5/bio/
+  - https://www.cityofpasadena.net/district5/councilmember-jess-rivas-spanish/
+  image: https://www.cityofpasadena.net/district5/wp-content/uploads/sites/8/Jess-Rivas-Councilmember-District-5.jpg
+  cdn_image: https://cdn.civicpatch.org/open-data/ca/local/place_pasadena/images/ab086c6856a8.png
+  source_urls:
+  - https://www.cityofpasadena.net/district5
+  - https://www.cityofpasadena.net/district5/councilmember-jess-rivas-spanish/
+  - https://www.cityofpasadena.net/mayor/all-districts
+  updated_at: '2026-09-15T03:25:06+00:00'
+  roles:
+  - name: Council Member, District 5
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:pasadena/government
+    division_ocdid: ocd-division/country:us/state:ca/place:pasadena/council_district:5
+    start_date: 2022-06
     end_date: null
 - id: 7b6a9c49-4f54-4798-98db-9c3498bb615b
   name: Steve Madison

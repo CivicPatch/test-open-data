@@ -16,12 +16,12 @@
   - https://www.cityofconcord.org/240/Pablo-Benavente
   - https://www.cityofconcord.org/242/Laura-Hoffmeister
   - https://www.cityofconcord.org/711/Dominic-Aliano
-  updated_at: '2025-07-17T19:29:17+00:00'
+  updated_at: '2026-09-26T04:19:03+00:00'
   roles:
-  - name: Mayor, District 2
+  - name: Mayor
     role_id: mayor
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:concord/government
-    division_ocdid: ocd-division/country:us/state:ca/place:concord/council_district:2
+    division_ocdid: ocd-division/country:us/state:ca/place:concord
     start_date: 2024-11
     end_date: 2028-11
 - id: 3999b84a-0919-4b6c-a0b3-b52473f781e6
@@ -42,12 +42,12 @@
   - https://www.cityofconcord.org/240/Pablo-Benavente
   - https://www.cityofconcord.org/242/Laura-Hoffmeister
   - https://www.cityofconcord.org/711/Dominic-Aliano
-  updated_at: '2025-07-17T19:29:17+00:00'
+  updated_at: '2026-09-26T04:19:03+00:00'
   roles:
-  - name: Mayor, District 3
+  - name: Mayor
     role_id: mayor
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:concord/government
-    division_ocdid: ocd-division/country:us/state:ca/place:concord/council_district:3
+    division_ocdid: ocd-division/country:us/state:ca/place:concord
     start_date: 2022-11
     end_date: 2026-11
 - id: 73dfbb13-b73d-4d11-be9e-7bd059f1fe3e
@@ -68,12 +68,12 @@
   - https://www.cityofconcord.org/240/Pablo-Benavente
   - https://www.cityofconcord.org/242/Laura-Hoffmeister
   - https://www.cityofconcord.org/711/Dominic-Aliano
-  updated_at: '2025-07-17T19:29:17+00:00'
+  updated_at: '2026-09-26T04:19:03+00:00'
   roles:
-  - name: Vice Mayor, District 5
+  - name: Vice Mayor
     role_id: vice-mayor
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:concord/government
-    division_ocdid: ocd-division/country:us/state:ca/place:concord/council_district:5
+    division_ocdid: ocd-division/country:us/state:ca/place:concord
     start_date: 2022-11
     end_date: 2026-11
 - id: 210c9509-7cc9-43d4-bceb-d6af843d94fd
@@ -94,12 +94,12 @@
   - https://www.cityofconcord.org/240/Pablo-Benavente
   - https://www.cityofconcord.org/242/Laura-Hoffmeister
   - https://www.cityofconcord.org/711/Dominic-Aliano
-  updated_at: '2025-07-17T19:29:17+00:00'
+  updated_at: '2026-09-26T04:19:03+00:00'
   roles:
-  - name: Council Member, District 1
+  - name: Council Member
     role_id: council-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:concord/government
-    division_ocdid: ocd-division/country:us/state:ca/place:concord/council_district:1
+    division_ocdid: ocd-division/country:us/state:ca/place:concord
     start_date: '2022'
     end_date: 2026-11
 - id: e7d1fec1-7b61-4c08-9058-32d6ee94be37
@@ -120,11 +120,11 @@
   - https://www.cityofconcord.org/240/Pablo-Benavente
   - https://www.cityofconcord.org/242/Laura-Hoffmeister
   - https://www.cityofconcord.org/711/Dominic-Aliano
-  updated_at: '2025-07-17T19:29:17+00:00'
+  updated_at: '2026-09-26T04:19:03+00:00'
   roles:
-  - name: Council Member, District 4
+  - name: Council Member
     role_id: council-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:concord/government
-    division_ocdid: ocd-division/country:us/state:ca/place:concord/council_district:4
+    division_ocdid: ocd-division/country:us/state:ca/place:concord
     start_date: null
     end_date: 2028-11

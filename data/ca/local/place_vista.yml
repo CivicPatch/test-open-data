@@ -36,12 +36,50 @@
   - https://www.vista.gov/city-hall/elected-officials/john-b-franklin
   updated_at: '2026-09-07T17:24:43+00:00'
   roles:
-  - name: Council Member, District 1
+  - name: Council Member
     role_id: council-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:vista/government
-    division_ocdid: ocd-division/country:us/state:ca/place:vista/council_district:1
+    division_ocdid: ocd-division/country:us/state:ca/place:vista
     start_date: '2022'
     end_date: '2026'
+- id: fbb7e1b5-4f92-498d-8fdc-5f2985d5a392
+  name: Dan O'Donnell
+  other_names: []
+  phones: []
+  emails: []
+  urls:
+  - https://www.vista.gov/city-hall/elected-officials/dan-o-donnell
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://www.vista.gov/city-hall/elected-officials/john-b-franklin
+  updated_at: '2026-09-07T17:24:43+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:vista/government
+    division_ocdid: ocd-division/country:us/state:ca/place:vista
+    start_date: null
+    end_date: null
+- id: 80329bfa-f9c8-4e5b-8d98-220943c65c4c
+  name: Jeff Fox
+  other_names: []
+  phones: []
+  emails: []
+  urls:
+  - https://www.vista.gov/city-hall/elected-officials/jeff-fox
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://www.vista.gov/city-hall/elected-officials/john-b-franklin
+  updated_at: '2026-09-07T17:24:43+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:vista/government
+    division_ocdid: ocd-division/country:us/state:ca/place:vista
+    start_date: null
+    end_date: null
 - id: 000501d5-d7ee-4a84-8d58-48aa44ef9cea
   name: Katie Melendez
   other_names: []
@@ -58,47 +96,9 @@
   - https://www.vista.gov/city-hall/elected-officials/katie-melendez
   updated_at: '2026-09-07T17:24:43+00:00'
   roles:
-  - name: Council Member, District 3
+  - name: Council Member
     role_id: council-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:vista/government
-    division_ocdid: ocd-division/country:us/state:ca/place:vista/council_district:3
+    division_ocdid: ocd-division/country:us/state:ca/place:vista
     start_date: '2024'
     end_date: '2028'
-- id: fbb7e1b5-4f92-498d-8fdc-5f2985d5a392
-  name: Dan O'Donnell
-  other_names: []
-  phones: []
-  emails: []
-  urls:
-  - https://www.vista.gov/city-hall/elected-officials/dan-o-donnell
-  image: ''
-  cdn_image: ''
-  source_urls:
-  - https://www.vista.gov/city-hall/elected-officials/john-b-franklin
-  updated_at: '2026-09-07T17:24:43+00:00'
-  roles:
-  - name: Council Member, District 4
-    role_id: council-member
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:vista/government
-    division_ocdid: ocd-division/country:us/state:ca/place:vista/council_district:4
-    start_date: null
-    end_date: null
-- id: 80329bfa-f9c8-4e5b-8d98-220943c65c4c
-  name: Jeff Fox
-  other_names: []
-  phones: []
-  emails: []
-  urls:
-  - https://www.vista.gov/city-hall/elected-officials/jeff-fox
-  image: ''
-  cdn_image: ''
-  source_urls:
-  - https://www.vista.gov/city-hall/elected-officials/john-b-franklin
-  updated_at: '2026-09-07T17:24:43+00:00'
-  roles:
-  - name: Council Member, District 2
-    role_id: council-member
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:vista/government
-    division_ocdid: ocd-division/country:us/state:ca/place:vista/council_district:2
-    start_date: null
-    end_date: null

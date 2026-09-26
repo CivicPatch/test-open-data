@@ -44,8 +44,7 @@
     end_date: 2028-11
 - id: cf5aa002-25e0-4cd3-a4f1-340130fa4952
   name: Jawane Hilton
-  other_names:
-  - Dr. Jawane Hilton
+  other_names: []
   phones:
   - (310) 952-1700
   emails:
@@ -57,7 +56,7 @@
   source_urls:
   - https://carsonca.gov/government/elected_officials/district_1.php
   - https://carsonca.gov/government/elected_officials/district_3.php
-  updated_at: '2026-09-16T22:58:35+00:00'
+  updated_at: '2026-09-26T04:19:02+00:00'
   roles:
   - name: Council Member, District 1
     role_id: council-member
@@ -102,11 +101,11 @@
   - https://carsonca.gov/government/elected_officials/district_4.php
   - https://carsonca.gov/government/elected_officials/mayor.php
   - https://ci.carson.ca.us/government/mayor.aspx
-  updated_at: '2026-09-16T22:58:35+00:00'
+  updated_at: '2026-09-26T04:19:02+00:00'
   roles:
-  - name: Council Member, District 4
+  - name: Council Member
     role_id: council-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:carson/government
-    division_ocdid: ocd-division/country:us/state:ca/place:carson/council_district:4
+    division_ocdid: ocd-division/country:us/state:ca/place:carson
     start_date: 2021-11
     end_date: 2026-11

@@ -97,9 +97,9 @@
   - https://tuolumnecounty.ca.gov/132/Board-of-Supervisors
   updated_at: '2026-09-07T01:25:43+00:00'
   roles:
-  - name: Supervisor, District 4
+  - name: Supervisor
     role_id: supervisor
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/county:tuolumne/government
-    division_ocdid: ocd-division/country:us/state:ca/county:tuolumne/council_district:4
+    division_ocdid: ocd-division/country:us/state:ca/county:tuolumne
     start_date: null
     end_date: null
