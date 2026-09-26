@@ -35,8 +35,8 @@
   - https://www.cityofpalmdaleca.gov/306/Councilmember-Austin-Bishop
   updated_at: '2026-09-15T03:33:30+00:00'
   roles:
-  - name: Mayor Pro Tempore, District 1
-    role_id: mayor-pro-tempore
+  - name: Council Member, District 1
+    role_id: council-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:palmdale/government
     division_ocdid: ocd-division/country:us/state:ca/place:palmdale/council_district:1
     start_date: null

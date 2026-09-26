@@ -44,8 +44,7 @@
     end_date: '2027'
 - id: ef7eeda1-2cfd-4e4a-b1a6-961143e156c9
   name: Dr. Mary Vixie Sandy
-  other_names:
-  - Mary Vixie Sandy
+  other_names: []
   phones:
   - (530) 666-8621
   emails:
@@ -57,7 +56,7 @@
   source_urls:
   - https://www.yolocounty.gov/government/board-of-supervisors
   - https://www.yolocounty.gov/government/board-of-supervisors/district-3-mary-sandy
-  updated_at: '2026-09-07T01:28:08+00:00'
+  updated_at: '2026-09-26T04:19:01+00:00'
   roles:
   - name: Supervisor, District 3
     role_id: supervisor

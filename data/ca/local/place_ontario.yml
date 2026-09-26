@@ -42,28 +42,6 @@
     division_ocdid: ocd-division/country:us/state:ca/place:ontario
     start_date: null
     end_date: null
-- id: 0e7f3241-7d46-4916-9438-229f39474574
-  name: Daisy Macias
-  other_names: []
-  phones:
-  - (909) 395-2000
-  emails: []
-  urls:
-  - https://www.ontarioca.gov/government/city-council/daisy-macias
-  image: https://www.ontarioca.gov/_next/image?url=https%3A%2F%2Fcontent.ontarioca.gov%2Fsites%2Fdefault%2Ffiles%2F2025-01%2FDaisy%2520Macias%2520120624_10139%2520Final.jpg&w=1920&q=75
-  cdn_image: https://cdn.civicpatch.org/open-data/ca/local/place_ontario/images/e9c224f43fe1.png
-  source_urls:
-  - https://www.ontarioca.gov/government/city-council
-  - https://www.ontarioca.gov/government/city-council/alan-d-wapner
-  - https://www.ontarioca.gov/government/city-council/daisy-macias
-  updated_at: '2026-09-15T03:32:15+00:00'
-  roles:
-  - name: Council Member, District 4
-    role_id: council-member
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:ontario/government
-    division_ocdid: ocd-division/country:us/state:ca/place:ontario/council_district:4
-    start_date: 2024-12
-    end_date: 2028-12
 - id: 6ee51e11-02e1-4f12-9acb-151b603a13d4
   name: Alan D. Wapner
   other_names: []
@@ -85,6 +63,28 @@
     division_ocdid: ocd-division/country:us/state:ca/place:ontario
     start_date: 2022-12
     end_date: 2026-12
+- id: 0e7f3241-7d46-4916-9438-229f39474574
+  name: Daisy Macias
+  other_names: []
+  phones:
+  - (909) 395-2000
+  emails: []
+  urls:
+  - https://www.ontarioca.gov/government/city-council/daisy-macias
+  image: https://www.ontarioca.gov/_next/image?url=https%3A%2F%2Fcontent.ontarioca.gov%2Fsites%2Fdefault%2Ffiles%2F2025-01%2FDaisy%2520Macias%2520120624_10139%2520Final.jpg&w=1920&q=75
+  cdn_image: https://cdn.civicpatch.org/open-data/ca/local/place_ontario/images/e9c224f43fe1.png
+  source_urls:
+  - https://www.ontarioca.gov/government/city-council
+  - https://www.ontarioca.gov/government/city-council/alan-d-wapner
+  - https://www.ontarioca.gov/government/city-council/daisy-macias
+  updated_at: '2026-09-15T03:32:15+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:ontario/government
+    division_ocdid: ocd-division/country:us/state:ca/place:ontario
+    start_date: 2024-12
+    end_date: 2028-12
 - id: d3a9d200-d0ec-43f8-a8a8-94e7240e6ea1
   name: Jim W. Bowman
   other_names: []

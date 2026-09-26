@@ -126,8 +126,7 @@
     end_date: null
 - id: e0b0b179-5a44-4c49-8065-5c3195795e4a
   name: Ray Bonilla Jr.
-  other_names:
-  - Ray Bonilla Jr
+  other_names: []
   phones:
   - (510) 583-4000
   emails:
@@ -138,7 +137,7 @@
   cdn_image: ''
   source_urls:
   - https://www.hayward-ca.gov/your-government/city-council/council-member-mark-salinas
-  updated_at: '2026-09-15T03:42:30+00:00'
+  updated_at: '2026-09-26T04:19:04+00:00'
   roles:
   - name: Council Member
     role_id: council-member

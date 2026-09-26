@@ -110,14 +110,14 @@
   phones:
   - (714) 536-5511
   emails:
-  - Gracey.VanDerMark@surfcity-hb.org
+  - gracey.vandermark@surfcity-hb.org
   urls:
   - https://www.huntingtonbeachca.gov/government/city_council/index.php
   image: https://www.huntingtonbeachca.gov/Images/Government/City%20Council/Headshot/GraceyVDM-Circle-Headshot.png?t=202408281742520
   cdn_image: null
   source_urls:
   - https://www.huntingtonbeachca.gov/government/city_council/index.php
-  updated_at: '2026-09-15T03:41:35+00:00'
+  updated_at: '2026-09-26T04:19:04+00:00'
   roles:
   - name: Council Member
     role_id: council-member

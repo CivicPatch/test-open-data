@@ -197,8 +197,7 @@
     end_date: null
 - id: 0be8b92a-b7e1-466b-8c96-1c1f8ee53b68
   name: Curren D. Price, Jr.
-  other_names:
-  - Curren D. Price Jr.
+  other_names: []
   phones: []
   emails:
   - councilmember.price@lacity.org
@@ -210,7 +209,7 @@
   source_urls:
   - https://lacity.gov/directory
   - https://lacity.gov/government
-  updated_at: '2026-09-15T03:36:17+00:00'
+  updated_at: '2026-09-26T04:19:05+00:00'
   roles:
   - name: Council Member, District 9
     role_id: council-member

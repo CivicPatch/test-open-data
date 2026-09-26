@@ -1,7 +1,6 @@
 - id: 7f5b222e-35b6-45b3-a34d-7b17b08144ac
   name: Javier "John" Dutrey
-  other_names:
-  - Javier “John” Dutrey
+  other_names: []
   phones:
   - (909) 625-9400
   emails:
@@ -13,7 +12,7 @@
   source_urls:
   - https://www.cityofmontclair.org/city-council-biographies/
   - https://www.cityofmontclair.org/departments/city-council/
-  updated_at: '2026-09-07T04:05:36+00:00'
+  updated_at: '2026-09-26T04:19:06+00:00'
   roles:
   - name: Mayor
     role_id: mayor
@@ -45,8 +44,7 @@
     end_date: 2026-11
 - id: ed97c9a2-c265-4c60-bf8c-27c75e0509b4
   name: Benjamin "Ben" Lopez
-  other_names:
-  - Benjamin “Ben” Lopez
+  other_names: []
   phones:
   - (909) 625-9401
   emails:
@@ -58,7 +56,7 @@
   source_urls:
   - https://www.cityofmontclair.org/city-council-biographies/
   - https://www.cityofmontclair.org/departments/city-council/
-  updated_at: '2026-09-07T04:05:36+00:00'
+  updated_at: '2026-09-26T04:19:06+00:00'
   roles:
   - name: Council Member
     role_id: council-member

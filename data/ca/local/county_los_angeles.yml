@@ -1,7 +1,6 @@
 - id: 778efa41-fe04-4ccb-91ea-ba2383c105ed
   name: Chair Hilda L. Solis
-  other_names:
-  - Hilda L. Solis
+  other_names: []
   phones:
   - (213) 974-1234
   - (213) 974-4111
@@ -14,7 +13,7 @@
   source_urls:
   - https://lacounty.gov/
   - https://lacounty.gov/government/board-of-supervisors/hilda-l-solis/
-  updated_at: '2026-09-07T01:18:57+00:00'
+  updated_at: '2026-09-26T04:19:00+00:00'
   roles:
   - name: Supervisor, District 1
     role_id: supervisor

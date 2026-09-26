@@ -39,28 +39,6 @@
     division_ocdid: ocd-division/country:us/state:ca/place:king_city
     start_date: 2020-12
     end_date: '2024'
-- id: 6348b5cc-e2db-4957-bc07-0103a7e1933a
-  name: Robert Cullen
-  other_names: []
-  phones:
-  - (831) 385-4831
-  emails:
-  - rcullen@kingcity.com
-  urls:
-  - https://www.kingcity.com/m/directory/employee?eid=58
-  image: https://www.kingcity.com/ImageRepository/Document?documentID=712
-  cdn_image: https://cdn.civicpatch.org/open-data/ca/local/place_king_city/images/4815527a920d.png
-  source_urls:
-  - https://www.kingcity.com/448/City-Council
-  - https://www.kingcity.com/m/directory/employee?eid=58
-  updated_at: '2026-09-07T03:39:24+00:00'
-  roles:
-  - name: Council Member, District 5
-    role_id: council-member
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:king_city/government
-    division_ocdid: ocd-division/country:us/state:ca/place:king_city/council_district:5
-    start_date: 2020-12
-    end_date: '2024'
 - id: e90819cb-9581-4da9-89b0-f9901cf00998
   name: Carlos Victoria
   other_names: []
@@ -102,3 +80,25 @@
     division_ocdid: ocd-division/country:us/state:ca/place:king_city
     start_date: 2022-12
     end_date: '2026'
+- id: 6348b5cc-e2db-4957-bc07-0103a7e1933a
+  name: Robert Cullen
+  other_names: []
+  phones:
+  - (831) 385-4831
+  emails:
+  - rcullen@kingcity.com
+  urls:
+  - https://www.kingcity.com/m/directory/employee?eid=58
+  image: https://www.kingcity.com/ImageRepository/Document?documentID=712
+  cdn_image: https://cdn.civicpatch.org/open-data/ca/local/place_king_city/images/4815527a920d.png
+  source_urls:
+  - https://www.kingcity.com/448/City-Council
+  - https://www.kingcity.com/m/directory/employee?eid=58
+  updated_at: '2026-09-07T03:39:24+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:king_city/government
+    division_ocdid: ocd-division/country:us/state:ca/place:king_city
+    start_date: 2020-12
+    end_date: '2024'

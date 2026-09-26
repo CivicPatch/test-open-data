@@ -42,29 +42,6 @@
     division_ocdid: ocd-division/country:us/state:ca/place:santa_ana
     start_date: null
     end_date: null
-- id: a093de7c-cd19-4789-b9b7-f59fe88ce365
-  name: Thai Viet Phan
-  other_names: []
-  phones:
-  - (714) 647-5400
-  - (714) 647-6900
-  emails: []
-  urls:
-  - https://santa-ana.gov/thai-phan/
-  image: https://storage.googleapis.com/proudcity/santaanaca/2025/05/Thai-Viet-Phan-2025-Portrait-240x300-1.jpg
-  cdn_image: https://cdn.civicpatch.org/open-data/ca/local/place_santa_ana/images/ee1ceff9abc2.png
-  source_urls:
-  - https://www.santa-ana.org/departments/city-council
-  - https://www.santa-ana.org/thai-phan
-  - https://www.santa-ana.org/valerie-amezcua
-  updated_at: '2026-09-13T01:27:11+00:00'
-  roles:
-  - name: Council Member, Ward 1
-    role_id: council-member
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:santa_ana/government
-    division_ocdid: ocd-division/country:us/state:ca/place:santa_ana/ward:1
-    start_date: null
-    end_date: null
 - id: 1252ff3a-87cb-49c8-b48b-51864a31db53
   name: Benjamin Vazquez
   other_names: []
@@ -82,10 +59,10 @@
   - https://www.santa-ana.org/valerie-amezcua
   updated_at: '2026-09-13T01:27:11+00:00'
   roles:
-  - name: Council Member, Ward 2
+  - name: Council Member
     role_id: council-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:santa_ana/government
-    division_ocdid: ocd-division/country:us/state:ca/place:santa_ana/ward:2
+    division_ocdid: ocd-division/country:us/state:ca/place:santa_ana
     start_date: null
     end_date: null
 - id: 09ee0ed5-dc61-4ea1-9522-fa5983be00fc
@@ -105,10 +82,32 @@
   - https://www.santa-ana.org/valerie-amezcua
   updated_at: '2026-09-13T01:27:11+00:00'
   roles:
-  - name: Council Member, Ward 3
+  - name: Council Member
     role_id: council-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:santa_ana/government
-    division_ocdid: ocd-division/country:us/state:ca/place:santa_ana/ward:3
+    division_ocdid: ocd-division/country:us/state:ca/place:santa_ana
+    start_date: null
+    end_date: null
+- id: ddae9609-9e08-4ec4-8500-3abb695b970e
+  name: Johnathan Ryan Hernandez
+  other_names: []
+  phones:
+  - (714) 647-5400
+  - (714) 647-6900
+  emails: []
+  urls:
+  - https://santa-ana.gov/johnathan-hernandez/
+  image: ''
+  cdn_image: ''
+  source_urls:
+  - https://www.santa-ana.org/departments/city-council
+  - https://www.santa-ana.org/valerie-amezcua
+  updated_at: '2026-09-13T01:27:11+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:santa_ana/government
+    division_ocdid: ocd-division/country:us/state:ca/place:santa_ana
     start_date: null
     end_date: null
 - id: 9da9da0c-8567-4b07-a97c-86b49c751194
@@ -130,25 +129,26 @@
   - https://www.santa-ana.org/valerie-amezcua
   updated_at: '2026-09-13T01:27:11+00:00'
   roles:
-  - name: Council Member, Ward 4
+  - name: Council Member
     role_id: council-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:santa_ana/government
-    division_ocdid: ocd-division/country:us/state:ca/place:santa_ana/ward:4
+    division_ocdid: ocd-division/country:us/state:ca/place:santa_ana
     start_date: '2022'
     end_date: null
-- id: ddae9609-9e08-4ec4-8500-3abb695b970e
-  name: Johnathan Ryan Hernandez
+- id: a093de7c-cd19-4789-b9b7-f59fe88ce365
+  name: Thai Viet Phan
   other_names: []
   phones:
   - (714) 647-5400
   - (714) 647-6900
   emails: []
   urls:
-  - https://santa-ana.gov/johnathan-hernandez/
-  image: ''
-  cdn_image: ''
+  - https://santa-ana.gov/thai-phan/
+  image: https://storage.googleapis.com/proudcity/santaanaca/2025/05/Thai-Viet-Phan-2025-Portrait-240x300-1.jpg
+  cdn_image: https://cdn.civicpatch.org/open-data/ca/local/place_santa_ana/images/ee1ceff9abc2.png
   source_urls:
   - https://www.santa-ana.org/departments/city-council
+  - https://www.santa-ana.org/thai-phan
   - https://www.santa-ana.org/valerie-amezcua
   updated_at: '2026-09-13T01:27:11+00:00'
   roles:

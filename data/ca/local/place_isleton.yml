@@ -15,8 +15,8 @@
   - https://www.cityofisleton.com/council-members
   updated_at: '2026-09-07T03:39:47+00:00'
   roles:
-  - name: Mayor
-    role_id: mayor
+  - name: Council Member
+    role_id: council-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:isleton/government
     division_ocdid: ocd-division/country:us/state:ca/place:isleton
     start_date: null
@@ -38,8 +38,8 @@
   - https://www.cityofisleton.com/council-members
   updated_at: '2026-09-07T03:39:47+00:00'
   roles:
-  - name: Vice Mayor
-    role_id: vice-mayor
+  - name: Council Member
+    role_id: council-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/place:isleton/government
     division_ocdid: ocd-division/country:us/state:ca/place:isleton
     start_date: null

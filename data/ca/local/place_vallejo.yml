@@ -63,8 +63,7 @@
     end_date: 2029-01
 - id: 53b4488f-61d0-480c-a8a4-f58cb266b256
   name: Tonia Lediju
-  other_names:
-  - Tonia Lediju PhD
+  other_names: []
   phones:
   - (707) 649-7716
   emails:
@@ -75,7 +74,7 @@
   cdn_image: https://cdn.civicpatch.org/open-data/ca/local/place_vallejo/images/ed28d59d8128.png
   source_urls:
   - https://www.cityofvallejo.net/our_city/city_government/mayor_city_council
-  updated_at: '2026-09-13T01:28:06+00:00'
+  updated_at: '2026-09-26T04:19:09+00:00'
   roles:
   - name: Council Member, District 3
     role_id: council-member
