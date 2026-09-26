@@ -191,8 +191,8 @@
   - https://seattle.gov/council/members/joy-hollingsworth
   updated_at: '2026-09-25T00:00:10+00:00'
   roles:
-  - name: Mayor
-    role_id: mayor
+  - name: Council President
+    role_id: council-president
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:seattle/government
     division_ocdid: ocd-division/country:us/state:wa/place:seattle
     start_date: null
