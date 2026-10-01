@@ -1,0 +1,104 @@
+- id: 96be7d05-d63a-4bd0-b655-5af7d4341777
+  name: Jeff Travillion
+  other_names: []
+  phones:
+  - (512) 854-9111
+  emails:
+  - jeffrey.travillion@traviscountytx.gov
+  urls:
+  - https://www.traviscountytx.gov/commissioners-court/precinct-one
+  image: https://www.traviscountytx.gov/images/commissioners_court/travillion.jpg
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/tx/local/county_travis/images/8ee978879635.png
+  source_urls:
+  - https://www.traviscountytx.gov/
+  - https://www.traviscountytx.gov/commissioners-court/precinct-one
+  updated_at: '2026-09-30T01:56:25+00:00'
+  roles:
+  - name: Commissioner, Precinct 1
+    role_id: commissioner
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:tx/county:travis/government
+    division_ocdid: ocd-division/country:us/state:tx/county:travis/precinct:1
+    start_date: null
+    end_date: null
+- id: e95ebd28-7095-4be1-a325-fda47ef07bee
+  name: Brigid Shea
+  other_names: []
+  phones:
+  - (512) 854-9222
+  emails:
+  - brigid.shea@traviscountytx.gov
+  urls:
+  - https://www.traviscountytx.gov/commissioners-court/precinct-two
+  image: https://www.traviscountytx.gov/images/Brigid_Shea.jpg
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/tx/local/county_travis/images/5ba04ed1cbc6.png
+  source_urls:
+  - https://www.traviscountytx.gov/
+  - https://www.traviscountytx.gov/commissioners-court/precinct-two
+  updated_at: '2026-09-30T01:56:25+00:00'
+  roles:
+  - name: Commissioner, Precinct 2
+    role_id: commissioner
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:tx/county:travis/government
+    division_ocdid: ocd-division/country:us/state:tx/county:travis/precinct:2
+    start_date: null
+    end_date: null
+- id: ba98c556-4d15-44ce-a6ba-74d3bb8839ed
+  name: Ann Howard
+  other_names: []
+  phones:
+  - (512) 854-9333
+  emails:
+  - precinct3constituents@traviscountytx.gov
+  urls:
+  - https://www.traviscountytx.gov/commissioners-court/precinct-three
+  image: https://www.traviscountytx.gov/images/Ann_Howard.jpg
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/tx/local/county_travis/images/bc638d98855f.png
+  source_urls:
+  - https://www.traviscountytx.gov/
+  - https://www.traviscountytx.gov/commissioners-court/precinct-three
+  updated_at: '2026-09-30T01:56:25+00:00'
+  roles:
+  - name: Commissioner, Precinct 3
+    role_id: commissioner
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:tx/county:travis/government
+    division_ocdid: ocd-division/country:us/state:tx/county:travis/precinct:3
+    start_date: '2021-01-01'
+    end_date: null
+- id: d0edb847-59b5-472e-a5f5-edb738be60fc
+  name: George Morales
+  other_names: []
+  phones: []
+  emails: []
+  urls:
+  - https://www.traviscountytx.gov/commissioners-court/precinct-four
+  image: https://www.traviscountytx.gov/images/commissioners_court/George_Morales.jpg
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/tx/local/county_travis/images/5a2221fc5811.png
+  source_urls:
+  - https://www.traviscountytx.gov/
+  updated_at: '2026-09-30T01:56:25+00:00'
+  roles:
+  - name: Commissioner, Precinct 4
+    role_id: commissioner
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:tx/county:travis/government
+    division_ocdid: ocd-division/country:us/state:tx/county:travis/precinct:4
+    start_date: null
+    end_date: null
+- id: a23df078-1181-469e-b47f-8c1dc4575ebd
+  name: Andy Brown
+  other_names: []
+  phones: []
+  emails: []
+  urls:
+  - https://www.traviscountytx.gov/commissioners-court/county-judge
+  image: https://www.traviscountytx.gov/images/Judge_Andy_Brown.jpg
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/tx/local/county_travis/images/c790b0c8ab84.png
+  source_urls:
+  - https://www.traviscountytx.gov/
+  updated_at: '2026-09-30T01:56:25+00:00'
+  roles:
+  - name: Unmatched
+    role_id: unmatched
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:tx/county:travis/government
+    division_ocdid: ocd-division/country:us/state:tx/county:travis
+    start_date: null
+    end_date: null
