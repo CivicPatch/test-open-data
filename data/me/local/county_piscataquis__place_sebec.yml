@@ -1,0 +1,57 @@
+- name: Wayne Nason
+  other_names: []
+  phones: []
+  emails:
+  - w.nason@townofsebec.com
+  urls:
+  - https://townofsebec.com/town-directory.html
+  start_date: null
+  end_date: '2028'
+  office:
+    name: Select Board Member
+    division_ocdid: ocd-division/country:us/state:me/county:piscataquis/place:sebec
+  image: ''
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:me/county:piscataquis/place:sebec/government
+  cdn_image: ''
+  source_urls:
+  - https://townofsebec.com/town-directory.html
+  updated_at: '2026-06-11T00:34:27+00:00'
+  id: 65115ca6-e096-45e6-941d-c45e604c2244
+- name: Eric Weidman
+  other_names: []
+  phones: []
+  emails:
+  - e.weidman@townofsebec.com
+  urls:
+  - https://townofsebec.com/town-directory.html
+  start_date: null
+  end_date: '2026'
+  office:
+    name: Select Board Member
+    division_ocdid: ocd-division/country:us/state:me/county:piscataquis/place:sebec
+  image: ''
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:me/county:piscataquis/place:sebec/government
+  cdn_image: ''
+  source_urls:
+  - https://townofsebec.com/town-directory.html
+  updated_at: '2026-06-11T00:34:27+00:00'
+  id: a6e73fe5-9cee-4bca-97bf-b5e10131c20f
+- name: Walter Emmons
+  other_names: []
+  phones: []
+  emails:
+  - w.emmons@townofsebec.com
+  urls:
+  - https://townofsebec.com/town-directory.html
+  start_date: null
+  end_date: '2027'
+  office:
+    name: Chair
+    division_ocdid: ocd-division/country:us/state:me/county:piscataquis/place:sebec
+  image: ''
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:me/county:piscataquis/place:sebec/government
+  cdn_image: ''
+  source_urls:
+  - https://townofsebec.com/town-directory.html
+  updated_at: '2026-06-11T00:34:27+00:00'
+  id: aa95d696-fcf3-496d-ab86-4d18bf1f39f1
