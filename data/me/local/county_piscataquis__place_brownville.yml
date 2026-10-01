@@ -1,0 +1,94 @@
+- name: Shelly Ekholm
+  other_names: []
+  phones: []
+  emails: []
+  urls:
+  - https://www.brownville.org/select-board
+  start_date: null
+  end_date: '2027'
+  office:
+    name: Selectperson
+    division_ocdid: ocd-division/country:us/state:me/county:piscataquis/place:brownville
+  image: ''
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:me/county:piscataquis/place:brownville/government
+  cdn_image: ''
+  source_urls:
+  - https://www.brownville.org/select-board
+  updated_at: '2026-06-11T00:33:41+00:00'
+  id: 0572cb00-e111-41fc-bce3-4d72e7e34e1c
+- name: Stanley Belvin
+  other_names: []
+  phones: []
+  emails:
+  - s.belvin@brownville.org
+  urls:
+  - https://www.brownville.org/select-board
+  start_date: null
+  end_date: '2027'
+  office:
+    name: Selectperson
+    division_ocdid: ocd-division/country:us/state:me/county:piscataquis/place:brownville
+  image: ''
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:me/county:piscataquis/place:brownville/government
+  cdn_image: ''
+  source_urls:
+  - https://www.brownville.org/select-board
+  updated_at: '2026-06-11T00:33:41+00:00'
+  id: 53cc3871-eb4e-4860-b383-6506f03a0537
+- name: Lesley Stone
+  other_names: []
+  phones: []
+  emails:
+  - l.stone@brownville.org
+  urls:
+  - https://www.brownville.org/select-board
+  start_date: null
+  end_date: '2028'
+  office:
+    name: Selectperson
+    division_ocdid: ocd-division/country:us/state:me/county:piscataquis/place:brownville
+  image: ''
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:me/county:piscataquis/place:brownville/government
+  cdn_image: ''
+  source_urls:
+  - https://www.brownville.org/select-board
+  updated_at: '2026-06-11T00:33:41+00:00'
+  id: d0940538-8970-40b4-ac2c-988e378bf472
+- name: Arthur Herbest
+  other_names: []
+  phones: []
+  emails:
+  - a.herbest@brownville.org
+  urls:
+  - https://www.brownville.org/select-board
+  start_date: null
+  end_date: '2029'
+  office:
+    name: Selectperson
+    division_ocdid: ocd-division/country:us/state:me/county:piscataquis/place:brownville
+  image: ''
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:me/county:piscataquis/place:brownville/government
+  cdn_image: ''
+  source_urls:
+  - https://www.brownville.org/select-board
+  updated_at: '2026-06-11T00:33:41+00:00'
+  id: 5d5c6874-ea4b-4335-b8e9-312c3d2d7bc5
+- name: Kelli Witham
+  other_names: []
+  phones: []
+  emails:
+  - k.witham@brownville.org
+  urls:
+  - https://www.brownville.org/select-board
+  start_date: null
+  end_date: '2029'
+  office:
+    name: Selectperson
+    division_ocdid: ocd-division/country:us/state:me/county:piscataquis/place:brownville
+  image: ''
+  jurisdiction_ocdid: ocd-jurisdiction/country:us/state:me/county:piscataquis/place:brownville/government
+  cdn_image: ''
+  source_urls:
+  - https://www.brownville.org/select-board
+  updated_at: '2026-06-11T00:33:41+00:00'
+  id: dc4e8ae2-4679-42c9-9489-417749aa87f1
