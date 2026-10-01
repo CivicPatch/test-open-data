@@ -1,0 +1,3414 @@
+{
+    "data": {
+        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:nc/place:greensboro/government",
+        "config": {
+            "url": "http://greensboro-nc.gov",
+            "name": "Greensboro city",
+            "source_urls": null
+        },
+        "frontier": {
+            "links": {
+                "https://greensboro-nc.gov": {
+                    "url": "http://greensboro-nc.gov",
+                    "status": "processed_irrelevant",
+                    "folder_name": "greensboro-nc_gov",
+                    "num_references": 0,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 1
+                },
+                "https://greensboro-nc.gov/government/city-council": {
+                    "url": "https://www.greensboro-nc.gov/government/city-council",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_greensboro-nc_gov_government_city-council",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 2
+                },
+                "https://greensboro-nc.gov/government/city-council/council-meetings": {
+                    "url": "https://www.greensboro-nc.gov/government/city-council/council-meetings",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_greensboro-nc_gov_government_city-council_council-meetings",
+                    "num_references": 5,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 9
+                },
+                "https://greensboro-nc.gov/government/city-council/what-council-district-am-i-in": {
+                    "url": "https://www.greensboro-nc.gov/government/city-council/what-council-district-am-i-in",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_greensboro-nc_gov_government_city-council_what-council-district-am-i-in",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 4
+                },
+                "https://greensboro-nc.gov/government/city-council/what-features-are-in-your-council-district": {
+                    "url": "https://www.greensboro-nc.gov/government/city-council/what-features-are-in-your-council-district",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_greensboro-nc_gov_government_city-council_what-features-are-in-your-council-district",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 5
+                },
+                "https://greensboro-nc.gov/government/city-council/american-rescue-plan": {
+                    "url": "https://www.greensboro-nc.gov/government/city-council/american-rescue-plan",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_greensboro-nc_gov_government_city-council_american-rescue-plan",
+                    "num_references": 6,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 10
+                },
+                "https://greensboro-nc.gov/government/city-manager-s-office": {
+                    "url": "https://www.greensboro-nc.gov/government/city-manager-s-office",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_greensboro-nc_gov_government_city-manager-s-office",
+                    "num_references": 4,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 7
+                },
+                "https://greensboro-nc.gov/government/city-manager-s-office/city-newsletter": {
+                    "url": "https://www.greensboro-nc.gov/government/city-manager-s-office/city-newsletter",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 6,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/government/city-manager-s-office/city-manager-updates-to-council": {
+                    "url": "https://www.greensboro-nc.gov/government/city-manager-s-office/city-manager-updates-to-council",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_greensboro-nc_gov_government_city-manager-s-office_city-manager-updates-to-council",
+                    "num_references": 8,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 17
+                },
+                "https://greensboro-nc.gov/government/city-manager-s-office/gsoroadto10k": {
+                    "url": "https://www.greensboro-nc.gov/government/city-manager-s-office/gsoroadto10k",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/government/city-clerk": {
+                    "url": "https://www.greensboro-nc.gov/government/city-clerk",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_greensboro-nc_gov_government_city-clerk",
+                    "num_references": 5,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 8
+                },
+                "https://greensboro-nc.gov/government/city-clerk/civil-service-board": {
+                    "url": "https://www.greensboro-nc.gov/government/city-clerk/civil-service-board",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_greensboro-nc_gov_government_city-clerk_civil-service-board",
+                    "num_references": 9,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 21
+                },
+                "https://greensboro-nc.gov/government/boards-and-commissions": {
+                    "url": "https://www.greensboro-nc.gov/government/boards-and-commissions",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_greensboro-nc_gov_government_boards-and-commissions",
+                    "num_references": 7,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 11
+                },
+                "https://greensboro-nc.gov/government/boards-and-commissions/boards-and-commissions-index": {
+                    "url": "https://www.greensboro-nc.gov/government/boards-and-commissions/boards-and-commissions-index",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_greensboro-nc_gov_government_boards-and-commissions_boards-and-commissions-index",
+                    "num_references": 8,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 14
+                },
+                "https://greensboro-nc.gov/government/mayor-s-committee-for-persons-with-disabilities": {
+                    "url": "https://www.greensboro-nc.gov/government/mayor-s-committee-for-persons-with-disabilities",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_greensboro-nc_gov_government_mayor-s-committee-for-persons-with-disabilities",
+                    "num_references": 2,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 3
+                },
+                "https://greensboro-nc.gov/government/mayor-s-committee-for-persons-with-disabilities/shopper-s-day": {
+                    "url": "https://www.greensboro-nc.gov/government/mayor-s-committee-for-persons-with-disabilities/shopper-s-day",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_greensboro-nc_gov_government_mayor-s-committee-for-persons-with-disabilities_shopper-s-day",
+                    "num_references": 7,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 16
+                },
+                "https://greensboro-nc.gov/i-want-to/contact/e-mail-city-council": {
+                    "url": "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council",
+                    "status": "done",
+                    "folder_name": "www_greensboro-nc_gov_i-want-to_contact_e-mail-city-council",
+                    "num_references": 3,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 6
+                },
+                "https://greensboro-nc.gov/i-want-to/watch/city-council-meetings-online": {
+                    "url": "https://www.greensboro-nc.gov/i-want-to/watch/city-council-meetings-online",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_greensboro-nc_gov_i-want-to_watch_city-council-meetings-online",
+                    "num_references": 7,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 13
+                },
+                "https://greensboro-nc.gov/i-want-to/sign-up-for/speaking-at-city-council-meetings-submitting-comments-before-meetings": {
+                    "url": "https://www.greensboro-nc.gov/i-want-to/sign-up-for/speaking-at-city-council-meetings-submitting-comments-before-meetings",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_greensboro-nc_gov_i-want-to_sign-up-for_speaking-at-city-council-meetings-submitting-comments-before-meetings",
+                    "num_references": 8,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 22
+                },
+                "https://greensboro-nc.gov/government/city-council#pagebody": {
+                    "url": "https://www.greensboro-nc.gov/government/city-council#pagebody",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:government, role:city, designation:council",
+                    "text": "Skip to Main Content",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/people-culture/careers-7442": {
+                    "url": "https://www.greensboro-nc.gov/departments/people-culture/careers-7442",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Careers",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/government/city-news": {
+                    "url": "https://www.greensboro-nc.gov/government/city-news",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 5,
+                    "comment": "heuristic backfill: keyword:government, role:city",
+                    "text": "City News",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/government/city-news/city-calendar": {
+                    "url": "https://www.greensboro-nc.gov/government/city-news/city-calendar",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:government, role:city",
+                    "text": "City Calendar",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/services/city-assistance-programs": {
+                    "url": "https://www.greensboro-nc.gov/services/city-assistance-programs",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "City Assistance Programs",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/services/city-assistance-programs/classes-field-trips-for-schools": {
+                    "url": "https://www.greensboro-nc.gov/services/city-assistance-programs/classes-field-trips-for-schools",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "Classes/Field Trips for Schools",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/services/city-assistance-programs/economic-development": {
+                    "url": "https://www.greensboro-nc.gov/services/city-assistance-programs/economic-development",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "Economic Development",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/services/city-assistance-programs/emergency-notifications-geani": {
+                    "url": "https://www.greensboro-nc.gov/services/city-assistance-programs/emergency-notifications-geani",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "Emergency Notifications – GEANI",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/services/city-assistance-programs/homebuyers-assistance-programs": {
+                    "url": "https://www.greensboro-nc.gov/services/city-assistance-programs/homebuyers-assistance-programs",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "Homebuyers' Assistance Programs",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/services/city-assistance-programs/housing-programs-and-services": {
+                    "url": "https://www.greensboro-nc.gov/services/city-assistance-programs/housing-programs-and-services",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "Housing Programs and Services",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/services/city-assistance-programs/medication-collection-boxes": {
+                    "url": "https://www.greensboro-nc.gov/services/city-assistance-programs/medication-collection-boxes",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "Medication Collection Boxes",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/services/city-assistance-programs/programs-for-seniors": {
+                    "url": "https://www.greensboro-nc.gov/services/city-assistance-programs/programs-for-seniors",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "Programs for Seniors",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/services/city-assistance-programs/regional-transportation-planning": {
+                    "url": "https://www.greensboro-nc.gov/services/city-assistance-programs/regional-transportation-planning",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "Regional Transportation Planning",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/services/city-assistance-programs/safe-places-in-greensboro": {
+                    "url": "https://www.greensboro-nc.gov/services/city-assistance-programs/safe-places-in-greensboro",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "Safe Places in Greensboro",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/services/city-assistance-programs/workforce-development": {
+                    "url": "https://www.greensboro-nc.gov/services/city-assistance-programs/workforce-development",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "Workforce Development",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/services/city-assistance-programs/yellow-dot-program-emergency-responders-assistance": {
+                    "url": "https://www.greensboro-nc.gov/services/city-assistance-programs/yellow-dot-program-emergency-responders-assistance",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "Yellow Dot Program – Emergency Responders Assistance",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/services/city-comes-to-you": {
+                    "url": "https://www.greensboro-nc.gov/services/city-comes-to-you",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "City Comes to You",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/services/city-comes-to-you/appliance-disposal": {
+                    "url": "https://www.greensboro-nc.gov/services/city-comes-to-you/appliance-disposal",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "Appliance Disposal",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/services/city-comes-to-you/buses": {
+                    "url": "https://www.greensboro-nc.gov/services/city-comes-to-you/buses",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "Buses",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/services/city-comes-to-you/business-recycling": {
+                    "url": "https://www.greensboro-nc.gov/services/city-comes-to-you/business-recycling",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "Business Recycling",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/services/city-comes-to-you/dead-animal-pickup": {
+                    "url": "https://www.greensboro-nc.gov/services/city-comes-to-you/dead-animal-pickup",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "Dead Animal Pickup",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/services/city-comes-to-you/dumpster-service": {
+                    "url": "https://www.greensboro-nc.gov/services/city-comes-to-you/dumpster-service",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "Dumpster Service",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/services/city-comes-to-you/fire-inspections": {
+                    "url": "https://www.greensboro-nc.gov/services/city-comes-to-you/fire-inspections",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "Fire Inspections",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/services/city-comes-to-you/household-hazardous-waste-disposal": {
+                    "url": "https://www.greensboro-nc.gov/services/city-comes-to-you/household-hazardous-waste-disposal",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "Household Hazardous Waste Disposal",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/services/city-comes-to-you/residential-recycling-collections": {
+                    "url": "https://www.greensboro-nc.gov/services/city-comes-to-you/residential-recycling-collections",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "Residential Recycling Collections",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/services/city-comes-to-you/security-assessment-home-business": {
+                    "url": "https://www.greensboro-nc.gov/services/city-comes-to-you/security-assessment-home-business",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "Security Assessment – Home & Business",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/services/city-comes-to-you/smoke-alarm-replacement": {
+                    "url": "https://www.greensboro-nc.gov/services/city-comes-to-you/smoke-alarm-replacement",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "Smoke Alarm Replacement",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/services/city-comes-to-you/snow-removal": {
+                    "url": "https://www.greensboro-nc.gov/services/city-comes-to-you/snow-removal",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "Snow Removal",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/services/city-comes-to-you/trash-collection": {
+                    "url": "https://www.greensboro-nc.gov/services/city-comes-to-you/trash-collection",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "Trash Collection",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/services/city-comes-to-you/water-sewer-service": {
+                    "url": "https://www.greensboro-nc.gov/services/city-comes-to-you/water-sewer-service",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "Water/Sewer Service",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/services/city-comes-to-you/yard-waste-collection": {
+                    "url": "https://www.greensboro-nc.gov/services/city-comes-to-you/yard-waste-collection",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "Yard Waste Collection",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/services/look-up-and-access/city-building-facility-locations": {
+                    "url": "https://www.greensboro-nc.gov/services/look-up-and-access/city-building-facility-locations",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "City Building & Facility Locations",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/services/requests/city-service-requests": {
+                    "url": "https://www.greensboro-nc.gov/services/requests/city-service-requests",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "City Service Requests",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/services/requests/renting-a-city-facility": {
+                    "url": "https://www.greensboro-nc.gov/services/requests/renting-a-city-facility",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "Renting a City Facility",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/services/service-directory": {
+                    "url": "https://www.greensboro-nc.gov/services/service-directory",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:directory",
+                    "text": "Service Directory",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments": {
+                    "url": "https://www.greensboro-nc.gov/departments",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Departments",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/annual-reports": {
+                    "url": "https://www.greensboro-nc.gov/departments/annual-reports",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Annual Reports",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/budget-evaluation": {
+                    "url": "https://www.greensboro-nc.gov/departments/budget-evaluation",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Budget & Evaluation",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/city-attorney-s-office": {
+                    "url": "https://www.greensboro-nc.gov/departments/city-attorney-s-office",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 4,
+                    "comment": "heuristic backfill: keyword:departments, role:city",
+                    "text": "City Attorney’s Office",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/city-attorney-s-office/city-attorney": {
+                    "url": "https://www.greensboro-nc.gov/departments/city-attorney-s-office/city-attorney",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments, role:city",
+                    "text": "City Attorney",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/coliseum": {
+                    "url": "https://www.greensboro-nc.gov/departments/coliseum",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Coliseum",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/communications-marketing": {
+                    "url": "https://www.greensboro-nc.gov/departments/communications-marketing",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Communications & Marketing",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/communications-marketing/contact-center": {
+                    "url": "https://www.greensboro-nc.gov/departments/communications-marketing/contact-center",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 4,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Contact Center",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/communications-marketing/city-newsletter": {
+                    "url": "https://www.greensboro-nc.gov/departments/communications-marketing/city-newsletter",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments, role:city",
+                    "text": "City Newsletter",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/community-relations": {
+                    "url": "https://www.greensboro-nc.gov/departments/community-relations",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Community Relations",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/community-safety": {
+                    "url": "https://www.greensboro-nc.gov/departments/community-safety",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Community Safety",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/community-safety/community-safety-plan": {
+                    "url": "https://www.greensboro-nc.gov/departments/community-safety/community-safety-plan",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Community Safety Plan",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/community-safety/gcjac": {
+                    "url": "https://www.greensboro-nc.gov/departments/community-safety/gcjac",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "GCJAC",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/creative-greensboro": {
+                    "url": "https://www.greensboro-nc.gov/departments/creative-greensboro",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Creative Greensboro",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/creative-greensboro/arts-culture-month": {
+                    "url": "https://www.greensboro-nc.gov/departments/creative-greensboro/arts-culture-month",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Arts & Culture Month",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/creative-greensboro/cultureworks": {
+                    "url": "https://www.greensboro-nc.gov/departments/creative-greensboro/cultureworks",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "CultureWorks",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/engineering-inspections": {
+                    "url": "https://www.greensboro-nc.gov/departments/engineering-inspections",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Engineering & Inspections",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/executive": {
+                    "url": "https://www.greensboro-nc.gov/departments/executive",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 5,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Executive",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/executive/city-manager-s-office": {
+                    "url": "https://www.greensboro-nc.gov/departments/executive/city-manager-s-office",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 4,
+                    "comment": "heuristic backfill: keyword:departments, role:city",
+                    "text": "City Manager's Office",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/executive/code-compliance": {
+                    "url": "https://www.greensboro-nc.gov/departments/executive/code-compliance",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Code Compliance",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/executive/office-of-business-opportunity": {
+                    "url": "https://www.greensboro-nc.gov/departments/executive/office-of-business-opportunity",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Office of Business Opportunity",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/financial-administrative-services": {
+                    "url": "https://www.greensboro-nc.gov/departments/financial-administrative-services",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Financial & Administrative Services",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/fire": {
+                    "url": "https://www.greensboro-nc.gov/departments/fire",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Fire",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/guilford-metro-9-1-1": {
+                    "url": "https://www.greensboro-nc.gov/departments/guilford-metro-9-1-1",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Guilford Metro 9-1-1",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/guilfordworks": {
+                    "url": "https://www.greensboro-nc.gov/departments/guilfordworks",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "GuilfordWorks",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/housing-neighborhood-development-4344": {
+                    "url": "https://www.greensboro-nc.gov/departments/housing-neighborhood-development-4344",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Housing & Neighborhood Development",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/human-rights": {
+                    "url": "https://www.greensboro-nc.gov/departments/human-rights",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Human Rights",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/human-rights/division-of-belonging-and-engagement": {
+                    "url": "https://www.greensboro-nc.gov/departments/human-rights/division-of-belonging-and-engagement",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Division of Belonging and Engagement",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/human-rights/public-accommodations": {
+                    "url": "https://www.greensboro-nc.gov/departments/human-rights/public-accommodations",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Public Accommodations",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/information-technology": {
+                    "url": "https://www.greensboro-nc.gov/departments/information-technology",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Information Technology",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/legislative": {
+                    "url": "https://www.greensboro-nc.gov/departments/legislative",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_greensboro-nc_gov_departments_legislative",
+                    "num_references": 8,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Legislative",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 18
+                },
+                "https://greensboro-nc.gov/departments/libraries": {
+                    "url": "https://www.greensboro-nc.gov/departments/libraries",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Libraries",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/libraries/calendar": {
+                    "url": "https://www.greensboro-nc.gov/departments/libraries/calendar",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Calendar",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/office-of-sustainability-and-resilience": {
+                    "url": "https://www.greensboro-nc.gov/departments/office-of-sustainability-and-resilience",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Office of Sustainability and Resilience",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/parks-recreation": {
+                    "url": "https://www.greensboro-nc.gov/departments/parks-recreation",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Parks & Recreation",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/parks-recreation/cemeteries": {
+                    "url": "https://www.greensboro-nc.gov/departments/parks-recreation/cemeteries",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Cemeteries",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/people-culture": {
+                    "url": "https://www.greensboro-nc.gov/departments/people-culture",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "People & Culture",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/people-culture/careers": {
+                    "url": "https://www.greensboro-nc.gov/departments/people-culture/careers",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Careers",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/planning": {
+                    "url": "https://www.greensboro-nc.gov/departments/planning",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Planning",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/planning/gso2040": {
+                    "url": "https://www.greensboro-nc.gov/departments/planning/gso2040",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "GSO2040",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/planning/leed-for-cities": {
+                    "url": "https://www.greensboro-nc.gov/departments/planning/leed-for-cities",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "LEED for Cities",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/planning/planning-zoning-agendas-minutes-videos": {
+                    "url": "https://www.greensboro-nc.gov/departments/planning/planning-zoning-agendas-minutes-videos",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Planning/Zoning Agendas, Minutes, Videos",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/police": {
+                    "url": "https://www.greensboro-nc.gov/departments/police",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Police",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/police/victim-services-unit": {
+                    "url": "https://www.greensboro-nc.gov/departments/police/victim-services-unit",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Victim Services Unit",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/solid-waste-and-recycling": {
+                    "url": "https://www.greensboro-nc.gov/departments/solid-waste-and-recycling",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Solid Waste and Recycling",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/solid-waste-and-recycling/collection-schedule": {
+                    "url": "https://www.greensboro-nc.gov/departments/solid-waste-and-recycling/collection-schedule",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Collection Schedule",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/solid-waste-and-recycling/business-services": {
+                    "url": "https://www.greensboro-nc.gov/departments/solid-waste-and-recycling/business-services",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Business Services",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/solid-waste-and-recycling/report-an-issue": {
+                    "url": "https://www.greensboro-nc.gov/departments/solid-waste-and-recycling/report-an-issue",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Report an Issue",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/transportation": {
+                    "url": "https://www.greensboro-nc.gov/departments/transportation",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Transportation",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/transportation/transit": {
+                    "url": "https://www.greensboro-nc.gov/departments/transportation/transit",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Transit",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/transportation/parking": {
+                    "url": "https://www.greensboro-nc.gov/departments/transportation/parking",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Parking",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/water-resources": {
+                    "url": "https://www.greensboro-nc.gov/departments/water-resources",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Water Resources",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/water-resources/water-conservation": {
+                    "url": "https://www.greensboro-nc.gov/departments/water-resources/water-conservation",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Water Conservation",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/water-resources/department-contacts": {
+                    "url": "https://www.greensboro-nc.gov/departments/water-resources/department-contacts",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Department Contacts",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/water-resources/water-quality-preventative-maintenance-programs": {
+                    "url": "https://www.greensboro-nc.gov/departments/water-resources/water-quality-preventative-maintenance-programs",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Water Quality Preventative Maintenance Programs",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/water-resources/understanding-water-discoloration": {
+                    "url": "https://www.greensboro-nc.gov/departments/water-resources/understanding-water-discoloration",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Understanding Water Discoloration",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/water-resources/water-pressure-zone-conversion-projects": {
+                    "url": "https://www.greensboro-nc.gov/departments/water-resources/water-pressure-zone-conversion-projects",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Water Pressure Zone Conversion Projects",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/water-resources/water-sewer-rehab": {
+                    "url": "https://www.greensboro-nc.gov/departments/water-resources/water-sewer-rehab",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Water & Sewer Rehab",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/water-resources/lead-copper-compliance-program": {
+                    "url": "https://www.greensboro-nc.gov/departments/water-resources/lead-copper-compliance-program",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Lead & Copper Compliance Program",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/water-resources/gso-waterwise": {
+                    "url": "https://www.greensboro-nc.gov/departments/water-resources/gso-waterwise",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "GSO WaterWise",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/water-resources/customer-service-for-residents-and-businesses": {
+                    "url": "https://www.greensboro-nc.gov/departments/water-resources/customer-service-for-residents-and-businesses",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Customer Service for Residents and Businesses",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/water-resources/get-involved": {
+                    "url": "https://www.greensboro-nc.gov/departments/water-resources/get-involved",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Get Involved",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/water-resources/espanol": {
+                    "url": "https://www.greensboro-nc.gov/departments/water-resources/espanol",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Espanol",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/government": {
+                    "url": "https://www.greensboro-nc.gov/government",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_greensboro-nc_gov_government",
+                    "num_references": 7,
+                    "comment": "heuristic backfill: keyword:government",
+                    "text": "Government",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 24
+                },
+                "https://greensboro-nc.gov/government/about-us": {
+                    "url": "https://www.greensboro-nc.gov/government/about-us",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_greensboro-nc_gov_government_about-us",
+                    "num_references": 8,
+                    "comment": "heuristic backfill: keyword:government",
+                    "text": "About Us",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 12
+                },
+                "https://greensboro-nc.gov/government/about-us/organizational-chart": {
+                    "url": "https://www.greensboro-nc.gov/government/about-us/organizational-chart",
+                    "status": "preprocessed_no_content",
+                    "folder_name": "www_greensboro-nc_gov_government_about-us_organizational-chart",
+                    "num_references": 9,
+                    "comment": "heuristic backfill: keyword:government",
+                    "text": "Organizational Chart",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 20
+                },
+                "https://greensboro-nc.gov/government/bonds": {
+                    "url": "https://www.greensboro-nc.gov/government/bonds",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:government",
+                    "text": "Bonds",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/government/city-attorney-s-office": {
+                    "url": "https://www.greensboro-nc.gov/government/city-attorney-s-office",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_greensboro-nc_gov_government_city-attorney-s-office",
+                    "num_references": 7,
+                    "comment": "heuristic backfill: keyword:government, role:city",
+                    "text": "City Attorney’s Office",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 15
+                },
+                "https://greensboro-nc.gov/government/city-news/2026-holiday-calendar": {
+                    "url": "https://www.greensboro-nc.gov/government/city-news/2026-holiday-calendar",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:government, role:city",
+                    "text": "2026 Holiday Calendar",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/government/city-news/city-calendar-meetings": {
+                    "url": "https://www.greensboro-nc.gov/government/city-news/city-calendar-meetings",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_greensboro-nc_gov_government_city-news_city-calendar-meetings",
+                    "num_references": 7,
+                    "comment": "heuristic backfill: keyword:government, role:city",
+                    "text": "City Calendar (meetings)",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 25
+                },
+                "https://greensboro-nc.gov/government/city-news/city-newsletter": {
+                    "url": "https://www.greensboro-nc.gov/government/city-news/city-newsletter",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 4,
+                    "comment": "heuristic backfill: keyword:government, role:city",
+                    "text": "City Newsletter",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/government/city-news/city-news": {
+                    "url": "https://www.greensboro-nc.gov/government/city-news/city-news",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:government, role:city",
+                    "text": "More News",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/government/city-news/road-closures": {
+                    "url": "https://www.greensboro-nc.gov/government/city-news/road-closures",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:government, role:city",
+                    "text": "Road Closures",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/government/city-news/televised-meetings": {
+                    "url": "https://www.greensboro-nc.gov/government/city-news/televised-meetings",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_greensboro-nc_gov_government_city-news_televised-meetings",
+                    "num_references": 8,
+                    "comment": "heuristic backfill: keyword:government, role:city",
+                    "text": "Televised Meetings",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 23
+                },
+                "https://greensboro-nc.gov/government/city-service-request": {
+                    "url": "https://www.greensboro-nc.gov/government/city-service-request",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 5,
+                    "comment": "heuristic backfill: keyword:government, role:city",
+                    "text": "City Service Request",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/government/code-of-ordinances": {
+                    "url": "https://www.greensboro-nc.gov/government/code-of-ordinances",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 5,
+                    "comment": "heuristic backfill: keyword:government",
+                    "text": "Code of Ordinances",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/government/current-budget": {
+                    "url": "https://www.greensboro-nc.gov/government/current-budget",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 5,
+                    "comment": "heuristic backfill: keyword:government",
+                    "text": "Current Budget",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/government/public-records-requests": {
+                    "url": "https://www.greensboro-nc.gov/government/public-records-requests",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 5,
+                    "comment": "heuristic backfill: keyword:government",
+                    "text": "Public Records Requests",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/government/zoom-backgrounds": {
+                    "url": "https://www.greensboro-nc.gov/government/zoom-backgrounds",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:government",
+                    "text": "Zoom Backgrounds",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/residents/explore/downtown-greensboro-inc": {
+                    "url": "https://www.greensboro-nc.gov/residents/explore/downtown-greensboro-inc",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:town",
+                    "text": "Downtown Greensboro Inc.",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/residents/facility-directory": {
+                    "url": "https://www.greensboro-nc.gov/residents/facility-directory",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:directory",
+                    "text": "Facility Directory",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/residents/facility-directory/facility-directory-map-view": {
+                    "url": "https://www.greensboro-nc.gov/residents/facility-directory/facility-directory-map-view",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:directory",
+                    "text": "Facility Directory (Map View)",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/residents/info-center/city-events": {
+                    "url": "https://www.greensboro-nc.gov/residents/info-center/city-events",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "City Events",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/residents/info-center/city-meetings": {
+                    "url": "https://www.greensboro-nc.gov/residents/info-center/city-meetings",
+                    "status": "processed_irrelevant",
+                    "folder_name": "www_greensboro-nc_gov_residents_info-center_city-meetings",
+                    "num_references": 9,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "City Meetings",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": 19
+                },
+                "https://greensboro-nc.gov/residents/info-center/city-news": {
+                    "url": "https://www.greensboro-nc.gov/residents/info-center/city-news",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "City News",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/residents/request-a-city-service": {
+                    "url": "https://www.greensboro-nc.gov/residents/request-a-city-service",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "Request a City Service",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/residents/transit/downtown-parking": {
+                    "url": "https://www.greensboro-nc.gov/residents/transit/downtown-parking",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:town",
+                    "text": "Downtown Parking",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/solid-waste-and-recycling/recycle": {
+                    "url": "https://www.greensboro-nc.gov/departments/solid-waste-and-recycling/recycle",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "**GSO Collects App**",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/business/office-of-business-opportunity/city-criteria": {
+                    "url": "https://www.greensboro-nc.gov/business/office-of-business-opportunity/city-criteria",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "City Criteria",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/i-want-to/contact/contact-the-city": {
+                    "url": "https://www.greensboro-nc.gov/i-want-to/contact/contact-the-city",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 4,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "Contact the City",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/i-want-to/get-around-the-city": {
+                    "url": "https://www.greensboro-nc.gov/i-want-to/get-around-the-city",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "Get Around the City",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/i-want-to/get-around-the-city/bus-routes": {
+                    "url": "https://www.greensboro-nc.gov/i-want-to/get-around-the-city/bus-routes",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "Bus Routes",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/i-want-to/learn-about": {
+                    "url": "https://www.greensboro-nc.gov/i-want-to/learn-about",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:about",
+                    "text": "Learn About",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/i-want-to/learn-about/active-adult-programs": {
+                    "url": "https://www.greensboro-nc.gov/i-want-to/learn-about/active-adult-programs",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:about",
+                    "text": "Active Adult Programs",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/i-want-to/learn-about/activities": {
+                    "url": "https://www.greensboro-nc.gov/i-want-to/learn-about/activities",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:about",
+                    "text": "Activities",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/i-want-to/learn-about/affordable-safe-housing": {
+                    "url": "https://www.greensboro-nc.gov/i-want-to/learn-about/affordable-safe-housing",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:about",
+                    "text": "Affordable, Safe Housing",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/i-want-to/learn-about/arts-entertainment": {
+                    "url": "https://www.greensboro-nc.gov/i-want-to/learn-about/arts-entertainment",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:about",
+                    "text": "Arts & Entertainment",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/i-want-to/learn-about/belonging-engagement": {
+                    "url": "https://www.greensboro-nc.gov/i-want-to/learn-about/belonging-engagement",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:about",
+                    "text": "Belonging & Engagement",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/i-want-to/learn-about/city-events": {
+                    "url": "https://www.greensboro-nc.gov/i-want-to/learn-about/city-events",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "City Events",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/i-want-to/learn-about/city-news": {
+                    "url": "https://www.greensboro-nc.gov/i-want-to/learn-about/city-news",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "City News",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/i-want-to/learn-about/code-violations-compliances": {
+                    "url": "https://www.greensboro-nc.gov/i-want-to/learn-about/code-violations-compliances",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:about",
+                    "text": "Code Violations & Compliances",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/i-want-to/learn-about/emergency-preparations": {
+                    "url": "https://www.greensboro-nc.gov/i-want-to/learn-about/emergency-preparations",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:about",
+                    "text": "Emergency Preparations",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/i-want-to/learn-about/lane-road-closures": {
+                    "url": "https://www.greensboro-nc.gov/i-want-to/learn-about/lane-road-closures",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:about",
+                    "text": "Lane & Road Closures",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/i-want-to/learn-about/recycling": {
+                    "url": "https://www.greensboro-nc.gov/i-want-to/learn-about/recycling",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:about",
+                    "text": "Recycling",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/i-want-to/learn-about/safety-issues": {
+                    "url": "https://www.greensboro-nc.gov/i-want-to/learn-about/safety-issues",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:about",
+                    "text": "Safety Issues",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/i-want-to/learn-about/weather-related-closings-schedule-changes": {
+                    "url": "https://www.greensboro-nc.gov/i-want-to/learn-about/weather-related-closings-schedule-changes",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:about",
+                    "text": "Weather-Related Closings/Schedule Changes",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/i-want-to/learn-about/gsoroadto10k": {
+                    "url": "https://www.greensboro-nc.gov/i-want-to/learn-about/gsoroadto10k",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:about",
+                    "text": "GSORoadto10K",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/i-want-to/locate/city-hall": {
+                    "url": "https://www.greensboro-nc.gov/i-want-to/locate/city-hall",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "City Hall",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/i-want-to/locate/city-buildings-facilities": {
+                    "url": "https://www.greensboro-nc.gov/i-want-to/locate/city-buildings-facilities",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "City Buildings & Facilities",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/i-want-to/watch/planning-and-zoning-commission-meetings-online": {
+                    "url": "https://www.greensboro-nc.gov/i-want-to/watch/planning-and-zoning-commission-meetings-online",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:commission",
+                    "text": "Planning and Zoning Commission Meetings Online",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/government/city-council/connect-with-city-council": {
+                    "url": "https://www.greensboro-nc.gov/government/city-council/connect-with-city-council",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 4,
+                    "comment": "heuristic backfill: keyword:government, role:city, designation:council",
+                    "text": "Connect with Councilmembers",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/government/city-council/frequently-asked-questions": {
+                    "url": "https://www.greensboro-nc.gov/government/city-council/frequently-asked-questions",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:government, role:city, designation:council",
+                    "text": "Frequently Asked Questions",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/government/city-council/council-district-map": {
+                    "url": "https://www.greensboro-nc.gov/government/city-council/council-district-map",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:government, role:city, designation:council",
+                    "text": "Council District Map",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/government/city-council/e-mail-city-council": {
+                    "url": "https://www.greensboro-nc.gov/government/city-council/e-mail-city-council",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:government, role:city, designation:council",
+                    "text": "By email",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/home/showpublishedimage/42569/639017358685500000": {
+                    "url": "https://www.greensboro-nc.gov/home/showpublishedimage/42569/639017358685500000",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "City of Greensboro image",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/home/showpublisheddocument/55187/638125019365670000": {
+                    "url": "https://www.greensboro-nc.gov/home/showpublisheddocument/55187/638125019365670000",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:council, role:city, designation:council",
+                    "text": "2023-24 City Council Legislative Agenda",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/home/showpublisheddocument/56718/638270849128400000": {
+                    "url": "https://www.greensboro-nc.gov/home/showpublisheddocument/56718/638270849128400000",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:council, role:city, designation:council",
+                    "text": "City Council Goals",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/home/showpublisheddocument/42/639015872957430000": {
+                    "url": "https://www.greensboro-nc.gov/home/showpublisheddocument/42/639015872957430000",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "City Department Directors",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/home/showpublisheddocument/1170/639173125882830000": {
+                    "url": "https://www.greensboro-nc.gov/home/showpublisheddocument/1170/639173125882830000",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:city, role:city",
+                    "text": "City Organizational Chart",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/government/city-council/-folder-3510#docfold_9144_19827_346_3510 \"click to open 2026 folder\"": {
+                    "url": "https://www.greensboro-nc.gov/government/city-council/-folder-3510#docfold_9144_19827_346_3510 \"Click to open 2026 folder\"",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:government, role:city, designation:council",
+                    "text": "2026",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/government/city-council/-folder-3511#docfold_9144_19827_346_3511 \"click to open 2025 folder\"": {
+                    "url": "https://www.greensboro-nc.gov/government/city-council/-folder-3511#docfold_9144_19827_346_3511 \"Click to open 2025 folder\"",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:government, role:city, designation:council",
+                    "text": "2025",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/home/components/news/news/22622/36?backlist=%2fgovernment%2fcity-council": {
+                    "url": "https://www.greensboro-nc.gov/Home/Components/News/News/22622/36?backlist=%2fgovernment%2fcity-council",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: designation:council",
+                    "text": "FY 2026-27 Budget Includes Property Tax Adjustment to Support Core Services",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/home/components/news/news/22611/36?backlist=%2fgovernment%2fcity-council": {
+                    "url": "https://www.greensboro-nc.gov/Home/Components/News/News/22611/36?backlist=%2fgovernment%2fcity-council",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: designation:council",
+                    "text": "Greensboro Takes Steps to Protect Environmental Quality",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/home/components/news/news/22546/36?backlist=%2fgovernment%2fcity-council": {
+                    "url": "https://www.greensboro-nc.gov/Home/Components/News/News/22546/36?backlist=%2fgovernment%2fcity-council",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:council, role:city, designation:council",
+                    "text": "July 14 City Council Meeting is Cancelled",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/information-technology/city-of-greensboro-employee-access": {
+                    "url": "https://www.greensboro-nc.gov/departments/information-technology/city-of-greensboro-employee-access",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments, role:city",
+                    "text": "Employee Portal",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/government/our-website-policy": {
+                    "url": "https://www.greensboro-nc.gov/government/our-website-policy",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:government",
+                    "text": "Policies",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/executive/community-relations/ada-compliance": {
+                    "url": "https://www.greensboro-nc.gov/departments/executive/community-relations/ada-compliance",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 3,
+                    "comment": "heuristic backfill: keyword:departments",
+                    "text": "Accessibility",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/government/city-clerk#pagebody": {
+                    "url": "https://www.greensboro-nc.gov/government/city-clerk#pagebody",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:government, role:city",
+                    "text": "Skip to Main Content",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/government/city-clerk/agendas-minutes-video-for-council-meetings": {
+                    "url": "https://www.greensboro-nc.gov/government/city-clerk/agendas-minutes-video-for-council-meetings",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 2,
+                    "comment": "heuristic backfill: keyword:government, role:city, designation:council",
+                    "text": "Agendas, Minutes & Video for Council Meetings",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/government/city-clerk/nc-government-records-branch": {
+                    "url": "https://www.greensboro-nc.gov/government/city-clerk/nc-government-records-branch",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:government, role:city",
+                    "text": "NC Government Records Branch",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/government/city-council/council-meetings/closed-session-meeting-minutes": {
+                    "url": "https://www.greensboro-nc.gov/government/city-council/council-meetings/closed-session-meeting-minutes",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/residents/info-center/agenda-minutes-videos": {
+                    "url": "https://www.greensboro-nc.gov/residents/info-center/agenda-minutes-videos",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 7,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/government/city-manager-s-office/organizational-chart": {
+                    "url": "https://www.greensboro-nc.gov/government/city-manager-s-office/organizational-chart",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/government/city-news/at-your-service": {
+                    "url": "https://www.greensboro-nc.gov/government/city-news/at-your-service",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/government/city-news/employee-spotlights": {
+                    "url": "https://www.greensboro-nc.gov/government/city-news/employee-spotlights",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/government/city-news/official-social-media-sites": {
+                    "url": "https://www.greensboro-nc.gov/government/city-news/official-social-media-sites",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/government/city-news/news-feeds": {
+                    "url": "https://www.greensboro-nc.gov/government/city-news/news-feeds",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/government/city-news/videos-on-demand": {
+                    "url": "https://www.greensboro-nc.gov/government/city-news/videos-on-demand",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/city-attorney-s-office#pagebody": {
+                    "url": "https://www.greensboro-nc.gov/departments/city-attorney-s-office#pagebody",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments, role:city",
+                    "text": "Skip to Main Content",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/city-attorney-s-office/lobbying": {
+                    "url": "https://www.greensboro-nc.gov/departments/city-attorney-s-office/lobbying",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": "heuristic backfill: keyword:departments, role:city",
+                    "text": "Lobbying",
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/departments/legislative/mayor-and-eight-city-council-members": {
+                    "url": "https://www.greensboro-nc.gov/departments/legislative/mayor-and-eight-city-council-members",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                },
+                "https://greensboro-nc.gov/councilmeetings": {
+                    "url": "https://www.greensboro-nc.gov/councilmeetings",
+                    "status": "pending",
+                    "folder_name": "",
+                    "num_references": 1,
+                    "comment": null,
+                    "text": null,
+                    "failure_reason": null,
+                    "failure_source": null,
+                    "visit_order": null
+                }
+            },
+            "queue": [
+                "https://greensboro-nc.gov/government/city-manager-s-office/city-newsletter",
+                "https://greensboro-nc.gov/government/city-news",
+                "https://greensboro-nc.gov/government/city-service-request",
+                "https://greensboro-nc.gov/government/code-of-ordinances",
+                "https://greensboro-nc.gov/government/current-budget",
+                "https://greensboro-nc.gov/government/public-records-requests",
+                "https://greensboro-nc.gov/departments/executive",
+                "https://greensboro-nc.gov/government/city-council/connect-with-city-council",
+                "https://greensboro-nc.gov/departments/city-attorney-s-office",
+                "https://greensboro-nc.gov/government/city-news/city-newsletter",
+                "https://greensboro-nc.gov/i-want-to/contact/contact-the-city",
+                "https://greensboro-nc.gov/departments/communications-marketing/contact-center",
+                "https://greensboro-nc.gov/departments/executive/city-manager-s-office",
+                "https://greensboro-nc.gov/government/city-council/frequently-asked-questions",
+                "https://greensboro-nc.gov/government/city-council/council-district-map",
+                "https://greensboro-nc.gov/government/city-council/e-mail-city-council",
+                "https://greensboro-nc.gov/departments",
+                "https://greensboro-nc.gov/services/city-assistance-programs",
+                "https://greensboro-nc.gov/services/city-comes-to-you",
+                "https://greensboro-nc.gov/residents/request-a-city-service",
+                "https://greensboro-nc.gov/i-want-to/get-around-the-city",
+                "https://greensboro-nc.gov/services/service-directory",
+                "https://greensboro-nc.gov/departments/annual-reports",
+                "https://greensboro-nc.gov/departments/budget-evaluation",
+                "https://greensboro-nc.gov/departments/coliseum",
+                "https://greensboro-nc.gov/departments/communications-marketing",
+                "https://greensboro-nc.gov/departments/community-relations",
+                "https://greensboro-nc.gov/departments/community-safety",
+                "https://greensboro-nc.gov/departments/creative-greensboro",
+                "https://greensboro-nc.gov/departments/engineering-inspections",
+                "https://greensboro-nc.gov/departments/financial-administrative-services",
+                "https://greensboro-nc.gov/departments/fire",
+                "https://greensboro-nc.gov/departments/guilford-metro-9-1-1",
+                "https://greensboro-nc.gov/departments/guilfordworks",
+                "https://greensboro-nc.gov/departments/housing-neighborhood-development-4344",
+                "https://greensboro-nc.gov/departments/human-rights",
+                "https://greensboro-nc.gov/departments/information-technology",
+                "https://greensboro-nc.gov/departments/libraries",
+                "https://greensboro-nc.gov/departments/office-of-sustainability-and-resilience",
+                "https://greensboro-nc.gov/departments/parks-recreation",
+                "https://greensboro-nc.gov/departments/people-culture",
+                "https://greensboro-nc.gov/departments/planning",
+                "https://greensboro-nc.gov/departments/police",
+                "https://greensboro-nc.gov/departments/solid-waste-and-recycling",
+                "https://greensboro-nc.gov/departments/transportation",
+                "https://greensboro-nc.gov/departments/water-resources",
+                "https://greensboro-nc.gov/government/bonds",
+                "https://greensboro-nc.gov/government/zoom-backgrounds",
+                "https://greensboro-nc.gov/residents/facility-directory",
+                "https://greensboro-nc.gov/i-want-to/learn-about",
+                "https://greensboro-nc.gov/government/our-website-policy",
+                "https://greensboro-nc.gov/government/city-news/city-calendar",
+                "https://greensboro-nc.gov/services/city-assistance-programs/classes-field-trips-for-schools",
+                "https://greensboro-nc.gov/services/city-assistance-programs/economic-development",
+                "https://greensboro-nc.gov/services/city-assistance-programs/emergency-notifications-geani",
+                "https://greensboro-nc.gov/services/city-assistance-programs/homebuyers-assistance-programs",
+                "https://greensboro-nc.gov/services/city-assistance-programs/housing-programs-and-services",
+                "https://greensboro-nc.gov/services/city-assistance-programs/medication-collection-boxes",
+                "https://greensboro-nc.gov/services/city-assistance-programs/programs-for-seniors",
+                "https://greensboro-nc.gov/services/city-assistance-programs/regional-transportation-planning",
+                "https://greensboro-nc.gov/services/city-assistance-programs/safe-places-in-greensboro",
+                "https://greensboro-nc.gov/services/city-assistance-programs/workforce-development",
+                "https://greensboro-nc.gov/services/city-assistance-programs/yellow-dot-program-emergency-responders-assistance",
+                "https://greensboro-nc.gov/services/city-comes-to-you/appliance-disposal",
+                "https://greensboro-nc.gov/services/city-comes-to-you/buses",
+                "https://greensboro-nc.gov/services/city-comes-to-you/business-recycling",
+                "https://greensboro-nc.gov/services/city-comes-to-you/dead-animal-pickup",
+                "https://greensboro-nc.gov/services/city-comes-to-you/dumpster-service",
+                "https://greensboro-nc.gov/services/city-comes-to-you/fire-inspections",
+                "https://greensboro-nc.gov/services/city-comes-to-you/household-hazardous-waste-disposal",
+                "https://greensboro-nc.gov/services/city-comes-to-you/residential-recycling-collections",
+                "https://greensboro-nc.gov/services/city-comes-to-you/security-assessment-home-business",
+                "https://greensboro-nc.gov/services/city-comes-to-you/smoke-alarm-replacement",
+                "https://greensboro-nc.gov/services/city-comes-to-you/snow-removal",
+                "https://greensboro-nc.gov/services/city-comes-to-you/trash-collection",
+                "https://greensboro-nc.gov/services/city-comes-to-you/water-sewer-service",
+                "https://greensboro-nc.gov/services/city-comes-to-you/yard-waste-collection",
+                "https://greensboro-nc.gov/services/look-up-and-access/city-building-facility-locations",
+                "https://greensboro-nc.gov/services/requests/city-service-requests",
+                "https://greensboro-nc.gov/services/requests/renting-a-city-facility",
+                "https://greensboro-nc.gov/departments/city-attorney-s-office/city-attorney",
+                "https://greensboro-nc.gov/departments/communications-marketing/city-newsletter",
+                "https://greensboro-nc.gov/government/city-news/2026-holiday-calendar",
+                "https://greensboro-nc.gov/government/city-news/city-news",
+                "https://greensboro-nc.gov/government/city-news/road-closures",
+                "https://greensboro-nc.gov/residents/info-center/city-events",
+                "https://greensboro-nc.gov/residents/info-center/city-news",
+                "https://greensboro-nc.gov/business/office-of-business-opportunity/city-criteria",
+                "https://greensboro-nc.gov/i-want-to/get-around-the-city/bus-routes",
+                "https://greensboro-nc.gov/i-want-to/learn-about/city-events",
+                "https://greensboro-nc.gov/i-want-to/learn-about/city-news",
+                "https://greensboro-nc.gov/i-want-to/locate/city-hall",
+                "https://greensboro-nc.gov/i-want-to/locate/city-buildings-facilities",
+                "https://greensboro-nc.gov/i-want-to/watch/planning-and-zoning-commission-meetings-online",
+                "https://greensboro-nc.gov/departments/information-technology/city-of-greensboro-employee-access",
+                "https://greensboro-nc.gov/departments/people-culture/careers-7442",
+                "https://greensboro-nc.gov/departments/community-safety/community-safety-plan",
+                "https://greensboro-nc.gov/departments/community-safety/gcjac",
+                "https://greensboro-nc.gov/departments/creative-greensboro/arts-culture-month",
+                "https://greensboro-nc.gov/departments/creative-greensboro/cultureworks",
+                "https://greensboro-nc.gov/departments/executive/code-compliance",
+                "https://greensboro-nc.gov/departments/executive/office-of-business-opportunity",
+                "https://greensboro-nc.gov/departments/human-rights/division-of-belonging-and-engagement",
+                "https://greensboro-nc.gov/departments/human-rights/public-accommodations",
+                "https://greensboro-nc.gov/departments/libraries/calendar",
+                "https://greensboro-nc.gov/departments/parks-recreation/cemeteries",
+                "https://greensboro-nc.gov/departments/people-culture/careers",
+                "https://greensboro-nc.gov/departments/planning/gso2040",
+                "https://greensboro-nc.gov/departments/planning/leed-for-cities",
+                "https://greensboro-nc.gov/departments/planning/planning-zoning-agendas-minutes-videos",
+                "https://greensboro-nc.gov/departments/police/victim-services-unit",
+                "https://greensboro-nc.gov/departments/solid-waste-and-recycling/collection-schedule",
+                "https://greensboro-nc.gov/departments/solid-waste-and-recycling/business-services",
+                "https://greensboro-nc.gov/departments/solid-waste-and-recycling/report-an-issue",
+                "https://greensboro-nc.gov/departments/transportation/transit",
+                "https://greensboro-nc.gov/departments/transportation/parking",
+                "https://greensboro-nc.gov/departments/water-resources/water-conservation",
+                "https://greensboro-nc.gov/departments/water-resources/department-contacts",
+                "https://greensboro-nc.gov/departments/water-resources/water-quality-preventative-maintenance-programs",
+                "https://greensboro-nc.gov/departments/water-resources/understanding-water-discoloration",
+                "https://greensboro-nc.gov/departments/water-resources/water-pressure-zone-conversion-projects",
+                "https://greensboro-nc.gov/departments/water-resources/water-sewer-rehab",
+                "https://greensboro-nc.gov/departments/water-resources/lead-copper-compliance-program",
+                "https://greensboro-nc.gov/departments/water-resources/gso-waterwise",
+                "https://greensboro-nc.gov/departments/water-resources/customer-service-for-residents-and-businesses",
+                "https://greensboro-nc.gov/departments/water-resources/get-involved",
+                "https://greensboro-nc.gov/departments/water-resources/espanol",
+                "https://greensboro-nc.gov/residents/explore/downtown-greensboro-inc",
+                "https://greensboro-nc.gov/residents/facility-directory/facility-directory-map-view",
+                "https://greensboro-nc.gov/residents/transit/downtown-parking",
+                "https://greensboro-nc.gov/departments/solid-waste-and-recycling/recycle",
+                "https://greensboro-nc.gov/i-want-to/learn-about/active-adult-programs",
+                "https://greensboro-nc.gov/i-want-to/learn-about/activities",
+                "https://greensboro-nc.gov/i-want-to/learn-about/affordable-safe-housing",
+                "https://greensboro-nc.gov/i-want-to/learn-about/arts-entertainment",
+                "https://greensboro-nc.gov/i-want-to/learn-about/belonging-engagement",
+                "https://greensboro-nc.gov/i-want-to/learn-about/code-violations-compliances",
+                "https://greensboro-nc.gov/i-want-to/learn-about/emergency-preparations",
+                "https://greensboro-nc.gov/i-want-to/learn-about/lane-road-closures",
+                "https://greensboro-nc.gov/i-want-to/learn-about/recycling",
+                "https://greensboro-nc.gov/i-want-to/learn-about/safety-issues",
+                "https://greensboro-nc.gov/i-want-to/learn-about/weather-related-closings-schedule-changes",
+                "https://greensboro-nc.gov/i-want-to/learn-about/gsoroadto10k",
+                "https://greensboro-nc.gov/departments/executive/community-relations/ada-compliance",
+                "https://greensboro-nc.gov/government/city-clerk/agendas-minutes-video-for-council-meetings",
+                "https://greensboro-nc.gov/government/city-council#pagebody",
+                "https://greensboro-nc.gov/government/city-council/-folder-3510#docfold_9144_19827_346_3510 \"click to open 2026 folder\"",
+                "https://greensboro-nc.gov/government/city-council/-folder-3511#docfold_9144_19827_346_3511 \"click to open 2025 folder\"",
+                "https://greensboro-nc.gov/departments/legislative/mayor-and-eight-city-council-members",
+                "https://greensboro-nc.gov/home/showpublisheddocument/55187/638125019365670000",
+                "https://greensboro-nc.gov/home/showpublisheddocument/56718/638270849128400000",
+                "https://greensboro-nc.gov/government/city-council/council-meetings/closed-session-meeting-minutes",
+                "https://greensboro-nc.gov/home/components/news/news/22546/36?backlist=%2fgovernment%2fcity-council",
+                "https://greensboro-nc.gov/councilmeetings",
+                "https://greensboro-nc.gov/government/city-clerk#pagebody",
+                "https://greensboro-nc.gov/departments/city-attorney-s-office#pagebody",
+                "https://greensboro-nc.gov/government/city-manager-s-office/gsoroadto10k",
+                "https://greensboro-nc.gov/government/city-clerk/nc-government-records-branch",
+                "https://greensboro-nc.gov/government/city-manager-s-office/organizational-chart",
+                "https://greensboro-nc.gov/government/city-news/at-your-service",
+                "https://greensboro-nc.gov/government/city-news/employee-spotlights",
+                "https://greensboro-nc.gov/government/city-news/official-social-media-sites",
+                "https://greensboro-nc.gov/government/city-news/news-feeds",
+                "https://greensboro-nc.gov/government/city-news/videos-on-demand",
+                "https://greensboro-nc.gov/departments/city-attorney-s-office/lobbying",
+                "https://greensboro-nc.gov/home/showpublishedimage/42569/639017358685500000",
+                "https://greensboro-nc.gov/home/showpublisheddocument/42/639015872957430000",
+                "https://greensboro-nc.gov/home/showpublisheddocument/1170/639173125882830000",
+                "https://greensboro-nc.gov/residents/info-center/agenda-minutes-videos",
+                "https://greensboro-nc.gov/home/components/news/news/22622/36?backlist=%2fgovernment%2fcity-council",
+                "https://greensboro-nc.gov/home/components/news/news/22611/36?backlist=%2fgovernment%2fcity-council"
+            ]
+        },
+        "research_municipality_step": {
+            "expected_count": 9,
+            "target_designations": [
+                "district 1",
+                "district 2",
+                "district 3",
+                "district 4",
+                "district 5"
+            ],
+            "known_roles": [
+                "Mayor",
+                "Mayor Pro Tem",
+                "Council Member"
+            ],
+            "identities": {
+                "Marikay Abuzuaiter": [],
+                "Denise Roth": [],
+                "Irving Allen": [],
+                "Hugh Holston": [],
+                "Crystal Black": [],
+                "Cecile “CC” Crawford": [],
+                "April Parker": [],
+                "Adam Marshall": [],
+                "Tammi Thurm": []
+            },
+            "source_urls": [],
+            "notes": null,
+            "origin_source": "google_gemini"
+        },
+        "preprocess_page_content_step": {
+            "elapsed_times": [
+                6,
+                4,
+                5,
+                0,
+                0,
+                5,
+                4,
+                4,
+                13,
+                5,
+                10,
+                9,
+                12,
+                8,
+                5,
+                5,
+                4,
+                4,
+                4,
+                0,
+                9,
+                3,
+                4,
+                4,
+                4
+            ],
+            "total_elapsed_time_seconds": 131,
+            "average_elapsed_time_seconds": 5
+        },
+        "process_page_content_step": {
+            "raw_records_by_llm": {
+                "open_router": {
+                    "Marikay Abuzuaiter": [
+                        {
+                            "name": "Marikay Abuzuaiter",
+                            "roles": [
+                                "Mayor"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                        }
+                    ],
+                    "Denise Roth": [
+                        {
+                            "name": "Denise Roth",
+                            "roles": [
+                                "Mayor Pro Tem"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                        }
+                    ],
+                    "Hugh Holston": [
+                        {
+                            "name": "Hugh Holston",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "At Large"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                        }
+                    ],
+                    "Irving Allen": [
+                        {
+                            "name": "Irving Allen",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "At Large"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                        }
+                    ],
+                    "Crystal Black": [
+                        {
+                            "name": "Crystal Black",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "District 1"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                        }
+                    ],
+                    "Cecile (CC) Crawford": [
+                        {
+                            "name": "Cecile (CC) Crawford",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "District 2"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                        }
+                    ],
+                    "April Parker": [
+                        {
+                            "name": "April Parker",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "District 3"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                        }
+                    ],
+                    "Adam Marshall": [
+                        {
+                            "name": "Adam Marshall",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "District 4"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                        }
+                    ],
+                    "Tammi Thurm": [
+                        {
+                            "name": "Tammi Thurm",
+                            "roles": [
+                                "Council Member"
+                            ],
+                            "designations": [
+                                "District 5"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                        }
+                    ]
+                }
+            },
+            "records_by_llm": {
+                "open_router": {
+                    "Marikay Abuzuaiter": [
+                        {
+                            "name": "Marikay Abuzuaiter",
+                            "roles": [
+                                "mayor"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                        }
+                    ],
+                    "Denise Roth": [
+                        {
+                            "name": "Denise Roth",
+                            "roles": [
+                                "mayor pro tempore"
+                            ],
+                            "designations": [],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                        }
+                    ],
+                    "Hugh Holston": [
+                        {
+                            "name": "Hugh Holston",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "At-Large"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                        }
+                    ],
+                    "Irving Allen": [
+                        {
+                            "name": "Irving Allen",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "At-Large"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                        }
+                    ],
+                    "Crystal Black": [
+                        {
+                            "name": "Crystal Black",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "District 1"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                        }
+                    ],
+                    "Cecile (CC) Crawford": [
+                        {
+                            "name": "Cecile (CC) Crawford",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "District 2"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                        }
+                    ],
+                    "April Parker": [
+                        {
+                            "name": "April Parker",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "District 3"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                        }
+                    ],
+                    "Adam Marshall": [
+                        {
+                            "name": "Adam Marshall",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "District 4"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                        }
+                    ],
+                    "Tammi Thurm": [
+                        {
+                            "name": "Tammi Thurm",
+                            "roles": [
+                                "council member"
+                            ],
+                            "designations": [
+                                "District 5"
+                            ],
+                            "phone": null,
+                            "email": null,
+                            "url": null,
+                            "start_date": null,
+                            "end_date": null,
+                            "image": null,
+                            "source_url": "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                        }
+                    ]
+                }
+            },
+            "progress": {
+                "required_data": 9,
+                "current_data": 0,
+                "has_target_role": true,
+                "has_target_designations": false
+            }
+        },
+        "merge_records_within_llm_step": {
+            "people_by_llm": {
+                "open_router": [
+                    {
+                        "name": "Marikay Abuzuaiter",
+                        "other_names": [],
+                        "roles": [
+                            "mayor"
+                        ],
+                        "designations": [],
+                        "phones": [],
+                        "emails": [],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:nc/place:greensboro/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Denise Roth",
+                        "other_names": [],
+                        "roles": [
+                            "mayor pro tempore"
+                        ],
+                        "designations": [],
+                        "phones": [],
+                        "emails": [],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:nc/place:greensboro/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Hugh Holston",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "At-Large"
+                        ],
+                        "phones": [],
+                        "emails": [],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:nc/place:greensboro/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Irving Allen",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "At-Large"
+                        ],
+                        "phones": [],
+                        "emails": [],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:nc/place:greensboro/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Crystal Black",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "District 1"
+                        ],
+                        "phones": [],
+                        "emails": [],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:nc/place:greensboro/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Cecile “CC” Crawford",
+                        "other_names": [
+                            "Cecile (CC) Crawford"
+                        ],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "District 2"
+                        ],
+                        "phones": [],
+                        "emails": [],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:nc/place:greensboro/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "April Parker",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "District 3"
+                        ],
+                        "phones": [],
+                        "emails": [],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:nc/place:greensboro/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Adam Marshall",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "District 4"
+                        ],
+                        "phones": [],
+                        "emails": [],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:nc/place:greensboro/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                        ],
+                        "updated_at": ""
+                    },
+                    {
+                        "name": "Tammi Thurm",
+                        "other_names": [],
+                        "roles": [
+                            "council member"
+                        ],
+                        "designations": [
+                            "District 5"
+                        ],
+                        "phones": [],
+                        "emails": [],
+                        "urls": [],
+                        "start_date": "",
+                        "end_date": "",
+                        "image": "",
+                        "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:nc/place:greensboro/government",
+                        "cdn_image": "",
+                        "source_urls": [
+                            "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                        ],
+                        "updated_at": ""
+                    }
+                ]
+            },
+            "unrecognized_roles": [],
+            "excluded_people": []
+        },
+        "merge_records_across_llms_step": {
+            "people": [
+                {
+                    "name": "Marikay Abuzuaiter",
+                    "other_names": [],
+                    "roles": [
+                        "mayor"
+                    ],
+                    "designations": [],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:nc/place:greensboro/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                    ],
+                    "updated_at": "2026-07-09T16:44:35+00:00"
+                },
+                {
+                    "name": "Crystal Black",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "district 1"
+                    ],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:nc/place:greensboro/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                    ],
+                    "updated_at": "2026-07-09T16:44:35+00:00"
+                },
+                {
+                    "name": "Cecile “CC” Crawford",
+                    "other_names": [
+                        "Cecile (CC) Crawford"
+                    ],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "district 2"
+                    ],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:nc/place:greensboro/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                    ],
+                    "updated_at": "2026-07-09T16:44:35+00:00"
+                },
+                {
+                    "name": "April Parker",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "district 3"
+                    ],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:nc/place:greensboro/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                    ],
+                    "updated_at": "2026-07-09T16:44:35+00:00"
+                },
+                {
+                    "name": "Adam Marshall",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "district 4"
+                    ],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:nc/place:greensboro/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                    ],
+                    "updated_at": "2026-07-09T16:44:35+00:00"
+                },
+                {
+                    "name": "Tammi Thurm",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "district 5"
+                    ],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:nc/place:greensboro/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                    ],
+                    "updated_at": "2026-07-09T16:44:35+00:00"
+                },
+                {
+                    "name": "Hugh Holston",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "at-large"
+                    ],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:nc/place:greensboro/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                    ],
+                    "updated_at": "2026-07-09T16:44:35+00:00"
+                },
+                {
+                    "name": "Irving Allen",
+                    "other_names": [],
+                    "roles": [
+                        "council member"
+                    ],
+                    "designations": [
+                        "at-large"
+                    ],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:nc/place:greensboro/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                    ],
+                    "updated_at": "2026-07-09T16:44:35+00:00"
+                },
+                {
+                    "name": "Denise Roth",
+                    "other_names": [],
+                    "roles": [
+                        "mayor pro tempore"
+                    ],
+                    "designations": [],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [],
+                    "start_date": "",
+                    "end_date": "",
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:nc/place:greensboro/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                    ],
+                    "updated_at": "2026-07-09T16:44:35+00:00"
+                }
+            ]
+        },
+        "format_output_step": {
+            "officials": [
+                {
+                    "name": "Marikay Abuzuaiter",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Mayor",
+                        "division_ocdid": "ocd-division/country:us/state:nc/place:greensboro"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:nc/place:greensboro/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                    ],
+                    "updated_at": "2026-07-09T16:44:35+00:00",
+                    "id": "40e820c2-1a71-445b-9462-cc0595a16a83"
+                },
+                {
+                    "name": "Crystal Black",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member",
+                        "division_ocdid": "ocd-division/country:us/state:nc/place:greensboro/council_district:1"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:nc/place:greensboro/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                    ],
+                    "updated_at": "2026-07-09T16:44:35+00:00",
+                    "id": "c7187ec4-0104-42f1-bf83-e58610e7e4c4"
+                },
+                {
+                    "name": "Cecile “CC” Crawford",
+                    "other_names": [
+                        "Cecile (CC) Crawford"
+                    ],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member",
+                        "division_ocdid": "ocd-division/country:us/state:nc/place:greensboro/council_district:2"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:nc/place:greensboro/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                    ],
+                    "updated_at": "2026-07-09T16:44:35+00:00",
+                    "id": "bf3a63d9-61b3-493d-99d5-f128de6b1289"
+                },
+                {
+                    "name": "April Parker",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member",
+                        "division_ocdid": "ocd-division/country:us/state:nc/place:greensboro/council_district:3"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:nc/place:greensboro/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                    ],
+                    "updated_at": "2026-07-09T16:44:35+00:00",
+                    "id": "e75bbf16-8dd1-473b-b28d-5fb6118f0639"
+                },
+                {
+                    "name": "Adam Marshall",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member",
+                        "division_ocdid": "ocd-division/country:us/state:nc/place:greensboro/council_district:4"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:nc/place:greensboro/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                    ],
+                    "updated_at": "2026-07-09T16:44:35+00:00",
+                    "id": "d0c14823-452b-4da8-88bb-5f570c87ecc5"
+                },
+                {
+                    "name": "Tammi Thurm",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member",
+                        "division_ocdid": "ocd-division/country:us/state:nc/place:greensboro/council_district:5"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:nc/place:greensboro/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                    ],
+                    "updated_at": "2026-07-09T16:44:35+00:00",
+                    "id": "9e87f289-4fec-4402-8f84-8881e2a6929b"
+                },
+                {
+                    "name": "Hugh Holston",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - At-Large",
+                        "division_ocdid": "ocd-division/country:us/state:nc/place:greensboro"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:nc/place:greensboro/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                    ],
+                    "updated_at": "2026-07-09T16:44:35+00:00",
+                    "id": "aa126277-60a0-4c75-895f-59c34a7919b7"
+                },
+                {
+                    "name": "Irving Allen",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Council Member - At-Large",
+                        "division_ocdid": "ocd-division/country:us/state:nc/place:greensboro"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:nc/place:greensboro/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                    ],
+                    "updated_at": "2026-07-09T16:44:35+00:00",
+                    "id": "a1742683-e841-4c02-a6f3-ec9f56c8eb2a"
+                },
+                {
+                    "name": "Denise Roth",
+                    "other_names": [],
+                    "phones": [],
+                    "emails": [],
+                    "urls": [
+                        "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                    ],
+                    "start_date": null,
+                    "end_date": null,
+                    "office": {
+                        "name": "Mayor Pro Tempore",
+                        "division_ocdid": "ocd-division/country:us/state:nc/place:greensboro"
+                    },
+                    "image": "",
+                    "jurisdiction_ocdid": "ocd-jurisdiction/country:us/state:nc/place:greensboro/government",
+                    "cdn_image": "",
+                    "source_urls": [
+                        "https://www.greensboro-nc.gov/i-want-to/contact/e-mail-city-council"
+                    ],
+                    "updated_at": "2026-07-09T16:44:35+00:00",
+                    "id": "2e39998d-004c-437d-b147-555904c41411"
+                }
+            ]
+        },
+        "review_output_step": {
+            "issues": [],
+            "people_by_source": [
+                {
+                    "name": "Adam Marshall",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "April Parker",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Cecile “CC” Crawford",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Crystal Black",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Denise Roth",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Hugh Holston",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Irving Allen",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Marikay Abuzuaiter",
+                    "in_research": true,
+                    "in_data": true
+                },
+                {
+                    "name": "Tammi Thurm",
+                    "in_research": true,
+                    "in_data": true
+                }
+            ],
+            "origin_source": "google_gemini"
+        },
+        "find_jurisdiction_url_step": null,
+        "send_success_step": null,
+        "send_error_step": null,
+        "issues": [],
+        "error_step": null,
+        "error_detail": null
+    },
+    "current_state": "SEND_SUCCESS",
+    "request_id": "3733e6e7-33ea-403a-af7c-f9e31173b836",
+    "created_at": 1783614838.167303,
+    "updated_at": 1783615475.185577,
+    "progress": 27
+}
