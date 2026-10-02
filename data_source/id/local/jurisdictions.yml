@@ -286,7 +286,7 @@ jurisdictions:
   - ocd-jurisdiction/country:us/state:id/government
 - id: ocd-jurisdiction/country:us/state:id/place:payette/government
   name: Payette city
-  url: http://payette.govoffice.com
+  url: https://cityofpayette.com/
   population: 8536
   geoid: '1661300'
   wiki_url: https://en.wikipedia.org/wiki/Payette,_Idaho
