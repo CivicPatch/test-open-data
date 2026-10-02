@@ -1,4 +1,4 @@
-- id: 31b55c68-0718-4251-8610-a77f18929d24
+- id: b0c8bbbc-d5c1-46b9-9b10-4345694b4a12
   name: Edward G. Campbell III
   other_names: []
   phones:
@@ -11,7 +11,7 @@
   cdn_image: null
   source_urls:
   - https://gibbsborotownhall.com/borough-council/
-  updated_at: '2026-04-25T08:03:30+00:00'
+  updated_at: '2026-10-02T22:17:58+00:00'
   roles:
   - name: Mayor
     role_id: mayor
@@ -19,10 +19,11 @@
     division_ocdid: ocd-division/country:us/state:nj/place:gibbsboro
     start_date: null
     end_date: null
-- id: b4d8eb7f-b6b9-427e-b9c6-f6def722b6f6
+- id: abcce1e9-919f-4867-a806-e1f249afe45d
   name: Andrew Parsinitz
   other_names: []
-  phones: []
+  phones:
+  - (856) 783-6655
   emails:
   - parsinitz@gibbsborotownhall.com
   urls:
@@ -31,7 +32,7 @@
   cdn_image: null
   source_urls:
   - https://gibbsborotownhall.com/borough-council/
-  updated_at: '2026-04-25T08:03:30+00:00'
+  updated_at: '2026-10-02T22:17:58+00:00'
   roles:
   - name: Council Member
     role_id: council-member
@@ -39,10 +40,32 @@
     division_ocdid: ocd-division/country:us/state:nj/place:gibbsboro
     start_date: null
     end_date: null
-- id: fb4a6005-69ea-4ac4-81da-81832d24e75f
+- id: eb9db3da-57b3-4d00-b386-ea1f3965ad95
+  name: Beth Schmidt
+  other_names: []
+  phones:
+  - (856) 783-6655
+  emails:
+  - schmidt@gibbsborotownhall.com
+  urls:
+  - https://gibbsborotownhall.com/borough-council/
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://gibbsborotownhall.com/borough-council/
+  updated_at: '2026-10-02T22:17:58+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:nj/place:gibbsboro/government
+    division_ocdid: ocd-division/country:us/state:nj/place:gibbsboro
+    start_date: null
+    end_date: null
+- id: e3cece8b-4950-465e-8c6d-b51d6188355b
   name: Brandon Boots
   other_names: []
-  phones: []
+  phones:
+  - (856) 783-6655
   emails:
   - boots@gibbsborotownhall.com
   urls:
@@ -51,7 +74,7 @@
   cdn_image: null
   source_urls:
   - https://gibbsborotownhall.com/borough-council/
-  updated_at: '2026-04-25T08:03:30+00:00'
+  updated_at: '2026-10-02T22:17:58+00:00'
   roles:
   - name: Council Member
     role_id: council-member
@@ -59,30 +82,11 @@
     division_ocdid: ocd-division/country:us/state:nj/place:gibbsboro
     start_date: null
     end_date: null
-- id: 6278e106-e899-4e78-a22d-69b00e94c50d
-  name: Fred Deterding
-  other_names: []
-  phones: []
-  emails:
-  - deterding@gibbsborotownhall.com
-  urls:
-  - https://gibbsborotownhall.com/borough-council/
-  image: null
-  cdn_image: null
-  source_urls:
-  - https://gibbsborotownhall.com/borough-council/
-  updated_at: '2026-04-25T08:03:30+00:00'
-  roles:
-  - name: Council Member
-    role_id: council-member
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:nj/place:gibbsboro/government
-    division_ocdid: ocd-division/country:us/state:nj/place:gibbsboro
-    start_date: null
-    end_date: null
-- id: 1e388faa-1816-4aed-883f-5421814bac0f
+- id: 1374d4ee-be4d-4fe7-910a-ac5a4c54aa74
   name: Glenn Werner
   other_names: []
-  phones: []
+  phones:
+  - (856) 783-6655
   emails:
   - werner@gibbsborotownhall.com
   urls:
@@ -91,7 +95,7 @@
   cdn_image: null
   source_urls:
   - https://gibbsborotownhall.com/borough-council/
-  updated_at: '2026-04-25T08:03:30+00:00'
+  updated_at: '2026-10-02T22:17:58+00:00'
   roles:
   - name: Council Member
     role_id: council-member
@@ -99,10 +103,11 @@
     division_ocdid: ocd-division/country:us/state:nj/place:gibbsboro
     start_date: null
     end_date: null
-- id: dd838c0a-08c0-467e-bfec-b1239d0fb207
+- id: d6cd5aec-83f5-4d18-ba01-6cca3d44c1a5
   name: John Ritz
   other_names: []
-  phones: []
+  phones:
+  - (856) 783-6655
   emails:
   - ritz@gibbsborotownhall.com
   urls:
@@ -111,7 +116,7 @@
   cdn_image: null
   source_urls:
   - https://gibbsborotownhall.com/borough-council/
-  updated_at: '2026-04-25T08:03:30+00:00'
+  updated_at: '2026-10-02T22:17:58+00:00'
   roles:
   - name: Council Member
     role_id: council-member
@@ -119,10 +124,11 @@
     division_ocdid: ocd-division/country:us/state:nj/place:gibbsboro
     start_date: null
     end_date: null
-- id: 82c0d0e8-872b-4ce5-a764-ffd7f05e2181
+- id: fe37f7ed-b7f4-458c-895a-41cb38948114
   name: Marianne Colavita
   other_names: []
-  phones: []
+  phones:
+  - (856) 783-6655
   emails:
   - colavita@gibbsborotownhall.com
   urls:
@@ -131,7 +137,7 @@
   cdn_image: null
   source_urls:
   - https://gibbsborotownhall.com/borough-council/
-  updated_at: '2026-04-25T08:03:30+00:00'
+  updated_at: '2026-10-02T22:17:58+00:00'
   roles:
   - name: Council Member
     role_id: council-member
@@ -139,10 +145,11 @@
     division_ocdid: ocd-division/country:us/state:nj/place:gibbsboro
     start_date: null
     end_date: null
-- id: 56a4430f-4af0-4fa3-897f-8e11fced1e4b
+- id: 5a7273e6-48ac-481a-bf26-ec3f6582c77f
   name: Mitch Brown
   other_names: []
-  phones: []
+  phones:
+  - (856) 783-6655
   emails:
   - brown@gibbsborotownhall.com
   urls:
@@ -151,7 +158,7 @@
   cdn_image: null
   source_urls:
   - https://gibbsborotownhall.com/borough-council/
-  updated_at: '2026-04-25T08:03:30+00:00'
+  updated_at: '2026-10-02T22:17:58+00:00'
   roles:
   - name: Council Member
     role_id: council-member

@@ -1,133 +1,4 @@
-- id: e7115c13-98b1-49f2-91fe-9261d34ca493
-  name: J. Daniel Lopez
-  other_names: []
-  phones:
-  - (208) 642-6024
-  emails:
-  - dlopez@cityofpayette.com
-  urls:
-  - https://cityofpayette.com/index.asp?SEC=EC229BCB-6752-46F1-A3D6-8AE9E7492111&Type=B_BASIC
-  image: https://payette.govoffice.com/vertical/Sites/%7B44867065-4476-41DD-91A9-F7FF564B033D%7D/uploads/council%281%29.jpg
-  cdn_image: null
-  source_urls:
-  - https://cityofpayette.com/index.asp?SEC=3E868623-D11C-4F30-A389-C51A121FB9A7&Type=B_BASIC
-  - https://cityofpayette.com/index.asp?SEC=EC229BCB-6752-46F1-A3D6-8AE9E7492111&Type=B_BASIC
-  - https://payette.govoffice.com/index.asp?SEC=3E868623-D11C-4F30-A389-C51A121FB9A7&Type=B_BASIC
-  - https://payette.govoffice.com/index.asp?SEC=EC229BCB-6752-46F1-A3D6-8AE9E7492111&Type=B_BASIC
-  updated_at: '2025-07-14T16:37:53+00:00'
-  roles:
-  - name: Mayor
-    role_id: mayor
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:id/place:payette/government
-    division_ocdid: ocd-division/country:us/state:id/place:payette
-    start_date: '2023'
-    end_date: '2025'
-- id: 5c43ddd4-0914-4392-8c2a-09a25c6e82ca
-  name: Kathy Patrick
-  other_names: []
-  phones: []
-  emails:
-  - kpatrick@cityofpayette.com
-  urls:
-  - https://cityofpayette.com/index.asp?SEC=3E868623-D11C-4F30-A389-C51A121FB9A7&Type=B_BASIC
-  image: https://payette.govoffice.com/vertical/Sites/%7B44867065-4476-41DD-91A9-F7FF564B033D%7D/uploads/council%281%29.jpg
-  cdn_image: null
-  source_urls:
-  - https://cityofpayette.com/index.asp?SEC=3E868623-D11C-4F30-A389-C51A121FB9A7&Type=B_BASIC
-  - https://payette.govoffice.com/index.asp?SEC=3E868623-D11C-4F30-A389-C51A121FB9A7&Type=B_BASIC
-  updated_at: '2025-07-14T16:37:53+00:00'
-  roles:
-  - name: Council President
-    role_id: council-president
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:id/place:payette/government
-    division_ocdid: ocd-division/country:us/state:id/place:payette
-    start_date: null
-    end_date: '2025'
-- id: d80c35e7-afab-4368-b78d-0638b8e048c5
-  name: Bobbie Black
-  other_names: []
-  phones: []
-  emails:
-  - bobbieblack@cityofpayette.com
-  urls:
-  - https://cityofpayette.com/index.asp?SEC=3E868623-D11C-4F30-A389-C51A121FB9A7&Type=B_BASIC
-  image: https://payette.govoffice.com/vertical/Sites/%7B44867065-4476-41DD-91A9-F7FF564B033D%7D/uploads/council%281%29.jpg
-  cdn_image: null
-  source_urls:
-  - https://cityofpayette.com/index.asp?SEC=3E868623-D11C-4F30-A389-C51A121FB9A7&Type=B_BASIC
-  - https://payette.govoffice.com/index.asp?SEC=3E868623-D11C-4F30-A389-C51A121FB9A7&Type=B_BASIC
-  updated_at: '2025-07-14T16:37:53+00:00'
-  roles:
-  - name: Council Member
-    role_id: council-member
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:id/place:payette/government
-    division_ocdid: ocd-division/country:us/state:id/place:payette
-    start_date: null
-    end_date: '2025'
-- id: c2ab0b76-7aed-4eed-b916-984d7cacedc8
-  name: Jim Franklin
-  other_names: []
-  phones: []
-  emails:
-  - jfranklin@cityofpayette.com
-  urls:
-  - https://cityofpayette.com/index.asp?SEC=3E868623-D11C-4F30-A389-C51A121FB9A7&Type=B_BASIC
-  image: https://payette.govoffice.com/vertical/Sites/%7B44867065-4476-41DD-91A9-F7FF564B033D%7D/uploads/council%281%29.jpg
-  cdn_image: null
-  source_urls:
-  - https://cityofpayette.com/index.asp?SEC=3E868623-D11C-4F30-A389-C51A121FB9A7&Type=B_BASIC
-  - https://payette.govoffice.com/index.asp?SEC=3E868623-D11C-4F30-A389-C51A121FB9A7&Type=B_BASIC
-  updated_at: '2025-07-14T16:37:53+00:00'
-  roles:
-  - name: Council Member
-    role_id: council-member
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:id/place:payette/government
-    division_ocdid: ocd-division/country:us/state:id/place:payette
-    start_date: null
-    end_date: '2025'
-- id: 817e3a94-5de1-469a-98d8-ac6420d6bfb9
-  name: Lori Steiniker
-  other_names: []
-  phones: []
-  emails:
-  - lsteiniker@cityofpayette.com
-  urls:
-  - https://cityofpayette.com/index.asp?SEC=3E868623-D11C-4F30-A389-C51A121FB9A7&Type=B_BASIC
-  image: https://payette.govoffice.com/vertical/Sites/%7B44867065-4476-41DD-91A9-F7FF564B033D%7D/uploads/council%281%29.jpg
-  cdn_image: null
-  source_urls:
-  - https://cityofpayette.com/index.asp?SEC=3E868623-D11C-4F30-A389-C51A121FB9A7&Type=B_BASIC
-  - https://payette.govoffice.com/index.asp?SEC=3E868623-D11C-4F30-A389-C51A121FB9A7&Type=B_BASIC
-  updated_at: '2025-07-14T16:37:53+00:00'
-  roles:
-  - name: Council Member
-    role_id: council-member
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:id/place:payette/government
-    division_ocdid: ocd-division/country:us/state:id/place:payette
-    start_date: null
-    end_date: '2027'
-- id: a8838597-f57d-4fca-8da0-2a81bf7cbc8a
-  name: Mike Kee
-  other_names: []
-  phones: []
-  emails:
-  - mkee@cityofpayette.com
-  urls:
-  - https://cityofpayette.com/index.asp?SEC=3E868623-D11C-4F30-A389-C51A121FB9A7&Type=B_BASIC
-  image: https://payette.govoffice.com/vertical/Sites/%7B44867065-4476-41DD-91A9-F7FF564B033D%7D/uploads/council%281%29.jpg
-  cdn_image: null
-  source_urls:
-  - https://cityofpayette.com/index.asp?SEC=3E868623-D11C-4F30-A389-C51A121FB9A7&Type=B_BASIC
-  - https://payette.govoffice.com/index.asp?SEC=3E868623-D11C-4F30-A389-C51A121FB9A7&Type=B_BASIC
-  updated_at: '2025-07-14T16:37:53+00:00'
-  roles:
-  - name: Council Member
-    role_id: council-member
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:id/place:payette/government
-    division_ocdid: ocd-division/country:us/state:id/place:payette
-    start_date: null
-    end_date: '2027'
-- id: cb89e704-cb95-4bc5-b173-d2d1cec301e9
+- id: ffc9a5c6-bc48-4ab9-b3aa-7ed36c9c79d9
   name: Ray Wickersham
   other_names: []
   phones: []
@@ -135,16 +6,135 @@
   - ray@wickersham.us
   urls:
   - https://cityofpayette.com/index.asp?SEC=3E868623-D11C-4F30-A389-C51A121FB9A7&Type=B_BASIC
-  image: https://payette.govoffice.com/vertical/Sites/%7B44867065-4476-41DD-91A9-F7FF564B033D%7D/uploads/council%281%29.jpg
+  image: null
   cdn_image: null
   source_urls:
   - https://cityofpayette.com/index.asp?SEC=3E868623-D11C-4F30-A389-C51A121FB9A7&Type=B_BASIC
-  - https://payette.govoffice.com/index.asp?SEC=3E868623-D11C-4F30-A389-C51A121FB9A7&Type=B_BASIC
-  updated_at: '2025-07-14T16:37:53+00:00'
+  updated_at: '2026-10-02T22:15:27+00:00'
+  roles:
+  - name: Mayor
+    role_id: mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:id/place:payette/government
+    division_ocdid: ocd-division/country:us/state:id/place:payette
+    start_date: null
+    end_date: '2029'
+- id: f1734f20-6ba0-44ca-bc2b-8905c9712611
+  name: Denise McGill
+  other_names: []
+  phones: []
+  emails:
+  - dmcgill@cityofpayette.com
+  urls:
+  - https://cityofpayette.com/index.asp?SEC=3E868623-D11C-4F30-A389-C51A121FB9A7&Type=B_BASIC
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://cityofpayette.com/index.asp?SEC=3E868623-D11C-4F30-A389-C51A121FB9A7&Type=B_BASIC
+  updated_at: '2026-10-02T22:15:27+00:00'
   roles:
   - name: Council Member
     role_id: council-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:id/place:payette/government
     division_ocdid: ocd-division/country:us/state:id/place:payette
     start_date: null
-    end_date: '2025'
+    end_date: '2029'
+- id: 4045231e-1272-4f0b-b64c-9d9861b7462f
+  name: Jim Franklin
+  other_names: []
+  phones: []
+  emails:
+  - jfranklin@cityofpayette.com
+  urls:
+  - https://cityofpayette.com/index.asp?SEC=3E868623-D11C-4F30-A389-C51A121FB9A7&Type=B_BASIC
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://cityofpayette.com/index.asp?SEC=3E868623-D11C-4F30-A389-C51A121FB9A7&Type=B_BASIC
+  updated_at: '2026-10-02T22:15:27+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:id/place:payette/government
+    division_ocdid: ocd-division/country:us/state:id/place:payette
+    start_date: null
+    end_date: '2029'
+- id: 635f19f7-164d-45e5-b87d-37f0c0e9fa96
+  name: Jody Henderson
+  other_names: []
+  phones: []
+  emails:
+  - jhenderson@cityofpayette.com
+  urls:
+  - https://cityofpayette.com/index.asp?SEC=3E868623-D11C-4F30-A389-C51A121FB9A7&Type=B_BASIC
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://cityofpayette.com/index.asp?SEC=3E868623-D11C-4F30-A389-C51A121FB9A7&Type=B_BASIC
+  updated_at: '2026-10-02T22:15:27+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:id/place:payette/government
+    division_ocdid: ocd-division/country:us/state:id/place:payette
+    start_date: null
+    end_date: '2027'
+- id: 0aaba7fb-67ca-479c-92f1-8b2bcb56bb9e
+  name: Kathy Patrick
+  other_names: []
+  phones: []
+  emails:
+  - kpatrick@cityofpayette.com
+  urls:
+  - https://cityofpayette.com/index.asp?SEC=3E868623-D11C-4F30-A389-C51A121FB9A7&Type=B_BASIC
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://cityofpayette.com/index.asp?SEC=3E868623-D11C-4F30-A389-C51A121FB9A7&Type=B_BASIC
+  updated_at: '2026-10-02T22:15:27+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:id/place:payette/government
+    division_ocdid: ocd-division/country:us/state:id/place:payette
+    start_date: null
+    end_date: '2029'
+- id: 6b8a530e-ab4d-4f64-b848-33c577520dfc
+  name: Lori Steiniker
+  other_names: []
+  phones: []
+  emails:
+  - lsteiniker@cityofpayette.com
+  urls:
+  - https://cityofpayette.com/index.asp?SEC=3E868623-D11C-4F30-A389-C51A121FB9A7&Type=B_BASIC
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://cityofpayette.com/index.asp?SEC=3E868623-D11C-4F30-A389-C51A121FB9A7&Type=B_BASIC
+  updated_at: '2026-10-02T22:15:27+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:id/place:payette/government
+    division_ocdid: ocd-division/country:us/state:id/place:payette
+    start_date: null
+    end_date: '2027'
+- id: 71892302-2ea8-4231-bfa3-8e836ac947e9
+  name: Mike Kee
+  other_names: []
+  phones: []
+  emails:
+  - mkee@cityofpayette.com
+  urls:
+  - https://cityofpayette.com/index.asp?SEC=3E868623-D11C-4F30-A389-C51A121FB9A7&Type=B_BASIC
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://cityofpayette.com/index.asp?SEC=3E868623-D11C-4F30-A389-C51A121FB9A7&Type=B_BASIC
+  updated_at: '2026-10-02T22:15:27+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:id/place:payette/government
+    division_ocdid: ocd-division/country:us/state:id/place:payette
+    start_date: null
+    end_date: '2027'
