@@ -8,6 +8,8 @@ jurisdictions:
   parent_ocdids:
   - ocd-jurisdiction/country:us/state:wa/county:king/government
   - ocd-jurisdiction/country:us/state:wa/government
+  extras:
+    government_form: mayor_council
 - id: ocd-jurisdiction/country:us/state:wa/place:spokane/government
   name: Spokane city
   url: null

@@ -1,25 +1,4 @@
-- id: 2bcf67d4-2019-4173-aa67-740f64f5da7c
-  name: Mary Krumsiek
-  other_names: []
-  phones:
-  - (508) 865-4710
-  emails:
-  - mkrumsiek@townofmillbury.net
-  urls:
-  - https://www.millburyma.gov/directory.aspx?EID=254
-  image: ''
-  cdn_image: ''
-  source_urls:
-  - https://www.millburyma.gov/1506/Board-of-Selectmen
-  updated_at: '2026-07-14T18:42:00+00:00'
-  roles:
-  - name: Chair
-    role_id: chair
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ma/place:millbury/government
-    division_ocdid: ocd-division/country:us/state:ma/place:millbury
-    start_date: null
-    end_date: 2028-04
-- id: d07a07ad-df5a-4c9b-b970-1373e520b5a3
+- id: 12ecc617-9b21-44fa-bb7a-ca813d4ff35c
   name: Brian A. Sora
   other_names: []
   phones:
@@ -27,20 +6,20 @@
   emails:
   - bsora@millburyma.gov
   urls:
-  - https://www.millburyma.gov/directory.aspx?EID=256
-  image: ''
-  cdn_image: ''
+  - https://www.millburyma.gov/1506/Board-of-Selectmen
+  image: null
+  cdn_image: null
   source_urls:
   - https://www.millburyma.gov/1506/Board-of-Selectmen
-  updated_at: '2026-07-14T18:42:00+00:00'
+  updated_at: '2026-09-30T00:24:11+00:00'
   roles:
-  - name: Vice Chair
-    role_id: vice-chair
+  - name: Select Board Member
+    role_id: select-board-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ma/place:millbury/government
     division_ocdid: ocd-division/country:us/state:ma/place:millbury
     start_date: null
     end_date: 2029-04
-- id: 6e61e14e-58ca-4e49-9e24-4600c7920f59
+- id: 1e0fd077-d551-4c3a-bdf9-b1e488db9070
   name: Brian Tagg
   other_names: []
   phones:
@@ -48,20 +27,41 @@
   emails:
   - btagg@millburyma.gov
   urls:
-  - https://www.millburyma.gov/directory.aspx?EID=259
-  image: ''
-  cdn_image: ''
+  - https://www.millburyma.gov/1506/Board-of-Selectmen
+  image: null
+  cdn_image: null
   source_urls:
   - https://www.millburyma.gov/1506/Board-of-Selectmen
-  updated_at: '2026-07-14T18:42:00+00:00'
+  updated_at: '2026-09-30T00:24:11+00:00'
   roles:
-  - name: Council Member
-    role_id: council-member
+  - name: Select Board Member
+    role_id: select-board-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ma/place:millbury/government
     division_ocdid: ocd-division/country:us/state:ma/place:millbury
     start_date: null
     end_date: 2028-04
-- id: af078fc6-237b-4b6d-b2d8-ea8142651d9e
+- id: 7378c4f9-a852-41f7-a61f-278a1d286961
+  name: Mary Krumsiek
+  other_names: []
+  phones:
+  - (508) 865-4710
+  emails:
+  - mkrumsiek@millburyma.gov
+  urls:
+  - https://www.millburyma.gov/1506/Board-of-Selectmen
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.millburyma.gov/1506/Board-of-Selectmen
+  updated_at: '2026-09-30T00:24:11+00:00'
+  roles:
+  - name: Select Board Member
+    role_id: select-board-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ma/place:millbury/government
+    division_ocdid: ocd-division/country:us/state:ma/place:millbury
+    start_date: null
+    end_date: 2028-04
+- id: a654f352-fd41-4578-8bea-5f2995e865d1
   name: Michael R. Gilchrist
   other_names: []
   phones:
@@ -70,19 +70,19 @@
   - mgilchrist@millburyma.gov
   urls:
   - https://www.millburyma.gov/1506/Board-of-Selectmen
-  image: ''
-  cdn_image: ''
+  image: null
+  cdn_image: null
   source_urls:
   - https://www.millburyma.gov/1506/Board-of-Selectmen
-  updated_at: '2026-07-14T18:42:00+00:00'
+  updated_at: '2026-09-30T00:24:11+00:00'
   roles:
-  - name: Council Member
-    role_id: council-member
+  - name: Select Board Member
+    role_id: select-board-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ma/place:millbury/government
     division_ocdid: ocd-division/country:us/state:ma/place:millbury
     start_date: null
     end_date: 2027-04
-- id: 8115cda5-0ac4-44ee-a1bc-808b171d7ac7
+- id: 2056ceaa-a220-4448-8d88-a22b273ada69
   name: Nicholas Lazzaro
   other_names: []
   phones:
@@ -90,15 +90,15 @@
   emails:
   - nlazzaro@millburyma.gov
   urls:
-  - https://www.millburyma.gov/directory.aspx?EID=258
-  image: ''
-  cdn_image: ''
+  - https://www.millburyma.gov/1506/Board-of-Selectmen
+  image: null
+  cdn_image: null
   source_urls:
   - https://www.millburyma.gov/1506/Board-of-Selectmen
-  updated_at: '2026-07-14T18:42:00+00:00'
+  updated_at: '2026-09-30T00:24:11+00:00'
   roles:
-  - name: Clerk
-    role_id: clerk
+  - name: Select Board Member
+    role_id: select-board-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ma/place:millbury/government
     division_ocdid: ocd-division/country:us/state:ma/place:millbury
     start_date: null
