@@ -1622,6 +1622,8 @@ jurisdictions:
   parent_ocdids:
   - ocd-jurisdiction/country:us/state:ma/county:worcester/government
   - ocd-jurisdiction/country:us/state:ma/government
+  extras:
+    government_form: open_town_meeting
 - id: ocd-jurisdiction/country:us/state:ma/place:ipswich/government
   name: Ipswich town
   population: 13930
