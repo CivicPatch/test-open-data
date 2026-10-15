@@ -1,50 +1,3 @@
-- id: da2ed30d-4f51-427f-a70d-26f52514eb79
-  name: David Haubert
-  other_names: []
-  phones:
-  - (510) 272-6691
-  - (510) 272-6984
-  emails: []
-  urls:
-  - https://district1.acgov.org/
-  image: http://www.acgov.org/images/homepage/district-1.jpg
-  cdn_image: https://cdn.civicpatch.org/open-data/ca/local/county_alameda/images/2dbd64eea8a6.png
-  source_urls:
-  - http://www.acgov.org
-  - http://www.acgov.org/government/elected.htm
-  - https://www.acgov.org/rov_app/electedofficials
-  updated_at: '2026-09-07T01:08:47+00:00'
-  roles:
-  - name: Council President, District 1
-    role_id: council-president
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/county:alameda/government
-    division_ocdid: ocd-division/country:us/state:ca/county:alameda/council_district:1
-    start_date: '2024'
-    end_date: '2028'
-- id: 966243d8-f319-42bd-a837-7247b3793f55
-  name: Lena Tam
-  other_names: []
-  phones:
-  - (510) 272-6693
-  - (510) 272-6984
-  emails: []
-  urls:
-  - https://district3.acgov.org/
-  image: http://www.acgov.org/images/homepage/district-3.jpg
-  cdn_image: https://cdn.civicpatch.org/open-data/ca/local/county_alameda/images/f543045fd2a2.png
-  source_urls:
-  - http://www.acgov.org
-  - http://www.acgov.org/government/elected.htm
-  - http://www.acgov.org/government/orgcharts.htm
-  - https://www.acgov.org/rov_app/electedofficials
-  updated_at: '2026-09-07T01:08:47+00:00'
-  roles:
-  - name: Council Vice President, District 3
-    role_id: council-vice-president
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/county:alameda/government
-    division_ocdid: ocd-division/country:us/state:ca/county:alameda/council_district:3
-    start_date: '2023'
-    end_date: '2026'
 - id: ab020a32-142f-4822-9ed2-e649e7815c4c
   name: Dave Haubert
   other_names: []
@@ -63,6 +16,29 @@
     division_ocdid: ocd-division/country:us/state:ca/county:alameda/council_district:1
     start_date: null
     end_date: null
+- id: da2ed30d-4f51-427f-a70d-26f52514eb79
+  name: David Haubert
+  other_names: []
+  phones:
+  - (510) 272-6691
+  - (510) 272-6984
+  emails: []
+  urls:
+  - https://district1.acgov.org/
+  image: http://www.acgov.org/images/homepage/district-1.jpg
+  cdn_image: https://cdn.civicpatch.org/open-data/ca/local/county_alameda/images/2dbd64eea8a6.png
+  source_urls:
+  - http://www.acgov.org
+  - http://www.acgov.org/government/elected.htm
+  - https://www.acgov.org/rov_app/electedofficials
+  updated_at: '2026-09-07T01:08:47+00:00'
+  roles:
+  - name: Unmatched, District 1
+    role_id: unmatched
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/county:alameda/government
+    division_ocdid: ocd-division/country:us/state:ca/county:alameda/council_district:1
+    start_date: '2024'
+    end_date: '2028'
 - id: 84ddf46b-a15b-491b-89e7-b7779a04ee3a
   name: Elisa Márquez
   other_names: []
@@ -81,11 +57,35 @@
   - https://www.acgov.org/rov_app/electedofficials
   updated_at: '2026-09-07T01:08:47+00:00'
   roles:
-  - name: Supervisor, District 2
-    role_id: supervisor
+  - name: Unmatched, District 2
+    role_id: unmatched
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/county:alameda/government
     division_ocdid: ocd-division/country:us/state:ca/county:alameda/council_district:2
     start_date: '2024'
+    end_date: '2026'
+- id: 966243d8-f319-42bd-a837-7247b3793f55
+  name: Lena Tam
+  other_names: []
+  phones:
+  - (510) 272-6693
+  - (510) 272-6984
+  emails: []
+  urls:
+  - https://district3.acgov.org/
+  image: http://www.acgov.org/images/homepage/district-3.jpg
+  cdn_image: https://cdn.civicpatch.org/open-data/ca/local/county_alameda/images/f543045fd2a2.png
+  source_urls:
+  - http://www.acgov.org
+  - http://www.acgov.org/government/elected.htm
+  - http://www.acgov.org/government/orgcharts.htm
+  - https://www.acgov.org/rov_app/electedofficials
+  updated_at: '2026-09-07T01:08:47+00:00'
+  roles:
+  - name: Unmatched, District 3
+    role_id: unmatched
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/county:alameda/government
+    division_ocdid: ocd-division/country:us/state:ca/county:alameda/council_district:3
+    start_date: '2023'
     end_date: '2026'
 - id: cfee817b-c589-438d-a69f-1dc6a8ff3122
   name: Nate Miley
@@ -105,8 +105,8 @@
   - https://www.acgov.org/rov_app/electedofficials
   updated_at: '2026-09-07T01:08:47+00:00'
   roles:
-  - name: Supervisor, District 4
-    role_id: supervisor
+  - name: Unmatched, District 4
+    role_id: unmatched
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/county:alameda/government
     division_ocdid: ocd-division/country:us/state:ca/county:alameda/council_district:4
     start_date: '2024'
@@ -129,8 +129,8 @@
   - https://www.acgov.org/rov_app/electedofficials
   updated_at: '2026-09-07T01:08:47+00:00'
   roles:
-  - name: Supervisor, District 5
-    role_id: supervisor
+  - name: Unmatched, District 5
+    role_id: unmatched
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/county:alameda/government
     division_ocdid: ocd-division/country:us/state:ca/county:alameda/council_district:5
     start_date: '2024'
@@ -176,6 +176,28 @@
   roles:
   - name: Assessor
     role_id: assessor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/county:alameda/government
+    division_ocdid: ocd-division/country:us/state:ca/county:alameda
+    start_date: '2023'
+    end_date: '2028'
+- id: 140275b6-6843-4bef-ad1a-915ceed991f3
+  name: Yesenia Sanchez
+  other_names: []
+  phones:
+  - (510) 272-6878
+  emails: []
+  urls:
+  - https://www.alamedasheriff.gov/
+  image: http://www.acgov.org/img/SHERIFF-SANCHEZ.jpg
+  cdn_image: https://cdn.civicpatch.org/open-data/ca/local/county_alameda/images/2e91c082d5b9.png
+  source_urls:
+  - http://www.acgov.org/government/elected.htm
+  - http://www.acgov.org/government/orgcharts.htm
+  - https://www.acgov.org/rov_app/electedofficials
+  updated_at: '2026-09-07T01:08:47+00:00'
+  roles:
+  - name: Unmatched
+    role_id: unmatched
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/county:alameda/government
     division_ocdid: ocd-division/country:us/state:ca/county:alameda
     start_date: '2023'
@@ -246,26 +268,4 @@
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/county:alameda/government
     division_ocdid: ocd-division/country:us/state:ca/county:alameda
     start_date: '2025'
-    end_date: '2028'
-- id: 140275b6-6843-4bef-ad1a-915ceed991f3
-  name: Yesenia Sanchez
-  other_names: []
-  phones:
-  - (510) 272-6878
-  emails: []
-  urls:
-  - https://www.alamedasheriff.gov/
-  image: http://www.acgov.org/img/SHERIFF-SANCHEZ.jpg
-  cdn_image: https://cdn.civicpatch.org/open-data/ca/local/county_alameda/images/2e91c082d5b9.png
-  source_urls:
-  - http://www.acgov.org/government/elected.htm
-  - http://www.acgov.org/government/orgcharts.htm
-  - https://www.acgov.org/rov_app/electedofficials
-  updated_at: '2026-09-07T01:08:47+00:00'
-  roles:
-  - name: Unmatched
-    role_id: unmatched
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ca/county:alameda/government
-    division_ocdid: ocd-division/country:us/state:ca/county:alameda
-    start_date: '2023'
     end_date: '2028'
