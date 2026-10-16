@@ -38,8 +38,8 @@
     role_id: chair
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:hi/county:kauai/government
     division_ocdid: ocd-division/country:us/state:hi/county:kauai
-    start_date: null
-    end_date: null
+    start_date: '2024'
+    end_date: '2026'
 - id: 4c6861b5-b6e4-45be-ba8b-5a2676e8f5b4
   name: KipuKai Kuali'i
   other_names: []
@@ -59,8 +59,8 @@
     role_id: vice-chair
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:hi/county:kauai/government
     division_ocdid: ocd-division/country:us/state:hi/county:kauai
-    start_date: null
-    end_date: null
+    start_date: '2024'
+    end_date: '2026'
 - id: 0d5a6732-8dac-409e-8fcb-3cc026ebc38a
   name: Addison Bulosan
   other_names: []
@@ -80,8 +80,8 @@
     role_id: council-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:hi/county:kauai/government
     division_ocdid: ocd-division/country:us/state:hi/county:kauai
-    start_date: null
-    end_date: null
+    start_date: '2024'
+    end_date: '2026'
 - id: f3c5635b-1214-4d69-822f-e9ccbc70b6eb
   name: Arryl Kaneshiro
   other_names: []
@@ -101,8 +101,8 @@
     role_id: council-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:hi/county:kauai/government
     division_ocdid: ocd-division/country:us/state:hi/county:kauai
-    start_date: null
-    end_date: null
+    start_date: '2024'
+    end_date: '2026'
 - id: d1bf0d94-597e-4683-9bcd-9481412f8b43
   name: Bernard P. Carvalho Jr.
   other_names: []
@@ -122,8 +122,8 @@
     role_id: council-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:hi/county:kauai/government
     division_ocdid: ocd-division/country:us/state:hi/county:kauai
-    start_date: null
-    end_date: null
+    start_date: '2024'
+    end_date: '2026'
 - id: 026078c7-0c0b-49da-a962-427414bd26d7
   name: Felicia Cowden
   other_names: []
@@ -143,8 +143,8 @@
     role_id: council-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:hi/county:kauai/government
     division_ocdid: ocd-division/country:us/state:hi/county:kauai
-    start_date: null
-    end_date: null
+    start_date: '2024'
+    end_date: '2026'
 - id: 68f42e36-242b-4832-b2e5-907ace0452b1
   name: Fern Holland
   other_names: []
@@ -164,5 +164,5 @@
     role_id: council-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:hi/county:kauai/government
     division_ocdid: ocd-division/country:us/state:hi/county:kauai
-    start_date: null
-    end_date: null
+    start_date: '2024'
+    end_date: '2026'
