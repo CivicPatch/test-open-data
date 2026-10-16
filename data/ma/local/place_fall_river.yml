@@ -1,1 +1,201 @@
-[]
+- id: a7d3105e-53de-4cfa-b87c-ccd84210fee4
+  name: Paul Coogan
+  other_names: []
+  phones:
+  - (508) 324-2600
+  emails:
+  - mayor@fallriverma.gov
+  urls:
+  - https://fallriverma.gov/government/mayors_office/index.php
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://fallriverma.gov/government/mayors_office/index.php
+  updated_at: '2026-10-16T17:45:37+00:00'
+  roles:
+  - name: Mayor
+    role_id: mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ma/place:fall_river/government
+    division_ocdid: ocd-division/country:us/state:ma/place:fall_river
+    start_date: null
+    end_date: null
+- id: 2d559db2-1bdb-47bb-a910-7547dce26e32
+  name: Cliff A. Ponte
+  other_names: []
+  phones:
+  - (508) 324-2000
+  emails: []
+  urls:
+  - https://fallriverma.gov/government/city_council/current_council.php
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://fallriverma.gov/government/city_council/current_council.php
+  updated_at: '2026-10-16T17:45:37+00:00'
+  roles:
+  - name: Council President
+    role_id: council-president
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ma/place:fall_river/government
+    division_ocdid: ocd-division/country:us/state:ma/place:fall_river
+    start_date: '2026'
+    end_date: '2027'
+- id: df62423f-7f29-46c0-b416-7e66ba36038c
+  name: Michelle M. Dionne
+  other_names: []
+  phones:
+  - (508) 324-2000
+  emails: []
+  urls:
+  - https://fallriverma.gov/government/city_council/current_council.php
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://fallriverma.gov/government/city_council/current_council.php
+  updated_at: '2026-10-16T17:45:37+00:00'
+  roles:
+  - name: Council Vice President
+    role_id: council-vice-president
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ma/place:fall_river/government
+    division_ocdid: ocd-division/country:us/state:ma/place:fall_river
+    start_date: '2026'
+    end_date: '2027'
+- id: 1f98a4f1-8de1-4ea1-aa35-c392308cf868
+  name: Andrew J. Raposo
+  other_names: []
+  phones:
+  - (508) 324-2000
+  emails: []
+  urls:
+  - https://fallriverma.gov/government/city_council/current_council.php
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://fallriverma.gov/government/city_council/current_council.php
+  updated_at: '2026-10-16T17:45:37+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ma/place:fall_river/government
+    division_ocdid: ocd-division/country:us/state:ma/place:fall_river
+    start_date: '2026'
+    end_date: '2027'
+- id: 24abcc98-135f-4130-9285-d40108af5f87
+  name: Christopher M. Peckham Sr.
+  other_names: []
+  phones:
+  - (508) 324-2000
+  emails: []
+  urls:
+  - https://fallriverma.gov/government/city_council/current_council.php
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://fallriverma.gov/government/city_council/current_council.php
+  updated_at: '2026-10-16T17:45:37+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ma/place:fall_river/government
+    division_ocdid: ocd-division/country:us/state:ma/place:fall_river
+    start_date: '2026'
+    end_date: '2027'
+- id: 59de3233-bcef-4b06-972f-03abc799507a
+  name: Joseph D. Camara
+  other_names: []
+  phones:
+  - (508) 324-2000
+  emails: []
+  urls:
+  - https://fallriverma.gov/government/city_council/current_council.php
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://fallriverma.gov/government/city_council/current_council.php
+  updated_at: '2026-10-16T17:45:37+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ma/place:fall_river/government
+    division_ocdid: ocd-division/country:us/state:ma/place:fall_river
+    start_date: '2026'
+    end_date: '2027'
+- id: c2a91121-c40d-492b-bc7a-a7f0efc995c9
+  name: Linda M. Pereira
+  other_names: []
+  phones:
+  - (508) 324-2000
+  emails: []
+  urls:
+  - https://fallriverma.gov/government/city_council/current_council.php
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://fallriverma.gov/government/city_council/current_council.php
+  updated_at: '2026-10-16T17:45:37+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ma/place:fall_river/government
+    division_ocdid: ocd-division/country:us/state:ma/place:fall_river
+    start_date: '2026'
+    end_date: '2027'
+- id: cd472bd1-b4fa-4ede-957c-8b55e3183cb6
+  name: Michael G. Canuel
+  other_names: []
+  phones:
+  - (508) 324-2000
+  emails: []
+  urls:
+  - https://fallriverma.gov/government/city_council/current_council.php
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://fallriverma.gov/government/city_council/current_council.php
+  updated_at: '2026-10-16T17:45:37+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ma/place:fall_river/government
+    division_ocdid: ocd-division/country:us/state:ma/place:fall_river
+    start_date: '2026'
+    end_date: '2027'
+- id: ac084b9d-816e-45ee-93fe-910787e0446c
+  name: Paul B. Hart
+  other_names: []
+  phones:
+  - (508) 324-2000
+  emails: []
+  urls:
+  - https://fallriverma.gov/government/city_council/current_council.php
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://fallriverma.gov/government/city_council/current_council.php
+  updated_at: '2026-10-16T17:45:37+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ma/place:fall_river/government
+    division_ocdid: ocd-division/country:us/state:ma/place:fall_river
+    start_date: '2026'
+    end_date: '2027'
+- id: 4b374c20-2513-4e3c-bf3d-49754fd9af26
+  name: Shawn E. Cadime
+  other_names: []
+  phones:
+  - (508) 324-2000
+  emails: []
+  urls:
+  - https://fallriverma.gov/government/city_council/current_council.php
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://fallriverma.gov/government/city_council/current_council.php
+  updated_at: '2026-10-16T17:45:37+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ma/place:fall_river/government
+    division_ocdid: ocd-division/country:us/state:ma/place:fall_river
+    start_date: '2026'
+    end_date: '2027'
