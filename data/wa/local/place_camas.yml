@@ -1,1 +1,133 @@
-[]
+- id: cccbc7a6-ddcb-4336-829c-90cdbacc9a48
+  name: Jennifer Senescu
+  other_names: []
+  phones: []
+  emails: []
+  urls:
+  - https://www.cityofcamas.us/citycouncil/page/council-member-jennifer-senescu
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.cityofcamas.us/citycouncil/page/city-council-members
+  updated_at: '2026-10-16T16:40:41+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:camas/government
+    division_ocdid: ocd-division/country:us/state:wa/place:camas
+    start_date: null
+    end_date: null
+- id: d6f5615e-b3d0-4c6e-87b2-f8904346fbb5
+  name: John Nohr
+  other_names: []
+  phones: []
+  emails: []
+  urls:
+  - https://www.cityofcamas.us/citycouncil/page/council-member-john-nohr
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.cityofcamas.us/citycouncil/page/city-council-members
+  updated_at: '2026-10-16T16:40:41+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:camas/government
+    division_ocdid: ocd-division/country:us/state:wa/place:camas
+    start_date: null
+    end_date: null
+- id: 0cd92190-fd31-4cf8-beb4-020d0e1627a0
+  name: John Svilarich
+  other_names: []
+  phones: []
+  emails: []
+  urls:
+  - https://www.cityofcamas.us/citycouncil/page/council-member-john-svilarich
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.cityofcamas.us/citycouncil/page/city-council-members
+  updated_at: '2026-10-16T16:40:41+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:camas/government
+    division_ocdid: ocd-division/country:us/state:wa/place:camas
+    start_date: null
+    end_date: null
+- id: 44f355fc-9362-4ff2-b91b-a261ae408192
+  name: Mahsa Eshghi
+  other_names: []
+  phones: []
+  emails: []
+  urls:
+  - https://www.cityofcamas.us/citycouncil/page/council-member-mahsa-eshghi
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.cityofcamas.us/citycouncil/page/city-council-members
+  updated_at: '2026-10-16T16:40:41+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:camas/government
+    division_ocdid: ocd-division/country:us/state:wa/place:camas
+    start_date: null
+    end_date: null
+- id: 7212641d-e360-4fc1-8228-42d7f2eb9e05
+  name: Marilyn Boerke
+  other_names: []
+  phones: []
+  emails: []
+  urls:
+  - https://www.cityofcamas.us/citycouncil/page/council-member-marilyn-boerke
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.cityofcamas.us/citycouncil/page/city-council-members
+  updated_at: '2026-10-16T16:40:41+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:camas/government
+    division_ocdid: ocd-division/country:us/state:wa/place:camas
+    start_date: null
+    end_date: null
+- id: 31d3fdff-a40f-4b16-a73c-e7eb18554ac8
+  name: Martin Elzingre
+  other_names: []
+  phones: []
+  emails: []
+  urls:
+  - https://www.cityofcamas.us/citycouncil/page/council-member-martin-elzingre
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.cityofcamas.us/citycouncil/page/city-council-members
+  updated_at: '2026-10-16T16:40:41+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:camas/government
+    division_ocdid: ocd-division/country:us/state:wa/place:camas
+    start_date: null
+    end_date: null
+- id: e52d166c-6c4f-4c3e-af56-4a4a881e6080
+  name: Tim Hein
+  other_names: []
+  phones: []
+  emails: []
+  urls:
+  - https://www.cityofcamas.us/citycouncil/page/council-member-tim-hein
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.cityofcamas.us/citycouncil/page/city-council-members
+  updated_at: '2026-10-16T16:40:41+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:camas/government
+    division_ocdid: ocd-division/country:us/state:wa/place:camas
+    start_date: null
+    end_date: null
