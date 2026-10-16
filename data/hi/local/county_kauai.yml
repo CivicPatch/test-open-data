@@ -1,4 +1,4 @@
-- id: 8b604072-f2ab-4e1d-aeac-f5af954f4a21
+- id: 49dd688c-f563-40de-a367-0b95fcba4c65
   name: Derek S.K. Kawakami
   other_names: []
   phones:
@@ -8,10 +8,10 @@
   urls:
   - https://www.kauai.gov/Government/Office-of-the-Mayor
   image: https://www.kauai.gov/files/assets/public/v/3/office-of-the-mayor/images/derek-kawakami-2023.jpg?w=240&h=360
-  cdn_image: https://cdn.civicpatch.org/open-data/hi/local/county_kauai/images/f9d3d4ec962c.png
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/hi/local/county_kauai/images/f9d3d4ec962c.png
   source_urls:
   - https://www.kauai.gov/Government/Office-of-the-Mayor
-  updated_at: '2026-09-12T01:18:55+00:00'
+  updated_at: '2026-10-16T17:44:16+00:00'
   roles:
   - name: Mayor
     role_id: mayor
@@ -19,19 +19,20 @@
     division_ocdid: ocd-division/country:us/state:hi/county:kauai
     start_date: null
     end_date: null
-- id: 4aa10b15-fb68-4647-8b53-7a47ec2c077e
+- id: 0d305751-fe95-4efe-bb3c-d8f509b5abe3
   name: Mel Rapozo
   other_names: []
-  phones: []
+  phones:
+  - (808) 241-4188
   emails:
   - mrapozo@kauai.gov
   urls:
   - https://www.kauai.gov/Government/Council
-  image: ''
-  cdn_image: ''
+  image: null
+  cdn_image: null
   source_urls:
   - https://www.kauai.gov/Government/Council
-  updated_at: '2026-09-19T04:56:25+00:00'
+  updated_at: '2026-10-16T17:44:16+00:00'
   roles:
   - name: Chair
     role_id: chair
@@ -39,19 +40,20 @@
     division_ocdid: ocd-division/country:us/state:hi/county:kauai
     start_date: null
     end_date: null
-- id: a51a5eec-fba8-495e-85db-b249e14eab8e
+- id: 4c6861b5-b6e4-45be-ba8b-5a2676e8f5b4
   name: KipuKai Kuali'i
   other_names: []
-  phones: []
+  phones:
+  - (808) 241-4188
   emails:
   - kkualii@kauai.gov
   urls:
   - https://www.kauai.gov/Government/Council
-  image: ''
-  cdn_image: ''
+  image: null
+  cdn_image: null
   source_urls:
   - https://www.kauai.gov/Government/Council
-  updated_at: '2026-09-19T04:56:25+00:00'
+  updated_at: '2026-10-16T17:44:16+00:00'
   roles:
   - name: Vice Chair
     role_id: vice-chair
@@ -59,19 +61,20 @@
     division_ocdid: ocd-division/country:us/state:hi/county:kauai
     start_date: null
     end_date: null
-- id: bb874761-d822-4e00-81d8-65b9309add98
+- id: 0d5a6732-8dac-409e-8fcb-3cc026ebc38a
   name: Addison Bulosan
   other_names: []
-  phones: []
+  phones:
+  - (808) 241-4188
   emails:
   - abulosan@kauai.gov
   urls:
   - https://www.kauai.gov/Government/Council
-  image: ''
-  cdn_image: ''
+  image: null
+  cdn_image: null
   source_urls:
   - https://www.kauai.gov/Government/Council
-  updated_at: '2026-09-19T04:56:25+00:00'
+  updated_at: '2026-10-16T17:44:16+00:00'
   roles:
   - name: Council Member
     role_id: council-member
@@ -79,19 +82,20 @@
     division_ocdid: ocd-division/country:us/state:hi/county:kauai
     start_date: null
     end_date: null
-- id: 14dd6524-e3e7-4e1e-aefe-72d6d97ca0fb
+- id: f3c5635b-1214-4d69-822f-e9ccbc70b6eb
   name: Arryl Kaneshiro
   other_names: []
-  phones: []
+  phones:
+  - (808) 241-4188
   emails:
   - akaneshiro@kauai.gov
   urls:
   - https://www.kauai.gov/Government/Council
-  image: ''
-  cdn_image: ''
+  image: null
+  cdn_image: null
   source_urls:
   - https://www.kauai.gov/Government/Council
-  updated_at: '2026-09-19T04:56:25+00:00'
+  updated_at: '2026-10-16T17:44:16+00:00'
   roles:
   - name: Council Member
     role_id: council-member
@@ -99,19 +103,20 @@
     division_ocdid: ocd-division/country:us/state:hi/county:kauai
     start_date: null
     end_date: null
-- id: f00ef70b-9799-43ce-8fa6-fbaa08d94c69
+- id: d1bf0d94-597e-4683-9bcd-9481412f8b43
   name: Bernard P. Carvalho Jr.
   other_names: []
-  phones: []
+  phones:
+  - (808) 241-4188
   emails:
   - bcarvalho@kauai.gov
   urls:
   - https://www.kauai.gov/Government/Council
-  image: ''
-  cdn_image: ''
+  image: null
+  cdn_image: null
   source_urls:
   - https://www.kauai.gov/Government/Council
-  updated_at: '2026-09-19T04:56:25+00:00'
+  updated_at: '2026-10-16T17:44:16+00:00'
   roles:
   - name: Council Member
     role_id: council-member
@@ -119,19 +124,20 @@
     division_ocdid: ocd-division/country:us/state:hi/county:kauai
     start_date: null
     end_date: null
-- id: ca52a2c4-0b3a-4074-87f6-f78d13e9595c
+- id: 026078c7-0c0b-49da-a962-427414bd26d7
   name: Felicia Cowden
   other_names: []
-  phones: []
+  phones:
+  - (808) 241-4188
   emails:
   - fcowden@kauai.gov
   urls:
   - https://www.kauai.gov/Government/Council
-  image: ''
-  cdn_image: ''
+  image: null
+  cdn_image: null
   source_urls:
   - https://www.kauai.gov/Government/Council
-  updated_at: '2026-09-19T04:56:25+00:00'
+  updated_at: '2026-10-16T17:44:16+00:00'
   roles:
   - name: Council Member
     role_id: council-member
@@ -139,19 +145,20 @@
     division_ocdid: ocd-division/country:us/state:hi/county:kauai
     start_date: null
     end_date: null
-- id: 971cd150-4bb9-4b38-ae13-fb5e3186b019
+- id: 68f42e36-242b-4832-b2e5-907ace0452b1
   name: Fern Holland
   other_names: []
-  phones: []
+  phones:
+  - (808) 241-4188
   emails:
   - fholland@kauai.gov
   urls:
   - https://www.kauai.gov/Government/Council
-  image: ''
-  cdn_image: ''
+  image: null
+  cdn_image: null
   source_urls:
   - https://www.kauai.gov/Government/Council
-  updated_at: '2026-09-19T04:56:25+00:00'
+  updated_at: '2026-10-16T17:44:16+00:00'
   roles:
   - name: Council Member
     role_id: council-member

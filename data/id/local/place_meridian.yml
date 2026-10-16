@@ -1,4 +1,4 @@
-- id: 255b4f52-d058-4ba3-93a4-60cd466b38f6
+- id: 6a0ba077-ca5b-4d8a-875a-815d20cf116e
   name: Robert Simison
   other_names: []
   phones:
@@ -6,13 +6,12 @@
   emails:
   - rsimison@meridiancity.org
   urls:
-  - https://meridiancity.org/mayor-s-office/meet-mayor
+  - https://meridiancity.org/mayors-office/meet-mayor/
   image: https://meridiancity.org/media/xbxlcun0/mayor-family-picture-1.jpg
-  cdn_image: https://cdn.civicpatch.org/open-data/id/meridian/images/450ac4781d078cca52280dde85f77cc4a9fd73e7ee4616b3e6a0d2679f8953bf.jpg
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/id/local/place_meridian/images/3dddd2a86a6e.png
   source_urls:
-  - https://meridiancity.org/mayor-s-office
-  - https://meridiancity.org/mayor-s-office/meet-mayor
-  updated_at: '2025-07-12T19:56:33+00:00'
+  - https://meridiancity.org/mayors-office/meet-mayor/
+  updated_at: '2026-10-16T17:43:19+00:00'
   roles:
   - name: Mayor
     role_id: mayor
@@ -20,117 +19,7 @@
     division_ocdid: ocd-division/country:us/state:id/place:meridian
     start_date: '2019'
     end_date: null
-- id: 3da2c596-a5ea-465f-8c44-ec463dcf8324
-  name: Luke Cavener
-  other_names: []
-  phones:
-  - (208) 888-4433
-  emails:
-  - lcavener@meridiancity.org
-  urls:
-  - https://meridiancity.org/city-council/seat-6
-  image: https://meridiancity.org/media/ef2dxzrr/luke-cavener-0694square.jpg?width=500&height=500
-  cdn_image: https://cdn.civicpatch.org/open-data/id/meridian/images/cb0ca0e325bcc332b88a74940503f778fcb7bb09177d3e478cb53b1ad2f4060a.jpg
-  source_urls:
-  - https://meridiancity.org/city-council
-  - https://meridiancity.org/city-council/seat-6
-  updated_at: '2025-07-12T19:56:33+00:00'
-  roles:
-  - name: Council President, District 6_-_seat_6
-    role_id: council-president
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:id/place:meridian/government
-    division_ocdid: ocd-division/country:us/state:id/place:meridian/council_district:6_-_seat_6
-    start_date: '2014-01-07'
-    end_date: 2026-01
-- id: 61d9aa38-5a63-4ec4-9e8e-63ff5d5042b2
-  name: Liz Strader
-  other_names: []
-  phones:
-  - (208) 888-4433
-  emails:
-  - lstrader@meridiancity.org
-  urls:
-  - https://meridiancity.org/city-council/seat-2
-  image: https://meridiancity.org/media/cbmlhbqx/liz.jpg
-  cdn_image: https://cdn.civicpatch.org/open-data/id/meridian/images/9123304b5fd3b262d38412c5124d08b7fdf41ed4aeed11e17cde2c3643cb3edf.jpg
-  source_urls:
-  - https://meridiancity.org/city-council
-  - https://meridiancity.org/city-council/seat-2
-  updated_at: '2025-07-12T19:56:33+00:00'
-  roles:
-  - name: Council Vice President, District 2_-_seat_2
-    role_id: council-vice-president
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:id/place:meridian/government
-    division_ocdid: ocd-division/country:us/state:id/place:meridian/council_district:2_-_seat_2
-    start_date: '2019'
-    end_date: 2028-01
-- id: dee63396-881d-41be-b4c4-e6d4905c6a9f
-  name: Anne Little Roberts
-  other_names: []
-  phones:
-  - (208) 888-4433
-  emails:
-  - alittleroberts@meridiancity.org
-  urls:
-  - https://meridiancity.org/city-council/seat-5
-  image: https://meridiancity.org/media/dm1mimhl/anne-little.jpg
-  cdn_image: https://cdn.civicpatch.org/open-data/id/meridian/images/a9ce6eebbb3bdcb9e300b171b3fc7c9090118947f4fbe2fae5b5d8e13d93d1b1.jpg
-  source_urls:
-  - https://meridiancity.org/city-council
-  - https://meridiancity.org/city-council/seat-5
-  updated_at: '2025-07-12T19:56:33+00:00'
-  roles:
-  - name: Council Member, District 5_-_seat_5
-    role_id: council-member
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:id/place:meridian/government
-    division_ocdid: ocd-division/country:us/state:id/place:meridian/council_district:5_-_seat_5
-    start_date: null
-    end_date: 2028-01
-- id: c9a72eb9-7f5a-49f7-ad6b-839613212774
-  name: Brian Whitlock
-  other_names: []
-  phones:
-  - (208) 850-3301
-  emails:
-  - bwhitlock@meridiancity.org
-  urls:
-  - https://meridiancity.org/city-council/seat-1
-  image: https://meridiancity.org/media/23bfbep2/brian-whitlock-2841.jpg
-  cdn_image: https://cdn.civicpatch.org/open-data/id/meridian/images/3e285348ece2c4c609a5ea83c42b32e1b89aff0275fd5ade72fde647173ab48b.jpg
-  source_urls:
-  - https://meridiancity.org/city-council
-  - https://meridiancity.org/city-council/seat-1
-  updated_at: '2025-07-12T19:56:33+00:00'
-  roles:
-  - name: Council Member, District 1_-_seat_1
-    role_id: council-member
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:id/place:meridian/government
-    division_ocdid: ocd-division/country:us/state:id/place:meridian/council_district:1_-_seat_1
-    start_date: null
-    end_date: 2026-01
-- id: d9151765-422e-43b3-ac92-efbdcdf7e71c
-  name: Doug Taylor
-  other_names: []
-  phones:
-  - (208) 888-4433
-  emails:
-  - dtaylor@meridiancity.org
-  urls:
-  - https://meridiancity.org/city-council/seat-3
-  image: https://meridiancity.org/media/ipjllxum/doug-taylor.jpg?width=401.9812304483837&height=500
-  cdn_image: https://cdn.civicpatch.org/open-data/id/meridian/images/47166ecaad812487efc6cd3be45ea17359564f0cf224090792f80bef43b8e8a3.jpg
-  source_urls:
-  - https://meridiancity.org/city-council
-  - https://meridiancity.org/city-council/seat-3
-  updated_at: '2025-07-12T19:56:33+00:00'
-  roles:
-  - name: Council Member, District 3_-_seat_3
-    role_id: council-member
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:id/place:meridian/government
-    division_ocdid: ocd-division/country:us/state:id/place:meridian/council_district:3_-_seat_3
-    start_date: null
-    end_date: 2028-01
-- id: d935f795-487f-454b-863d-779dc1f835b2
+- id: e763f473-4442-45d3-93d4-327ee1857fcc
   name: John Overton
   other_names: []
   phones:
@@ -138,17 +27,121 @@
   emails:
   - joverton@meridiancity.org
   urls:
-  - https://meridiancity.org/city-council/seat-4
-  image: https://meridiancity.org/media/ausdj5ks/pic-3.jpg
-  cdn_image: https://cdn.civicpatch.org/open-data/id/meridian/images/98bc4432b06f48e1566cd22b5d8f8d7cb3ac47426ceabfbc48189e66b6c847d2.jpg
+  - https://meridiancity.org/city-council/seat-4/
+  image: https://meridiancity.org/media/o3edx0f1/capture-website.jpg?rxy=0.4032171581769437,0.3051697120775199&width=160&height=120&v=1dcb1610deecc50&format=webp
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/id/local/place_meridian/images/0f8201674819.png
   source_urls:
-  - https://meridiancity.org/city-council
-  - https://meridiancity.org/city-council/seat-4
-  updated_at: '2025-07-12T19:56:33+00:00'
+  - https://meridiancity.org/city-council/
+  updated_at: '2026-10-16T17:43:19+00:00'
   roles:
-  - name: Council Member, District 4_-_seat_4
+  - name: Council President, District 4
+    role_id: council-president
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:id/place:meridian/government
+    division_ocdid: ocd-division/country:us/state:id/place:meridian/council_district:4
+    start_date: null
+    end_date: null
+- id: 07ec003e-755e-4aca-8bf4-c0e7a54d6b62
+  name: Anne Little Roberts
+  other_names: []
+  phones:
+  - (208) 888-4433
+  emails:
+  - alittleroberts@meridiancity.org
+  urls:
+  - https://meridiancity.org/city-council/seat-5/
+  image: https://meridiancity.org/media/dm1mimhl/anne-little.jpg?rxy=0.46498397249228635,0.2713847200212234&width=160&height=120&v=1dcb161122bb2b0&format=webp
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/id/local/place_meridian/images/fb51fe6e6cc4.png
+  source_urls:
+  - https://meridiancity.org/city-council/
+  updated_at: '2026-10-16T17:43:19+00:00'
+  roles:
+  - name: Council Vice President, District 5
+    role_id: council-vice-president
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:id/place:meridian/government
+    division_ocdid: ocd-division/country:us/state:id/place:meridian/council_district:5
+    start_date: null
+    end_date: null
+- id: 27b8e7b2-49e2-47f4-b06a-c937f7f9e92a
+  name: Brian Whitlock
+  other_names: []
+  phones:
+  - (208) 888-4433
+  emails:
+  - bwhitlock@meridiancity.org
+  urls:
+  - https://meridiancity.org/city-council/seat-1/
+  image: https://meridiancity.org/media/cg3d4p0f/brian-whitlock-2841-1.jpg?rxy=0.53640719571994178,0.31886511318691785&width=160&height=120&v=1dc1b12c047e250&format=webp
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/id/local/place_meridian/images/77962d1b6d9f.png
+  source_urls:
+  - https://meridiancity.org/city-council/
+  updated_at: '2026-10-16T17:43:19+00:00'
+  roles:
+  - name: Council Member, District 1
     role_id: council-member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:id/place:meridian/government
-    division_ocdid: ocd-division/country:us/state:id/place:meridian/council_district:4_-_seat_4
+    division_ocdid: ocd-division/country:us/state:id/place:meridian/council_district:1
     start_date: null
-    end_date: 2026-01
+    end_date: null
+- id: 72847cda-56ce-41d2-af5d-81e201fdfda3
+  name: Liz Strader
+  other_names: []
+  phones:
+  - (208) 888-4433
+  emails:
+  - lstrader@meridiancity.org
+  urls:
+  - https://meridiancity.org/city-council/seat-2/
+  image: https://meridiancity.org/media/urlklqgx/liz-strader-1600-1.jpg?rxy=0.4895986297523697,0.3001417160137348&width=160&height=120&v=1dcb1610135f650&format=webp
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/id/local/place_meridian/images/b92363fb9ed9.png
+  source_urls:
+  - https://meridiancity.org/city-council/
+  updated_at: '2026-10-16T17:43:19+00:00'
+  roles:
+  - name: Council Member, District 2
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:id/place:meridian/government
+    division_ocdid: ocd-division/country:us/state:id/place:meridian/council_district:2
+    start_date: null
+    end_date: null
+- id: 0aee08e9-7cba-4875-8b8c-ba4a7b341a46
+  name: Doug Taylor
+  other_names: []
+  phones:
+  - (208) 888-4433
+  emails:
+  - dtaylor@meridiancity.org
+  urls:
+  - https://meridiancity.org/city-council/seat-3/
+  image: https://meridiancity.org/media/ipjllxum/doug-taylor.jpg?rxy=0.47630494391196326,0.2808386368444916&width=160&height=120&v=1dcb16105d60b50&format=webp
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/id/local/place_meridian/images/54cf92715421.png
+  source_urls:
+  - https://meridiancity.org/city-council/
+  updated_at: '2026-10-16T17:43:19+00:00'
+  roles:
+  - name: Council Member, District 3
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:id/place:meridian/government
+    division_ocdid: ocd-division/country:us/state:id/place:meridian/council_district:3
+    start_date: null
+    end_date: null
+- id: 29b16bf1-89d6-4622-9fb3-0f605d10cf38
+  name: Luke Cavener
+  other_names: []
+  phones:
+  - (208) 888-4433
+  emails:
+  - lcavener@meridiancity.org
+  urls:
+  - https://meridiancity.org/city-council/seat-6/
+  image: https://meridiancity.org/media/ef2dxzrr/luke-cavener-0694square.jpg?rxy=0.43500405097522465,0.34628926575797464&width=160&height=120&v=1dcb161180495d0&format=webp
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/id/local/place_meridian/images/6e0994db207d.png
+  source_urls:
+  - https://meridiancity.org/city-council/
+  updated_at: '2026-10-16T17:43:19+00:00'
+  roles:
+  - name: Council Member, District 6
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:id/place:meridian/government
+    division_ocdid: ocd-division/country:us/state:id/place:meridian/council_district:6
+    start_date: null
+    end_date: null
