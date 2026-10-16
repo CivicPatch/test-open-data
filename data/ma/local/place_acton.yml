@@ -112,11 +112,11 @@
   - moderator@actonma.gov
   urls:
   - https://actonma.gov/876/Town-Moderator
-  image: https://www.actonma.gov/ImageRepository/Document?documentID=8502
+  image: https://actonma.gov/ImageRepository/Document?documentID=8502
   cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/ma/local/place_acton/images/68755188506c.png
   source_urls:
-  - https://www.actonma.gov/599
-  updated_at: '2026-10-16T18:48:21+00:00'
+  - https://actonma.gov/599/Town-Meeting
+  updated_at: '2026-10-16T20:51:44+00:00'
   roles:
   - name: Moderator
     role_id: moderator

@@ -59,7 +59,7 @@
   source_urls:
   - https://fallriverma.gov/government/city_council/contact_the_council.php
   - https://fallriverma.gov/government/city_council/current_council.php
-  updated_at: '2026-10-16T18:58:21+00:00'
+  updated_at: '2026-10-16T20:54:40+00:00'
   roles:
   - name: Council Vice President
     role_id: council-vice-president
@@ -83,7 +83,7 @@
   source_urls:
   - https://fallriverma.gov/government/city_council/contact_the_council.php
   - https://fallriverma.gov/government/city_council/current_council.php
-  updated_at: '2026-10-16T18:58:21+00:00'
+  updated_at: '2026-10-16T20:54:40+00:00'
   roles:
   - name: Council Member
     role_id: council-member
@@ -107,7 +107,7 @@
   source_urls:
   - https://fallriverma.gov/government/city_council/contact_the_council.php
   - https://fallriverma.gov/government/city_council/current_council.php
-  updated_at: '2026-10-16T18:58:21+00:00'
+  updated_at: '2026-10-16T20:54:40+00:00'
   roles:
   - name: Council Member
     role_id: council-member
@@ -179,7 +179,7 @@
   source_urls:
   - https://fallriverma.gov/government/city_council/contact_the_council.php
   - https://fallriverma.gov/government/city_council/current_council.php
-  updated_at: '2026-10-16T18:58:21+00:00'
+  updated_at: '2026-10-16T20:54:40+00:00'
   roles:
   - name: Council Member
     role_id: council-member
@@ -227,7 +227,7 @@
   source_urls:
   - https://fallriverma.gov/government/city_council/contact_the_council.php
   - https://fallriverma.gov/government/city_council/current_council.php
-  updated_at: '2026-10-16T18:58:21+00:00'
+  updated_at: '2026-10-16T20:54:40+00:00'
   roles:
   - name: Council Member
     role_id: council-member
