@@ -1,1 +1,126 @@
-[]
+- id: 117d187d-1da0-4b8c-b3e4-f47ff4b1271b
+  name: Alissa Nicol
+  other_names: []
+  phones:
+  - (978) 929-6611
+  emails:
+  - alissanicol@acton-ma.gov
+  urls:
+  - https://actonma.gov/87/Select-Board
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://actonma.gov/87/Board-of-Selectmen
+  updated_at: '2026-10-16T18:48:21+00:00'
+  roles:
+  - name: Select Board Member
+    role_id: select-board-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ma/place:acton/government
+    division_ocdid: ocd-division/country:us/state:ma/place:acton
+    start_date: null
+    end_date: null
+- id: 47862a0c-0c39-47b2-a767-95ff3f6b03a7
+  name: David D. Martin
+  other_names: []
+  phones:
+  - (978) 929-6611
+  emails:
+  - davidmartin@acton-ma.gov
+  urls:
+  - https://actonma.gov/87/Select-Board
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://actonma.gov/87/Board-of-Selectmen
+  updated_at: '2026-10-16T18:48:21+00:00'
+  roles:
+  - name: Select Board Member
+    role_id: select-board-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ma/place:acton/government
+    division_ocdid: ocd-division/country:us/state:ma/place:acton
+    start_date: null
+    end_date: null
+- id: 9383241c-48de-47dd-9337-93d9cb24cd6a
+  name: Dean A. Charter
+  other_names: []
+  phones:
+  - (978) 929-6611
+  emails:
+  - deancharter@acton-ma.gov
+  urls:
+  - https://actonma.gov/87/Select-Board
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://actonma.gov/87/Board-of-Selectmen
+  updated_at: '2026-10-16T18:48:21+00:00'
+  roles:
+  - name: Select Board Member
+    role_id: select-board-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ma/place:acton/government
+    division_ocdid: ocd-division/country:us/state:ma/place:acton
+    start_date: null
+    end_date: null
+- id: 855ce9af-50b1-43fe-9b74-2616fa888be4
+  name: Francesca Arsenault
+  other_names: []
+  phones:
+  - (978) 929-6611
+  emails:
+  - franarsenault@acton-ma.gov
+  urls:
+  - https://actonma.gov/87/Select-Board
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://actonma.gov/87/Board-of-Selectmen
+  updated_at: '2026-10-16T18:48:21+00:00'
+  roles:
+  - name: Select Board Member
+    role_id: select-board-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ma/place:acton/government
+    division_ocdid: ocd-division/country:us/state:ma/place:acton
+    start_date: null
+    end_date: null
+- id: 97c9a8c2-3623-4b74-b493-235c1dd33d49
+  name: Pam Nourse
+  other_names: []
+  phones:
+  - (978) 929-6611
+  emails:
+  - pamnourse@acton-ma.gov
+  urls:
+  - https://actonma.gov/87/Select-Board
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://actonma.gov/87/Board-of-Selectmen
+  updated_at: '2026-10-16T18:48:21+00:00'
+  roles:
+  - name: Select Board Member
+    role_id: select-board-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ma/place:acton/government
+    division_ocdid: ocd-division/country:us/state:ma/place:acton
+    start_date: null
+    end_date: null
+- id: 8fc13854-fbfb-4824-a65e-e4c06c3edec0
+  name: Jo-Ann M. Berry
+  other_names: []
+  phones:
+  - (978) 929-6620
+  emails:
+  - moderator@actonma.gov
+  urls:
+  - https://actonma.gov/876/Town-Moderator
+  image: https://www.actonma.gov/ImageRepository/Document?documentID=8502
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/ma/local/place_acton/images/68755188506c.png
+  source_urls:
+  - https://www.actonma.gov/599
+  updated_at: '2026-10-16T18:48:21+00:00'
+  roles:
+  - name: Moderator
+    role_id: moderator
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ma/place:acton/government
+    division_ocdid: ocd-division/country:us/state:ma/place:acton
+    start_date: null
+    end_date: null
