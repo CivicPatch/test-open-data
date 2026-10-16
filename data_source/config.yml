@@ -192,6 +192,13 @@ roles:
   - town council representative
   - town councilmember
   - town councilor
+- id: trustee
+  label: Trustee
+  is_unique: false
+  aliases:
+  - Township Trustee
+  - Trustees
+  - Village Trustee
 - id: commissioner
   label: Commissioner
   is_unique: false
@@ -208,13 +215,6 @@ roles:
   - committeeman
   - committeewoman
   - township committee member
-- id: trustee
-  label: Trustee
-  is_unique: false
-  aliases:
-  - Township Trustee
-  - Trustees
-  - Village Trustee
 - id: supervisor
   label: Supervisor
   is_unique: false
