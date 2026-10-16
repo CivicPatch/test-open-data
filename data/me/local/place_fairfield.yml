@@ -1,1 +1,128 @@
-[]
+- id: 18487572-4d8b-41e7-82dc-a5cd9bb5dad0
+  name: Timothy Martin
+  other_names: []
+  phones:
+  - (207) 314-1640
+  - (207) 453-7911
+  emails:
+  - tmartin@fairfield-me.gov
+  urls:
+  - https://www.fairfield-me.gov/m/directory/employee?eid=70
+  image: https://www.fairfield-me.gov/ImageRepository/Document?documentID=796
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/me/local/place_fairfield/images/937959bf96e7.png
+  source_urls:
+  - https://www.fairfield-me.gov/194/Town-Council
+  - https://www.fairfield-me.gov/directory.aspx
+  - https://www.fairfield-me.gov/m/Directory
+  - https://www.fairfield-me.gov/m/directory/department?did=39
+  - https://www.fairfield-me.gov/m/directory/employee?eid=70
+  updated_at: '2026-10-16T19:07:28+00:00'
+  roles:
+  - name: Chair
+    role_id: chair
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:me/place:fairfield/government
+    division_ocdid: ocd-division/country:us/state:me/place:fairfield
+    start_date: null
+    end_date: null
+- id: 4172edfe-83b8-4c0e-bece-184119887595
+  name: Matthew Townsend
+  other_names: []
+  phones:
+  - (207) 453-7911
+  - (207) 877-4862
+  emails:
+  - mtownsend@fairfield-me.gov
+  urls:
+  - https://www.fairfield-me.gov/m/directory/employee?eid=67
+  image: https://www.fairfield-me.gov/ImageRepository/Document?documentID=797
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/me/local/place_fairfield/images/0845bb66528d.png
+  source_urls:
+  - https://www.fairfield-me.gov/194/Town-Council
+  - https://www.fairfield-me.gov/directory.aspx
+  - https://www.fairfield-me.gov/m/Directory
+  - https://www.fairfield-me.gov/m/directory/department?did=39
+  - https://www.fairfield-me.gov/m/directory/employee?eid=67
+  updated_at: '2026-10-16T19:07:28+00:00'
+  roles:
+  - name: Vice Chair
+    role_id: vice-chair
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:me/place:fairfield/government
+    division_ocdid: ocd-division/country:us/state:me/place:fairfield
+    start_date: null
+    end_date: null
+- id: 7dc037de-2c61-4029-bef9-11d12d0f5ee9
+  name: Kevin Kitchin
+  other_names: []
+  phones:
+  - (207) 453-7911
+  emails:
+  - kkitchin@fairfield-me.gov
+  urls:
+  - https://www.fairfield-me.gov/m/directory/employee?eid=71
+  image: https://www.fairfield-me.gov/ImageRepository/Document?documentID=802
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/me/local/place_fairfield/images/576292b52053.png
+  source_urls:
+  - https://www.fairfield-me.gov/194/Town-Council
+  - https://www.fairfield-me.gov/directory.aspx
+  - https://www.fairfield-me.gov/m/Directory
+  - https://www.fairfield-me.gov/m/directory/department?did=39
+  updated_at: '2026-10-16T19:07:28+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:me/place:fairfield/government
+    division_ocdid: ocd-division/country:us/state:me/place:fairfield
+    start_date: null
+    end_date: null
+- id: e9f129d2-5273-4609-8369-767550a31e4b
+  name: Peter Lawrence
+  other_names: []
+  phones:
+  - (207) 314-5041
+  - (207) 453-7911
+  emails:
+  - plawrence@fairfield-me.gov
+  urls:
+  - https://www.fairfield-me.gov/m/directory/employee?eid=69
+  image: https://www.fairfield-me.gov/ImageRepository/Document?documentID=799
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/me/local/place_fairfield/images/c8ad55c5179a.png
+  source_urls:
+  - https://www.fairfield-me.gov/194/Town-Council
+  - https://www.fairfield-me.gov/directory.aspx
+  - https://www.fairfield-me.gov/m/Directory
+  - https://www.fairfield-me.gov/m/directory/department?did=39
+  - https://www.fairfield-me.gov/m/directory/employee?eid=69
+  updated_at: '2026-10-16T19:07:28+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:me/place:fairfield/government
+    division_ocdid: ocd-division/country:us/state:me/place:fairfield
+    start_date: null
+    end_date: null
+- id: 78da6229-8778-4098-b3e8-e9bf6fed0bc7
+  name: Stephanie Thibodeau
+  other_names: []
+  phones:
+  - (207) 313-3291
+  - (207) 453-7911
+  emails:
+  - sthibodeau@fairfield-me.gov
+  urls:
+  - https://www.fairfield-me.gov/m/directory/employee?eid=68
+  image: https://www.fairfield-me.gov/ImageRepository/Document?documentID=801
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/me/local/place_fairfield/images/b630819eb7f7.png
+  source_urls:
+  - https://www.fairfield-me.gov/194/Town-Council
+  - https://www.fairfield-me.gov/directory.aspx
+  - https://www.fairfield-me.gov/m/Directory
+  - https://www.fairfield-me.gov/m/directory/department?did=39
+  - https://www.fairfield-me.gov/m/directory/employee?eid=68
+  updated_at: '2026-10-16T19:07:28+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:me/place:fairfield/government
+    division_ocdid: ocd-division/country:us/state:me/place:fairfield
+    start_date: null
+    end_date: null
