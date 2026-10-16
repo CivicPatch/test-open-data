@@ -1,30 +1,28 @@
-- id: ae2a3060-3826-4b92-b1f9-908f90524345
+- id: 957b6b69-5ffd-45b3-9b90-d048fa67218b
   name: Daniel L. Cothren
   other_names: []
   phones:
   - (360) 795-8048
   emails:
-  - cothrend@wahkiakumcounty.gov
   - johnsonb@wahkiakumcounty.gov
   urls:
-  - https://www.co.wahkiakum.wa.us/257/Board-of-County-Commissioners
   - https://www.co.wahkiakum.wa.us/m/directory/employee?eid=19
-  image: ''
-  cdn_image: ''
+  image: null
+  cdn_image: null
   source_urls:
-  - https://www.co.wahkiakum.wa.us/257/Board-of-County-Commissioners
   - https://www.co.wahkiakum.wa.us/directory.aspx
+  - https://www.co.wahkiakum.wa.us/m/Directory
   - https://www.co.wahkiakum.wa.us/m/directory/department?did=26
   - https://www.co.wahkiakum.wa.us/m/directory/employee?eid=19
-  updated_at: '2026-09-06T21:17:04+00:00'
+  updated_at: '2026-10-16T19:31:20+00:00'
   roles:
-  - name: Chair, District 2
-    role_id: chair
+  - name: Commissioner
+    role_id: commissioner
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/county:wahkiakum/government
-    division_ocdid: ocd-division/country:us/state:wa/county:wahkiakum/council_district:2
+    division_ocdid: ocd-division/country:us/state:wa/county:wahkiakum
     start_date: null
     end_date: null
-- id: 445ec8a3-482e-4374-a243-489f6fe9cfd2
+- id: 2e3c84ea-0685-4471-92f0-75b4f85dcbfd
   name: Lee Tischer
   other_names: []
   phones:
@@ -32,24 +30,23 @@
   emails:
   - tischerl@wahkiakumcounty.gov
   urls:
-  - https://www.co.wahkiakum.wa.us/257/Board-of-County-Commissioners
   - https://www.co.wahkiakum.wa.us/m/directory/employee?eid=94
-  image: ''
-  cdn_image: ''
+  image: null
+  cdn_image: null
   source_urls:
-  - https://www.co.wahkiakum.wa.us/257/Board-of-County-Commissioners
   - https://www.co.wahkiakum.wa.us/directory.aspx
+  - https://www.co.wahkiakum.wa.us/m/Directory
   - https://www.co.wahkiakum.wa.us/m/directory/department?did=26
   - https://www.co.wahkiakum.wa.us/m/directory/employee?eid=94
-  updated_at: '2026-09-06T21:17:04+00:00'
+  updated_at: '2026-10-16T19:31:20+00:00'
   roles:
-  - name: Vice Chair, District 1
-    role_id: vice-chair
+  - name: Commissioner
+    role_id: commissioner
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/county:wahkiakum/government
-    division_ocdid: ocd-division/country:us/state:wa/county:wahkiakum/council_district:1
+    division_ocdid: ocd-division/country:us/state:wa/county:wahkiakum
     start_date: null
     end_date: null
-- id: 001bf662-d5f8-4ec5-a461-7c6db5c5a020
+- id: ab815b1e-a3de-4664-ac80-9a21eb6bb096
   name: Mark Letham
   other_names: []
   phones:
@@ -57,24 +54,23 @@
   emails:
   - lethamm@wahkiakumcounty.gov
   urls:
-  - https://www.co.wahkiakum.wa.us/257/Board-of-County-Commissioners
   - https://www.co.wahkiakum.wa.us/m/directory/employee?eid=129
-  image: ''
-  cdn_image: ''
+  image: null
+  cdn_image: null
   source_urls:
-  - https://www.co.wahkiakum.wa.us/257/Board-of-County-Commissioners
   - https://www.co.wahkiakum.wa.us/directory.aspx
+  - https://www.co.wahkiakum.wa.us/m/Directory
   - https://www.co.wahkiakum.wa.us/m/directory/department?did=26
   - https://www.co.wahkiakum.wa.us/m/directory/employee?eid=129
-  updated_at: '2026-09-06T21:17:04+00:00'
+  updated_at: '2026-10-16T19:31:20+00:00'
   roles:
-  - name: Commissioner, District 3
+  - name: Commissioner
     role_id: commissioner
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/county:wahkiakum/government
-    division_ocdid: ocd-division/country:us/state:wa/county:wahkiakum/council_district:3
+    division_ocdid: ocd-division/country:us/state:wa/county:wahkiakum
     start_date: null
     end_date: null
-- id: 38b4b91a-8a19-4046-b297-1638a7a47253
+- id: 403fe6a6-01a5-48bd-90f1-671027c182eb
   name: Jess Reddon
   other_names: []
   phones:
@@ -83,11 +79,12 @@
   - reddonj@wahkiakumcounty.gov
   urls:
   - https://www.co.wahkiakum.wa.us/m/directory/employee?eid=93
-  image: ''
-  cdn_image: ''
+  image: null
+  cdn_image: null
   source_urls:
-  - https://www.co.wahkiakum.wa.us/directory.aspx
-  updated_at: '2026-09-06T21:17:04+00:00'
+  - https://www.co.wahkiakum.wa.us/m/Directory
+  - https://www.co.wahkiakum.wa.us/m/directory/department?did=34
+  updated_at: '2026-10-16T19:31:20+00:00'
   roles:
   - name: Clerk
     role_id: clerk
@@ -95,7 +92,7 @@
     division_ocdid: ocd-division/country:us/state:wa/county:wahkiakum
     start_date: null
     end_date: null
-- id: 509f6dc5-eb7a-438e-aa13-e59d1ef6c3e3
+- id: ac06c48f-fd3f-49f0-827d-2f523c4bc493
   name: Tammy Peterson
   other_names: []
   phones:
@@ -104,13 +101,13 @@
   - treasurer.staff@wahkiakumcounty.gov
   urls:
   - https://www.co.wahkiakum.wa.us/m/directory/employee?eid=16
-  image: ''
-  cdn_image: ''
+  image: null
+  cdn_image: null
   source_urls:
-  - https://www.co.wahkiakum.wa.us/directory.aspx
+  - https://www.co.wahkiakum.wa.us/m/Directory
   - https://www.co.wahkiakum.wa.us/m/directory/department?did=24
   - https://www.co.wahkiakum.wa.us/m/directory/employee?eid=16
-  updated_at: '2026-09-06T21:17:04+00:00'
+  updated_at: '2026-10-16T19:31:20+00:00'
   roles:
   - name: Treasurer
     role_id: treasurer
@@ -118,29 +115,88 @@
     division_ocdid: ocd-division/country:us/state:wa/county:wahkiakum
     start_date: null
     end_date: null
-- id: f3e37da6-16fc-41e4-88c5-41dc56aa800e
+- id: 9b7c55af-06fd-4adb-94a0-0c5d45728fa1
   name: Drew Jenkins
   other_names: []
   phones:
-  - (360) 795-3791
   - (360) 795-3791 ext. 106
   emails:
   - jenkinsa@wahkiakumcounty.gov
   urls:
-  - https://www.co.wahkiakum.wa.us/278/Assessor
   - https://www.co.wahkiakum.wa.us/m/directory/employee?eid=62
-  image: https://www.co.wahkiakum.wa.us/ImageRepository/Document?documentId=3358
-  cdn_image: https://cdn.civicpatch.org/open-data/wa/local/county_wahkiakum/images/35e91a16312d.png
+  image: null
+  cdn_image: null
   source_urls:
-  - https://www.co.wahkiakum.wa.us/278/Assessor
-  - https://www.co.wahkiakum.wa.us/directory.aspx
-  - https://www.co.wahkiakum.wa.us/directory.aspx?did=29
+  - https://www.co.wahkiakum.wa.us/m/Directory
   - https://www.co.wahkiakum.wa.us/m/directory/department?did=29
   - https://www.co.wahkiakum.wa.us/m/directory/employee?eid=62
-  updated_at: '2026-09-06T21:17:04+00:00'
+  updated_at: '2026-10-16T19:31:20+00:00'
   roles:
   - name: Assessor
     role_id: assessor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/county:wahkiakum/government
+    division_ocdid: ocd-division/country:us/state:wa/county:wahkiakum
+    start_date: null
+    end_date: null
+- id: a3dc8e83-c37c-4bab-a78a-5cbaec709722
+  name: John M. Mason
+  other_names: []
+  phones:
+  - (360) 795-3242
+  emails:
+  - masonj@wahkiakumcounty.gov
+  urls:
+  - https://www.co.wahkiakum.wa.us/m/directory/employee?eid=121
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.co.wahkiakum.wa.us/m/Directory
+  - https://www.co.wahkiakum.wa.us/m/directory/department?did=5
+  - https://www.co.wahkiakum.wa.us/m/directory/employee?eid=121
+  updated_at: '2026-10-16T19:31:20+00:00'
+  roles:
+  - name: Sheriff
+    role_id: sheriff
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/county:wahkiakum/government
+    division_ocdid: ocd-division/country:us/state:wa/county:wahkiakum
+    start_date: null
+    end_date: null
+- id: c2ae1acb-8689-4d28-90b5-e86adad77138
+  name: Daniel H. Bigelow
+  other_names: []
+  phones:
+  - (360) 795-3652
+  emails: []
+  urls:
+  - https://www.co.wahkiakum.wa.us/m/directory/employee?eid=57
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.co.wahkiakum.wa.us/m/Directory
+  updated_at: '2026-10-16T19:31:20+00:00'
+  roles:
+  - name: Unmatched
+    role_id: unmatched
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/county:wahkiakum/government
+    division_ocdid: ocd-division/country:us/state:wa/county:wahkiakum
+    start_date: null
+    end_date: null
+- id: 927146db-abd9-4c05-b619-91f5db3d4017
+  name: Nicci Bergseng
+  other_names: []
+  phones: []
+  emails:
+  - bergsengn@wahkiakumcounty.gov
+  urls:
+  - https://www.co.wahkiakum.wa.us/m/directory/employee?eid=67
+  image: https://www.co.wahkiakum.wa.us/ImageRepository/Document?documentID=3608
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/county_wahkiakum/images/bb5bde8e3898.png
+  source_urls:
+  - https://www.co.wahkiakum.wa.us/m/Directory
+  updated_at: '2026-10-16T19:31:20+00:00'
+  roles:
+  - name: Unmatched
+    role_id: unmatched
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/county:wahkiakum/government
     division_ocdid: ocd-division/country:us/state:wa/county:wahkiakum
     start_date: null
