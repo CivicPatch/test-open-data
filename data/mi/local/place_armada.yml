@@ -151,14 +151,12 @@
   emails:
   - clerk@villageofarmada.org
   urls:
-  - https://www.villageofarmada.org/departments/village_clerk/index.php
   - https://www.villageofarmada.org/departments/village_council/members.php
   image: null
   cdn_image: null
   source_urls:
-  - https://www.villageofarmada.org/departments/village_clerk/index.php
   - https://www.villageofarmada.org/departments/village_council/members.php
-  updated_at: '2026-10-02T22:22:29+00:00'
+  updated_at: '2026-10-16T06:37:01+00:00'
   roles:
   - name: Clerk
     role_id: clerk
