@@ -1,1 +1,147 @@
-[]
+- id: 05f865ef-8016-46ec-8d90-ae3d9f9d46e8
+  name: Dustin Swartz
+  other_names: []
+  phones:
+  - (509) 764-3762
+  emails:
+  - dswartz@cityofml.com
+  urls:
+  - https://www.cityofml.com/m/directory/employee?eid=221
+  image: https://www.cityofml.com/ImageRepository/Document?documentID=10558
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_moses_lake/images/e202c307701a.png
+  source_urls:
+  - https://www.cityofml.com/directory.aspx
+  updated_at: '2026-10-16T04:55:26+00:00'
+  roles:
+  - name: Mayor
+    role_id: mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:moses_lake/government
+    division_ocdid: ocd-division/country:us/state:wa/place:moses_lake
+    start_date: null
+    end_date: null
+- id: 0fabf23a-c24f-4bee-8667-85ed506b6d7e
+  name: Don Myers
+  other_names: []
+  phones:
+  - (509) 764-3766
+  emails:
+  - dmyers@cityofml.com
+  urls:
+  - https://www.cityofml.com/m/directory/employee?eid=113
+  image: https://www.cityofml.com/ImageRepository/Document?documentID=9816
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_moses_lake/images/586bd6e198c3.png
+  source_urls:
+  - https://www.cityofml.com/directory.aspx
+  updated_at: '2026-10-16T04:55:26+00:00'
+  roles:
+  - name: Deputy Mayor
+    role_id: deputy-mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:moses_lake/government
+    division_ocdid: ocd-division/country:us/state:wa/place:moses_lake
+    start_date: null
+    end_date: null
+- id: 709750ef-41f9-4df3-8504-6867e78cb5ac
+  name: David Skaug
+  other_names: []
+  phones:
+  - (509) 764-3768
+  emails:
+  - dskaug@cityofml.com
+  urls:
+  - https://www.cityofml.com/m/directory/employee?eid=228
+  image: https://www.cityofml.com/ImageRepository/Document?documentID=10566
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_moses_lake/images/d12ce89fe657.png
+  source_urls:
+  - https://www.cityofml.com/directory.aspx
+  updated_at: '2026-10-16T04:55:26+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:moses_lake/government
+    division_ocdid: ocd-division/country:us/state:wa/place:moses_lake
+    start_date: null
+    end_date: null
+- id: 7ec64ff3-a3b1-4a60-8fdd-f3f765fe87ca
+  name: Jeremy Davis
+  other_names: []
+  phones:
+  - (509) 764-3767
+  emails:
+  - jdavis@cityofml.com
+  urls:
+  - https://www.cityofml.com/m/directory/employee?eid=281
+  image: https://www.cityofml.com/ImageRepository/Document?documentID=13121
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_moses_lake/images/31bc0e2906ce.png
+  source_urls:
+  - https://www.cityofml.com/directory.aspx
+  updated_at: '2026-10-16T04:55:26+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:moses_lake/government
+    division_ocdid: ocd-division/country:us/state:wa/place:moses_lake
+    start_date: null
+    end_date: null
+- id: 0cd43526-4b8f-4773-9b8f-d3702624969e
+  name: Joel Graves
+  other_names: []
+  phones:
+  - (509) 764-3763
+  emails:
+  - jgraves@cityofml.com
+  urls:
+  - https://www.cityofml.com/m/directory/employee?eid=280
+  image: https://www.cityofml.com/ImageRepository/Document?documentID=13122
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_moses_lake/images/07c5ec92783f.png
+  source_urls:
+  - https://www.cityofml.com/directory.aspx
+  updated_at: '2026-10-16T04:55:26+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:moses_lake/government
+    division_ocdid: ocd-division/country:us/state:wa/place:moses_lake
+    start_date: null
+    end_date: null
+- id: e6cc753e-d964-4c90-afa5-0f7065a86d25
+  name: Mark Fancher
+  other_names: []
+  phones:
+  - (509) 764-3765
+  emails:
+  - mfancher@cityofml.com
+  urls:
+  - https://www.cityofml.com/m/directory/employee?eid=222
+  image: https://www.cityofml.com/ImageRepository/Document?documentID=10553
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_moses_lake/images/a89afbe8249d.png
+  source_urls:
+  - https://www.cityofml.com/directory.aspx
+  updated_at: '2026-10-16T04:55:26+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:moses_lake/government
+    division_ocdid: ocd-division/country:us/state:wa/place:moses_lake
+    start_date: null
+    end_date: null
+- id: 662d6d37-fdf6-4dd2-8e0f-29b756fea9b2
+  name: Victor Lombardi
+  other_names: []
+  phones:
+  - (509) 764-3764
+  emails:
+  - vlombardi@cityofml.com
+  urls:
+  - https://www.cityofml.com/m/directory/employee?eid=196
+  image: https://www.cityofml.com/ImageRepository/Document?documentID=11281
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_moses_lake/images/25c3ccb6b2ed.png
+  source_urls:
+  - https://www.cityofml.com/directory.aspx
+  updated_at: '2026-10-16T04:55:26+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:moses_lake/government
+    division_ocdid: ocd-division/country:us/state:wa/place:moses_lake
+    start_date: null
+    end_date: null

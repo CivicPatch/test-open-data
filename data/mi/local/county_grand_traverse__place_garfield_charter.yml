@@ -1,18 +1,16 @@
-- id: 6bb156dd-174b-4d09-b24e-d45fa3117018
+- id: 6d3ad3c4-4287-4c0c-b0e2-0db6b5224679
   name: Chuck Korn
   other_names: []
-  phones:
-  - (231) 941-1620
+  phones: []
   emails:
   - ckorn@garfieldmi.gov
   urls:
-  - https://www.garfieldmi.gov/boards-and-commissions/township-board
-  image: https://www.garfieldmi.gov/wp-content/uploads/2024/04/Chuck-Korn.jpg
-  cdn_image: https://cdn.civicpatch.org/open-data/mi/local/county_grand_traverse__place_garfield_charter/images/ba7d4db5f69c.png
+  - https://www.garfieldmi.gov/boards-and-commissions/township-board/
+  image: https://www.garfieldmi.gov/wp-content/uploads/2024/04/Chuck-Korn-300x300.jpg
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/mi/local/county_grand_traverse__place_garfield_charter/images/f515da4743bf.png
   source_urls:
-  - https://www.garfieldmi.gov/boards-and-commissions/township-board
-  - https://www.garfieldmi.gov/departments-and-services/township-directory
-  updated_at: '2026-04-17T01:42:26+00:00'
+  - https://www.garfieldmi.gov/boards-and-commissions/township-board/
+  updated_at: '2026-10-16T04:58:09+00:00'
   roles:
   - name: Trustee
     role_id: trustee
@@ -20,21 +18,19 @@
     division_ocdid: ocd-division/country:us/state:mi/county:grand_traverse/place:garfield_charter
     start_date: null
     end_date: null
-- id: bceda89a-e225-4a0d-9ab2-93c2cb855dc6
+- id: 45b099ed-1866-4414-ab30-f34983dbf63d
   name: Denise Schmuckal
   other_names: []
-  phones:
-  - (231) 941-1620
+  phones: []
   emails:
   - dschmuckal@garfieldmi.gov
   urls:
-  - https://www.garfieldmi.gov/boards-and-commissions/township-board
-  image: https://www.garfieldmi.gov/wp-content/uploads/2024/04/Denise-Schmuckal.jpg
-  cdn_image: https://cdn.civicpatch.org/open-data/mi/local/county_grand_traverse__place_garfield_charter/images/7c0591e21101.png
+  - https://www.garfieldmi.gov/boards-and-commissions/township-board/
+  image: https://www.garfieldmi.gov/wp-content/uploads/2024/04/Denise-Schmuckal-300x300.jpg
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/mi/local/county_grand_traverse__place_garfield_charter/images/05d444133700.png
   source_urls:
-  - https://www.garfieldmi.gov/boards-and-commissions/township-board
-  - https://www.garfieldmi.gov/departments-and-services/township-directory
-  updated_at: '2026-04-17T01:42:26+00:00'
+  - https://www.garfieldmi.gov/boards-and-commissions/township-board/
+  updated_at: '2026-10-16T04:58:09+00:00'
   roles:
   - name: Trustee
     role_id: trustee
@@ -42,21 +38,19 @@
     division_ocdid: ocd-division/country:us/state:mi/county:grand_traverse/place:garfield_charter
     start_date: null
     end_date: null
-- id: 0c475b29-9204-492a-890c-c0f810e6acfb
+- id: 9427217f-b558-4d4e-af10-681f715e182f
   name: Laurie Lapp
   other_names: []
-  phones:
-  - (231) 941-1620
+  phones: []
   emails:
   - llapp@garfieldmi.gov
   urls:
-  - https://www.garfieldmi.gov/boards-and-commissions/township-board
-  image: https://www.garfieldmi.gov/wp-content/uploads/2025/02/Laurie-Lapp-1.jpg
-  cdn_image: https://cdn.civicpatch.org/open-data/mi/local/county_grand_traverse__place_garfield_charter/images/afa3055304df.png
+  - https://www.garfieldmi.gov/boards-and-commissions/township-board/
+  image: https://www.garfieldmi.gov/wp-content/uploads/2025/02/Laurie-Lapp-1-300x300.jpg
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/mi/local/county_grand_traverse__place_garfield_charter/images/ad7383b268bd.png
   source_urls:
-  - https://www.garfieldmi.gov/boards-and-commissions/township-board
-  - https://www.garfieldmi.gov/departments-and-services/township-directory
-  updated_at: '2026-04-17T01:42:26+00:00'
+  - https://www.garfieldmi.gov/boards-and-commissions/township-board/
+  updated_at: '2026-10-16T04:58:09+00:00'
   roles:
   - name: Trustee
     role_id: trustee
@@ -64,21 +58,19 @@
     division_ocdid: ocd-division/country:us/state:mi/county:grand_traverse/place:garfield_charter
     start_date: null
     end_date: null
-- id: c17e27c3-4a45-4686-bb41-8cfd0baef46d
+- id: 02fe8df1-40f3-4bd7-8723-2d1d0fdad730
   name: Molly Agostinelli
   other_names: []
-  phones:
-  - (231) 941-1620
+  phones: []
   emails:
   - magostinelli@garfieldmi.gov
   urls:
-  - https://www.garfieldmi.gov/boards-and-commissions/township-board
-  image: https://www.garfieldmi.gov/wp-content/uploads/2024/04/Molly-Agostinelli.jpg
-  cdn_image: https://cdn.civicpatch.org/open-data/mi/local/county_grand_traverse__place_garfield_charter/images/30b86d242ed3.png
+  - https://www.garfieldmi.gov/boards-and-commissions/township-board/
+  image: https://www.garfieldmi.gov/wp-content/uploads/2024/04/Molly-Agostinelli-300x300.jpg
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/mi/local/county_grand_traverse__place_garfield_charter/images/7c224b228206.png
   source_urls:
-  - https://www.garfieldmi.gov/boards-and-commissions/township-board
-  - https://www.garfieldmi.gov/departments-and-services/township-directory
-  updated_at: '2026-04-17T01:42:26+00:00'
+  - https://www.garfieldmi.gov/boards-and-commissions/township-board/
+  updated_at: '2026-10-16T04:58:09+00:00'
   roles:
   - name: Trustee
     role_id: trustee
@@ -86,21 +78,19 @@
     division_ocdid: ocd-division/country:us/state:mi/county:grand_traverse/place:garfield_charter
     start_date: null
     end_date: null
-- id: 38100b42-aad6-4433-a8fe-74b1d70f14b2
+- id: 5a79bc5a-e04d-46e3-88ef-c77db3ab63ac
   name: Joe McManus
   other_names: []
-  phones:
-  - (231) 941-1620
+  phones: []
   emails:
   - jmcmanus@garfieldmi.gov
   urls:
-  - https://www.garfieldmi.gov/boards-and-commissions/township-board
-  image: https://www.garfieldmi.gov/wp-content/uploads/2025/02/joemcmanus-250sq-e1738709163393.jpg
-  cdn_image: https://cdn.civicpatch.org/open-data/mi/local/county_grand_traverse__place_garfield_charter/images/3f5f4c6792f7.png
+  - https://www.garfieldmi.gov/boards-and-commissions/township-board/
+  image: https://www.garfieldmi.gov/wp-content/uploads/2025/02/joemcmanus-250sq-300x300.jpg
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/mi/local/county_grand_traverse__place_garfield_charter/images/27c288111cd4.png
   source_urls:
-  - https://www.garfieldmi.gov/boards-and-commissions/township-board
-  - https://www.garfieldmi.gov/departments-and-services/township-directory
-  updated_at: '2026-04-17T01:42:26+00:00'
+  - https://www.garfieldmi.gov/boards-and-commissions/township-board/
+  updated_at: '2026-10-16T04:58:09+00:00'
   roles:
   - name: Supervisor
     role_id: supervisor
@@ -108,7 +98,7 @@
     division_ocdid: ocd-division/country:us/state:mi/county:grand_traverse/place:garfield_charter
     start_date: null
     end_date: null
-- id: 43adaf7d-9152-42d6-b293-69719ad76421
+- id: ebb8fca9-400f-43ad-ba7f-b8675a097814
   name: Lanie McManus
   other_names: []
   phones:
@@ -116,13 +106,14 @@
   emails:
   - lmcmanus@garfieldmi.gov
   urls:
-  - https://www.garfieldmi.gov/boards-and-commissions/township-board
+  - https://www.garfieldmi.gov/boards-and-commissions/township-board/
+  - https://www.garfieldmi.gov/departments-and-services/clerk/
   image: null
   cdn_image: null
   source_urls:
-  - https://www.garfieldmi.gov/boards-and-commissions/township-board
-  - https://www.garfieldmi.gov/departments-and-services/township-directory
-  updated_at: '2026-04-17T01:42:26+00:00'
+  - https://www.garfieldmi.gov/boards-and-commissions/township-board/
+  - https://www.garfieldmi.gov/departments-and-services/clerk/
+  updated_at: '2026-10-16T04:58:09+00:00'
   roles:
   - name: Clerk
     role_id: clerk
@@ -130,21 +121,20 @@
     division_ocdid: ocd-division/country:us/state:mi/county:grand_traverse/place:garfield_charter
     start_date: null
     end_date: null
-- id: 4b710713-1ef9-4791-8f38-42f18c0e88df
-  name: MiCPT Chloe Macomber
+- id: 0635ffe5-7b00-4301-8474-82db907ba85f
+  name: Chloe Macomber
   other_names: []
   phones:
-  - (231) 941-1620
+  - (231) 225-3043
   emails:
   - cmacomber@garfieldmi.gov
   urls:
-  - https://www.garfieldmi.gov/boards-and-commissions/township-board
+  - https://www.garfieldmi.gov/boards-and-commissions/township-board/
   image: https://www.garfieldmi.gov/wp-content/uploads/2025/06/Chloe-Professional-Pic350-square.jpg
-  cdn_image: https://cdn.civicpatch.org/open-data/mi/local/county_grand_traverse__place_garfield_charter/images/f1d3ca9da17c.png
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/mi/local/county_grand_traverse__place_garfield_charter/images/82e3c55e92ef.png
   source_urls:
-  - https://www.garfieldmi.gov/boards-and-commissions/township-board
-  - https://www.garfieldmi.gov/departments-and-services/township-directory
-  updated_at: '2026-04-17T01:42:26+00:00'
+  - https://www.garfieldmi.gov/boards-and-commissions/township-board/
+  updated_at: '2026-10-16T04:58:09+00:00'
   roles:
   - name: Treasurer
     role_id: treasurer
