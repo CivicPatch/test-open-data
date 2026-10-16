@@ -1188,7 +1188,7 @@ jurisdictions:
   - ocd-jurisdiction/country:us/state:co/government
 - id: ocd-jurisdiction/country:us/state:co/place:nederland/government
   name: Nederland town
-  url: https://townofnederland.colorado.gov/
+  url: https://www.nederlandco.gov
   population: 1523
   geoid: '0853175'
   wiki_url: https://en.wikipedia.org/wiki/Nederland,_Colorado
