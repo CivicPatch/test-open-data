@@ -1,1 +1,182 @@
-[]
+- id: 5103d362-34d1-4fb8-80bf-ddfe03d5b45a
+  name: Jerry Aubry
+  other_names: []
+  phones:
+  - (248) 672-8657
+  emails:
+  - jerryaubry@villageofmilford.org
+  urls:
+  - https://www.villageofmilford.org/government/council/aubry.php
+  - https://www.villageofmilford.org/government/index.php
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.villageofmilford.org/government/council/aubry.php
+  - https://www.villageofmilford.org/government/council/index.php
+  - https://www.villageofmilford.org/government/index.php
+  updated_at: '2026-10-16T05:03:49+00:00'
+  roles:
+  - name: Council President
+    role_id: council-president
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:mi/place:milford/government
+    division_ocdid: ocd-division/country:us/state:mi/place:milford
+    start_date: 2014-07
+    end_date: null
+- id: b482cdab-f314-46f5-a8aa-a9a5323bffab
+  name: James Kovach
+  other_names: []
+  phones: []
+  emails:
+  - jimkovach@villageofmilford.org
+  urls:
+  - https://www.villageofmilford.org/government/council/kovach.php
+  - https://www.villageofmilford.org/government/index.php
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.villageofmilford.org/government/council/index.php
+  - https://www.villageofmilford.org/government/index.php
+  updated_at: '2026-10-16T05:03:49+00:00'
+  roles:
+  - name: Council President Pro Tem
+    role_id: council-president-pro-tem
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:mi/place:milford/government
+    division_ocdid: ocd-division/country:us/state:mi/place:milford
+    start_date: null
+    end_date: null
+- id: 8875b30f-d115-421c-a78b-4afcb6f3ab3c
+  name: Jim Kovach
+  other_names: []
+  phones:
+  - (248) 207-8455
+  emails:
+  - jimkovach@villageofmilford.org
+  urls:
+  - https://www.villageofmilford.org/government/council/kovach.php
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.villageofmilford.org/government/council/kovach.php
+  updated_at: '2026-10-16T05:03:49+00:00'
+  roles:
+  - name: President Pro Tempore
+    role_id: president-pro-tempore
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:mi/place:milford/government
+    division_ocdid: ocd-division/country:us/state:mi/place:milford
+    start_date: null
+    end_date: null
+- id: ea038c45-d4d5-4757-9995-08c3173eed19
+  name: Andy Grohowski
+  other_names: []
+  phones: []
+  emails:
+  - agrohowski@villageofmilford.org
+  urls:
+  - https://www.villageofmilford.org/government/council/council_member_grohowski.php
+  - https://www.villageofmilford.org/government/index.php
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.villageofmilford.org/government/council/council_member_grohowski.php
+  - https://www.villageofmilford.org/government/council/index.php
+  - https://www.villageofmilford.org/government/index.php
+  updated_at: '2026-10-16T05:03:49+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:mi/place:milford/government
+    division_ocdid: ocd-division/country:us/state:mi/place:milford
+    start_date: 2022-11
+    end_date: null
+- id: 3278a613-0a9a-49e3-bbc8-eb2ee1333911
+  name: Anisa Allen
+  other_names: []
+  phones: []
+  emails:
+  - aallen@villageofmilford.org
+  urls:
+  - https://www.villageofmilford.org/government/council/council_member_allen.php
+  - https://www.villageofmilford.org/government/index.php
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.villageofmilford.org/government/council/council_member_allen.php
+  - https://www.villageofmilford.org/government/council/index.php
+  - https://www.villageofmilford.org/government/index.php
+  updated_at: '2026-10-16T05:03:49+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:mi/place:milford/government
+    division_ocdid: ocd-division/country:us/state:mi/place:milford
+    start_date: '2023-10-02'
+    end_date: null
+- id: 2ab9b78f-a9f4-4d67-a53e-278f459ff843
+  name: Harley "Butch" Maxwell
+  other_names: []
+  phones: []
+  emails:
+  - hmaxwell@villageofmilford.org
+  urls:
+  - https://www.villageofmilford.org/government/council/maxwell.php
+  - https://www.villageofmilford.org/government/index.php
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.villageofmilford.org/government/council/index.php
+  - https://www.villageofmilford.org/government/council/maxwell.php
+  - https://www.villageofmilford.org/government/index.php
+  updated_at: '2026-10-16T05:03:49+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:mi/place:milford/government
+    division_ocdid: ocd-division/country:us/state:mi/place:milford
+    start_date: null
+    end_date: null
+- id: 7e890ab2-7f1c-4842-b28e-fd809cb7bfd9
+  name: Jennifer Frankford
+  other_names: []
+  phones: []
+  emails:
+  - jenniferfrankford@villageofmilford.org
+  urls:
+  - https://www.villageofmilford.org/government/council/frankford.php
+  - https://www.villageofmilford.org/government/index.php
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.villageofmilford.org/government/council/frankford.php
+  - https://www.villageofmilford.org/government/council/index.php
+  - https://www.villageofmilford.org/government/index.php
+  updated_at: '2026-10-16T05:03:49+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:mi/place:milford/government
+    division_ocdid: ocd-division/country:us/state:mi/place:milford
+    start_date: null
+    end_date: null
+- id: fc1b2091-8bf0-4e12-8e55-84a290304cbe
+  name: Kevin Ziegler
+  other_names: []
+  phones: []
+  emails:
+  - kevinziegler@villageofmilford.org
+  urls:
+  - https://www.villageofmilford.org/government/council/ziegler.php
+  - https://www.villageofmilford.org/government/index.php
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.villageofmilford.org/government/council/index.php
+  - https://www.villageofmilford.org/government/council/ziegler.php
+  - https://www.villageofmilford.org/government/index.php
+  updated_at: '2026-10-16T05:03:49+00:00'
+  roles:
+  - name: Council Member
+    role_id: council-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:mi/place:milford/government
+    division_ocdid: ocd-division/country:us/state:mi/place:milford
+    start_date: null
+    end_date: null
