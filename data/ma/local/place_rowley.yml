@@ -1,1 +1,100 @@
-[]
+- id: c3d602f5-4062-4245-bb6e-cea196fa60a3
+  name: Robert Snow
+  other_names: []
+  phones:
+  - (978) 948-2372
+  emails: []
+  urls:
+  - https://www.townofrowley.net/board-selectmen
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.townofrowley.net/board-selectmen
+  updated_at: '2026-10-16T21:32:25+00:00'
+  roles:
+  - name: Select Board Member
+    role_id: select-board-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ma/place:rowley/government
+    division_ocdid: ocd-division/country:us/state:ma/place:rowley
+    start_date: null
+    end_date: null
+- id: 671320b8-daf8-4e61-b1fc-ad2dace8f4a5
+  name: Sheri David
+  other_names: []
+  phones:
+  - (978) 948-2372
+  emails: []
+  urls:
+  - https://www.townofrowley.net/board-selectmen
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.townofrowley.net/board-selectmen
+  updated_at: '2026-10-16T21:32:25+00:00'
+  roles:
+  - name: Chair
+    role_id: chair
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ma/place:rowley/government
+    division_ocdid: ocd-division/country:us/state:ma/place:rowley
+    start_date: null
+    end_date: null
+- id: 039d92b6-5105-4271-8e41-dbbc83a03e6f
+  name: Christine A. Kneeland
+  other_names: []
+  phones:
+  - (978) 948-2372
+  emails: []
+  urls:
+  - https://www.townofrowley.net/board-selectmen
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.townofrowley.net/board-selectmen
+  updated_at: '2026-10-16T21:32:25+00:00'
+  roles:
+  - name: Vice Chair
+    role_id: vice-chair
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ma/place:rowley/government
+    division_ocdid: ocd-division/country:us/state:ma/place:rowley
+    start_date: null
+    end_date: null
+- id: 573a4432-4c8f-425d-9b26-41b02b15fbc3
+  name: Maura Mastrogiovanni
+  other_names: []
+  phones:
+  - (978) 948-2372
+  emails: []
+  urls:
+  - https://www.townofrowley.net/board-selectmen
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.townofrowley.net/board-selectmen
+  updated_at: '2026-10-16T21:32:25+00:00'
+  roles:
+  - name: Clerk
+    role_id: clerk
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ma/place:rowley/government
+    division_ocdid: ocd-division/country:us/state:ma/place:rowley
+    start_date: null
+    end_date: null
+- id: e9ffbd9e-c915-4c54-b109-f7bc65eb6a34
+  name: Thomas Amoroso
+  other_names: []
+  phones:
+  - (978) 948-2372
+  emails: []
+  urls:
+  - https://www.townofrowley.net/town-moderator
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.townofrowley.net/town-moderator
+  updated_at: '2026-10-16T21:32:25+00:00'
+  roles:
+  - name: Moderator
+    role_id: moderator
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:ma/place:rowley/government
+    division_ocdid: ocd-division/country:us/state:ma/place:rowley
+    start_date: null
+    end_date: null
