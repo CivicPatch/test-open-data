@@ -1,15 +1,23 @@
-- id: 998bd84c-11d1-4a0a-8ea9-bf1012a8f62c
+- id: 6539fc28-ae30-443f-ac8c-6b8e9058c946
   name: Richard T. Bissen Jr.
   other_names: []
-  phones: []
-  emails: []
+  phones:
+  - (808) 270-7855
+  emails:
+  - mayors.office@co.maui.hi.us
   urls:
+  - https://www.mauicounty.gov/2727/Contact-the-Mayor
   - https://www.mauicounty.gov/3078/Mayor-Richard-Bissen
-  image: https://www.mauicounty.gov/ImageRepository/Document?documentId=139830
-  cdn_image: https://cdn.civicpatch.org/open-data/hi/local/county_maui/images/bd2bad1d37eb.png
+  - https://www.mauicounty.gov/m/directory/employee?eid=297
+  image: https://www.mauicounty.gov/ImageRepository/Document?documentID=139831
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/hi/local/county_maui/images/24ab07d17e56.png
   source_urls:
+  - https://www.mauicounty.gov/2727/Contact-the-Mayor
   - https://www.mauicounty.gov/3078/Mayor-Richard-Bissen
-  updated_at: '2026-09-19T04:55:54+00:00'
+  - https://www.mauicounty.gov/Directory.aspx?did=473
+  - https://www.mauicounty.gov/directory.aspx
+  - https://www.mauicounty.gov/m/directory/employee?eid=297
+  updated_at: '2026-10-16T18:53:12+00:00'
   roles:
   - name: Mayor
     role_id: mayor
@@ -17,7 +25,7 @@
     division_ocdid: ocd-division/country:us/state:hi/county:maui
     start_date: null
     end_date: null
-- id: c24d06c1-787a-4c35-9bfa-010ba29fbebf
+- id: 0108b934-5a1e-4cf9-9545-9b3368827959
   name: Alice Lee
   other_names: []
   phones:
@@ -27,10 +35,10 @@
   urls:
   - https://www.mauicounty.gov/m/directory/employee?eid=704
   image: https://www.mauicounty.gov/ImageRepository/Document?documentID=162941
-  cdn_image: https://cdn.civicpatch.org/open-data/hi/local/county_maui/images/41cf34201243.png
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/hi/local/county_maui/images/d203effdc3c6.png
   source_urls:
-  - https://www.mauicounty.gov/m/directory/department?did=377
-  updated_at: '2026-09-12T01:26:23+00:00'
+  - https://www.mauicounty.gov/directory.aspx
+  updated_at: '2026-10-16T18:53:12+00:00'
   roles:
   - name: Chair
     role_id: chair
@@ -38,7 +46,7 @@
     division_ocdid: ocd-division/country:us/state:hi/county:maui
     start_date: null
     end_date: null
-- id: 78312997-596a-4f20-84be-c608bddbe7fd
+- id: 5e0788b5-7ba6-429b-a233-0f210ad35f0c
   name: Yuki Lei Sugimura
   other_names: []
   phones:
@@ -48,10 +56,10 @@
   urls:
   - https://www.mauicounty.gov/m/directory/employee?eid=361
   image: https://www.mauicounty.gov/ImageRepository/Document?documentID=162943
-  cdn_image: https://cdn.civicpatch.org/open-data/hi/local/county_maui/images/76ebdcf3d10e.png
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/hi/local/county_maui/images/fb42b2294a40.png
   source_urls:
-  - https://www.mauicounty.gov/m/directory/department?did=377
-  updated_at: '2026-09-12T01:26:23+00:00'
+  - https://www.mauicounty.gov/directory.aspx
+  updated_at: '2026-10-16T18:53:12+00:00'
   roles:
   - name: Vice Chair
     role_id: vice-chair
@@ -59,7 +67,7 @@
     division_ocdid: ocd-division/country:us/state:hi/county:maui
     start_date: null
     end_date: null
-- id: 6d217108-d3ee-497a-9641-866a53098fb4
+- id: f66c2be8-c05e-4fb1-b62a-901896f6ab64
   name: Gabe Johnson
   other_names: []
   phones:
@@ -69,10 +77,10 @@
   urls:
   - https://www.mauicounty.gov/m/directory/employee?eid=706
   image: https://www.mauicounty.gov/ImageRepository/Document?documentID=162947
-  cdn_image: https://cdn.civicpatch.org/open-data/hi/local/county_maui/images/0a1fe27175b7.png
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/hi/local/county_maui/images/36c20bae02c3.png
   source_urls:
-  - https://www.mauicounty.gov/m/directory/department?did=377
-  updated_at: '2026-09-12T01:26:23+00:00'
+  - https://www.mauicounty.gov/directory.aspx
+  updated_at: '2026-10-16T18:53:12+00:00'
   roles:
   - name: Council Member
     role_id: council-member
@@ -80,7 +88,7 @@
     division_ocdid: ocd-division/country:us/state:hi/county:maui
     start_date: null
     end_date: null
-- id: e21226b4-84bb-4928-9b2d-e5fe97960f20
+- id: 0f0e7fbb-a5a9-4c46-afe2-0618d4501ec5
   name: Kauanoe Batangan
   other_names: []
   phones:
@@ -90,10 +98,10 @@
   urls:
   - https://www.mauicounty.gov/m/directory/employee?eid=854
   image: https://www.mauicounty.gov/ImageRepository/Document?documentID=162940
-  cdn_image: https://cdn.civicpatch.org/open-data/hi/local/county_maui/images/e047b0040737.png
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/hi/local/county_maui/images/70359e02b04b.png
   source_urls:
-  - https://www.mauicounty.gov/m/directory/department?did=377
-  updated_at: '2026-09-12T01:26:23+00:00'
+  - https://www.mauicounty.gov/directory.aspx
+  updated_at: '2026-10-16T18:53:12+00:00'
   roles:
   - name: Council Member
     role_id: council-member
@@ -101,7 +109,7 @@
     division_ocdid: ocd-division/country:us/state:hi/county:maui
     start_date: null
     end_date: null
-- id: 96fdcc69-260d-4532-8dc9-960ae832c5fe
+- id: f3a8ac3c-2da2-48d3-acaa-21ebe56bde7d
   name: Keani Rawlins-Fernandez
   other_names: []
   phones:
@@ -111,10 +119,10 @@
   urls:
   - https://www.mauicounty.gov/m/directory/employee?eid=402
   image: https://www.mauicounty.gov/ImageRepository/Document?documentID=162945
-  cdn_image: https://cdn.civicpatch.org/open-data/hi/local/county_maui/images/5c53d396c22a.png
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/hi/local/county_maui/images/c412defa35cc.png
   source_urls:
-  - https://www.mauicounty.gov/m/directory/department?did=377
-  updated_at: '2026-09-12T01:26:23+00:00'
+  - https://www.mauicounty.gov/directory.aspx
+  updated_at: '2026-10-16T18:53:12+00:00'
   roles:
   - name: Council Member
     role_id: council-member
@@ -122,7 +130,7 @@
     division_ocdid: ocd-division/country:us/state:hi/county:maui
     start_date: null
     end_date: null
-- id: 57a0c6db-d07b-4312-be05-b9b0d1d86b81
+- id: fb014dda-9341-4ab5-84ed-3206ae4ae764
   name: Nohe U`u-Hodgins
   other_names: []
   phones:
@@ -132,10 +140,10 @@
   urls:
   - https://www.mauicounty.gov/m/directory/employee?eid=362
   image: https://www.mauicounty.gov/ImageRepository/Document?documentID=162950
-  cdn_image: https://cdn.civicpatch.org/open-data/hi/local/county_maui/images/3b1496b4cd8a.png
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/hi/local/county_maui/images/18d089ac2cc6.png
   source_urls:
-  - https://www.mauicounty.gov/m/directory/department?did=377
-  updated_at: '2026-09-12T01:26:23+00:00'
+  - https://www.mauicounty.gov/directory.aspx
+  updated_at: '2026-10-16T18:53:12+00:00'
   roles:
   - name: Council Member
     role_id: council-member
@@ -143,7 +151,7 @@
     division_ocdid: ocd-division/country:us/state:hi/county:maui
     start_date: null
     end_date: null
-- id: 35811b21-c381-4782-b2be-2a5319eba236
+- id: 7bb4857b-639a-43d6-b4fa-060a836d806c
   name: Shane Sinenci
   other_names: []
   phones:
@@ -153,10 +161,10 @@
   urls:
   - https://www.mauicounty.gov/m/directory/employee?eid=364
   image: https://www.mauicounty.gov/ImageRepository/Document?documentID=162944
-  cdn_image: https://cdn.civicpatch.org/open-data/hi/local/county_maui/images/bb5e76b7d8fc.png
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/hi/local/county_maui/images/48fe1e644207.png
   source_urls:
-  - https://www.mauicounty.gov/m/directory/department?did=377
-  updated_at: '2026-09-12T01:26:23+00:00'
+  - https://www.mauicounty.gov/directory.aspx
+  updated_at: '2026-10-16T18:53:12+00:00'
   roles:
   - name: Council Member
     role_id: council-member
@@ -164,7 +172,7 @@
     division_ocdid: ocd-division/country:us/state:hi/county:maui
     start_date: null
     end_date: null
-- id: c2b18d8d-850f-4e70-b019-bbc2bfbb363b
+- id: 86334cb6-0af2-419c-9917-415567fdf6d7
   name: Tamara Paltin
   other_names: []
   phones:
@@ -174,10 +182,10 @@
   urls:
   - https://www.mauicounty.gov/m/directory/employee?eid=707
   image: https://www.mauicounty.gov/ImageRepository/Document?documentID=162946
-  cdn_image: https://cdn.civicpatch.org/open-data/hi/local/county_maui/images/8b1f6e44aaa3.png
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/hi/local/county_maui/images/15d1581d96b3.png
   source_urls:
-  - https://www.mauicounty.gov/m/directory/department?did=377
-  updated_at: '2026-09-12T01:26:23+00:00'
+  - https://www.mauicounty.gov/directory.aspx
+  updated_at: '2026-10-16T18:53:12+00:00'
   roles:
   - name: Council Member
     role_id: council-member
@@ -185,7 +193,7 @@
     division_ocdid: ocd-division/country:us/state:hi/county:maui
     start_date: null
     end_date: null
-- id: f6577b60-bdec-41e4-9d2c-b5e8ab527f12
+- id: feef094f-a880-44f7-91c8-6f8a3f1b1891
   name: Tom Cook
   other_names: []
   phones:
@@ -195,10 +203,10 @@
   urls:
   - https://www.mauicounty.gov/m/directory/employee?eid=705
   image: https://www.mauicounty.gov/ImageRepository/Document?documentID=162948
-  cdn_image: https://cdn.civicpatch.org/open-data/hi/local/county_maui/images/f4f5f81ad349.png
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/hi/local/county_maui/images/ada74b762a47.png
   source_urls:
-  - https://www.mauicounty.gov/m/directory/department?did=377
-  updated_at: '2026-09-12T01:26:23+00:00'
+  - https://www.mauicounty.gov/directory.aspx
+  updated_at: '2026-10-16T18:53:12+00:00'
   roles:
   - name: Council Member
     role_id: council-member
