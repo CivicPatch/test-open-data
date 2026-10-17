@@ -1,0 +1,60 @@
+- id: 5b75c132-a413-4abe-ae3a-921df4d11e4a
+  name: William T. Dobbins
+  other_names: []
+  phones:
+  - (207) 493-3318
+  emails: []
+  urls:
+  - https://aroostook.me.us/appointed-elected/commissioners/
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://aroostook.me.us/appointed-elected/commissioners/
+  updated_at: '2026-10-17T02:21:33+00:00'
+  roles:
+  - name: Commissioner, District 1
+    role_id: commissioner
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:me/county:aroostook/government
+    division_ocdid: ocd-division/country:us/state:me/county:aroostook/council_district:1
+    start_date: 2023-01
+    end_date: '2026-12-31'
+- id: 83aeaa87-63a5-42c7-b2d4-b008a56a03d4
+  name: Paul J. Underwood
+  other_names: []
+  phones:
+  - (207) 493-3318
+  emails: []
+  urls:
+  - https://aroostook.me.us/appointed-elected/commissioners/
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://aroostook.me.us/appointed-elected/commissioners/
+  updated_at: '2026-10-17T02:21:33+00:00'
+  roles:
+  - name: Commissioner, District 2
+    role_id: commissioner
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:me/county:aroostook/government
+    division_ocdid: ocd-division/country:us/state:me/county:aroostook/council_district:2
+    start_date: 2001-01
+    end_date: '2028-12-31'
+- id: 0cd685c6-6fcb-4fd1-bc1a-ca94c3490b16
+  name: Daniel V. Deveau
+  other_names: []
+  phones:
+  - (207) 493-3318
+  emails: []
+  urls:
+  - https://aroostook.me.us/appointed-elected/commissioners/
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://aroostook.me.us/appointed-elected/commissioners/
+  updated_at: '2026-10-17T02:21:33+00:00'
+  roles:
+  - name: Commissioner, District 3
+    role_id: commissioner
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:me/county:aroostook/government
+    division_ocdid: ocd-division/country:us/state:me/county:aroostook/council_district:3
+    start_date: 2025-01
+    end_date: '2028-12-31'
