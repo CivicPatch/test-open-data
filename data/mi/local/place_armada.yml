@@ -1,50 +1,26 @@
-- id: c063046e-5abe-4353-b6ed-fbe481748ed4
-  name: David Coenen
+- id: 15cb926f-e555-4f6d-b72a-c9592cb0151e
+  name: Amy Barzyk
   other_names: []
-  phones:
-  - (586) 784-9151
-  emails:
-  - president@villageofarmada.org
+  phones: []
+  emails: []
   urls:
   - https://www.villageofarmada.org/departments/village_council/members.php
   image: null
   cdn_image: null
   source_urls:
   - https://www.villageofarmada.org/departments/village_council/members.php
-  updated_at: '2026-04-22T01:10:55+00:00'
+  updated_at: '2026-10-19T19:35:21+00:00'
   roles:
-  - name: Council President
-    role_id: council-president
+  - name: Commissioner
+    role_id: member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:mi/place:armada/government
     division_ocdid: ocd-division/country:us/state:mi/place:armada
     start_date: null
     end_date: '2026'
-- id: 1a9245ea-0a28-4fca-97d9-808816ec1793
-  name: Stephen Clark
-  other_names: []
-  phones:
-  - (586) 784-9151
-  emails:
-  - sewercommissioner@villageofarmada.org
-  urls:
-  - https://www.villageofarmada.org/departments/village_council/members.php
-  image: null
-  cdn_image: null
-  source_urls:
-  - https://www.villageofarmada.org/departments/village_council/members.php
-  updated_at: '2026-04-22T01:10:55+00:00'
-  roles:
-  - name: President Pro Tempore
-    role_id: president-pro-tempore
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:mi/place:armada/government
-    division_ocdid: ocd-division/country:us/state:mi/place:armada
-    start_date: null
-    end_date: '2028'
-- id: 7ea3a089-a088-4e3d-980a-1e5cea63069e
+- id: 8e67d40a-861e-4604-9add-9c20cecd5bb8
   name: Jo Adair
   other_names: []
-  phones:
-  - (586) 784-9151
+  phones: []
   emails:
   - streetadministrator@villageofarmada.org
   urls:
@@ -53,19 +29,18 @@
   cdn_image: null
   source_urls:
   - https://www.villageofarmada.org/departments/village_council/members.php
-  updated_at: '2026-04-22T01:10:55+00:00'
+  updated_at: '2026-10-19T19:35:21+00:00'
   roles:
   - name: Commissioner
-    role_id: commissioner
+    role_id: member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:mi/place:armada/government
     division_ocdid: ocd-division/country:us/state:mi/place:armada
     start_date: null
     end_date: '2026'
-- id: 8d05a0cd-cd31-48d4-8147-d5a928c3b8db
+- id: 46e87804-440f-4fe6-bc5e-a4b4d712d4f6
   name: Michael Shall
   other_names: []
-  phones:
-  - (586) 784-9151
+  phones: []
   emails:
   - parkcommissioner@villageofarmada.org
   urls:
@@ -74,19 +49,18 @@
   cdn_image: null
   source_urls:
   - https://www.villageofarmada.org/departments/village_council/members.php
-  updated_at: '2026-04-22T01:10:55+00:00'
+  updated_at: '2026-10-19T19:35:21+00:00'
   roles:
   - name: Commissioner
-    role_id: commissioner
+    role_id: member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:mi/place:armada/government
     division_ocdid: ocd-division/country:us/state:mi/place:armada
     start_date: null
     end_date: '2028'
-- id: 4f4f06db-a630-4fa2-ad61-4ad806624bf6
+- id: f3157d11-551c-4286-9340-efe0a4fd2864
   name: Michael Stirrett
   other_names: []
-  phones:
-  - (586) 784-9151
+  phones: []
   emails: []
   urls:
   - https://www.villageofarmada.org/departments/village_council/members.php
@@ -94,19 +68,18 @@
   cdn_image: null
   source_urls:
   - https://www.villageofarmada.org/departments/village_council/members.php
-  updated_at: '2026-04-22T01:10:55+00:00'
+  updated_at: '2026-10-19T19:35:21+00:00'
   roles:
   - name: Commissioner
-    role_id: commissioner
+    role_id: member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:mi/place:armada/government
     division_ocdid: ocd-division/country:us/state:mi/place:armada
     start_date: null
     end_date: '2028'
-- id: ceb43a40-94fe-44e7-a2ef-ea380eb2647d
+- id: e2cc47a2-3562-43ca-bcee-e1f63627b784
   name: Ross Boelke
   other_names: []
-  phones:
-  - (586) 784-9151
+  phones: []
   emails:
   - watercommissioner@villageofarmada.org
   urls:
@@ -115,55 +88,55 @@
   cdn_image: null
   source_urls:
   - https://www.villageofarmada.org/departments/village_council/members.php
-  updated_at: '2026-04-22T01:10:55+00:00'
+  updated_at: '2026-10-19T19:35:21+00:00'
   roles:
   - name: Commissioner
-    role_id: commissioner
+    role_id: member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:mi/place:armada/government
     division_ocdid: ocd-division/country:us/state:mi/place:armada
     start_date: null
     end_date: '2026'
-- id: 614b90b6-7320-4abd-af3c-74e4ae05807e
-  name: Amy Barzyk
+- id: 9a00fe7e-6874-4398-86f6-eefc3621c0a3
+  name: Stephen Clark
   other_names: []
-  phones:
-  - (586) 784-9151
-  emails: []
+  phones: []
+  emails:
+  - sewercommissioner@villageofarmada.org
   urls:
   - https://www.villageofarmada.org/departments/village_council/members.php
   image: null
   cdn_image: null
   source_urls:
   - https://www.villageofarmada.org/departments/village_council/members.php
-  updated_at: '2026-04-22T01:10:55+00:00'
+  updated_at: '2026-10-19T19:35:21+00:00'
   roles:
-  - name: Trustee
-    role_id: trustee
+  - name: President Pro Tempore
+    role_id: president-pro-tempore
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:mi/place:armada/government
     division_ocdid: ocd-division/country:us/state:mi/place:armada
     start_date: null
-    end_date: '2026'
-- id: 93d976f2-d5df-4687-ab18-df74bf757174
-  name: Anne Porter
+    end_date: '2028'
+- id: c696c56c-97e9-47a6-b9c8-d606d2276b9d
+  name: David Coenen
   other_names: []
-  phones:
-  - (586) 784-9151
-  emails: []
+  phones: []
+  emails:
+  - president@villageofarmada.org
   urls:
   - https://www.villageofarmada.org/departments/village_council/members.php
   image: null
   cdn_image: null
   source_urls:
   - https://www.villageofarmada.org/departments/village_council/members.php
-  updated_at: '2026-04-22T01:10:55+00:00'
+  updated_at: '2026-10-19T19:35:21+00:00'
   roles:
-  - name: Trustee
-    role_id: trustee
+  - name: Village President
+    role_id: president
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:mi/place:armada/government
     division_ocdid: ocd-division/country:us/state:mi/place:armada
     start_date: null
-    end_date: null
-- id: d9937dee-ccba-4ba8-98de-17b967f046a7
+    end_date: '2026'
+- id: ca91a68f-b57c-4b84-bcae-fef70782ee77
   name: Michelle Poulos
   other_names: []
   phones:
@@ -171,16 +144,41 @@
   emails:
   - clerk@villageofarmada.org
   urls:
+  - https://www.villageofarmada.org/departments/village_clerk/index.php
   - https://www.villageofarmada.org/departments/village_council/members.php
   image: null
   cdn_image: null
   source_urls:
+  - https://www.villageofarmada.org/departments/village_clerk/index.php
   - https://www.villageofarmada.org/departments/village_council/members.php
-  updated_at: '2026-04-22T01:10:55+00:00'
+  updated_at: '2026-10-19T19:35:21+00:00'
   roles:
   - name: Clerk
     role_id: clerk
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:mi/place:armada/government
     division_ocdid: ocd-division/country:us/state:mi/place:armada
     start_date: null
+    end_date: '2026'
+- id: 8a6e67e7-c371-4f1b-8f2f-144e5f810c63
+  name: Anne Porter
+  other_names: []
+  phones:
+  - (586) 784-9151
+  emails:
+  - treasurer@villageofarmada.org
+  urls:
+  - https://www.villageofarmada.org/departments/village_council/members.php
+  - https://www.villageofarmada.org/departments/village_treasurer/index.php
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.villageofarmada.org/departments/village_council/members.php
+  - https://www.villageofarmada.org/departments/village_treasurer/index.php
+  updated_at: '2026-10-19T19:35:21+00:00'
+  roles:
+  - name: Treasurer
+    role_id: treasurer
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:mi/place:armada/government
+    division_ocdid: ocd-division/country:us/state:mi/place:armada
+    start_date: '2024'
     end_date: '2026'
