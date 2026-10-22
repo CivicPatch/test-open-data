@@ -1,17 +1,15 @@
 - id: 78201451-7c27-4d33-ba05-2b5de14bdc1e
   name: Frank Tenney
   other_names: []
-  phones:
-  - (802) 425-3071
+  phones: []
   emails:
   - ftenney@townofcharlotte.com
-  urls:
-  - https://charlottevt.org/selectboard
+  urls: []
   image: null
   cdn_image: null
   source_urls:
   - http://charlottevt.org/selectboard
-  updated_at: '2026-10-22T22:28:05+00:00'
+  updated_at: '2026-10-22T23:53:38+00:00'
   roles:
   - name: Select Board Member
     role_id: member
@@ -22,17 +20,15 @@
 - id: d8e52946-54c8-4a9c-ac3f-e8b9c9d20d4a
   name: JD Herlihy
   other_names: []
-  phones:
-  - (802) 425-3071
+  phones: []
   emails:
   - jherlihy@townofcharlotte.com
-  urls:
-  - https://charlottevt.org/selectboard
+  urls: []
   image: null
   cdn_image: null
   source_urls:
   - http://charlottevt.org/selectboard
-  updated_at: '2026-10-22T22:28:05+00:00'
+  updated_at: '2026-10-22T23:53:38+00:00'
   roles:
   - name: Select Board Member
     role_id: member
@@ -43,17 +39,15 @@
 - id: b26c8e3b-ed9c-4153-9010-45e70dac2664
   name: Lee Krohn
   other_names: []
-  phones:
-  - (802) 425-3071
+  phones: []
   emails:
   - lkrohn@townofcharlotte.com
-  urls:
-  - https://charlottevt.org/selectboard
+  urls: []
   image: null
   cdn_image: null
   source_urls:
   - http://charlottevt.org/selectboard
-  updated_at: '2026-10-22T22:28:05+00:00'
+  updated_at: '2026-10-22T23:53:38+00:00'
   roles:
   - name: Select Board Member
     role_id: member
@@ -64,17 +58,15 @@
 - id: c141fdd5-eece-4ef3-8be7-007e9292b0c7
   name: Natalie Kanner
   other_names: []
-  phones:
-  - (802) 425-3071
+  phones: []
   emails:
   - nkanner@townofcharlotte.com
-  urls:
-  - https://charlottevt.org/selectboard
+  urls: []
   image: null
   cdn_image: null
   source_urls:
   - http://charlottevt.org/selectboard
-  updated_at: '2026-10-22T22:28:05+00:00'
+  updated_at: '2026-10-22T23:53:38+00:00'
   roles:
   - name: Select Board Member
     role_id: member
@@ -85,17 +77,15 @@
 - id: 786e253a-9340-489a-bdbb-e89ec002f33c
   name: Troy Krahl
   other_names: []
-  phones:
-  - (802) 425-3071
+  phones: []
   emails:
   - tkrahl@townofcharlotte.com
-  urls:
-  - https://charlottevt.org/selectboard
+  urls: []
   image: null
   cdn_image: null
   source_urls:
   - http://charlottevt.org/selectboard
-  updated_at: '2026-10-22T22:28:05+00:00'
+  updated_at: '2026-10-22T23:53:38+00:00'
   roles:
   - name: Select Board Member
     role_id: member
