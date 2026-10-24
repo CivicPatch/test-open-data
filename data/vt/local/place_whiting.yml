@@ -1,1 +1,77 @@
-[]
+- id: 8bb03b0c-5863-4888-b9c7-23723010cd88
+  name: Marcia King
+  other_names: []
+  phones: []
+  emails:
+  - selectboard@whitingvt.com
+  urls: []
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.whitingvt.com/select-board
+  updated_at: '2026-10-24T23:53:19+00:00'
+  roles:
+  - name: Select Board Member
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:whiting/government
+    division_ocdid: ocd-division/country:us/state:vt/place:whiting
+    start_date: null
+    end_date: null
+- id: d3c6dfab-6cd0-48fc-aea3-4fe2b999178e
+  name: Robert Wood
+  other_names: []
+  phones: []
+  emails:
+  - selectboard@whitingvt.com
+  urls: []
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.whitingvt.com/select-board
+  updated_at: '2026-10-24T23:53:19+00:00'
+  roles:
+  - name: Select Board Member
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:whiting/government
+    division_ocdid: ocd-division/country:us/state:vt/place:whiting
+    start_date: null
+    end_date: null
+- id: 49e0167e-085e-44a9-ba65-89bfd693ef60
+  name: Steve Quenneville
+  other_names: []
+  phones: []
+  emails:
+  - selectboard@whitingvt.com
+  urls: []
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.whitingvt.com/select-board
+  updated_at: '2026-10-24T23:53:19+00:00'
+  roles:
+  - name: Select Board Member
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:whiting/government
+    division_ocdid: ocd-division/country:us/state:vt/place:whiting
+    start_date: null
+    end_date: null
+- id: 430a614b-e519-41fa-baae-4909f048c844
+  name: Heather Bouchard
+  other_names: []
+  phones:
+  - (802) 623-7813
+  emails:
+  - townofwhiting@shoreham.net
+  urls: []
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.whitingvt.com/town-clerk-and-treasurer
+  updated_at: '2026-10-24T23:53:19+00:00'
+  roles:
+  - name: Clerk
+    role_id: clerk
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:whiting/government
+    division_ocdid: ocd-division/country:us/state:vt/place:whiting
+    start_date: null
+    end_date: null
