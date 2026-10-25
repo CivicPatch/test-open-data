@@ -1,1 +1,376 @@
-[]
+- id: 03e8e8b6-d1b4-461a-9f79-e91de3d6b1e4
+  name: Andy Watts
+  other_names: []
+  phones:
+  - (802) 872-8927
+  - (802) 878-1341
+  emails:
+  - awatts@essex.org
+  urls:
+  - https://www.essexvt.gov/354/SELECTBOARD
+  - https://www.essexvt.gov/m/directory/employee?eid=87
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.essexvt.gov/354/SELECTBOARD
+  - https://www.essexvt.gov/m/directory
+  updated_at: '2026-10-25T02:13:56+00:00'
+  roles:
+  - name: Member
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:essex/government
+    division_ocdid: ocd-division/country:us/state:vt/place:essex
+    start_date: null
+    end_date: '2029'
+  - name: Select Board Member
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:essex/government
+    division_ocdid: ocd-division/country:us/state:vt/place:essex
+    start_date: null
+    end_date: '2029'
+- id: 068ae939-f167-4a2d-b31e-1140f3d28026
+  name: Ethan Lawrence
+  other_names: []
+  phones:
+  - (802) 370-9288
+  - (802) 878-1341
+  emails:
+  - elawrence@essex.org
+  urls:
+  - https://www.essexvt.gov/354/SELECTBOARD
+  - https://www.essexvt.gov/m/directory/employee?eid=250
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.essexvt.gov/354/SELECTBOARD
+  - https://www.essexvt.gov/m/directory
+  updated_at: '2026-10-25T02:13:56+00:00'
+  roles:
+  - name: Member
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:essex/government
+    division_ocdid: ocd-division/country:us/state:vt/place:essex
+    start_date: null
+    end_date: '2027'
+  - name: Select Board Member
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:essex/government
+    division_ocdid: ocd-division/country:us/state:vt/place:essex
+    start_date: null
+    end_date: '2027'
+- id: 354b1037-f2b4-4fee-843c-a5b3af638a25
+  name: Kendall Chamberlin
+  other_names: []
+  phones:
+  - (802) 878-1341
+  - (802) 899-6830
+  emails:
+  - kchamberlin@essex.org
+  urls:
+  - https://www.essexvt.gov/354/SELECTBOARD
+  - https://www.essexvt.gov/m/directory/employee?eid=229
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.essexvt.gov/354/SELECTBOARD
+  - https://www.essexvt.gov/m/directory
+  updated_at: '2026-10-25T02:13:56+00:00'
+  roles:
+  - name: Member
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:essex/government
+    division_ocdid: ocd-division/country:us/state:vt/place:essex
+    start_date: null
+    end_date: '2028'
+  - name: Select Board Member
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:essex/government
+    division_ocdid: ocd-division/country:us/state:vt/place:essex
+    start_date: null
+    end_date: '2028'
+- id: 7578fb99-b0a6-4c7b-ba8f-f8356877bee3
+  name: Meg Zimmerman
+  other_names: []
+  phones:
+  - (802) 598-3168
+  - (802) 878-1341
+  emails:
+  - mzimmerman@essex.org
+  urls:
+  - https://www.essexvt.gov/354/SELECTBOARD
+  - https://www.essexvt.gov/m/directory/employee?eid=244
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.essexvt.gov/354/SELECTBOARD
+  - https://www.essexvt.gov/m/directory
+  updated_at: '2026-10-25T02:13:56+00:00'
+  roles:
+  - name: Member
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:essex/government
+    division_ocdid: ocd-division/country:us/state:vt/place:essex
+    start_date: null
+    end_date: '2029'
+  - name: Select Board Member
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:essex/government
+    division_ocdid: ocd-division/country:us/state:vt/place:essex
+    start_date: null
+    end_date: '2029'
+- id: d7efe3cf-7c28-4028-babd-d4670cfb01be
+  name: Shannon Jackson
+  other_names: []
+  phones:
+  - (802) 598-0758
+  - (802) 878-1341
+  emails:
+  - sjackson@essex.org
+  urls:
+  - https://www.essexvt.gov/354/SELECTBOARD
+  - https://www.essexvt.gov/m/directory/employee?eid=286
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.essexvt.gov/354/SELECTBOARD
+  - https://www.essexvt.gov/m/directory
+  updated_at: '2026-10-25T02:13:56+00:00'
+  roles:
+  - name: Member
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:essex/government
+    division_ocdid: ocd-division/country:us/state:vt/place:essex
+    start_date: null
+    end_date: '2028'
+  - name: Select Board Member
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:essex/government
+    division_ocdid: ocd-division/country:us/state:vt/place:essex
+    start_date: null
+    end_date: '2028'
+- id: 93211365-ac3b-4569-a618-046f624af232
+  name: Janet Watts
+  other_names: []
+  phones: []
+  emails: []
+  urls:
+  - https://www.essexvt.gov/473/Essex-Free-Library-Board-of-Trustees
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.essexvt.gov/473/Essex-Free-Library-Board-of-Trustees
+  updated_at: '2026-10-25T02:13:56+00:00'
+  roles:
+  - name: Library Trustee
+    role_id: library-trustee
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:essex/government
+    division_ocdid: ocd-division/country:us/state:vt/place:essex
+    start_date: null
+    end_date: null
+- id: 7de8b2c8-a1b3-4690-9981-113c3facf0c0
+  name: Tatsiana Bussiere
+  other_names: []
+  phones:
+  - (802) 879-0413
+  emails:
+  - tbussiere@essex.org
+  urls:
+  - https://www.essexvt.gov/m/directory/employee?eid=289
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.essexvt.gov/m/directory
+  updated_at: '2026-10-25T02:13:56+00:00'
+  roles:
+  - name: Town Clerk
+    role_id: clerk
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:essex/government
+    division_ocdid: ocd-division/country:us/state:vt/place:essex
+    start_date: null
+    end_date: null
+- id: 94446f73-81e5-40e4-9088-054e3b2db465
+  name: Pamela Blake
+  other_names: []
+  phones: []
+  emails: []
+  urls:
+  - https://www.essexvt.gov/473/Essex-Free-Library-Board-of-Trustees
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.essexvt.gov/473/Essex-Free-Library-Board-of-Trustees
+  updated_at: '2026-10-25T02:13:56+00:00'
+  roles:
+  - name: Library Trustee
+    role_id: library-trustee
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:essex/government
+    division_ocdid: ocd-division/country:us/state:vt/place:essex
+    start_date: null
+    end_date: null
+- id: f9e8d342-9ab9-4569-8af5-7b6e1096c07b
+  name: Caroline Ashley
+  other_names: []
+  phones: []
+  emails: []
+  urls: []
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.essexvt.gov/439/Cemetery-Commission
+  updated_at: '2026-10-25T02:13:56+00:00'
+  roles:
+  - name: Cemetery Commissioner
+    role_id: cemetery-commissioner
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:essex/government
+    division_ocdid: ocd-division/country:us/state:vt/place:essex
+    start_date: null
+    end_date: null
+- id: 3ef25988-adc7-466a-9190-94e93ac589d9
+  name: Elizabeth King
+  other_names: []
+  phones: []
+  emails: []
+  urls: []
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.essexvt.gov/439/Cemetery-Commission
+  updated_at: '2026-10-25T02:13:56+00:00'
+  roles:
+  - name: Cemetery Commissioner
+    role_id: cemetery-commissioner
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:essex/government
+    division_ocdid: ocd-division/country:us/state:vt/place:essex
+    start_date: null
+    end_date: null
+- id: ca19dff2-3f5c-4c6b-8e8c-491250393dbd
+  name: Joseph Teegarden
+  other_names: []
+  phones: []
+  emails: []
+  urls: []
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.essexvt.gov/439/Cemetery-Commission
+  updated_at: '2026-10-25T02:13:56+00:00'
+  roles:
+  - name: Cemetery Commissioner
+    role_id: cemetery-commissioner
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:essex/government
+    division_ocdid: ocd-division/country:us/state:vt/place:essex
+    start_date: null
+    end_date: null
+- id: ef9aafee-9cd1-46f1-b988-23494d1e7ddb
+  name: Susan Brown
+  other_names: []
+  phones: []
+  emails: []
+  urls: []
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.essexvt.gov/439/Cemetery-Commission
+  updated_at: '2026-10-25T02:13:56+00:00'
+  roles:
+  - name: Cemetery Commissioner
+    role_id: cemetery-commissioner
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:essex/government
+    division_ocdid: ocd-division/country:us/state:vt/place:essex
+    start_date: null
+    end_date: null
+- id: 5cd7ae51-0916-4fa9-93eb-ed91428d2e05
+  name: Allan Ramsay
+  other_names: []
+  phones: []
+  emails: []
+  urls:
+  - https://www.essexvt.gov/473/Essex-Free-Library-Board-of-Trustees
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.essexvt.gov/473/Essex-Free-Library-Board-of-Trustees
+  updated_at: '2026-10-25T02:13:56+00:00'
+  roles:
+  - name: Library Trustee
+    role_id: library-trustee
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:essex/government
+    division_ocdid: ocd-division/country:us/state:vt/place:essex
+    start_date: null
+    end_date: null
+- id: 893c6f62-79d8-4a5f-b57f-32956a1f2439
+  name: Ellen Knowles
+  other_names: []
+  phones: []
+  emails: []
+  urls:
+  - https://www.essexvt.gov/473/Essex-Free-Library-Board-of-Trustees
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.essexvt.gov/473/Essex-Free-Library-Board-of-Trustees
+  updated_at: '2026-10-25T02:13:56+00:00'
+  roles:
+  - name: Library Trustee
+    role_id: library-trustee
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:essex/government
+    division_ocdid: ocd-division/country:us/state:vt/place:essex
+    start_date: null
+    end_date: null
+- id: 016b2a08-f497-425b-958c-14df22de90a0
+  name: Emily Gibbs
+  other_names: []
+  phones: []
+  emails: []
+  urls:
+  - https://www.essexvt.gov/473/Essex-Free-Library-Board-of-Trustees
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.essexvt.gov/473/Essex-Free-Library-Board-of-Trustees
+  updated_at: '2026-10-25T02:13:56+00:00'
+  roles:
+  - name: Library Trustee
+    role_id: library-trustee
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:essex/government
+    division_ocdid: ocd-division/country:us/state:vt/place:essex
+    start_date: null
+    end_date: null
+- id: 4d4985a4-8f93-4a12-af71-948ea75810f0
+  name: Mallori Longevin
+  other_names: []
+  phones: []
+  emails: []
+  urls:
+  - https://www.essexvt.gov/473/Essex-Free-Library-Board-of-Trustees
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.essexvt.gov/473/Essex-Free-Library-Board-of-Trustees
+  updated_at: '2026-10-25T02:13:56+00:00'
+  roles:
+  - name: Library Trustee
+    role_id: library-trustee
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:essex/government
+    division_ocdid: ocd-division/country:us/state:vt/place:essex
+    start_date: null
+    end_date: null
+- id: 7498eb4a-3a8e-4e19-a7f0-4a0b0aed1e73
+  name: Marie Froeschl
+  other_names: []
+  phones: []
+  emails: []
+  urls:
+  - https://www.essexvt.gov/473/Essex-Free-Library-Board-of-Trustees
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.essexvt.gov/473/Essex-Free-Library-Board-of-Trustees
+  updated_at: '2026-10-25T02:13:56+00:00'
+  roles:
+  - name: Library Trustee
+    role_id: library-trustee
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:essex/government
+    division_ocdid: ocd-division/country:us/state:vt/place:essex
+    start_date: null
+    end_date: null
