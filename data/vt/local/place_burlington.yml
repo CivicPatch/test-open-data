@@ -4,12 +4,13 @@
   phones:
   - (802) 865-7272
   emails: []
-  urls: []
+  urls:
+  - https://www.burlingtonvt.gov/476/Mayor-Emma-Mulvaney-Stanak
   image: https://www.burlingtonvt.gov/ImageRepository/Document?documentID=11999
   cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/vt/local/place_burlington/images/bb48ae910586.png
   source_urls:
   - https://www.burlingtonvt.gov/476/Mayor-Emma-Mulvaney-Stanak
-  updated_at: '2026-10-25T01:35:31+00:00'
+  updated_at: '2026-10-25T07:16:11+00:00'
   roles:
   - name: Mayor
     role_id: mayor
@@ -23,12 +24,13 @@
   phones: []
   emails:
   - cneubieser@burlingtonvt.gov
-  urls: []
+  urls:
+  - https://www.burlingtonvt.gov/413/City-Council
   image: null
   cdn_image: null
   source_urls:
   - https://www.burlingtonvt.gov/413/City-Council
-  updated_at: '2026-10-25T00:49:55+00:00'
+  updated_at: '2026-10-25T07:16:11+00:00'
   roles:
   - name: Council Member, Ward 1
     role_id: member
@@ -43,12 +45,13 @@
   - (802) 598-3602
   emails:
   - gbergman@burlingtonvt.gov
-  urls: []
+  urls:
+  - https://www.burlingtonvt.gov/413/City-Council
   image: null
   cdn_image: null
   source_urls:
   - https://www.burlingtonvt.gov/413/City-Council
-  updated_at: '2026-10-25T00:49:55+00:00'
+  updated_at: '2026-10-25T07:16:11+00:00'
   roles:
   - name: Council Member, Ward 2
     role_id: member
@@ -62,12 +65,13 @@
   phones: []
   emails:
   - lsanchezparkinson@burlingtonvt.gov
-  urls: []
+  urls:
+  - https://www.burlingtonvt.gov/413/City-Council
   image: null
   cdn_image: null
   source_urls:
   - https://www.burlingtonvt.gov/413/City-Council
-  updated_at: '2026-10-25T00:49:55+00:00'
+  updated_at: '2026-10-25T07:16:11+00:00'
   roles:
   - name: Council Member, Ward 3
     role_id: member
@@ -82,12 +86,13 @@
   - (802) 658-0474
   emails:
   - scarpenter@burlingtonvt.gov
-  urls: []
+  urls:
+  - https://www.burlingtonvt.gov/413/City-Council
   image: null
   cdn_image: null
   source_urls:
   - https://www.burlingtonvt.gov/413/City-Council
-  updated_at: '2026-10-25T00:49:55+00:00'
+  updated_at: '2026-10-25T07:16:11+00:00'
   roles:
   - name: Council Member, Ward 4
     role_id: member
@@ -102,12 +107,13 @@
   - (802) 357-2055
   emails:
   - btraverse@burlingtonvt.gov
-  urls: []
+  urls:
+  - https://www.burlingtonvt.gov/413/City-Council
   image: null
   cdn_image: null
   source_urls:
   - https://www.burlingtonvt.gov/413/City-Council
-  updated_at: '2026-10-25T00:49:55+00:00'
+  updated_at: '2026-10-25T07:16:11+00:00'
   roles:
   - name: Council Member, Ward 5
     role_id: member
@@ -122,12 +128,13 @@
   - (802) 489-6439
   emails:
   - bbrownmcknight@burlingtonvt.gov
-  urls: []
+  urls:
+  - https://www.burlingtonvt.gov/413/City-Council
   image: null
   cdn_image: null
   source_urls:
   - https://www.burlingtonvt.gov/413/City-Council
-  updated_at: '2026-10-25T00:49:55+00:00'
+  updated_at: '2026-10-25T07:16:11+00:00'
   roles:
   - name: Council Member, Ward 6
     role_id: member
@@ -142,12 +149,13 @@
   - (802) 448-0802
   emails:
   - elitwin@burlingtonvt.gov
-  urls: []
+  urls:
+  - https://www.burlingtonvt.gov/413/City-Council
   image: null
   cdn_image: null
   source_urls:
   - https://www.burlingtonvt.gov/413/City-Council
-  updated_at: '2026-10-25T00:49:55+00:00'
+  updated_at: '2026-10-25T07:16:11+00:00'
   roles:
   - name: Council Member, Ward 7
     role_id: member
@@ -162,12 +170,13 @@
   - (802) 488-5134
   emails:
   - mbroderick@burlingtonvt.gov
-  urls: []
+  urls:
+  - https://www.burlingtonvt.gov/413/City-Council
   image: null
   cdn_image: null
   source_urls:
   - https://www.burlingtonvt.gov/413/City-Council
-  updated_at: '2026-10-25T00:49:55+00:00'
+  updated_at: '2026-10-25T07:16:11+00:00'
   roles:
   - name: Council Member, Ward 8
     role_id: member
@@ -182,12 +191,13 @@
   - (802) 448-4227
   emails:
   - aschachter@burlingtonvt.gov
-  urls: []
+  urls:
+  - https://www.burlingtonvt.gov/413/City-Council
   image: null
   cdn_image: null
   source_urls:
   - https://www.burlingtonvt.gov/413/City-Council
-  updated_at: '2026-10-25T00:49:55+00:00'
+  updated_at: '2026-10-25T07:16:11+00:00'
   roles:
   - name: Council Member
     role_id: member
@@ -202,12 +212,13 @@
   - (802) 549-4433
   emails:
   - mbarlow@burlingtonvt.gov
-  urls: []
+  urls:
+  - https://www.burlingtonvt.gov/413/City-Council
   image: null
   cdn_image: null
   source_urls:
   - https://www.burlingtonvt.gov/413/City-Council
-  updated_at: '2026-10-25T00:49:55+00:00'
+  updated_at: '2026-10-25T07:16:11+00:00'
   roles:
   - name: Council Member
     role_id: member
@@ -222,12 +233,13 @@
   - (802) 310-0962
   emails:
   - megrant@burlingtonvt.gov
-  urls: []
+  urls:
+  - https://www.burlingtonvt.gov/413/City-Council
   image: null
   cdn_image: null
   source_urls:
   - https://www.burlingtonvt.gov/413/City-Council
-  updated_at: '2026-10-25T00:49:55+00:00'
+  updated_at: '2026-10-25T07:16:11+00:00'
   roles:
   - name: Council Member
     role_id: member
@@ -242,12 +254,13 @@
   - (802) 238-5131
   emails:
   - bsingh@burlingtonvt.gov
-  urls: []
+  urls:
+  - https://www.burlingtonvt.gov/413/City-Council
   image: null
   cdn_image: null
   source_urls:
   - https://www.burlingtonvt.gov/413/City-Council
-  updated_at: '2026-10-25T00:49:55+00:00'
+  updated_at: '2026-10-25T07:16:11+00:00'
   roles:
   - name: Council Member
     role_id: member
