@@ -4,13 +4,12 @@
   phones:
   - (802) 865-7272
   emails: []
-  urls:
-  - https://www.burlingtonvt.gov/476/Mayor-Emma-Mulvaney-Stanak
+  urls: []
   image: https://www.burlingtonvt.gov/ImageRepository/Document?documentID=11999
   cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/vt/local/place_burlington/images/bb48ae910586.png
   source_urls:
   - https://www.burlingtonvt.gov/476/Mayor-Emma-Mulvaney-Stanak
-  updated_at: '2026-10-19T19:48:13+00:00'
+  updated_at: '2026-10-25T01:35:31+00:00'
   roles:
   - name: Mayor
     role_id: mayor
