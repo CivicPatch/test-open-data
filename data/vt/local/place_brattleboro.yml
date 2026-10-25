@@ -1,1 +1,309 @@
-[]
+- id: 95da0673-3270-4584-b6d6-5781886f0b40
+  name: Isaac Evans-Frantz
+  other_names: []
+  phones: []
+  emails:
+  - ievans-frantz@brattleboro.gov
+  urls:
+  - https://brattleboro.gov/selectboard
+  image: https://brattleboro.gov/uploads/files/Selectboard/Isaac.png
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/vt/local/place_brattleboro/images/ec3fa1b9fbb8.png
+  source_urls:
+  - https://brattleboro.gov/selectboard
+  updated_at: '2026-10-19T20:02:38+00:00'
+  roles:
+  - name: Select Board Member
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:brattleboro/government
+    division_ocdid: ocd-division/country:us/state:vt/place:brattleboro
+    start_date: '2026'
+    end_date: '2027'
+- id: 05f2ffbf-0401-4815-8631-e6d6497028a0
+  name: Peter Case
+  other_names: []
+  phones: []
+  emails:
+  - pcase@brattleboro.gov
+  urls:
+  - https://brattleboro.gov/selectboard
+  image: https://brattleboro.gov/uploads/files/Selectboard/Peter.png
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/vt/local/place_brattleboro/images/b2aabce4d488.png
+  source_urls:
+  - https://brattleboro.gov/selectboard
+  updated_at: '2026-10-19T20:02:38+00:00'
+  roles:
+  - name: Select Board Member
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:brattleboro/government
+    division_ocdid: ocd-division/country:us/state:vt/place:brattleboro
+    start_date: '2024'
+    end_date: '2027'
+- id: 3a4a59b4-fd7e-410b-b6d3-cf1f0c723f07
+  name: Deb Zak
+  other_names: []
+  phones: []
+  emails: []
+  urls:
+  - https://brattleboro.gov/trustees-of-public-funds
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://brattleboro.gov/trustees-of-public-funds
+  updated_at: '2026-10-25T01:44:23+00:00'
+  roles:
+  - name: Trustee of Public Funds
+    role_id: trustee-of-public-funds
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:brattleboro/government
+    division_ocdid: ocd-division/country:us/state:vt/place:brattleboro
+    start_date: null
+    end_date: 2027-03
+- id: f278e00d-ff3c-4f34-a6d0-b9e280568bd1
+  name: Oscar Heller
+  other_names: []
+  phones: []
+  emails:
+  - oheller@brattleboro.gov
+  urls:
+  - https://brattleboro.gov/selectboard
+  image: https://brattleboro.gov/uploads/files/Selectboard/Oscar.png
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/vt/local/place_brattleboro/images/e8da0a14651e.png
+  source_urls:
+  - https://brattleboro.gov/selectboard
+  updated_at: '2026-10-19T20:02:38+00:00'
+  roles:
+  - name: Select Board Member
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:brattleboro/government
+    division_ocdid: ocd-division/country:us/state:vt/place:brattleboro
+    start_date: '2025'
+    end_date: '2028'
+- id: d0072e35-96f5-4093-925e-f0c737031b89
+  name: Tom Franks
+  other_names: []
+  phones:
+  - (802) 251-8156
+  emails:
+  - assessors@brattleboro.gov
+  urls:
+  - https://brattleboro.gov/assessors-listers
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://brattleboro.gov/assessors-listers
+  updated_at: '2026-10-25T01:44:23+00:00'
+  roles:
+  - name: Lister
+    role_id: lister
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:brattleboro/government
+    division_ocdid: ocd-division/country:us/state:vt/place:brattleboro
+    start_date: '2026'
+    end_date: '2029'
+- id: 77226bb0-f0e3-4560-8278-2698eec54c94
+  name: Amanda Ellis-Thurber
+  other_names: []
+  phones: []
+  emails:
+  - aellis-thurber@brattleboro.gov
+  urls:
+  - https://brattleboro.gov/selectboard
+  image: https://brattleboro.gov/uploads/files/Selectboard/Amanda.png
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/vt/local/place_brattleboro/images/38f63804052d.png
+  source_urls:
+  - https://brattleboro.gov/selectboard
+  updated_at: '2026-10-19T20:02:38+00:00'
+  roles:
+  - name: Select Board Member
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:brattleboro/government
+    division_ocdid: ocd-division/country:us/state:vt/place:brattleboro
+    start_date: '2026'
+    end_date: '2029'
+- id: d0626350-40df-410d-9077-360a2e356444
+  name: Heidi Fischer
+  other_names: []
+  phones:
+  - (802) 251-8156
+  emails:
+  - assessors@brattleboro.gov
+  urls:
+  - https://brattleboro.gov/assessors-listers
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://brattleboro.gov/assessors-listers
+  updated_at: '2026-10-25T01:44:23+00:00'
+  roles:
+  - name: Lister
+    role_id: lister
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:brattleboro/government
+    division_ocdid: ocd-division/country:us/state:vt/place:brattleboro
+    start_date: '2025'
+    end_date: '2028'
+- id: 27da743a-dee0-416c-8bbb-ef93df1296c7
+  name: Pam Matweecha
+  other_names: []
+  phones: []
+  emails: []
+  urls:
+  - https://brattleboro.gov/trustees-of-public-funds
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://brattleboro.gov/trustees-of-public-funds
+  updated_at: '2026-10-25T01:44:23+00:00'
+  roles:
+  - name: Trustee of Public Funds
+    role_id: trustee-of-public-funds
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:brattleboro/government
+    division_ocdid: ocd-division/country:us/state:vt/place:brattleboro
+    start_date: null
+    end_date: 2028-03
+- id: 1ab7228c-ab06-4a10-9397-a75be25f1693
+  name: Katherine N. Dowd
+  other_names: []
+  phones:
+  - (802) 251-8156
+  emails:
+  - assessors@brattleboro.gov
+  urls:
+  - https://brattleboro.gov/assessors-listers
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://brattleboro.gov/assessors-listers
+  updated_at: '2026-10-25T01:44:23+00:00'
+  roles:
+  - name: Clerk
+    role_id: clerk
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:brattleboro/government
+    division_ocdid: ocd-division/country:us/state:vt/place:brattleboro
+    start_date: '2024'
+    end_date: '2027'
+- id: 3cf8b60e-f080-49d0-b848-11ac6e527a52
+  name: Nell Mayo
+  other_names: []
+  phones: []
+  emails:
+  - nmayo@brattleboro.gov
+  urls:
+  - https://brattleboro.gov/selectboard
+  image: https://brattleboro.gov/uploads/files/Selectboard/Nell.png
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/vt/local/place_brattleboro/images/f3ffde097e54.png
+  source_urls:
+  - https://brattleboro.gov/selectboard
+  updated_at: '2026-10-19T20:02:38+00:00'
+  roles:
+  - name: Clerk
+    role_id: clerk
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:brattleboro/government
+    division_ocdid: ocd-division/country:us/state:vt/place:brattleboro
+    start_date: '2026'
+    end_date: '2027'
+- id: b1f0ae8d-ecd2-4c57-8286-407ed2e2199b
+  name: Ernie Coughlin
+  other_names: []
+  phones: []
+  emails: []
+  urls: []
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://brattleboro.gov/finance-committee
+  updated_at: '2026-10-25T01:44:23+00:00'
+  roles:
+  - name: Advisory Budget Committee Member
+    role_id: budget-committee-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:brattleboro/government
+    division_ocdid: ocd-division/country:us/state:vt/place:brattleboro
+    start_date: null
+    end_date: 2027-03
+- id: 6ec5a4df-5399-46f7-a256-b006a6658404
+  name: John Lightfoot
+  other_names: []
+  phones: []
+  emails: []
+  urls: []
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://brattleboro.gov/finance-committee
+  updated_at: '2026-10-25T01:44:23+00:00'
+  roles:
+  - name: Advisory Budget Committee Member
+    role_id: budget-committee-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:brattleboro/government
+    division_ocdid: ocd-division/country:us/state:vt/place:brattleboro
+    start_date: null
+    end_date: 2027-03
+- id: d9a89257-8160-48cd-bf74-dc2034f4325d
+  name: Randy Blodgett
+  other_names: []
+  phones: []
+  emails: []
+  urls: []
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://brattleboro.gov/finance-committee
+  updated_at: '2026-10-25T01:44:23+00:00'
+  roles:
+  - name: Advisory Budget Committee Member
+    role_id: budget-committee-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:brattleboro/government
+    division_ocdid: ocd-division/country:us/state:vt/place:brattleboro
+    start_date: null
+    end_date: 2027-03
+- id: 4bd67fe3-fafd-4e92-b063-6a45cbd76ff1
+  name: Ruth Houle
+  other_names: []
+  phones: []
+  emails: []
+  urls: []
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://brattleboro.gov/finance-committee
+  updated_at: '2026-10-25T01:44:23+00:00'
+  roles:
+  - name: Advisory Budget Committee Member
+    role_id: budget-committee-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:brattleboro/government
+    division_ocdid: ocd-division/country:us/state:vt/place:brattleboro
+    start_date: null
+    end_date: 2027-03
+- id: 2499554e-3915-49e0-b3f9-5f1bb9306941
+  name: Susan Beville
+  other_names: []
+  phones: []
+  emails: []
+  urls: []
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://brattleboro.gov/finance-committee
+  updated_at: '2026-10-25T01:44:23+00:00'
+  roles:
+  - name: Advisory Budget Committee Member
+    role_id: budget-committee-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:brattleboro/government
+    division_ocdid: ocd-division/country:us/state:vt/place:brattleboro
+    start_date: null
+    end_date: 2027-03
+- id: d981cd1d-cb1e-4221-a069-1138b864d82b
+  name: Zsolt Pomazi
+  other_names: []
+  phones: []
+  emails: []
+  urls: []
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://brattleboro.gov/finance-committee
+  updated_at: '2026-10-25T01:44:23+00:00'
+  roles:
+  - name: Advisory Budget Committee Member
+    role_id: budget-committee-member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:brattleboro/government
+    division_ocdid: ocd-division/country:us/state:vt/place:brattleboro
+    start_date: null
+    end_date: 2027-03
