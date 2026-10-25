@@ -4,17 +4,15 @@
   phones:
   - (802) 723-4405
   emails:
-  - admin3@brightonvt.gov
   - selectboard2@brightonvt.gov
   urls:
   - https://brightonvt.org/town-departments/
-  - https://brightonvt.org/town-of-brighton-water-sewer/
   image: null
   cdn_image: null
   source_urls:
   - https://brightonvt.org/town-departments/
   - https://brightonvt.org/town-of-brighton-water-sewer/
-  updated_at: '2026-10-25T00:49:43+00:00'
+  updated_at: '2026-10-25T07:57:51+00:00'
   roles:
   - name: Member
     role_id: member
@@ -37,7 +35,8 @@
 - id: 1ac59d9e-60e0-4d8f-a5cd-f06e83b891f1
   name: Michael Testut
   other_names: []
-  phones: []
+  phones:
+  - (802) 723-4405
   emails:
   - selectboard3@brightonvt.gov
   urls:
@@ -46,7 +45,7 @@
   cdn_image: null
   source_urls:
   - https://brightonvt.org/town-departments/
-  updated_at: '2026-10-25T00:49:43+00:00'
+  updated_at: '2026-10-25T07:57:51+00:00'
   roles:
   - name: Member
     role_id: member
@@ -63,7 +62,8 @@
 - id: 39685e6d-13cb-4b19-b421-81bca1d69f1d
   name: William Hawkins
   other_names: []
-  phones: []
+  phones:
+  - (802) 723-4405
   emails:
   - selectboard4@brightonvt.gov
   urls:
@@ -72,7 +72,7 @@
   cdn_image: null
   source_urls:
   - https://brightonvt.org/town-departments/
-  updated_at: '2026-10-25T00:49:43+00:00'
+  updated_at: '2026-10-25T07:57:51+00:00'
   roles:
   - name: Member
     role_id: member
@@ -89,7 +89,8 @@
 - id: 82b82e92-3bc7-4570-9768-c1c828469f9d
   name: Jocelyn Gervais
   other_names: []
-  phones: []
+  phones:
+  - (802) 723-4405
   emails: []
   urls:
   - https://brightonvt.org/town-departments/
@@ -97,7 +98,7 @@
   cdn_image: null
   source_urls:
   - https://brightonvt.org/town-departments/
-  updated_at: '2026-10-25T00:49:43+00:00'
+  updated_at: '2026-10-25T07:57:51+00:00'
   roles:
   - name: Auditor
     role_id: auditor
@@ -114,7 +115,8 @@
 - id: 1908c3e4-4eba-4c35-97d4-c43054a730c6
   name: Judy Castonguay
   other_names: []
-  phones: []
+  phones:
+  - (802) 723-4405
   emails: []
   urls:
   - https://brightonvt.org/town-departments/
@@ -122,7 +124,7 @@
   cdn_image: null
   source_urls:
   - https://brightonvt.org/town-departments/
-  updated_at: '2026-10-25T00:49:43+00:00'
+  updated_at: '2026-10-25T07:57:51+00:00'
   roles:
   - name: Auditor
     role_id: auditor
@@ -211,18 +213,21 @@
 - id: b08abffe-8c42-49be-b8a3-e27905c82f99
   name: Bruce Webster
   other_names: []
-  phones:
-  - (802) 723-4405
-  emails:
-  - admin3@brightonvt.gov
-  urls:
-  - https://brightonvt.org/town-of-brighton-water-sewer/
+  phones: []
+  emails: []
+  urls: []
   image: null
   cdn_image: null
   source_urls:
   - https://brightonvt.org/town-of-brighton-water-sewer/
-  updated_at: '2026-10-25T00:49:43+00:00'
+  updated_at: '2026-10-25T07:57:51+00:00'
   roles:
+  - name: Water Commissioner
+    role_id: water-commissioner
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:brighton/government
+    division_ocdid: ocd-division/country:us/state:vt/place:brighton
+    start_date: null
+    end_date: null
   - name: Water Commissioner
     role_id: water-commissioner
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:brighton/government
@@ -232,7 +237,8 @@
 - id: 0d5a91f1-0a93-4658-b625-ce8ef5ddf7fa
   name: Maria Perry
   other_names: []
-  phones: []
+  phones:
+  - (802) 723-4405
   emails: []
   urls:
   - https://brightonvt.org/town-departments/
@@ -240,7 +246,7 @@
   cdn_image: null
   source_urls:
   - https://brightonvt.org/town-departments/
-  updated_at: '2026-10-25T00:49:43+00:00'
+  updated_at: '2026-10-25T07:57:51+00:00'
   roles:
   - name: Water Commissioner
     role_id: water-commissioner
@@ -255,22 +261,20 @@
     start_date: null
     end_date: null
 - id: d961b63a-7783-42f2-b1d4-a775cc669e21
-  name: Mark Vaillencourt
+  name: Mark Vaillancourt
   other_names:
-  - Mark Vaillancourt
+  - Mark Vaillencourt
   phones:
   - (802) 723-4405
-  emails:
-  - admin3@brightonvt.gov
+  emails: []
   urls:
   - https://brightonvt.org/town-departments/
-  - https://brightonvt.org/town-of-brighton-water-sewer/
   image: null
   cdn_image: null
   source_urls:
   - https://brightonvt.org/town-departments/
   - https://brightonvt.org/town-of-brighton-water-sewer/
-  updated_at: '2026-10-25T00:49:43+00:00'
+  updated_at: '2026-10-25T07:57:51+00:00'
   roles:
   - name: Water Commissioner
     role_id: water-commissioner
