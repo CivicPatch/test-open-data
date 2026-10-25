@@ -4,60 +4,78 @@
   phones:
   - (360) 337-7080
   emails:
-  - kitsapcommissioners@kitsap.gov
+  - crolfes@kitsap.gov
   urls:
+  - https://www.kitsap.gov/BOC_p/Pages/Contact.aspx
   - https://www.kitsap.gov/BOC_p/Pages/Dist1home.aspx
-  image: null
-  cdn_image: null
+  - https://www.kitsap.gov/BOC_p/Pages/default.aspx
+  image: https://www.kitsap.gov/BOC_p/PublishingImages/Rolfes%20headshot%20March%202025%20cropped.jpg
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/county_kitsap/images/3611dd38df1e.png
   source_urls:
   - https://www.kitsap.gov/BOC_p
-  updated_at: '2026-10-25T07:23:55+00:00'
+  - https://www.kitsap.gov/BOC_p/Pages/Contact.aspx
+  - https://www.kitsap.gov/BOC_p/Pages/Dist1home.aspx
+  - https://www.kitsap.gov/BOC_p/Pages/default.aspx
+  - https://www.kitsap.gov/auditor/Pages/Elected_Officials.aspx
+  updated_at: '2026-10-25T08:17:10+00:00'
   roles:
   - name: Commissioner, District 1
     role_id: member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/county:kitsap/government
     division_ocdid: ocd-division/country:us/state:wa/county:kitsap/council_district:1
-    start_date: null
-    end_date: null
+    start_date: 2025-01
+    end_date: 2028-12
 - id: 3da2c95e-7b8d-4ab5-9115-9045184235f5
   name: Oran Root
   other_names: []
   phones:
   - (360) 337-7080
   emails:
-  - kitsapcommissioners@kitsap.gov
+  - oroot@kitsap.gov
   urls:
+  - https://www.kitsap.gov/BOC_p/Pages/Contact.aspx
   - https://www.kitsap.gov/BOC_p/Pages/Dist2home.aspx
+  - https://www.kitsap.gov/BOC_p/Pages/default.aspx
   image: null
   cdn_image: null
   source_urls:
   - https://www.kitsap.gov/BOC_p
-  updated_at: '2026-10-25T07:23:55+00:00'
+  - https://www.kitsap.gov/BOC_p/Pages/Contact.aspx
+  - https://www.kitsap.gov/BOC_p/Pages/Dist2home.aspx
+  - https://www.kitsap.gov/BOC_p/Pages/default.aspx
+  - https://www.kitsap.gov/auditor/Pages/Elected_Officials.aspx
+  updated_at: '2026-10-25T08:17:10+00:00'
   roles:
   - name: Commissioner, District 2
     role_id: member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/county:kitsap/government
     division_ocdid: ocd-division/country:us/state:wa/county:kitsap/council_district:2
-    start_date: null
-    end_date: null
+    start_date: '2024'
+    end_date: 2028-12
 - id: 4696e552-33ab-4951-a9ea-ba8380a60753
   name: Katie Walters
   other_names: []
   phones:
   - (360) 337-7080
   emails:
-  - kitsapcommissioners@kitsap.gov
+  - kwalters@kitsap.gov
   urls:
+  - https://www.kitsap.gov/BOC_p/Pages/Contact.aspx
   - https://www.kitsap.gov/BOC_p/Pages/Dist3home.aspx
-  image: null
-  cdn_image: null
+  - https://www.kitsap.gov/BOC_p/Pages/default.aspx
+  image: https://www.kitsap.gov/BOC_p/PublishingImages/Walters%20full%20body%20March%202025.jpg
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/county_kitsap/images/64ec03c3781c.png
   source_urls:
   - https://www.kitsap.gov/BOC_p
-  updated_at: '2026-10-25T07:23:55+00:00'
+  - https://www.kitsap.gov/BOC_p/Pages/Contact.aspx
+  - https://www.kitsap.gov/BOC_p/Pages/Dist3home.aspx
+  - https://www.kitsap.gov/BOC_p/Pages/default.aspx
+  - https://www.kitsap.gov/auditor/Pages/Elected_Officials.aspx
+  updated_at: '2026-10-25T08:17:10+00:00'
   roles:
   - name: Commissioner, District 3
     role_id: member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/county:kitsap/government
     division_ocdid: ocd-division/country:us/state:wa/county:kitsap/council_district:3
-    start_date: null
-    end_date: null
+    start_date: 2023-01
+    end_date: 2026-12
