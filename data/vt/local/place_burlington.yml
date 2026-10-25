@@ -1,1 +1,258 @@
-[]
+- id: 8f7f8c3a-b5da-446c-8225-7f411aaa0187
+  name: Emma Mulvaney-Stanak
+  other_names: []
+  phones:
+  - (802) 865-7272
+  emails: []
+  urls:
+  - https://www.burlingtonvt.gov/476/Mayor-Emma-Mulvaney-Stanak
+  image: https://www.burlingtonvt.gov/ImageRepository/Document?documentID=11999
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/vt/local/place_burlington/images/bb48ae910586.png
+  source_urls:
+  - https://www.burlingtonvt.gov/476/Mayor-Emma-Mulvaney-Stanak
+  updated_at: '2026-10-19T19:48:13+00:00'
+  roles:
+  - name: Mayor
+    role_id: mayor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:burlington/government
+    division_ocdid: ocd-division/country:us/state:vt/place:burlington
+    start_date: null
+    end_date: null
+- id: 71bda5be-2609-45ec-bc5c-3e79b34039bf
+  name: Carter Neubieser
+  other_names: []
+  phones: []
+  emails:
+  - cneubieser@burlingtonvt.gov
+  urls: []
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.burlingtonvt.gov/413/City-Council
+  updated_at: '2026-10-25T00:49:55+00:00'
+  roles:
+  - name: Council Member, Ward 1
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:burlington/government
+    division_ocdid: ocd-division/country:us/state:vt/place:burlington/ward:1
+    start_date: null
+    end_date: '2028'
+- id: c923976b-06a4-4b29-8e91-16eeb4dde373
+  name: Eugene Bergman
+  other_names: []
+  phones:
+  - (802) 598-3602
+  emails:
+  - gbergman@burlingtonvt.gov
+  urls: []
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.burlingtonvt.gov/413/City-Council
+  updated_at: '2026-10-25T00:49:55+00:00'
+  roles:
+  - name: Council Member, Ward 2
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:burlington/government
+    division_ocdid: ocd-division/country:us/state:vt/place:burlington/ward:2
+    start_date: null
+    end_date: '2028'
+- id: d8fb4a7b-7908-4fcd-91c0-6cc8540b92bf
+  name: Laura Sanchez-Parkinson
+  other_names: []
+  phones: []
+  emails:
+  - lsanchezparkinson@burlingtonvt.gov
+  urls: []
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.burlingtonvt.gov/413/City-Council
+  updated_at: '2026-10-25T00:49:55+00:00'
+  roles:
+  - name: Council Member, Ward 3
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:burlington/government
+    division_ocdid: ocd-division/country:us/state:vt/place:burlington/ward:3
+    start_date: null
+    end_date: '2028'
+- id: 7d20d503-c79f-4616-81b3-57161f712ade
+  name: Sarah E Carpenter
+  other_names: []
+  phones:
+  - (802) 658-0474
+  emails:
+  - scarpenter@burlingtonvt.gov
+  urls: []
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.burlingtonvt.gov/413/City-Council
+  updated_at: '2026-10-25T00:49:55+00:00'
+  roles:
+  - name: Council Member, Ward 4
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:burlington/government
+    division_ocdid: ocd-division/country:us/state:vt/place:burlington/ward:4
+    start_date: null
+    end_date: '2028'
+- id: 8420fe65-26a3-4213-a345-78ad298f30ef
+  name: Ben Traverse
+  other_names: []
+  phones:
+  - (802) 357-2055
+  emails:
+  - btraverse@burlingtonvt.gov
+  urls: []
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.burlingtonvt.gov/413/City-Council
+  updated_at: '2026-10-25T00:49:55+00:00'
+  roles:
+  - name: Council Member, Ward 5
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:burlington/government
+    division_ocdid: ocd-division/country:us/state:vt/place:burlington/ward:5
+    start_date: null
+    end_date: '2028'
+- id: fad7afce-86c8-4e17-82e2-acc2bec49d0e
+  name: Becca Brown McKnight
+  other_names: []
+  phones:
+  - (802) 489-6439
+  emails:
+  - bbrownmcknight@burlingtonvt.gov
+  urls: []
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.burlingtonvt.gov/413/City-Council
+  updated_at: '2026-10-25T00:49:55+00:00'
+  roles:
+  - name: Council Member, Ward 6
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:burlington/government
+    division_ocdid: ocd-division/country:us/state:vt/place:burlington/ward:6
+    start_date: null
+    end_date: '2028'
+- id: 507fa7c5-764a-4067-92cf-5b9a9fbe7bb6
+  name: Evan Litwin
+  other_names: []
+  phones:
+  - (802) 448-0802
+  emails:
+  - elitwin@burlingtonvt.gov
+  urls: []
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.burlingtonvt.gov/413/City-Council
+  updated_at: '2026-10-25T00:49:55+00:00'
+  roles:
+  - name: Council Member, Ward 7
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:burlington/government
+    division_ocdid: ocd-division/country:us/state:vt/place:burlington/ward:7
+    start_date: null
+    end_date: '2028'
+- id: 3e94aed2-4511-4926-95a4-cb094e4c05c1
+  name: Marek Broderick
+  other_names: []
+  phones:
+  - (802) 488-5134
+  emails:
+  - mbroderick@burlingtonvt.gov
+  urls: []
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.burlingtonvt.gov/413/City-Council
+  updated_at: '2026-10-25T00:49:55+00:00'
+  roles:
+  - name: Council Member, Ward 8
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:burlington/government
+    division_ocdid: ocd-division/country:us/state:vt/place:burlington/ward:8
+    start_date: null
+    end_date: '2028'
+- id: 7f72582a-736b-4ca7-aa29-7cbefefc814a
+  name: Allie Schachter
+  other_names: []
+  phones:
+  - (802) 448-4227
+  emails:
+  - aschachter@burlingtonvt.gov
+  urls: []
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.burlingtonvt.gov/413/City-Council
+  updated_at: '2026-10-25T00:49:55+00:00'
+  roles:
+  - name: Council Member
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:burlington/government
+    division_ocdid: ocd-division/country:us/state:vt/place:burlington
+    start_date: null
+    end_date: '2027'
+- id: 3cb5fcdb-8a95-44b8-ad2b-2613bb9f4510
+  name: Mark Barlow
+  other_names: []
+  phones:
+  - (802) 549-4433
+  emails:
+  - mbarlow@burlingtonvt.gov
+  urls: []
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.burlingtonvt.gov/413/City-Council
+  updated_at: '2026-10-25T00:49:55+00:00'
+  roles:
+  - name: Council Member
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:burlington/government
+    division_ocdid: ocd-division/country:us/state:vt/place:burlington
+    start_date: null
+    end_date: '2027'
+- id: 2d7246ef-1781-44ac-840a-a4072647c3b1
+  name: Melo Grant
+  other_names: []
+  phones:
+  - (802) 310-0962
+  emails:
+  - megrant@burlingtonvt.gov
+  urls: []
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.burlingtonvt.gov/413/City-Council
+  updated_at: '2026-10-25T00:49:55+00:00'
+  roles:
+  - name: Council Member
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:burlington/government
+    division_ocdid: ocd-division/country:us/state:vt/place:burlington
+    start_date: null
+    end_date: '2027'
+- id: 8096d5b0-bb8b-4c43-83ac-22bd094a046e
+  name: Ranjit "Buddy" Singh
+  other_names: []
+  phones:
+  - (802) 238-5131
+  emails:
+  - bsingh@burlingtonvt.gov
+  urls: []
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.burlingtonvt.gov/413/City-Council
+  updated_at: '2026-10-25T00:49:55+00:00'
+  roles:
+  - name: Council Member
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:burlington/government
+    division_ocdid: ocd-division/country:us/state:vt/place:burlington
+    start_date: null
+    end_date: '2027'

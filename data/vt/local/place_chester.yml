@@ -1,1 +1,90 @@
-[]
+- id: 974509cd-955a-4f95-ab50-2e6a24ad4bf7
+  name: Lauren Fierman
+  other_names: []
+  phones: []
+  emails: []
+  urls: []
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.chestervt.gov/select-board.html
+  updated_at: '2026-10-25T00:49:47+00:00'
+  roles:
+  - name: Select Board Member
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:chester/government
+    division_ocdid: ocd-division/country:us/state:vt/place:chester
+    start_date: null
+    end_date: null
+- id: f8eb2fe0-c8cb-4d1c-b9f0-fcb84832997e
+  name: Peter Hudkins
+  other_names: []
+  phones: []
+  emails: []
+  urls: []
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.chestervt.gov/select-board.html
+  updated_at: '2026-10-25T00:49:47+00:00'
+  roles:
+  - name: Select Board Member
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:chester/government
+    division_ocdid: ocd-division/country:us/state:vt/place:chester
+    start_date: null
+    end_date: null
+- id: 6720afe3-9cd4-4e8e-8a22-bced03d547a0
+  name: Tim Roper
+  other_names: []
+  phones: []
+  emails: []
+  urls: []
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.chestervt.gov/select-board.html
+  updated_at: '2026-10-25T00:49:47+00:00'
+  roles:
+  - name: Select Board Member
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:chester/government
+    division_ocdid: ocd-division/country:us/state:vt/place:chester
+    start_date: null
+    end_date: null
+- id: 0d6c8422-5648-4a09-a464-d97777561868
+  name: Lee Gustafson
+  other_names: []
+  phones: []
+  emails: []
+  urls: []
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.chestervt.gov/select-board.html
+  updated_at: '2026-10-25T00:49:47+00:00'
+  roles:
+  - name: Select Board Member
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:chester/government
+    division_ocdid: ocd-division/country:us/state:vt/place:chester
+    start_date: null
+    end_date: null
+- id: 06f8d196-17b2-4b75-8e9a-5b0471a075e0
+  name: Arunas "Arne" Jonynas
+  other_names: []
+  phones: []
+  emails: []
+  urls: []
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.chestervt.gov/select-board.html
+  updated_at: '2026-10-25T00:49:47+00:00'
+  roles:
+  - name: Select Board Member
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:chester/government
+    division_ocdid: ocd-division/country:us/state:vt/place:chester
+    start_date: null
+    end_date: null

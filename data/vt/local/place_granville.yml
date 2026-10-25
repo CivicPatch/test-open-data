@@ -1,1 +1,63 @@
-[]
+- id: 914b8067-9659-4a4d-b0ed-918384900f60
+  name: Jared Rouleau
+  other_names: []
+  phones:
+  - (802) 505-0630
+  emails:
+  - jr038681@gmail.com
+  urls:
+  - https://granvillevermont.org/officials/
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://granvillevermont.org/officials/
+  updated_at: '2026-10-25T00:49:47+00:00'
+  roles:
+  - name: Select Board Member
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:granville/government
+    division_ocdid: ocd-division/country:us/state:vt/place:granville
+    start_date: null
+    end_date: '2028'
+- id: e101097f-f9e3-454f-8ea7-80a115bf8493
+  name: Mike Eramo
+  other_names: []
+  phones:
+  - (802) 363-0936
+  emails:
+  - mike@mikeeramomasonry.com
+  urls:
+  - https://granvillevermont.org/officials/
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://granvillevermont.org/officials/
+  updated_at: '2026-10-25T00:49:47+00:00'
+  roles:
+  - name: Select Board Member
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:granville/government
+    division_ocdid: ocd-division/country:us/state:vt/place:granville
+    start_date: null
+    end_date: '2027'
+- id: b6d8bd18-a7c3-47f0-a464-8ea0c478d4a6
+  name: Robert Readie
+  other_names: []
+  phones:
+  - (802) 565-7526
+  emails:
+  - bob.granvillesbc@gmail.com
+  urls:
+  - https://granvillevermont.org/officials/
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://granvillevermont.org/officials/
+  updated_at: '2026-10-25T00:49:47+00:00'
+  roles:
+  - name: Select Board Member
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:granville/government
+    division_ocdid: ocd-division/country:us/state:vt/place:granville
+    start_date: null
+    end_date: '2029'

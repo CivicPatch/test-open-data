@@ -1,1 +1,286 @@
-[]
+- id: cebe779a-84ce-46b2-81bf-16a7826e0848
+  name: Heather McElroy
+  other_names: []
+  phones:
+  - (802) 723-4405
+  emails:
+  - admin3@brightonvt.gov
+  - selectboard2@brightonvt.gov
+  urls:
+  - https://brightonvt.org/town-departments/
+  - https://brightonvt.org/town-of-brighton-water-sewer/
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://brightonvt.org/town-departments/
+  - https://brightonvt.org/town-of-brighton-water-sewer/
+  updated_at: '2026-10-25T00:49:43+00:00'
+  roles:
+  - name: Member
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:brighton/government
+    division_ocdid: ocd-division/country:us/state:vt/place:brighton
+    start_date: null
+    end_date: null
+  - name: Select Board Member
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:brighton/government
+    division_ocdid: ocd-division/country:us/state:vt/place:brighton
+    start_date: null
+    end_date: null
+  - name: Water Commissioner
+    role_id: water-commissioner
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:brighton/government
+    division_ocdid: ocd-division/country:us/state:vt/place:brighton
+    start_date: null
+    end_date: null
+- id: 1ac59d9e-60e0-4d8f-a5cd-f06e83b891f1
+  name: Michael Testut
+  other_names: []
+  phones: []
+  emails:
+  - selectboard3@brightonvt.gov
+  urls:
+  - https://brightonvt.org/town-departments/
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://brightonvt.org/town-departments/
+  updated_at: '2026-10-25T00:49:43+00:00'
+  roles:
+  - name: Member
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:brighton/government
+    division_ocdid: ocd-division/country:us/state:vt/place:brighton
+    start_date: null
+    end_date: null
+  - name: Select Board Member
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:brighton/government
+    division_ocdid: ocd-division/country:us/state:vt/place:brighton
+    start_date: null
+    end_date: null
+- id: 39685e6d-13cb-4b19-b421-81bca1d69f1d
+  name: William Hawkins
+  other_names: []
+  phones: []
+  emails:
+  - selectboard4@brightonvt.gov
+  urls:
+  - https://brightonvt.org/town-departments/
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://brightonvt.org/town-departments/
+  updated_at: '2026-10-25T00:49:43+00:00'
+  roles:
+  - name: Member
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:brighton/government
+    division_ocdid: ocd-division/country:us/state:vt/place:brighton
+    start_date: null
+    end_date: null
+  - name: Select Board Member
+    role_id: member
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:brighton/government
+    division_ocdid: ocd-division/country:us/state:vt/place:brighton
+    start_date: null
+    end_date: null
+- id: 82b82e92-3bc7-4570-9768-c1c828469f9d
+  name: Jocelyn Gervais
+  other_names: []
+  phones: []
+  emails: []
+  urls:
+  - https://brightonvt.org/town-departments/
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://brightonvt.org/town-departments/
+  updated_at: '2026-10-25T00:49:43+00:00'
+  roles:
+  - name: Auditor
+    role_id: auditor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:brighton/government
+    division_ocdid: ocd-division/country:us/state:vt/place:brighton
+    start_date: null
+    end_date: null
+  - name: Auditor
+    role_id: auditor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:brighton/government
+    division_ocdid: ocd-division/country:us/state:vt/place:brighton
+    start_date: null
+    end_date: null
+- id: 1908c3e4-4eba-4c35-97d4-c43054a730c6
+  name: Judy Castonguay
+  other_names: []
+  phones: []
+  emails: []
+  urls:
+  - https://brightonvt.org/town-departments/
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://brightonvt.org/town-departments/
+  updated_at: '2026-10-25T00:49:43+00:00'
+  roles:
+  - name: Auditor
+    role_id: auditor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:brighton/government
+    division_ocdid: ocd-division/country:us/state:vt/place:brighton
+    start_date: null
+    end_date: null
+  - name: Auditor
+    role_id: auditor
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:brighton/government
+    division_ocdid: ocd-division/country:us/state:vt/place:brighton
+    start_date: null
+    end_date: null
+- id: 6db6a857-9cdb-4e1f-ac58-67a5260c87a2
+  name: John Manning
+  other_names: []
+  phones: []
+  emails: []
+  urls: []
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://brightonvt.org/town-departments/
+  updated_at: '2026-10-25T00:49:43+00:00'
+  roles:
+  - name: Cemetery Commissioner
+    role_id: cemetery-commissioner
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:brighton/government
+    division_ocdid: ocd-division/country:us/state:vt/place:brighton
+    start_date: null
+    end_date: null
+- id: daa9693f-b033-4217-8c12-26cdad8357a9
+  name: Julie Lamere
+  other_names: []
+  phones: []
+  emails: []
+  urls: []
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://brightonvt.org/town-departments/
+  updated_at: '2026-10-25T00:49:43+00:00'
+  roles:
+  - name: Cemetery Commissioner
+    role_id: cemetery-commissioner
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:brighton/government
+    division_ocdid: ocd-division/country:us/state:vt/place:brighton
+    start_date: null
+    end_date: null
+- id: f07da1ad-85e5-4b5b-a89b-75bb2d90cafd
+  name: Reg Lamere
+  other_names: []
+  phones: []
+  emails: []
+  urls: []
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://brightonvt.org/town-departments/
+  updated_at: '2026-10-25T00:49:43+00:00'
+  roles:
+  - name: Cemetery Commissioner
+    role_id: cemetery-commissioner
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:brighton/government
+    division_ocdid: ocd-division/country:us/state:vt/place:brighton
+    start_date: null
+    end_date: null
+- id: 764d719e-becb-4ae9-bf48-a47b5b832939
+  name: Tara Martin
+  other_names: []
+  phones: []
+  emails: []
+  urls: []
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://brightonvt.org/town-departments/
+  updated_at: '2026-10-25T00:49:43+00:00'
+  roles:
+  - name: Lister
+    role_id: lister
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:brighton/government
+    division_ocdid: ocd-division/country:us/state:vt/place:brighton
+    start_date: null
+    end_date: null
+- id: b08abffe-8c42-49be-b8a3-e27905c82f99
+  name: Bruce Webster
+  other_names: []
+  phones:
+  - (802) 723-4405
+  emails:
+  - admin3@brightonvt.gov
+  urls:
+  - https://brightonvt.org/town-of-brighton-water-sewer/
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://brightonvt.org/town-of-brighton-water-sewer/
+  updated_at: '2026-10-25T00:49:43+00:00'
+  roles:
+  - name: Water Commissioner
+    role_id: water-commissioner
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:brighton/government
+    division_ocdid: ocd-division/country:us/state:vt/place:brighton
+    start_date: null
+    end_date: null
+- id: 0d5a91f1-0a93-4658-b625-ce8ef5ddf7fa
+  name: Maria Perry
+  other_names: []
+  phones: []
+  emails: []
+  urls:
+  - https://brightonvt.org/town-departments/
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://brightonvt.org/town-departments/
+  updated_at: '2026-10-25T00:49:43+00:00'
+  roles:
+  - name: Water Commissioner
+    role_id: water-commissioner
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:brighton/government
+    division_ocdid: ocd-division/country:us/state:vt/place:brighton
+    start_date: null
+    end_date: null
+  - name: Water Commissioner
+    role_id: water-commissioner
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:brighton/government
+    division_ocdid: ocd-division/country:us/state:vt/place:brighton
+    start_date: null
+    end_date: null
+- id: d961b63a-7783-42f2-b1d4-a775cc669e21
+  name: Mark Vaillencourt
+  other_names:
+  - Mark Vaillancourt
+  phones:
+  - (802) 723-4405
+  emails:
+  - admin3@brightonvt.gov
+  urls:
+  - https://brightonvt.org/town-departments/
+  - https://brightonvt.org/town-of-brighton-water-sewer/
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://brightonvt.org/town-departments/
+  - https://brightonvt.org/town-of-brighton-water-sewer/
+  updated_at: '2026-10-25T00:49:43+00:00'
+  roles:
+  - name: Water Commissioner
+    role_id: water-commissioner
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:brighton/government
+    division_ocdid: ocd-division/country:us/state:vt/place:brighton
+    start_date: null
+    end_date: null
+  - name: Water Commissioner
+    role_id: water-commissioner
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:brighton/government
+    division_ocdid: ocd-division/country:us/state:vt/place:brighton
+    start_date: null
+    end_date: null
