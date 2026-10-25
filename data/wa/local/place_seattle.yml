@@ -6,13 +6,11 @@
   emails: []
   urls:
   - https://seattle.gov/mayor
-  - https://seattle.gov/mayor/about-the-mayor
-  image: https://seattle.gov/images/MayorWilson/CitywideHomePage/mayor_wilson_citywide_154x154.jpg
-  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_seattle/images/00999c160414.png
+  image: https://seattle.gov/images/MayorWilson/Katie-Wilson-Headshot-250x250.jpg
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_seattle/images/0155e55218fe.png
   source_urls:
-  - https://seattle.gov
   - https://seattle.gov/mayor
-  updated_at: '2026-10-19T19:32:33+00:00'
+  updated_at: '2026-10-25T07:26:17+00:00'
   roles:
   - name: Mayor
     role_id: mayor
@@ -203,8 +201,8 @@
   - https://seattle.gov/council
   updated_at: '2026-10-19T19:32:33+00:00'
   roles:
-  - name: Council President, District 3
-    role_id: president
+  - name: Council Member, District 3
+    role_id: member
     jurisdiction_ocdid: ocd-jurisdiction/country:us/state:wa/place:seattle/government
     division_ocdid: ocd-division/country:us/state:wa/place:seattle/council_district:3
     start_date: null
