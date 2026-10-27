@@ -141,14 +141,16 @@
 - id: 6db6a857-9cdb-4e1f-ac58-67a5260c87a2
   name: John Manning
   other_names: []
-  phones: []
+  phones:
+  - (802) 723-4405
   emails: []
-  urls: []
+  urls:
+  - https://brightonvt.org/town-departments/
   image: null
   cdn_image: null
   source_urls:
   - https://brightonvt.org/town-departments/
-  updated_at: '2026-10-25T00:49:43+00:00'
+  updated_at: '2026-10-27T03:16:49+00:00'
   roles:
   - name: Cemetery Commissioner
     role_id: cemetery-commissioner
@@ -159,14 +161,16 @@
 - id: daa9693f-b033-4217-8c12-26cdad8357a9
   name: Julie Lamere
   other_names: []
-  phones: []
+  phones:
+  - (802) 723-4405
   emails: []
-  urls: []
+  urls:
+  - https://brightonvt.org/town-departments/
   image: null
   cdn_image: null
   source_urls:
   - https://brightonvt.org/town-departments/
-  updated_at: '2026-10-25T00:49:43+00:00'
+  updated_at: '2026-10-27T03:16:49+00:00'
   roles:
   - name: Cemetery Commissioner
     role_id: cemetery-commissioner
@@ -177,14 +181,16 @@
 - id: f07da1ad-85e5-4b5b-a89b-75bb2d90cafd
   name: Reg Lamere
   other_names: []
-  phones: []
+  phones:
+  - (802) 723-4405
   emails: []
-  urls: []
+  urls:
+  - https://brightonvt.org/town-departments/
   image: null
   cdn_image: null
   source_urls:
   - https://brightonvt.org/town-departments/
-  updated_at: '2026-10-25T00:49:43+00:00'
+  updated_at: '2026-10-27T03:16:49+00:00'
   roles:
   - name: Cemetery Commissioner
     role_id: cemetery-commissioner
@@ -195,14 +201,16 @@
 - id: 764d719e-becb-4ae9-bf48-a47b5b832939
   name: Tara Martin
   other_names: []
-  phones: []
+  phones:
+  - (802) 723-4405
   emails: []
-  urls: []
+  urls:
+  - https://brightonvt.org/town-departments/
   image: null
   cdn_image: null
   source_urls:
   - https://brightonvt.org/town-departments/
-  updated_at: '2026-10-25T00:49:43+00:00'
+  updated_at: '2026-10-27T03:16:49+00:00'
   roles:
   - name: Lister
     role_id: lister
