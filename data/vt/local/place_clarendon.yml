@@ -169,6 +169,66 @@
     division_ocdid: ocd-division/country:us/state:vt/place:clarendon
     start_date: null
     end_date: 2027-03
+- id: 6f884e44-2903-4d5d-b444-947d5fabd06a
+  name: Bob Underhill
+  other_names: []
+  phones: []
+  emails:
+  - clarendonlisters@comcast.net
+  urls:
+  - https://www.clarendonvt.gov/officials/
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.clarendonvt.gov/officials/
+  updated_at: '2026-10-25T00:49:49+00:00'
+  roles:
+  - name: Lister
+    role_id: lister
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:clarendon/government
+    division_ocdid: ocd-division/country:us/state:vt/place:clarendon
+    start_date: null
+    end_date: 2028-03
+- id: b26caf6d-c340-4d24-b607-f4ce1167cdd9
+  name: Kevin Peck
+  other_names: []
+  phones: []
+  emails:
+  - clarendonlisters@comcast.net
+  urls:
+  - https://www.clarendonvt.gov/officials/
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.clarendonvt.gov/officials/
+  updated_at: '2026-10-25T00:49:49+00:00'
+  roles:
+  - name: Lister
+    role_id: lister
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:clarendon/government
+    division_ocdid: ocd-division/country:us/state:vt/place:clarendon
+    start_date: null
+    end_date: 2027-03
+- id: 390cd7c4-c076-40fd-9a0d-25cb762c2c15
+  name: Matthew Jakubowski
+  other_names: []
+  phones: []
+  emails:
+  - clarendonlisters@comcast.net
+  urls:
+  - https://www.clarendonvt.gov/officials/
+  image: null
+  cdn_image: null
+  source_urls:
+  - https://www.clarendonvt.gov/officials/
+  updated_at: '2026-10-25T00:49:49+00:00'
+  roles:
+  - name: Lister
+    role_id: lister
+    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:clarendon/government
+    division_ocdid: ocd-division/country:us/state:vt/place:clarendon
+    start_date: null
+    end_date: 2029-03
 - id: a468e250-6c82-4b72-b331-4ce2982d7893
   name: David Bosch
   other_names: []
@@ -242,63 +302,3 @@
     division_ocdid: ocd-division/country:us/state:vt/place:clarendon
     start_date: null
     end_date: 2027-03
-- id: 6f884e44-2903-4d5d-b444-947d5fabd06a
-  name: Bob Underhill
-  other_names: []
-  phones: []
-  emails:
-  - clarendonlisters@comcast.net
-  urls:
-  - https://www.clarendonvt.gov/officials/
-  image: null
-  cdn_image: null
-  source_urls:
-  - https://www.clarendonvt.gov/officials/
-  updated_at: '2026-10-25T00:49:49+00:00'
-  roles:
-  - name: Lister
-    role_id: lister
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:clarendon/government
-    division_ocdid: ocd-division/country:us/state:vt/place:clarendon
-    start_date: null
-    end_date: 2028-03
-- id: b26caf6d-c340-4d24-b607-f4ce1167cdd9
-  name: Kevin Peck
-  other_names: []
-  phones: []
-  emails:
-  - clarendonlisters@comcast.net
-  urls:
-  - https://www.clarendonvt.gov/officials/
-  image: null
-  cdn_image: null
-  source_urls:
-  - https://www.clarendonvt.gov/officials/
-  updated_at: '2026-10-25T00:49:49+00:00'
-  roles:
-  - name: Lister
-    role_id: lister
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:clarendon/government
-    division_ocdid: ocd-division/country:us/state:vt/place:clarendon
-    start_date: null
-    end_date: 2027-03
-- id: 390cd7c4-c076-40fd-9a0d-25cb762c2c15
-  name: Matthew Jakubowski
-  other_names: []
-  phones: []
-  emails:
-  - clarendonlisters@comcast.net
-  urls:
-  - https://www.clarendonvt.gov/officials/
-  image: null
-  cdn_image: null
-  source_urls:
-  - https://www.clarendonvt.gov/officials/
-  updated_at: '2026-10-25T00:49:49+00:00'
-  roles:
-  - name: Lister
-    role_id: lister
-    jurisdiction_ocdid: ocd-jurisdiction/country:us/state:vt/place:clarendon/government
-    division_ocdid: ocd-division/country:us/state:vt/place:clarendon
-    start_date: null
-    end_date: 2029-03
